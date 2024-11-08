@@ -1,38 +1,49 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "5853",
-      "5851",
-      "5859",
-      "5803",
-      "5801",
-      "5809",
-      "5893",
-      "5891",
-      "5899",
-      "5553",
-      "5551",
-      "5559",
-      "5503",
-      "5501",
-      "5509",
-      "5593",
-      "5591",
-      "5599",
-      "5153",
-      "5151",
-      "5159",
-      "5103",
-      "5101",
-      "5109",
-      "5193",
-      "5191",
-      "5199",
-      "0853",
-      "0851",
-      "0859"
+      "4079",
+      "4073",
+      "4074",
+      "4089",
+      "4083",
+      "4084",
+      "4099",
+      "4093",
+      "4094",
+      "4379",
+      "4373",
+      "4374",
+      "4389",
+      "4383",
+      "4384",
+      "4399",
+      "4393",
+      "4394",
+      "4979",
+      "4973",
+      "4974",
+      "4989",
+      "4983",
+      "4984",
+      "4999",
+      "4993",
+      "4994",
+      "9079",
+      "9073",
+      "9074"
     ],
-    "frases": []
+    "frases": [
+      "12h - MALUCA - BA - Resultado do dia 08/11/2024 (Sexta-feira)\nDeu Centena, Palpite 5859 no 6º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 08/11/2024 (Sexta-feira)\nDeu Dezena, Palpite 5859 no 6º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 08/11/2024 (Sexta-feira)\nDeu Dezena, Palpite 5559 no 6º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 08/11/2024 (Sexta-feira)\nDeu Dezena, Palpite 5159 no 6º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 08/11/2024 (Sexta-feira)\nDeu Centena, Palpite 0859 no 6º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 08/11/2024 (Sexta-feira)\nDeu Dezena, Palpite 0859 no 6º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 08/11/2024 (Sexta-feira)\nDeu Dezena, Palpite 5803 no 8º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 08/11/2024 (Sexta-feira)\nDeu Centena, Palpite 5503 no 8º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 08/11/2024 (Sexta-feira)\nDeu Dezena, Palpite 5503 no 8º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 08/11/2024 (Sexta-feira)\nDeu Dezena, Palpite 5103 no 8º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -67,7 +78,11 @@ const palpites = {
       "2874",
       "2870"
     ],
-    "frases": []
+    "frases": [
+      "10h - BA - Resultado do dia 08/11/2024 (Sexta-feira)\nDeu Dezena, Palpite 0021 no 5º Prêmio!",
+      "10h - BA - Resultado do dia 08/11/2024 (Sexta-feira)\nDeu Dezena, Palpite 0121 no 5º Prêmio!",
+      "10h - BA - Resultado do dia 08/11/2024 (Sexta-feira)\nDeu Dezena, Palpite 0421 no 5º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
