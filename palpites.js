@@ -103,10 +103,49 @@ const palpites = {
       "1649"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 7010 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 7610 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 7210 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 1010 no 3º Prêmio!",
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 4477 no 10º Prêmio!",
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 4877 no 10º Prêmio!",
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 4977 no 10º Prêmio!"
     ]
+  },
+  "PT RIO": {
+    "palpites": [
+      "2249",
+      "2243",
+      "2246",
+      "2229",
+      "2223",
+      "2226",
+      "2259",
+      "2253",
+      "2256",
+      "2349",
+      "2343",
+      "2346",
+      "2329",
+      "2323",
+      "2326",
+      "2359",
+      "2353",
+      "2356",
+      "2449",
+      "2443",
+      "2446",
+      "2429",
+      "2423",
+      "2426",
+      "2459",
+      "2453",
+      "2456",
+      "0249",
+      "0243",
+      "0246"
+    ],
+    "frases": []
   },
   "LOTECE": {
     "palpites": [
@@ -175,41 +214,6 @@ const palpites = {
       "1040",
       "1043",
       "1044"
-    ],
-    "frases": []
-  },
-  "PT RIO": {
-    "palpites": [
-      "9610",
-      "9611",
-      "9615",
-      "9680",
-      "9681",
-      "9685",
-      "9620",
-      "9621",
-      "9625",
-      "9310",
-      "9311",
-      "9315",
-      "9380",
-      "9381",
-      "9385",
-      "9320",
-      "9321",
-      "9325",
-      "9010",
-      "9011",
-      "9015",
-      "9080",
-      "9081",
-      "9085",
-      "9020",
-      "9021",
-      "9025",
-      "3610",
-      "3611",
-      "3615"
     ],
     "frases": []
   },
