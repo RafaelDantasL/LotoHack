@@ -103,10 +103,51 @@ const palpites = {
       "0422"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 2504 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 2604 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 2704 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 2509 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 2609 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 2709 no 6º Prêmio!",
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 0808 no 7º Prêmio!",
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 0408 no 7º Prêmio!",
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 0008 no 7º Prêmio!"
     ]
+  },
+  "PT RIO": {
+    "palpites": [
+      "3192",
+      "3197",
+      "3198",
+      "3132",
+      "3137",
+      "3138",
+      "3172",
+      "3177",
+      "3178",
+      "3392",
+      "3397",
+      "3398",
+      "3332",
+      "3337",
+      "3338",
+      "3372",
+      "3377",
+      "3378",
+      "3092",
+      "3097",
+      "3098",
+      "3032",
+      "3037",
+      "3038",
+      "3072",
+      "3077",
+      "3078",
+      "4192",
+      "4197",
+      "4198"
+    ],
+    "frases": []
   },
   "LOTECE": {
     "palpites": [
@@ -175,41 +216,6 @@ const palpites = {
       "4400",
       "4403",
       "4404"
-    ],
-    "frases": []
-  },
-  "PT RIO": {
-    "palpites": [
-      "2757",
-      "2750",
-      "2752",
-      "2767",
-      "2760",
-      "2762",
-      "2707",
-      "2700",
-      "2702",
-      "2357",
-      "2350",
-      "2352",
-      "2367",
-      "2360",
-      "2362",
-      "2307",
-      "2300",
-      "2302",
-      "2557",
-      "2550",
-      "2552",
-      "2567",
-      "2560",
-      "2562",
-      "2507",
-      "2500",
-      "2502",
-      "4757",
-      "4750",
-      "4752"
     ],
     "frases": []
   },
