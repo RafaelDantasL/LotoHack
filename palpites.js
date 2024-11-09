@@ -1,38 +1,43 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "7027",
-      "7028",
-      "7020",
-      "7047",
-      "7048",
-      "7040",
-      "7057",
-      "7058",
-      "7050",
-      "7127",
-      "7128",
-      "7120",
-      "7147",
-      "7148",
-      "7140",
-      "7157",
-      "7158",
-      "7150",
-      "7427",
-      "7428",
-      "7420",
-      "7447",
-      "7448",
-      "7440",
-      "7457",
-      "7458",
-      "7450",
-      "5027",
-      "5028",
-      "5020"
+      "5491",
+      "5493",
+      "5490",
+      "5461",
+      "5463",
+      "5460",
+      "5471",
+      "5473",
+      "5470",
+      "5591",
+      "5593",
+      "5590",
+      "5561",
+      "5563",
+      "5560",
+      "5571",
+      "5573",
+      "5570",
+      "5191",
+      "5193",
+      "5190",
+      "5161",
+      "5163",
+      "5160",
+      "5171",
+      "5173",
+      "5170",
+      "1491",
+      "1493",
+      "1490"
     ],
-    "frases": []
+    "frases": [
+      "15h - MALUCA - BA - Resultado do dia 09/11/2024 (Sábado)\nDeu Dezena, Palpite 7020 no 7º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 09/11/2024 (Sábado)\nDeu Dezena, Palpite 7120 no 7º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 09/11/2024 (Sábado)\nDeu Dezena, Palpite 7420 no 7º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 09/11/2024 (Sábado)\nDeu Dezena, Palpite 5020 no 7º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -67,7 +72,18 @@ const palpites = {
       "5427",
       "5428"
     ],
-    "frases": []
+    "frases": [
+      "10h - BA - Resultado do dia 09/11/2024 (Sábado)\nDeu Dezena, Palpite 2050 no 1º Prêmio!",
+      "10h - BA - Resultado do dia 09/11/2024 (Sábado)\nDeu Dezena, Palpite 2950 no 1º Prêmio!",
+      "10h - BA - Resultado do dia 09/11/2024 (Sábado)\nDeu Dezena, Palpite 2450 no 1º Prêmio!",
+      "10h - BA - Resultado do dia 09/11/2024 (Sábado)\nDeu Dezena, Palpite 0050 no 1º Prêmio!",
+      "10h - BA - Resultado do dia 09/11/2024 (Sábado)\nDeu Dezena, Palpite 2000 no 10º Prêmio!",
+      "10h - BA - Resultado do dia 09/11/2024 (Sábado)\nDeu Dezena, Palpite 2900 no 10º Prêmio!",
+      "10h - BA - Resultado do dia 09/11/2024 (Sábado)\nDeu Milhar, Palpite 2400 no 10º Prêmio!",
+      "12h - BA - Resultado do dia 09/11/2024 (Sábado)\nDeu Dezena, Palpite 5441 no 7º Prêmio!",
+      "12h - BA - Resultado do dia 09/11/2024 (Sábado)\nDeu Dezena, Palpite 5141 no 7º Prêmio!",
+      "12h - BA - Resultado do dia 09/11/2024 (Sábado)\nDeu Dezena, Palpite 5341 no 7º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
