@@ -77,6 +77,41 @@ const palpites = {
       "10h - BA - Resultado do dia 09/11/2024 (Sábado)\nDeu Milhar, Palpite 2400 no 10º Prêmio!"
     ]
   },
+  "LOTECE": {
+    "palpites": [
+      "2199",
+      "2195",
+      "2192",
+      "2119",
+      "2115",
+      "2112",
+      "2169",
+      "2165",
+      "2162",
+      "2499",
+      "2495",
+      "2492",
+      "2419",
+      "2415",
+      "2412",
+      "2469",
+      "2465",
+      "2462",
+      "2599",
+      "2595",
+      "2592",
+      "2519",
+      "2515",
+      "2512",
+      "2569",
+      "2565",
+      "2562",
+      "6199",
+      "6195",
+      "6192"
+    ],
+    "frases": []
+  },
   "LOOK/GOIAS": {
     "palpites": [
       "2426",
@@ -156,6 +191,11 @@ const palpites = {
       "4048"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 1400 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 1200 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Centena, Palpite 1000 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 1000 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 4400 no 1º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 7749 no 6º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 7649 no 6º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 7049 no 6º Prêmio!",
@@ -168,41 +208,6 @@ const palpites = {
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 7649 no 10º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 7049 no 10º Prêmio!"
     ]
-  },
-  "LOTECE": {
-    "palpites": [
-      "2843",
-      "2844",
-      "2840",
-      "2833",
-      "2834",
-      "2830",
-      "2863",
-      "2864",
-      "2860",
-      "2343",
-      "2344",
-      "2340",
-      "2333",
-      "2334",
-      "2330",
-      "2363",
-      "2364",
-      "2360",
-      "2243",
-      "2244",
-      "2240",
-      "2233",
-      "2234",
-      "2230",
-      "2263",
-      "2264",
-      "2260",
-      "3843",
-      "3844",
-      "3840"
-    ],
-    "frases": []
   },
   "PT RIO": {
     "palpites": [
