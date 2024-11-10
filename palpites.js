@@ -1,44 +1,41 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "3243",
-      "3244",
-      "3241",
-      "3283",
-      "3284",
-      "3281",
-      "3203",
-      "3204",
-      "3201",
-      "3343",
-      "3344",
-      "3341",
-      "3383",
-      "3384",
-      "3381",
-      "3303",
-      "3304",
-      "3301",
-      "3743",
-      "3744",
-      "3741",
-      "3783",
-      "3784",
-      "3781",
-      "3703",
-      "3704",
-      "3701",
-      "0243",
-      "0244",
-      "0241"
+      "0106",
+      "0102",
+      "0105",
+      "0116",
+      "0112",
+      "0115",
+      "0166",
+      "0162",
+      "0165",
+      "0406",
+      "0402",
+      "0405",
+      "0416",
+      "0412",
+      "0415",
+      "0466",
+      "0462",
+      "0465",
+      "0506",
+      "0502",
+      "0505",
+      "0516",
+      "0512",
+      "0515",
+      "0566",
+      "0562",
+      "0565",
+      "6106",
+      "6102",
+      "6105"
     ],
     "frases": [
-      "12h - MALUCA - BA - Resultado do dia 10/11/2024 (Domingo)\nDeu Dezena, Palpite 2624 no 7º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 10/11/2024 (Domingo)\nDeu Dezena, Palpite 2024 no 7º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 10/11/2024 (Domingo)\nDeu Dezena, Palpite 2224 no 7º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 10/11/2024 (Domingo)\nDeu Dezena, Palpite 2663 no 10º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 10/11/2024 (Domingo)\nDeu Dezena, Palpite 2063 no 10º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 10/11/2024 (Domingo)\nDeu Dezena, Palpite 2263 no 10º Prêmio!"
+      "15h - MALUCA - BA - Resultado do dia 10/11/2024 (Domingo)\nDeu Dezena, Palpite 3201 no 6º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 10/11/2024 (Domingo)\nDeu Dezena, Palpite 3301 no 6º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 10/11/2024 (Domingo)\nDeu Dezena, Palpite 3701 no 6º Prêmio!"
     ]
   },
   "BAHIA": {
@@ -74,7 +71,12 @@ const palpites = {
       "0611",
       "0613"
     ],
-    "frases": []
+    "frases": [
+      "10h - BA - Resultado do dia 10/11/2024 (Domingo)\nDeu Dezena, Palpite 1196 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 10/11/2024 (Domingo)\nDeu Centena, Palpite 1696 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 10/11/2024 (Domingo)\nDeu Dezena, Palpite 1696 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 10/11/2024 (Domingo)\nDeu Dezena, Palpite 1896 no 2º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
