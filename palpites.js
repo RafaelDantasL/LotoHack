@@ -1,38 +1,45 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "2693",
-      "2694",
-      "2697",
-      "2663",
-      "2664",
-      "2667",
-      "2623",
-      "2624",
-      "2627",
-      "2093",
-      "2094",
-      "2097",
-      "2063",
-      "2064",
-      "2067",
-      "2023",
-      "2024",
-      "2027",
-      "2293",
-      "2294",
-      "2297",
-      "2263",
-      "2264",
-      "2267",
-      "2223",
-      "2224",
-      "2227",
-      "4693",
-      "4694",
-      "4697"
+      "3243",
+      "3244",
+      "3241",
+      "3283",
+      "3284",
+      "3281",
+      "3203",
+      "3204",
+      "3201",
+      "3343",
+      "3344",
+      "3341",
+      "3383",
+      "3384",
+      "3381",
+      "3303",
+      "3304",
+      "3301",
+      "3743",
+      "3744",
+      "3741",
+      "3783",
+      "3784",
+      "3781",
+      "3703",
+      "3704",
+      "3701",
+      "0243",
+      "0244",
+      "0241"
     ],
-    "frases": []
+    "frases": [
+      "12h - MALUCA - BA - Resultado do dia 10/11/2024 (Domingo)\nDeu Dezena, Palpite 2624 no 7º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 10/11/2024 (Domingo)\nDeu Dezena, Palpite 2024 no 7º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 10/11/2024 (Domingo)\nDeu Dezena, Palpite 2224 no 7º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 10/11/2024 (Domingo)\nDeu Dezena, Palpite 2663 no 10º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 10/11/2024 (Domingo)\nDeu Dezena, Palpite 2063 no 10º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 10/11/2024 (Domingo)\nDeu Dezena, Palpite 2263 no 10º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -67,7 +74,12 @@ const palpites = {
       "3421",
       "3425"
     ],
-    "frases": []
+    "frases": [
+      "10h - BA - Resultado do dia 10/11/2024 (Domingo)\nDeu Dezena, Palpite 1196 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 10/11/2024 (Domingo)\nDeu Centena, Palpite 1696 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 10/11/2024 (Domingo)\nDeu Dezena, Palpite 1696 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 10/11/2024 (Domingo)\nDeu Dezena, Palpite 1896 no 2º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
