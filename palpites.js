@@ -1,43 +1,38 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "4317",
-      "4312",
-      "4313",
-      "4387",
-      "4382",
-      "4383",
-      "4367",
-      "4362",
-      "4363",
-      "4217",
-      "4212",
-      "4213",
-      "4287",
-      "4282",
-      "4283",
-      "4267",
-      "4262",
-      "4263",
-      "4617",
-      "4612",
-      "4613",
-      "4687",
-      "4682",
-      "4683",
-      "4667",
-      "4662",
-      "4663",
-      "5317",
-      "5312",
-      "5313"
+      "1118",
+      "1111",
+      "1113",
+      "1158",
+      "1151",
+      "1153",
+      "1108",
+      "1101",
+      "1103",
+      "1418",
+      "1411",
+      "1413",
+      "1458",
+      "1451",
+      "1453",
+      "1408",
+      "1401",
+      "1403",
+      "1618",
+      "1611",
+      "1613",
+      "1658",
+      "1651",
+      "1653",
+      "1608",
+      "1601",
+      "1603",
+      "4118",
+      "4111",
+      "4113"
     ],
-    "frases": [
-      "15h - MALUCA - BA - Resultado do dia 09/11/2024 (Sábado)\nDeu Dezena, Palpite 7020 no 7º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 09/11/2024 (Sábado)\nDeu Dezena, Palpite 7120 no 7º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 09/11/2024 (Sábado)\nDeu Dezena, Palpite 7420 no 7º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 09/11/2024 (Sábado)\nDeu Dezena, Palpite 5020 no 7º Prêmio!"
-    ]
+    "frases": []
   },
   "BAHIA": {
     "palpites": [
@@ -72,7 +67,25 @@ const palpites = {
       "3140",
       "3141"
     ],
-    "frases": []
+    "frases": [
+      "10h - BA - Resultado do dia 09/11/2024 (Sábado)\nDeu Dezena, Palpite 2050 no 1º Prêmio!",
+      "10h - BA - Resultado do dia 09/11/2024 (Sábado)\nDeu Dezena, Palpite 2950 no 1º Prêmio!",
+      "10h - BA - Resultado do dia 09/11/2024 (Sábado)\nDeu Dezena, Palpite 2450 no 1º Prêmio!",
+      "10h - BA - Resultado do dia 09/11/2024 (Sábado)\nDeu Dezena, Palpite 0050 no 1º Prêmio!",
+      "10h - BA - Resultado do dia 09/11/2024 (Sábado)\nDeu Dezena, Palpite 2000 no 10º Prêmio!",
+      "10h - BA - Resultado do dia 09/11/2024 (Sábado)\nDeu Dezena, Palpite 2900 no 10º Prêmio!",
+      "10h - BA - Resultado do dia 09/11/2024 (Sábado)\nDeu Milhar, Palpite 2400 no 10º Prêmio!",
+      "12h - BA - Resultado do dia 09/11/2024 (Sábado)\nDeu Dezena, Palpite 5441 no 7º Prêmio!",
+      "12h - BA - Resultado do dia 09/11/2024 (Sábado)\nDeu Dezena, Palpite 5141 no 7º Prêmio!",
+      "12h - BA - Resultado do dia 09/11/2024 (Sábado)\nDeu Dezena, Palpite 5341 no 7º Prêmio!",
+      "19h FEDERAL - BA - Resultado do dia 09/11/2024 (Sábado)\nDeu Dezena, Palpite 1428 no 3º Prêmio!",
+      "19h FEDERAL - BA - Resultado do dia 09/11/2024 (Sábado)\nDeu Dezena, Palpite 1728 no 3º Prêmio!",
+      "19h FEDERAL - BA - Resultado do dia 09/11/2024 (Sábado)\nDeu Dezena, Palpite 1928 no 3º Prêmio!",
+      "19h FEDERAL - BA - Resultado do dia 09/11/2024 (Sábado)\nDeu Dezena, Palpite 5428 no 3º Prêmio!",
+      "19h FEDERAL - BA - Resultado do dia 09/11/2024 (Sábado)\nDeu Dezena, Palpite 1437 no 4º Prêmio!",
+      "19h FEDERAL - BA - Resultado do dia 09/11/2024 (Sábado)\nDeu Dezena, Palpite 1737 no 4º Prêmio!",
+      "19h FEDERAL - BA - Resultado do dia 09/11/2024 (Sábado)\nDeu Dezena, Palpite 1937 no 4º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
