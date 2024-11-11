@@ -111,6 +111,45 @@ const palpites = {
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 1950 no 3º Prêmio!"
     ]
   },
+  "PT SP": {
+    "palpites": [
+      "4170",
+      "4171",
+      "4175",
+      "4110",
+      "4111",
+      "4115",
+      "4100",
+      "4101",
+      "4105",
+      "4770",
+      "4771",
+      "4775",
+      "4710",
+      "4711",
+      "4715",
+      "4700",
+      "4701",
+      "4705",
+      "4870",
+      "4871",
+      "4875",
+      "4810",
+      "4811",
+      "4815",
+      "4800",
+      "4801",
+      "4805",
+      "7170",
+      "7171",
+      "7175"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2810 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2210 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2010 no 4º Prêmio!"
+    ]
+  },
   "LOTECE": {
     "palpites": [
       "1102",
@@ -213,41 +252,6 @@ const palpites = {
       "2029",
       "2020",
       "2024"
-    ],
-    "frases": []
-  },
-  "PT SP": {
-    "palpites": [
-      "2831",
-      "2832",
-      "2830",
-      "2811",
-      "2812",
-      "2810",
-      "2821",
-      "2822",
-      "2820",
-      "2231",
-      "2232",
-      "2230",
-      "2211",
-      "2212",
-      "2210",
-      "2221",
-      "2222",
-      "2220",
-      "2031",
-      "2032",
-      "2030",
-      "2011",
-      "2012",
-      "2010",
-      "2021",
-      "2022",
-      "2020",
-      "5831",
-      "5832",
-      "5830"
     ],
     "frases": []
   }
