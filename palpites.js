@@ -74,6 +74,41 @@ const palpites = {
       "10h - BA - Resultado do dia 11/11/2024 (Segunda-feira)\nDeu Dezena, Palpite 6571 no 5º Prêmio!"
     ]
   },
+  "LOTECE": {
+    "palpites": [
+      "5240",
+      "5249",
+      "5241",
+      "5230",
+      "5239",
+      "5231",
+      "5250",
+      "5259",
+      "5251",
+      "5440",
+      "5449",
+      "5441",
+      "5430",
+      "5439",
+      "5431",
+      "5450",
+      "5459",
+      "5451",
+      "5040",
+      "5049",
+      "5041",
+      "5030",
+      "5039",
+      "5031",
+      "5050",
+      "5059",
+      "5051",
+      "7240",
+      "7249",
+      "7241"
+    ],
+    "frases": []
+  },
   "LOOK/GOIAS": {
     "palpites": [
       "9480",
@@ -152,42 +187,12 @@ const palpites = {
       "0033",
       "0032"
     ],
-    "frases": []
-  },
-  "LOTECE": {
-    "palpites": [
-      "1102",
-      "1103",
-      "1105",
-      "1162",
-      "1163",
-      "1165",
-      "1112",
-      "1113",
-      "1115",
-      "1402",
-      "1403",
-      "1405",
-      "1462",
-      "1463",
-      "1465",
-      "1412",
-      "1413",
-      "1415",
-      "1802",
-      "1803",
-      "1805",
-      "1862",
-      "1863",
-      "1865",
-      "1812",
-      "1813",
-      "1815",
-      "6102",
-      "6103",
-      "6105"
-    ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 9340 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 9440 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 9840 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 1340 no 3º Prêmio!"
+    ]
   },
   "PT RIO": {
     "palpites": [
