@@ -103,10 +103,51 @@ const palpites = {
       "0489"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 1350 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 1750 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 1950 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 1350 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 1750 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 1950 no 3º Prêmio!",
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 8650 no 10º Prêmio!",
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 8550 no 10º Prêmio!",
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 8050 no 10º Prêmio!"
     ]
+  },
+  "PT RIO": {
+    "palpites": [
+      "3005",
+      "3001",
+      "3003",
+      "3025",
+      "3021",
+      "3023",
+      "3055",
+      "3051",
+      "3053",
+      "3205",
+      "3201",
+      "3203",
+      "3225",
+      "3221",
+      "3223",
+      "3255",
+      "3251",
+      "3253",
+      "3305",
+      "3301",
+      "3303",
+      "3325",
+      "3321",
+      "3323",
+      "3355",
+      "3351",
+      "3353",
+      "6005",
+      "6001",
+      "6003"
+    ],
+    "frases": []
   },
   "LOTECE": {
     "palpites": [
@@ -175,41 +216,6 @@ const palpites = {
       "1341",
       "1349",
       "1340"
-    ],
-    "frases": []
-  },
-  "PT RIO": {
-    "palpites": [
-      "1029",
-      "1020",
-      "1024",
-      "1099",
-      "1090",
-      "1094",
-      "1019",
-      "1010",
-      "1014",
-      "1529",
-      "1520",
-      "1524",
-      "1599",
-      "1590",
-      "1594",
-      "1519",
-      "1510",
-      "1514",
-      "1729",
-      "1720",
-      "1724",
-      "1799",
-      "1790",
-      "1794",
-      "1719",
-      "1710",
-      "1714",
-      "2029",
-      "2020",
-      "2024"
     ],
     "frases": []
   },
