@@ -1,51 +1,38 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "4884",
-      "4886",
-      "4880",
-      "4864",
-      "4866",
-      "4860",
-      "4814",
-      "4816",
-      "4810",
-      "4084",
-      "4086",
-      "4080",
-      "4064",
-      "4066",
-      "4060",
-      "4014",
-      "4016",
-      "4010",
-      "4184",
-      "4186",
-      "4180",
-      "4164",
-      "4166",
-      "4160",
-      "4114",
-      "4116",
-      "4110",
-      "9884",
-      "9886",
-      "9880"
+      "9475",
+      "9471",
+      "9477",
+      "9415",
+      "9411",
+      "9417",
+      "9425",
+      "9421",
+      "9427",
+      "9075",
+      "9071",
+      "9077",
+      "9015",
+      "9011",
+      "9017",
+      "9025",
+      "9021",
+      "9027",
+      "9175",
+      "9171",
+      "9177",
+      "9115",
+      "9111",
+      "9117",
+      "9125",
+      "9121",
+      "9127",
+      "6475",
+      "6471",
+      "6477"
     ],
-    "frases": [
-      "12h - MALUCA - BA - Resultado do dia 12/11/2024 (Terça-feira)\nDeu Centena, Palpite 3782 no 8º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 12/11/2024 (Terça-feira)\nDeu Dezena, Palpite 3782 no 8º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 12/11/2024 (Terça-feira)\nDeu Dezena, Palpite 3382 no 8º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 12/11/2024 (Terça-feira)\nDeu Dezena, Palpite 3882 no 8º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 12/11/2024 (Terça-feira)\nDeu Dezena, Palpite 3767 no 9º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 12/11/2024 (Terça-feira)\nDeu Dezena, Palpite 3367 no 9º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 12/11/2024 (Terça-feira)\nDeu Dezena, Palpite 3867 no 9º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 12/11/2024 (Terça-feira)\nDeu Dezena, Palpite 2767 no 9º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 12/11/2024 (Terça-feira)\nDeu Centena, Palpite 2860 no 9º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 12/11/2024 (Terça-feira)\nDeu Dezena, Palpite 2860 no 9º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 12/11/2024 (Terça-feira)\nDeu Dezena, Palpite 2760 no 9º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 12/11/2024 (Terça-feira)\nDeu Dezena, Palpite 2060 no 9º Prêmio!"
-    ]
+    "frases": []
   },
   "BAHIA": {
     "palpites": [
@@ -80,7 +67,19 @@ const palpites = {
       "9677",
       "9672"
     ],
-    "frases": []
+    "frases": [
+      "12h - BA - Resultado do dia 12/11/2024 (Terça-feira)\nDeu Dezena, Palpite 2020 no 3º Prêmio!",
+      "12h - BA - Resultado do dia 12/11/2024 (Terça-feira)\nDeu Dezena, Palpite 2720 no 3º Prêmio!",
+      "12h - BA - Resultado do dia 12/11/2024 (Terça-feira)\nDeu Centena, Palpite 2120 no 3º Prêmio!",
+      "12h - BA - Resultado do dia 12/11/2024 (Terça-feira)\nDeu Dezena, Palpite 2120 no 3º Prêmio!",
+      "12h - BA - Resultado do dia 12/11/2024 (Terça-feira)\nDeu Dezena, Palpite 2025 no 6º Prêmio!",
+      "12h - BA - Resultado do dia 12/11/2024 (Terça-feira)\nDeu Dezena, Palpite 2725 no 6º Prêmio!",
+      "12h - BA - Resultado do dia 12/11/2024 (Terça-feira)\nDeu Dezena, Palpite 2125 no 6º Prêmio!",
+      "12h - BA - Resultado do dia 12/11/2024 (Terça-feira)\nDeu Dezena, Palpite 2035 no 8º Prêmio!",
+      "12h - BA - Resultado do dia 12/11/2024 (Terça-feira)\nDeu Dezena, Palpite 2735 no 8º Prêmio!",
+      "12h - BA - Resultado do dia 12/11/2024 (Terça-feira)\nDeu Dezena, Palpite 2135 no 8º Prêmio!",
+      "12h - BA - Resultado do dia 12/11/2024 (Terça-feira)\nDeu Dezena, Palpite 3035 no 8º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
