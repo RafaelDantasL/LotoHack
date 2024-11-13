@@ -69,6 +69,49 @@ const palpites = {
     ],
     "frases": []
   },
+  "PT SP": {
+    "palpites": [
+      "8832",
+      "8836",
+      "8838",
+      "8852",
+      "8856",
+      "8858",
+      "8812",
+      "8816",
+      "8818",
+      "8432",
+      "8436",
+      "8438",
+      "8452",
+      "8456",
+      "8458",
+      "8412",
+      "8416",
+      "8418",
+      "8732",
+      "8736",
+      "8738",
+      "8752",
+      "8756",
+      "8758",
+      "8712",
+      "8716",
+      "8718",
+      "1832",
+      "1836",
+      "1838"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2232 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2332 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Centena, Palpite 2832 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2832 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2230 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2330 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2830 no 5º Prêmio!"
+    ]
+  },
   "BAHIA MALUCA": {
     "palpites": [
       "6157",
@@ -206,41 +249,6 @@ const palpites = {
       "0394",
       "0395",
       "0391"
-    ],
-    "frases": []
-  },
-  "PT SP": {
-    "palpites": [
-      "2262",
-      "2260",
-      "2261",
-      "2202",
-      "2200",
-      "2201",
-      "2232",
-      "2230",
-      "2231",
-      "2362",
-      "2360",
-      "2361",
-      "2302",
-      "2300",
-      "2301",
-      "2332",
-      "2330",
-      "2331",
-      "2862",
-      "2860",
-      "2861",
-      "2802",
-      "2800",
-      "2801",
-      "2832",
-      "2830",
-      "2831",
-      "5262",
-      "5260",
-      "5261"
     ],
     "frases": []
   }
