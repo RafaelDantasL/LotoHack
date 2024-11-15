@@ -1,4 +1,48 @@
 const palpites = {
+  "BAHIA MALUCA": {
+    "palpites": [
+      "5117",
+      "5119",
+      "5110",
+      "5197",
+      "5199",
+      "5190",
+      "5137",
+      "5139",
+      "5130",
+      "5217",
+      "5219",
+      "5210",
+      "5297",
+      "5299",
+      "5290",
+      "5237",
+      "5239",
+      "5230",
+      "5717",
+      "5719",
+      "5710",
+      "5797",
+      "5799",
+      "5790",
+      "5737",
+      "5739",
+      "5730",
+      "8117",
+      "8119",
+      "8110"
+    ],
+    "frases": [
+      "10h - MALUCA - Resultado do dia 15/11/2024 (Sexta-feira)\nDeu Dezena, Palpite 0119 no 4º Prêmio!",
+      "10h - MALUCA - Resultado do dia 15/11/2024 (Sexta-feira)\nDeu Centena, Palpite 0219 no 4º Prêmio!",
+      "10h - MALUCA - Resultado do dia 15/11/2024 (Sexta-feira)\nDeu Dezena, Palpite 0219 no 4º Prêmio!",
+      "10h - MALUCA - Resultado do dia 15/11/2024 (Sexta-feira)\nDeu Dezena, Palpite 0819 no 4º Prêmio!",
+      "10h - MALUCA - Resultado do dia 15/11/2024 (Sexta-feira)\nDeu Dezena, Palpite 2119 no 4º Prêmio!",
+      "10h - MALUCA - Resultado do dia 15/11/2024 (Sexta-feira)\nDeu Milhar, Palpite 0156 no 8º Prêmio!",
+      "10h - MALUCA - Resultado do dia 15/11/2024 (Sexta-feira)\nDeu Dezena, Palpite 0256 no 8º Prêmio!",
+      "10h - MALUCA - Resultado do dia 15/11/2024 (Sexta-feira)\nDeu Dezena, Palpite 0856 no 8º Prêmio!"
+    ]
+  },
   "BAHIA": {
     "palpites": [
       "9131",
@@ -37,41 +81,6 @@ const palpites = {
       "10h - BA - Resultado do dia 15/11/2024 (Sexta-feira)\nDeu Dezena, Palpite 4021 no 5º Prêmio!",
       "10h - BA - Resultado do dia 15/11/2024 (Sexta-feira)\nDeu Dezena, Palpite 4121 no 5º Prêmio!"
     ]
-  },
-  "BAHIA MALUCA": {
-    "palpites": [
-      "0114",
-      "0116",
-      "0119",
-      "0154",
-      "0156",
-      "0159",
-      "0124",
-      "0126",
-      "0129",
-      "0214",
-      "0216",
-      "0219",
-      "0254",
-      "0256",
-      "0259",
-      "0224",
-      "0226",
-      "0229",
-      "0814",
-      "0816",
-      "0819",
-      "0854",
-      "0856",
-      "0859",
-      "0824",
-      "0826",
-      "0829",
-      "2114",
-      "2116",
-      "2119"
-    ],
-    "frases": []
   },
   "LOTECE": {
     "palpites": [
