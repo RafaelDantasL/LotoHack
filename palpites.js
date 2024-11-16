@@ -78,38 +78,47 @@ const palpites = {
   },
   "LOTECE": {
     "palpites": [
-      "5205",
-      "5200",
-      "5201",
-      "5295",
-      "5290",
-      "5291",
-      "5215",
-      "5210",
-      "5211",
-      "5305",
-      "5300",
-      "5301",
-      "5395",
-      "5390",
-      "5391",
-      "5315",
-      "5310",
-      "5311",
-      "5705",
-      "5700",
-      "5701",
-      "5795",
-      "5790",
-      "5791",
-      "5715",
-      "5710",
-      "5711",
-      "0205",
-      "0200",
-      "0201"
+      "8772",
+      "8775",
+      "8779",
+      "8722",
+      "8725",
+      "8729",
+      "8792",
+      "8795",
+      "8799",
+      "8172",
+      "8175",
+      "8179",
+      "8122",
+      "8125",
+      "8129",
+      "8192",
+      "8195",
+      "8199",
+      "8072",
+      "8075",
+      "8079",
+      "8022",
+      "8025",
+      "8029",
+      "8092",
+      "8095",
+      "8099",
+      "3772",
+      "3775",
+      "3779"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)\nDeu Dezena, Palpite 5205 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)\nDeu Dezena, Palpite 5305 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)\nDeu Dezena, Palpite 5705 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)\nDeu Dezena, Palpite 0205 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)\nDeu Dezena, Palpite 5295 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)\nDeu Dezena, Palpite 5395 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)\nDeu Centena, Palpite 5795 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)\nDeu Dezena, Palpite 5795 no 10º Prêmio!"
+    ]
   },
   "LOOK/GOIAS": {
     "palpites": [
@@ -250,7 +259,11 @@ const palpites = {
       "4142",
       "4147"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 4261 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 4861 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 4961 no 3º Prêmio!"
+    ]
   },
   "PT SP": {
     "palpites": [
