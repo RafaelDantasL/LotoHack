@@ -78,6 +78,52 @@ const palpites = {
       "10h - BA - Resultado do dia 18/11/2024 (Segunda-feira)\nDeu Dezena, Palpite 0002 no 8º Prêmio!"
     ]
   },
+  "LOTECE": {
+    "palpites": [
+      "5511",
+      "5514",
+      "5516",
+      "5531",
+      "5534",
+      "5536",
+      "5501",
+      "5504",
+      "5506",
+      "5811",
+      "5814",
+      "5816",
+      "5831",
+      "5834",
+      "5836",
+      "5801",
+      "5804",
+      "5806",
+      "5111",
+      "5114",
+      "5116",
+      "5131",
+      "5134",
+      "5136",
+      "5101",
+      "5104",
+      "5106",
+      "7511",
+      "7514",
+      "7516"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 4514 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 4214 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 4814 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Centena, Palpite 4514 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 4514 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 4214 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 4814 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 4576 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 4276 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 4876 no 10º Prêmio!"
+    ]
+  },
   "LOOK/GOIAS": {
     "palpites": [
       "6181",
@@ -151,41 +197,6 @@ const palpites = {
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 4012 no 10º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 4212 no 10º Prêmio!"
     ]
-  },
-  "LOTECE": {
-    "palpites": [
-      "4503",
-      "4504",
-      "4506",
-      "4573",
-      "4574",
-      "4576",
-      "4513",
-      "4514",
-      "4516",
-      "4203",
-      "4204",
-      "4206",
-      "4273",
-      "4274",
-      "4276",
-      "4213",
-      "4214",
-      "4216",
-      "4803",
-      "4804",
-      "4806",
-      "4873",
-      "4874",
-      "4876",
-      "4813",
-      "4814",
-      "4816",
-      "5503",
-      "5504",
-      "5506"
-    ],
-    "frases": []
   },
   "PT RIO": {
     "palpites": [
