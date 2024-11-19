@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jogo de Minas</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="game-container">
+        <h1>Jogo de Minas</h1>
+        <div id="controls">
+            <p>Escolha o número de tentativas:</p>
+            <select id="tentativas-select">
+                <option value="3">3 tentativas - R$ 2,00</option>
+                <option value="4">4 tentativas - R$ 8,00</option>
+                <option value="5">5 tentativas - R$ 32,00</option>
+            </select>
+            <button id="generate-payment">Gerar PIX</button>
+            <p id="payment-info"></p>
+        </div>
+        <div id="status-panel">
+            <p>Tentativas restantes: <span id="tentativas-restantes">-</span></p>
+        </div>
+        <div id="game-board" class="hidden"></div>
+        <div id="modal" class="hidden">
+            <div id="modal-content">
+                <p id="modal-message"></p>
+                <button id="modal-ok">OK</button>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
