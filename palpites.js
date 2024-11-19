@@ -43,6 +43,50 @@ const palpites = {
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 5581 no 9º Prêmio!"
     ]
   },
+  "PT SP": {
+    "palpites": [
+      "2013",
+      "2016",
+      "2019",
+      "2033",
+      "2036",
+      "2039",
+      "2053",
+      "2056",
+      "2059",
+      "2313",
+      "2316",
+      "2319",
+      "2333",
+      "2336",
+      "2339",
+      "2353",
+      "2356",
+      "2359",
+      "2713",
+      "2716",
+      "2719",
+      "2733",
+      "2736",
+      "2739",
+      "2753",
+      "2756",
+      "2759",
+      "3013",
+      "3016",
+      "3019"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3333 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3833 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3033 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 4333 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Centena, Palpite 3313 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3313 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3813 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3013 no 3º Prêmio!"
+    ]
+  },
   "BAHIA MALUCA": {
     "palpites": [
       "1369",
@@ -215,41 +259,6 @@ const palpites = {
       "0334",
       "0333",
       "0338"
-    ],
-    "frases": []
-  },
-  "PT SP": {
-    "palpites": [
-      "3331",
-      "3333",
-      "3335",
-      "3311",
-      "3313",
-      "3315",
-      "3341",
-      "3343",
-      "3345",
-      "3831",
-      "3833",
-      "3835",
-      "3811",
-      "3813",
-      "3815",
-      "3841",
-      "3843",
-      "3845",
-      "3031",
-      "3033",
-      "3035",
-      "3011",
-      "3013",
-      "3015",
-      "3041",
-      "3043",
-      "3045",
-      "4331",
-      "4333",
-      "4335"
     ],
     "frases": []
   }
