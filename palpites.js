@@ -1,4 +1,43 @@
 const palpites = {
+  "BAHIA MALUCA": {
+    "palpites": [
+      "6194",
+      "6191",
+      "6192",
+      "6104",
+      "6101",
+      "6102",
+      "6114",
+      "6111",
+      "6112",
+      "6494",
+      "6491",
+      "6492",
+      "6404",
+      "6401",
+      "6402",
+      "6414",
+      "6411",
+      "6412",
+      "6994",
+      "6991",
+      "6992",
+      "6904",
+      "6901",
+      "6902",
+      "6914",
+      "6911",
+      "6912",
+      "7194",
+      "7191",
+      "7192"
+    ],
+    "frases": [
+      "10h - MALUCA - Resultado do dia 20/11/2024 (Quarta-feira)\nDeu Dezena, Palpite 1405 no 8º Prêmio!",
+      "10h - MALUCA - Resultado do dia 20/11/2024 (Quarta-feira)\nDeu Dezena, Palpite 1105 no 8º Prêmio!",
+      "10h - MALUCA - Resultado do dia 20/11/2024 (Quarta-feira)\nDeu Dezena, Palpite 1805 no 8º Prêmio!"
+    ]
+  },
   "BAHIA": {
     "palpites": [
       "2019",
@@ -39,41 +78,6 @@ const palpites = {
       "10h - BA - Resultado do dia 20/11/2024 (Quarta-feira)\nDeu Dezena, Palpite 5143 no 7º Prêmio!",
       "10h - BA - Resultado do dia 20/11/2024 (Quarta-feira)\nDeu Dezena, Palpite 9843 no 7º Prêmio!"
     ]
-  },
-  "BAHIA MALUCA": {
-    "palpites": [
-      "1485",
-      "1489",
-      "1480",
-      "1405",
-      "1409",
-      "1400",
-      "1415",
-      "1419",
-      "1410",
-      "1185",
-      "1189",
-      "1180",
-      "1105",
-      "1109",
-      "1100",
-      "1115",
-      "1119",
-      "1110",
-      "1885",
-      "1889",
-      "1880",
-      "1805",
-      "1809",
-      "1800",
-      "1815",
-      "1819",
-      "1810",
-      "5485",
-      "5489",
-      "5480"
-    ],
-    "frases": []
   },
   "LOTECE": {
     "palpites": [
