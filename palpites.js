@@ -44,44 +44,38 @@ const palpites = {
   },
   "BAHIA": {
     "palpites": [
-      "0874",
-      "0877",
-      "0878",
-      "0824",
-      "0827",
-      "0828",
-      "0864",
-      "0867",
-      "0868",
-      "0274",
-      "0277",
-      "0278",
-      "0224",
-      "0227",
-      "0228",
-      "0264",
-      "0267",
-      "0268",
-      "0974",
-      "0977",
-      "0978",
-      "0924",
-      "0927",
-      "0928",
-      "0964",
-      "0967",
-      "0968",
-      "1874",
-      "1877",
-      "1878"
+      "8001",
+      "8005",
+      "8007",
+      "8021",
+      "8025",
+      "8027",
+      "8081",
+      "8085",
+      "8087",
+      "8101",
+      "8105",
+      "8107",
+      "8121",
+      "8125",
+      "8127",
+      "8181",
+      "8185",
+      "8187",
+      "8701",
+      "8705",
+      "8707",
+      "8721",
+      "8725",
+      "8727",
+      "8781",
+      "8785",
+      "8787",
+      "1001",
+      "1005",
+      "1007"
     ],
-    "frases": [
-      "10h - BA - Resultado do dia 20/11/2024 (Quarta-feira)\nDeu Dezena, Palpite 5843 no 7º Prêmio!",
-      "10h - BA - Resultado do dia 20/11/2024 (Quarta-feira)\nDeu Centena, Palpite 5943 no 7º Prêmio!",
-      "10h - BA - Resultado do dia 20/11/2024 (Quarta-feira)\nDeu Dezena, Palpite 5943 no 7º Prêmio!",
-      "10h - BA - Resultado do dia 20/11/2024 (Quarta-feira)\nDeu Dezena, Palpite 5143 no 7º Prêmio!",
-      "10h - BA - Resultado do dia 20/11/2024 (Quarta-feira)\nDeu Dezena, Palpite 9843 no 7º Prêmio!"
-    ]
+    "frases": []
   },
   "LOTECE": {
     "palpites": [
@@ -318,6 +312,16 @@ const palpites = {
       "5000",
       "5009"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 9101 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 9701 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 9201 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 9100 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 9700 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 9200 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 9106 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 9706 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 9206 no 6º Prêmio!"
+    ]
   }
 };
