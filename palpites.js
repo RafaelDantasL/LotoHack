@@ -1,41 +1,42 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "6194",
-      "6191",
-      "6192",
-      "6104",
-      "6101",
-      "6102",
-      "6114",
-      "6111",
-      "6112",
-      "6494",
-      "6491",
-      "6492",
-      "6404",
-      "6401",
-      "6402",
-      "6414",
-      "6411",
-      "6412",
-      "6994",
-      "6991",
-      "6992",
-      "6904",
-      "6901",
-      "6902",
-      "6914",
-      "6911",
-      "6912",
-      "7194",
-      "7191",
-      "7192"
+      "0841",
+      "0842",
+      "0846",
+      "0891",
+      "0892",
+      "0896",
+      "0811",
+      "0812",
+      "0816",
+      "0041",
+      "0042",
+      "0046",
+      "0091",
+      "0092",
+      "0096",
+      "0011",
+      "0012",
+      "0016",
+      "0741",
+      "0742",
+      "0746",
+      "0791",
+      "0792",
+      "0796",
+      "0711",
+      "0712",
+      "0716",
+      "2841",
+      "2842",
+      "2846"
     ],
     "frases": [
-      "10h - MALUCA - Resultado do dia 20/11/2024 (Quarta-feira)\nDeu Dezena, Palpite 1405 no 8º Prêmio!",
-      "10h - MALUCA - Resultado do dia 20/11/2024 (Quarta-feira)\nDeu Dezena, Palpite 1105 no 8º Prêmio!",
-      "10h - MALUCA - Resultado do dia 20/11/2024 (Quarta-feira)\nDeu Dezena, Palpite 1805 no 8º Prêmio!"
+      "12h - MALUCA - BA - Resultado do dia 20/11/2024 (Quarta-feira)\nDeu Dezena, Palpite 6192 no 8º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 20/11/2024 (Quarta-feira)\nDeu Dezena, Palpite 6492 no 8º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 20/11/2024 (Quarta-feira)\nDeu Dezena, Palpite 6992 no 8º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 20/11/2024 (Quarta-feira)\nDeu Dezena, Palpite 7192 no 8º Prêmio!"
     ]
   },
   "BAHIA": {
@@ -71,7 +72,13 @@ const palpites = {
       "1877",
       "1878"
     ],
-    "frases": []
+    "frases": [
+      "10h - BA - Resultado do dia 20/11/2024 (Quarta-feira)\nDeu Dezena, Palpite 5843 no 7º Prêmio!",
+      "10h - BA - Resultado do dia 20/11/2024 (Quarta-feira)\nDeu Centena, Palpite 5943 no 7º Prêmio!",
+      "10h - BA - Resultado do dia 20/11/2024 (Quarta-feira)\nDeu Dezena, Palpite 5943 no 7º Prêmio!",
+      "10h - BA - Resultado do dia 20/11/2024 (Quarta-feira)\nDeu Dezena, Palpite 5143 no 7º Prêmio!",
+      "10h - BA - Resultado do dia 20/11/2024 (Quarta-feira)\nDeu Dezena, Palpite 9843 no 7º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
