@@ -1,46 +1,38 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "9115",
-      "9118",
-      "9112",
-      "9165",
-      "9168",
-      "9162",
-      "9105",
-      "9108",
-      "9102",
-      "9215",
-      "9218",
-      "9212",
-      "9265",
-      "9268",
-      "9262",
-      "9205",
-      "9208",
-      "9202",
-      "9315",
-      "9318",
-      "9312",
-      "9365",
-      "9368",
-      "9362",
-      "9305",
-      "9308",
-      "9302",
-      "2115",
-      "2118",
-      "2112"
+      "3016",
+      "3014",
+      "3018",
+      "3066",
+      "3064",
+      "3068",
+      "3076",
+      "3074",
+      "3078",
+      "3216",
+      "3214",
+      "3218",
+      "3266",
+      "3264",
+      "3268",
+      "3276",
+      "3274",
+      "3278",
+      "3116",
+      "3114",
+      "3118",
+      "3166",
+      "3164",
+      "3168",
+      "3176",
+      "3174",
+      "3178",
+      "5016",
+      "5014",
+      "5018"
     ],
-    "frases": [
-      "10h - MALUCA - Resultado do dia 21/11/2024 (Quinta-feira)\nDeu Dezena, Palpite 1682 no 4º Prêmio!",
-      "10h - MALUCA - Resultado do dia 21/11/2024 (Quinta-feira)\nDeu Dezena, Palpite 1282 no 4º Prêmio!",
-      "10h - MALUCA - Resultado do dia 21/11/2024 (Quinta-feira)\nDeu Dezena, Palpite 1482 no 4º Prêmio!",
-      "10h - MALUCA - Resultado do dia 21/11/2024 (Quinta-feira)\nDeu Dezena, Palpite 1612 no 6º Prêmio!",
-      "10h - MALUCA - Resultado do dia 21/11/2024 (Quinta-feira)\nDeu Dezena, Palpite 1212 no 6º Prêmio!",
-      "10h - MALUCA - Resultado do dia 21/11/2024 (Quinta-feira)\nDeu Dezena, Palpite 1412 no 6º Prêmio!",
-      "10h - MALUCA - Resultado do dia 21/11/2024 (Quinta-feira)\nDeu Dezena, Palpite 2612 no 6º Prêmio!"
-    ]
+    "frases": []
   },
   "BAHIA": {
     "palpites": [
@@ -75,7 +67,16 @@ const palpites = {
       "2144",
       "2141"
     ],
-    "frases": []
+    "frases": [
+      "10h - BA - Resultado do dia 21/11/2024 (Quinta-feira)\nDeu Dezena, Palpite 1120 no 3º Prêmio!",
+      "10h - BA - Resultado do dia 21/11/2024 (Quinta-feira)\nDeu Dezena, Palpite 1220 no 3º Prêmio!",
+      "10h - BA - Resultado do dia 21/11/2024 (Quinta-feira)\nDeu Dezena, Palpite 1420 no 3º Prêmio!",
+      "10h - BA - Resultado do dia 21/11/2024 (Quinta-feira)\nDeu Dezena, Palpite 2120 no 3º Prêmio!",
+      "10h - BA - Resultado do dia 21/11/2024 (Quinta-feira)\nDeu Dezena, Palpite 1128 no 5º Prêmio!",
+      "10h - BA - Resultado do dia 21/11/2024 (Quinta-feira)\nDeu Dezena, Palpite 1228 no 5º Prêmio!",
+      "10h - BA - Resultado do dia 21/11/2024 (Quinta-feira)\nDeu Dezena, Palpite 1428 no 5º Prêmio!",
+      "10h - BA - Resultado do dia 21/11/2024 (Quinta-feira)\nDeu Dezena, Palpite 2128 no 5º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
