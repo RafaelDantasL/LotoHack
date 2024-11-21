@@ -1,4 +1,47 @@
 const palpites = {
+  "BAHIA MALUCA": {
+    "palpites": [
+      "9115",
+      "9118",
+      "9112",
+      "9165",
+      "9168",
+      "9162",
+      "9105",
+      "9108",
+      "9102",
+      "9215",
+      "9218",
+      "9212",
+      "9265",
+      "9268",
+      "9262",
+      "9205",
+      "9208",
+      "9202",
+      "9315",
+      "9318",
+      "9312",
+      "9365",
+      "9368",
+      "9362",
+      "9305",
+      "9308",
+      "9302",
+      "2115",
+      "2118",
+      "2112"
+    ],
+    "frases": [
+      "10h - MALUCA - Resultado do dia 21/11/2024 (Quinta-feira)\nDeu Dezena, Palpite 1682 no 4º Prêmio!",
+      "10h - MALUCA - Resultado do dia 21/11/2024 (Quinta-feira)\nDeu Dezena, Palpite 1282 no 4º Prêmio!",
+      "10h - MALUCA - Resultado do dia 21/11/2024 (Quinta-feira)\nDeu Dezena, Palpite 1482 no 4º Prêmio!",
+      "10h - MALUCA - Resultado do dia 21/11/2024 (Quinta-feira)\nDeu Dezena, Palpite 1612 no 6º Prêmio!",
+      "10h - MALUCA - Resultado do dia 21/11/2024 (Quinta-feira)\nDeu Dezena, Palpite 1212 no 6º Prêmio!",
+      "10h - MALUCA - Resultado do dia 21/11/2024 (Quinta-feira)\nDeu Dezena, Palpite 1412 no 6º Prêmio!",
+      "10h - MALUCA - Resultado do dia 21/11/2024 (Quinta-feira)\nDeu Dezena, Palpite 2612 no 6º Prêmio!"
+    ]
+  },
   "BAHIA": {
     "palpites": [
       "1722",
@@ -42,41 +85,6 @@ const palpites = {
       "10h - BA - Resultado do dia 21/11/2024 (Quinta-feira)\nDeu Dezena, Palpite 1428 no 5º Prêmio!",
       "10h - BA - Resultado do dia 21/11/2024 (Quinta-feira)\nDeu Dezena, Palpite 2128 no 5º Prêmio!"
     ]
-  },
-  "BAHIA MALUCA": {
-    "palpites": [
-      "1612",
-      "1613",
-      "1614",
-      "1652",
-      "1653",
-      "1654",
-      "1682",
-      "1683",
-      "1684",
-      "1212",
-      "1213",
-      "1214",
-      "1252",
-      "1253",
-      "1254",
-      "1282",
-      "1283",
-      "1284",
-      "1412",
-      "1413",
-      "1414",
-      "1452",
-      "1453",
-      "1454",
-      "1482",
-      "1483",
-      "1484",
-      "2612",
-      "2613",
-      "2614"
-    ],
-    "frases": []
   },
   "LOTECE": {
     "palpites": [
