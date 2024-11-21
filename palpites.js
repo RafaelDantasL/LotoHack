@@ -32,7 +32,15 @@ const palpites = {
       "5014",
       "5018"
     ],
-    "frases": []
+    "frases": [
+      "10h - MALUCA - Resultado do dia 21/11/2024 (Quinta-feira)\nDeu Dezena, Palpite 1682 no 4º Prêmio!",
+      "10h - MALUCA - Resultado do dia 21/11/2024 (Quinta-feira)\nDeu Dezena, Palpite 1282 no 4º Prêmio!",
+      "10h - MALUCA - Resultado do dia 21/11/2024 (Quinta-feira)\nDeu Dezena, Palpite 1482 no 4º Prêmio!",
+      "10h - MALUCA - Resultado do dia 21/11/2024 (Quinta-feira)\nDeu Dezena, Palpite 1612 no 6º Prêmio!",
+      "10h - MALUCA - Resultado do dia 21/11/2024 (Quinta-feira)\nDeu Dezena, Palpite 1212 no 6º Prêmio!",
+      "10h - MALUCA - Resultado do dia 21/11/2024 (Quinta-feira)\nDeu Dezena, Palpite 1412 no 6º Prêmio!",
+      "10h - MALUCA - Resultado do dia 21/11/2024 (Quinta-feira)\nDeu Dezena, Palpite 2612 no 6º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -236,43 +244,37 @@ const palpites = {
   },
   "PT SP": {
     "palpites": [
-      "1232",
-      "1233",
-      "1231",
-      "1242",
-      "1243",
-      "1241",
-      "1282",
-      "1283",
-      "1281",
-      "1432",
-      "1433",
-      "1431",
-      "1442",
-      "1443",
-      "1441",
-      "1482",
-      "1483",
-      "1481",
-      "1932",
-      "1933",
-      "1931",
-      "1942",
-      "1943",
-      "1941",
-      "1982",
-      "1983",
-      "1981",
-      "3232",
-      "3233",
-      "3231"
+      "6345",
+      "6348",
+      "6343",
+      "6355",
+      "6358",
+      "6353",
+      "6305",
+      "6308",
+      "6303",
+      "6145",
+      "6148",
+      "6143",
+      "6155",
+      "6158",
+      "6153",
+      "6105",
+      "6108",
+      "6103",
+      "6245",
+      "6248",
+      "6243",
+      "6255",
+      "6258",
+      "6253",
+      "6205",
+      "6208",
+      "6203",
+      "2345",
+      "2348",
+      "2343"
     ],
-    "frases": [
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 7014 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 7614 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Centena, Palpite 7114 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 7114 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3014 no 1º Prêmio!"
-    ]
+    "frases": []
   }
 };
