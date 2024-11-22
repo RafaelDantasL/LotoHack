@@ -78,6 +78,46 @@ const palpites = {
     ],
     "frases": []
   },
+  "LOTECE": {
+    "palpites": [
+      "4334",
+      "4333",
+      "4335",
+      "4314",
+      "4313",
+      "4315",
+      "4324",
+      "4323",
+      "4325",
+      "4134",
+      "4133",
+      "4135",
+      "4114",
+      "4113",
+      "4115",
+      "4124",
+      "4123",
+      "4125",
+      "4834",
+      "4833",
+      "4835",
+      "4814",
+      "4813",
+      "4815",
+      "4824",
+      "4823",
+      "4825",
+      "7334",
+      "7333",
+      "7335"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 8246 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 8546 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 8946 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 9246 no 6º Prêmio!"
+    ]
+  },
   "LOOK/GOIAS": {
     "palpites": [
       "4627",
@@ -154,42 +194,11 @@ const palpites = {
       "3444",
       "3446"
     ],
-    "frases": []
-  },
-  "LOTECE": {
-    "palpites": [
-      "8246",
-      "8248",
-      "8240",
-      "8256",
-      "8258",
-      "8250",
-      "8266",
-      "8268",
-      "8260",
-      "8546",
-      "8548",
-      "8540",
-      "8556",
-      "8558",
-      "8550",
-      "8566",
-      "8568",
-      "8560",
-      "8946",
-      "8948",
-      "8940",
-      "8956",
-      "8958",
-      "8950",
-      "8966",
-      "8968",
-      "8960",
-      "9246",
-      "9248",
-      "9240"
-    ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 6500 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 6600 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 6700 no 2º Prêmio!"
+    ]
   },
   "PT RIO": {
     "palpites": [
