@@ -67,7 +67,57 @@ const palpites = {
       "7626",
       "7624"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 1349 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 1849 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 1049 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 1313 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 1813 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 1013 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 3313 no 7º Prêmio!"
+    ]
+  },
+  "PT RIO": {
+    "palpites": [
+      "6374",
+      "6373",
+      "6377",
+      "6364",
+      "6363",
+      "6367",
+      "6304",
+      "6303",
+      "6307",
+      "6674",
+      "6673",
+      "6677",
+      "6664",
+      "6663",
+      "6667",
+      "6604",
+      "6603",
+      "6607",
+      "6774",
+      "6773",
+      "6777",
+      "6764",
+      "6763",
+      "6767",
+      "6704",
+      "6703",
+      "6707",
+      "7374",
+      "7373",
+      "7377"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Centena, Palpite 3387 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 3387 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 3787 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 3987 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Centena, Palpite 9387 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 9387 no 5º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -171,41 +221,6 @@ const palpites = {
       "0517",
       "0519",
       "0510"
-    ],
-    "frases": []
-  },
-  "PT RIO": {
-    "palpites": [
-      "3383",
-      "3382",
-      "3387",
-      "3303",
-      "3302",
-      "3307",
-      "3313",
-      "3312",
-      "3317",
-      "3783",
-      "3782",
-      "3787",
-      "3703",
-      "3702",
-      "3707",
-      "3713",
-      "3712",
-      "3717",
-      "3983",
-      "3982",
-      "3987",
-      "3903",
-      "3902",
-      "3907",
-      "3913",
-      "3912",
-      "3917",
-      "9383",
-      "9382",
-      "9387"
     ],
     "frases": []
   },
