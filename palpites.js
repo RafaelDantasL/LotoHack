@@ -49,46 +49,41 @@ const palpites = {
   },
   "BAHIA": {
     "palpites": [
-      "2071",
-      "2079",
-      "2070",
-      "2001",
-      "2009",
-      "2000",
-      "2041",
-      "2049",
-      "2040",
-      "2471",
-      "2479",
-      "2470",
-      "2401",
-      "2409",
-      "2400",
-      "2441",
-      "2449",
-      "2440",
-      "2171",
-      "2179",
-      "2170",
-      "2101",
-      "2109",
-      "2100",
-      "2141",
-      "2149",
-      "2140",
-      "0071",
-      "0079",
-      "0070"
+      "0125",
+      "0127",
+      "0120",
+      "0145",
+      "0147",
+      "0140",
+      "0115",
+      "0117",
+      "0110",
+      "0725",
+      "0727",
+      "0720",
+      "0745",
+      "0747",
+      "0740",
+      "0715",
+      "0717",
+      "0710",
+      "0825",
+      "0827",
+      "0820",
+      "0845",
+      "0847",
+      "0840",
+      "0815",
+      "0817",
+      "0810",
+      "1125",
+      "1127",
+      "1120"
     ],
     "frases": [
-      "12h - BA - Resultado do dia 22/11/2024 (Sexta-feira)\nDeu Centena, Palpite 1002 no 6º Prêmio!",
-      "12h - BA - Resultado do dia 22/11/2024 (Sexta-feira)\nDeu Dezena, Palpite 1002 no 6º Prêmio!",
-      "12h - BA - Resultado do dia 22/11/2024 (Sexta-feira)\nDeu Dezena, Palpite 1202 no 6º Prêmio!",
-      "12h - BA - Resultado do dia 22/11/2024 (Sexta-feira)\nDeu Dezena, Palpite 1602 no 6º Prêmio!",
-      "12h - BA - Resultado do dia 22/11/2024 (Sexta-feira)\nDeu Centena, Palpite 1050 no 10º Prêmio!",
-      "12h - BA - Resultado do dia 22/11/2024 (Sexta-feira)\nDeu Dezena, Palpite 1050 no 10º Prêmio!",
-      "12h - BA - Resultado do dia 22/11/2024 (Sexta-feira)\nDeu Dezena, Palpite 1250 no 10º Prêmio!",
-      "12h - BA - Resultado do dia 22/11/2024 (Sexta-feira)\nDeu Dezena, Palpite 1650 no 10º Prêmio!"
+      "15h - BA - Resultado do dia 22/11/2024 (Sexta-feira)\nDeu Dezena, Palpite 2040 no 8º Prêmio!",
+      "15h - BA - Resultado do dia 22/11/2024 (Sexta-feira)\nDeu Dezena, Palpite 2440 no 8º Prêmio!",
+      "15h - BA - Resultado do dia 22/11/2024 (Sexta-feira)\nDeu Dezena, Palpite 2140 no 8º Prêmio!"
     ]
   },
   "LOTECE": {
@@ -310,6 +305,10 @@ const palpites = {
       "3331",
       "3335"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 4305 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 4705 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 4805 no 8º Prêmio!"
+    ]
   }
 };
