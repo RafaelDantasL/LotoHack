@@ -73,6 +73,45 @@ const palpites = {
       "10h - BA - Resultado do dia 23/11/2024 (Sábado)\nDeu Dezena, Palpite 1145 no 3º Prêmio!"
     ]
   },
+  "LOTECE": {
+    "palpites": [
+      "6045",
+      "6044",
+      "6043",
+      "6065",
+      "6064",
+      "6063",
+      "6055",
+      "6054",
+      "6053",
+      "6445",
+      "6444",
+      "6443",
+      "6465",
+      "6464",
+      "6463",
+      "6455",
+      "6454",
+      "6453",
+      "6745",
+      "6744",
+      "6743",
+      "6765",
+      "6764",
+      "6763",
+      "6755",
+      "6754",
+      "6753",
+      "7045",
+      "7044",
+      "7043"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 0164 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 0264 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 0364 no 2º Prêmio!"
+    ]
+  },
   "LOOK/GOIAS": {
     "palpites": [
       "5286",
@@ -140,41 +179,6 @@ const palpites = {
       "2816",
       "2810",
       "2814"
-    ],
-    "frases": []
-  },
-  "LOTECE": {
-    "palpites": [
-      "0120",
-      "0124",
-      "0121",
-      "0110",
-      "0114",
-      "0111",
-      "0160",
-      "0164",
-      "0161",
-      "0220",
-      "0224",
-      "0221",
-      "0210",
-      "0214",
-      "0211",
-      "0260",
-      "0264",
-      "0261",
-      "0320",
-      "0324",
-      "0321",
-      "0310",
-      "0314",
-      "0311",
-      "0360",
-      "0364",
-      "0361",
-      "4120",
-      "4124",
-      "4121"
     ],
     "frases": []
   },
