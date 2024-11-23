@@ -1,42 +1,42 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "2136",
-      "2131",
-      "2132",
-      "2196",
-      "2191",
-      "2192",
-      "2106",
-      "2101",
-      "2102",
-      "2336",
-      "2331",
-      "2332",
-      "2396",
-      "2391",
-      "2392",
-      "2306",
-      "2301",
-      "2302",
-      "2536",
-      "2531",
-      "2532",
-      "2596",
-      "2591",
-      "2592",
-      "2506",
-      "2501",
-      "2502",
-      "3136",
-      "3131",
-      "3132"
+      "0544",
+      "0545",
+      "0546",
+      "0574",
+      "0575",
+      "0576",
+      "0514",
+      "0515",
+      "0516",
+      "0644",
+      "0645",
+      "0646",
+      "0674",
+      "0675",
+      "0676",
+      "0614",
+      "0615",
+      "0616",
+      "0944",
+      "0945",
+      "0946",
+      "0974",
+      "0975",
+      "0976",
+      "0914",
+      "0915",
+      "0916",
+      "3544",
+      "3545",
+      "3546"
     ],
     "frases": [
-      "12h - MALUCA - BA - Resultado do dia 23/11/2024 (Sábado)\nDeu Dezena, Palpite 8354 no 4º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 23/11/2024 (Sábado)\nDeu Dezena, Palpite 8054 no 4º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 23/11/2024 (Sábado)\nDeu Dezena, Palpite 8154 no 4º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 23/11/2024 (Sábado)\nDeu Dezena, Palpite 7354 no 4º Prêmio!"
+      "19h FEDERAL - MALUCA - BA - Resultado do dia 23/11/2024 (Sábado)\nDeu Dezena, Palpite 2136 no 2º Prêmio!",
+      "19h FEDERAL - MALUCA - BA - Resultado do dia 23/11/2024 (Sábado)\nDeu Dezena, Palpite 2336 no 2º Prêmio!",
+      "19h FEDERAL - MALUCA - BA - Resultado do dia 23/11/2024 (Sábado)\nDeu Dezena, Palpite 2536 no 2º Prêmio!",
+      "19h FEDERAL - MALUCA - BA - Resultado do dia 23/11/2024 (Sábado)\nDeu Dezena, Palpite 3136 no 2º Prêmio!"
     ]
   },
   "BAHIA": {
@@ -72,7 +72,11 @@ const palpites = {
       "7447",
       "7440"
     ],
-    "frases": []
+    "frases": [
+      "10h - BA - Resultado do dia 23/11/2024 (Sábado)\nDeu Dezena, Palpite 1245 no 3º Prêmio!",
+      "10h - BA - Resultado do dia 23/11/2024 (Sábado)\nDeu Dezena, Palpite 1745 no 3º Prêmio!",
+      "10h - BA - Resultado do dia 23/11/2024 (Sábado)\nDeu Dezena, Palpite 1145 no 3º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
