@@ -1,43 +1,38 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "1271",
-      "1273",
-      "1272",
-      "1251",
-      "1253",
-      "1252",
-      "1201",
-      "1203",
-      "1202",
-      "1471",
-      "1473",
-      "1472",
-      "1451",
-      "1453",
-      "1452",
-      "1401",
-      "1403",
-      "1402",
-      "1971",
-      "1973",
-      "1972",
-      "1951",
-      "1953",
-      "1952",
-      "1901",
-      "1903",
-      "1902",
-      "3271",
-      "3273",
-      "3272"
+      "2136",
+      "2131",
+      "2132",
+      "2196",
+      "2191",
+      "2192",
+      "2106",
+      "2101",
+      "2102",
+      "2336",
+      "2331",
+      "2332",
+      "2396",
+      "2391",
+      "2392",
+      "2306",
+      "2301",
+      "2302",
+      "2536",
+      "2531",
+      "2532",
+      "2596",
+      "2591",
+      "2592",
+      "2506",
+      "2501",
+      "2502",
+      "3136",
+      "3131",
+      "3132"
     ],
-    "frases": [
-      "12h - MALUCA - BA - Resultado do dia 23/11/2024 (Sábado)\nDeu Dezena, Palpite 8354 no 4º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 23/11/2024 (Sábado)\nDeu Dezena, Palpite 8054 no 4º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 23/11/2024 (Sábado)\nDeu Dezena, Palpite 8154 no 4º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 23/11/2024 (Sábado)\nDeu Dezena, Palpite 7354 no 4º Prêmio!"
-    ]
+    "frases": []
   },
   "BAHIA": {
     "palpites": [
@@ -72,7 +67,11 @@ const palpites = {
       "8213",
       "8214"
     ],
-    "frases": []
+    "frases": [
+      "10h - BA - Resultado do dia 23/11/2024 (Sábado)\nDeu Dezena, Palpite 1245 no 3º Prêmio!",
+      "10h - BA - Resultado do dia 23/11/2024 (Sábado)\nDeu Dezena, Palpite 1745 no 3º Prêmio!",
+      "10h - BA - Resultado do dia 23/11/2024 (Sábado)\nDeu Dezena, Palpite 1145 no 3º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
