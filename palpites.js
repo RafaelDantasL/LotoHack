@@ -1,41 +1,41 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "9280",
-      "9284",
-      "9287",
-      "9250",
-      "9254",
-      "9257",
-      "9290",
-      "9294",
-      "9297",
-      "9780",
-      "9784",
-      "9787",
-      "9750",
-      "9754",
-      "9757",
-      "9790",
-      "9794",
-      "9797",
-      "9980",
-      "9984",
-      "9987",
-      "9950",
-      "9954",
-      "9957",
-      "9990",
-      "9994",
-      "9997",
-      "3280",
-      "3284",
-      "3287"
+      "2711",
+      "2712",
+      "2713",
+      "2771",
+      "2772",
+      "2773",
+      "2781",
+      "2782",
+      "2783",
+      "2311",
+      "2312",
+      "2313",
+      "2371",
+      "2372",
+      "2373",
+      "2381",
+      "2382",
+      "2383",
+      "2111",
+      "2112",
+      "2113",
+      "2171",
+      "2172",
+      "2173",
+      "2181",
+      "2182",
+      "2183",
+      "1711",
+      "1712",
+      "1713"
     ],
     "frases": [
-      "12h - MALUCA - BA - Resultado do dia 24/11/2024 (Domingo)\nDeu Dezena, Palpite 2100 no 10º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 24/11/2024 (Domingo)\nDeu Dezena, Palpite 2400 no 10º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 24/11/2024 (Domingo)\nDeu Dezena, Palpite 2600 no 10º Prêmio!"
+      "15h - MALUCA - BA - Resultado do dia 24/11/2024 (Domingo)\nDeu Dezena, Palpite 9250 no 8º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 24/11/2024 (Domingo)\nDeu Dezena, Palpite 9750 no 8º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 24/11/2024 (Domingo)\nDeu Dezena, Palpite 9950 no 8º Prêmio!"
     ]
   },
   "BAHIA": {
@@ -71,7 +71,18 @@ const palpites = {
       "5427",
       "5422"
     ],
-    "frases": []
+    "frases": [
+      "10h - BA - Resultado do dia 24/11/2024 (Domingo)\nDeu Dezena, Palpite 6813 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 24/11/2024 (Domingo)\nDeu Dezena, Palpite 6213 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 24/11/2024 (Domingo)\nDeu Milhar, Palpite 6413 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 24/11/2024 (Domingo)\nDeu Dezena, Palpite 2813 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 24/11/2024 (Domingo)\nDeu Dezena, Palpite 6854 no 4º Prêmio!",
+      "10h - BA - Resultado do dia 24/11/2024 (Domingo)\nDeu Dezena, Palpite 6254 no 4º Prêmio!",
+      "10h - BA - Resultado do dia 24/11/2024 (Domingo)\nDeu Dezena, Palpite 6454 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 24/11/2024 (Domingo)\nDeu Milhar, Palpite 4226 no 7º Prêmio!",
+      "12h - BA - Resultado do dia 24/11/2024 (Domingo)\nDeu Dezena, Palpite 4426 no 7º Prêmio!",
+      "12h - BA - Resultado do dia 24/11/2024 (Domingo)\nDeu Dezena, Palpite 4626 no 7º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
