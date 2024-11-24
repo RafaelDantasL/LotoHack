@@ -103,9 +103,54 @@ const palpites = {
       "4560"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 0369 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 0669 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 0269 no 2º Prêmio!",
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 8669 no 10º Prêmio!",
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 8969 no 10º Prêmio!",
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 8869 no 10º Prêmio!"
+    ]
+  },
+  "PT RIO": {
+    "palpites": [
+      "0011",
+      "0013",
+      "0010",
+      "0041",
+      "0043",
+      "0040",
+      "0081",
+      "0083",
+      "0080",
+      "0311",
+      "0313",
+      "0310",
+      "0341",
+      "0343",
+      "0340",
+      "0381",
+      "0383",
+      "0380",
+      "0811",
+      "0813",
+      "0810",
+      "0841",
+      "0843",
+      "0840",
+      "0881",
+      "0883",
+      "0880",
+      "2011",
+      "2013",
+      "2010"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 5283 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 5183 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 5583 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 5213 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 5113 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Milhar, Palpite 5513 no 5º Prêmio!"
     ]
   },
   "LOTECE": {
@@ -175,41 +220,6 @@ const palpites = {
       "5604",
       "5600",
       "5603"
-    ],
-    "frases": []
-  },
-  "PT RIO": {
-    "palpites": [
-      "5203",
-      "5205",
-      "5206",
-      "5213",
-      "5215",
-      "5216",
-      "5283",
-      "5285",
-      "5286",
-      "5103",
-      "5105",
-      "5106",
-      "5113",
-      "5115",
-      "5116",
-      "5183",
-      "5185",
-      "5186",
-      "5503",
-      "5505",
-      "5506",
-      "5513",
-      "5515",
-      "5516",
-      "5583",
-      "5585",
-      "5586",
-      "2203",
-      "2205",
-      "2206"
     ],
     "frases": []
   },
