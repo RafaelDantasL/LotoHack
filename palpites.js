@@ -192,11 +192,52 @@ const palpites = {
       "2474"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 5283 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 5183 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 5583 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 5213 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 5113 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Milhar, Palpite 5513 no 5º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 0010 no 1º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 0310 no 1º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 0810 no 1º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 2010 no 1º Prêmio!"
     ]
+  },
+  "PT SP": {
+    "palpites": [
+      "7020",
+      "7026",
+      "7029",
+      "7030",
+      "7036",
+      "7039",
+      "7060",
+      "7066",
+      "7069",
+      "7120",
+      "7126",
+      "7129",
+      "7130",
+      "7136",
+      "7139",
+      "7160",
+      "7166",
+      "7169",
+      "7220",
+      "7226",
+      "7229",
+      "7230",
+      "7236",
+      "7239",
+      "7260",
+      "7266",
+      "7269",
+      "1020",
+      "1026",
+      "1029"
+    ],
+    "frases": []
   },
   "LOTECE": {
     "palpites": [
@@ -230,41 +271,6 @@ const palpites = {
       "7044",
       "7046",
       "7048"
-    ],
-    "frases": []
-  },
-  "PT SP": {
-    "palpites": [
-      "4122",
-      "4125",
-      "4128",
-      "4162",
-      "4165",
-      "4168",
-      "4112",
-      "4115",
-      "4118",
-      "4422",
-      "4425",
-      "4428",
-      "4462",
-      "4465",
-      "4468",
-      "4412",
-      "4415",
-      "4418",
-      "4022",
-      "4025",
-      "4028",
-      "4062",
-      "4065",
-      "4068",
-      "4012",
-      "4015",
-      "4018",
-      "3122",
-      "3125",
-      "3128"
     ],
     "frases": []
   }
