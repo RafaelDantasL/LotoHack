@@ -1,46 +1,42 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "0544",
-      "0545",
-      "0546",
-      "0574",
-      "0575",
-      "0576",
-      "0514",
-      "0515",
-      "0516",
-      "0644",
-      "0645",
-      "0646",
-      "0674",
-      "0675",
-      "0676",
-      "0614",
-      "0615",
-      "0616",
-      "0944",
-      "0945",
-      "0946",
-      "0974",
-      "0975",
-      "0976",
-      "0914",
-      "0915",
-      "0916",
-      "3544",
-      "3545",
-      "3546"
+      "5462",
+      "5460",
+      "5461",
+      "5492",
+      "5490",
+      "5491",
+      "5412",
+      "5410",
+      "5411",
+      "5662",
+      "5660",
+      "5661",
+      "5692",
+      "5690",
+      "5691",
+      "5612",
+      "5610",
+      "5611",
+      "5862",
+      "5860",
+      "5861",
+      "5892",
+      "5890",
+      "5891",
+      "5812",
+      "5810",
+      "5811",
+      "1462",
+      "1460",
+      "1461"
     ],
     "frases": [
-      "12h - MALUCA - BA - Resultado do dia 23/11/2024 (Sábado)\nDeu Dezena, Palpite 8354 no 4º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 23/11/2024 (Sábado)\nDeu Dezena, Palpite 8054 no 4º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 23/11/2024 (Sábado)\nDeu Dezena, Palpite 8154 no 4º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 23/11/2024 (Sábado)\nDeu Dezena, Palpite 7354 no 4º Prêmio!",
-      "19h FEDERAL - MALUCA - BA - Resultado do dia 23/11/2024 (Sábado)\nDeu Dezena, Palpite 2136 no 2º Prêmio!",
-      "19h FEDERAL - MALUCA - BA - Resultado do dia 23/11/2024 (Sábado)\nDeu Dezena, Palpite 2336 no 2º Prêmio!",
-      "19h FEDERAL - MALUCA - BA - Resultado do dia 23/11/2024 (Sábado)\nDeu Dezena, Palpite 2536 no 2º Prêmio!",
-      "19h FEDERAL - MALUCA - BA - Resultado do dia 23/11/2024 (Sábado)\nDeu Dezena, Palpite 3136 no 2º Prêmio!"
+      "21h - MALUCA - BA - Resultado do dia 23/11/2024 (Sábado)\nDeu Dezena, Palpite 0574 no 7º Prêmio!",
+      "21h - MALUCA - BA - Resultado do dia 23/11/2024 (Sábado)\nDeu Centena, Palpite 0674 no 7º Prêmio!",
+      "21h - MALUCA - BA - Resultado do dia 23/11/2024 (Sábado)\nDeu Dezena, Palpite 0674 no 7º Prêmio!",
+      "21h - MALUCA - BA - Resultado do dia 23/11/2024 (Sábado)\nDeu Dezena, Palpite 0974 no 7º Prêmio!"
     ]
   },
   "BAHIA": {
@@ -76,7 +72,11 @@ const palpites = {
       "2813",
       "2814"
     ],
-    "frases": []
+    "frases": [
+      "10h - BA - Resultado do dia 23/11/2024 (Sábado)\nDeu Dezena, Palpite 1245 no 3º Prêmio!",
+      "10h - BA - Resultado do dia 23/11/2024 (Sábado)\nDeu Dezena, Palpite 1745 no 3º Prêmio!",
+      "10h - BA - Resultado do dia 23/11/2024 (Sábado)\nDeu Dezena, Palpite 1145 no 3º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
