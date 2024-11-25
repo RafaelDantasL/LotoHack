@@ -1,46 +1,42 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "4163",
-      "4160",
-      "4162",
-      "4113",
-      "4110",
-      "4112",
-      "4183",
-      "4180",
-      "4182",
-      "4663",
-      "4660",
-      "4662",
-      "4613",
-      "4610",
-      "4612",
-      "4683",
-      "4680",
-      "4682",
-      "4863",
-      "4860",
-      "4862",
-      "4813",
-      "4810",
-      "4812",
-      "4883",
-      "4880",
-      "4882",
-      "2163",
-      "2160",
-      "2162"
+      "8732",
+      "8735",
+      "8730",
+      "8702",
+      "8705",
+      "8700",
+      "8752",
+      "8755",
+      "8750",
+      "8232",
+      "8235",
+      "8230",
+      "8202",
+      "8205",
+      "8200",
+      "8252",
+      "8255",
+      "8250",
+      "8832",
+      "8835",
+      "8830",
+      "8802",
+      "8805",
+      "8800",
+      "8852",
+      "8855",
+      "8850",
+      "7732",
+      "7735",
+      "7730"
     ],
     "frases": [
-      "10h - MALUCA - Resultado do dia 25/11/2024 (Segunda-feira)\nDeu Dezena, Palpite 2713 no 2º Prêmio!",
-      "10h - MALUCA - Resultado do dia 25/11/2024 (Segunda-feira)\nDeu Dezena, Palpite 2313 no 2º Prêmio!",
-      "10h - MALUCA - Resultado do dia 25/11/2024 (Segunda-feira)\nDeu Centena, Palpite 2113 no 2º Prêmio!",
-      "10h - MALUCA - Resultado do dia 25/11/2024 (Segunda-feira)\nDeu Dezena, Palpite 2113 no 2º Prêmio!",
-      "10h - MALUCA - Resultado do dia 25/11/2024 (Segunda-feira)\nDeu Dezena, Palpite 1713 no 2º Prêmio!",
-      "10h - MALUCA - Resultado do dia 25/11/2024 (Segunda-feira)\nDeu Dezena, Palpite 2772 no 6º Prêmio!",
-      "10h - MALUCA - Resultado do dia 25/11/2024 (Segunda-feira)\nDeu Dezena, Palpite 2372 no 6º Prêmio!",
-      "10h - MALUCA - Resultado do dia 25/11/2024 (Segunda-feira)\nDeu Dezena, Palpite 2172 no 6º Prêmio!"
+      "12h - MALUCA - BA - Resultado do dia 25/11/2024 (Segunda-feira)\nDeu Dezena, Palpite 4160 no 7º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 25/11/2024 (Segunda-feira)\nDeu Dezena, Palpite 4660 no 7º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 25/11/2024 (Segunda-feira)\nDeu Dezena, Palpite 4860 no 7º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 25/11/2024 (Segunda-feira)\nDeu Dezena, Palpite 2160 no 7º Prêmio!"
     ]
   },
   "BAHIA": {
@@ -76,7 +72,14 @@ const palpites = {
       "7528",
       "7520"
     ],
-    "frases": []
+    "frases": [
+      "10h - BA - Resultado do dia 25/11/2024 (Segunda-feira)\nDeu Dezena, Palpite 3412 no 6º Prêmio!",
+      "10h - BA - Resultado do dia 25/11/2024 (Segunda-feira)\nDeu Dezena, Palpite 3512 no 6º Prêmio!",
+      "10h - BA - Resultado do dia 25/11/2024 (Segunda-feira)\nDeu Dezena, Palpite 3712 no 6º Prêmio!",
+      "10h - BA - Resultado do dia 25/11/2024 (Segunda-feira)\nDeu Dezena, Palpite 3407 no 8º Prêmio!",
+      "10h - BA - Resultado do dia 25/11/2024 (Segunda-feira)\nDeu Dezena, Palpite 3507 no 8º Prêmio!",
+      "10h - BA - Resultado do dia 25/11/2024 (Segunda-feira)\nDeu Dezena, Palpite 3707 no 8º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
