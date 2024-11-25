@@ -104,6 +104,46 @@ const palpites = {
     ],
     "frases": []
   },
+  "PT SP": {
+    "palpites": [
+      "0020",
+      "0022",
+      "0024",
+      "0030",
+      "0032",
+      "0034",
+      "0080",
+      "0082",
+      "0084",
+      "0720",
+      "0722",
+      "0724",
+      "0730",
+      "0732",
+      "0734",
+      "0780",
+      "0782",
+      "0784",
+      "0120",
+      "0122",
+      "0124",
+      "0130",
+      "0132",
+      "0134",
+      "0180",
+      "0182",
+      "0184",
+      "7020",
+      "7022",
+      "7024"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Centena, Palpite 1734 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1734 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1234 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1334 no 7º Prêmio!"
+    ]
+  },
   "LOTECE": {
     "palpites": [
       "5044",
@@ -206,41 +246,6 @@ const palpites = {
       "3714",
       "3715",
       "3717"
-    ],
-    "frases": []
-  },
-  "PT SP": {
-    "palpites": [
-      "1713",
-      "1718",
-      "1714",
-      "1733",
-      "1738",
-      "1734",
-      "1763",
-      "1768",
-      "1764",
-      "1213",
-      "1218",
-      "1214",
-      "1233",
-      "1238",
-      "1234",
-      "1263",
-      "1268",
-      "1264",
-      "1313",
-      "1318",
-      "1314",
-      "1333",
-      "1338",
-      "1334",
-      "1363",
-      "1368",
-      "1364",
-      "7713",
-      "7718",
-      "7714"
     ],
     "frases": []
   }
