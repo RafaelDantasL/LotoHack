@@ -51,49 +51,38 @@ const palpites = {
   },
   "BAHIA": {
     "palpites": [
-      "1311",
-      "1316",
-      "1318",
-      "1321",
-      "1326",
-      "1328",
-      "1371",
-      "1376",
-      "1378",
-      "1011",
-      "1016",
-      "1018",
-      "1021",
-      "1026",
-      "1028",
-      "1071",
-      "1076",
-      "1078",
-      "1911",
-      "1916",
-      "1918",
-      "1921",
-      "1926",
-      "1928",
-      "1971",
-      "1976",
-      "1978",
+      "4403",
+      "4404",
+      "4401",
+      "4473",
+      "4474",
+      "4471",
+      "4413",
+      "4414",
+      "4411",
+      "4103",
+      "4104",
+      "4101",
+      "4173",
+      "4174",
+      "4171",
+      "4113",
+      "4114",
+      "4111",
+      "4303",
+      "4304",
+      "4301",
+      "4373",
+      "4374",
+      "4371",
+      "4313",
+      "4314",
       "4311",
-      "4316",
-      "4318"
+      "8403",
+      "8404",
+      "8401"
     ],
-    "frases": [
-      "10h - BA - Resultado do dia 26/11/2024 (Terça-feira)\nDeu Dezena, Palpite 1588 no 8º Prêmio!",
-      "10h - BA - Resultado do dia 26/11/2024 (Terça-feira)\nDeu Dezena, Palpite 1388 no 8º Prêmio!",
-      "10h - BA - Resultado do dia 26/11/2024 (Terça-feira)\nDeu Dezena, Palpite 1488 no 8º Prêmio!",
-      "10h - BA - Resultado do dia 26/11/2024 (Terça-feira)\nDeu Dezena, Palpite 3588 no 8º Prêmio!",
-      "12h - BA - Resultado do dia 26/11/2024 (Terça-feira)\nDeu Dezena, Palpite 1616 no 1º Prêmio!",
-      "12h - BA - Resultado do dia 26/11/2024 (Terça-feira)\nDeu Dezena, Palpite 1116 no 1º Prêmio!",
-      "12h - BA - Resultado do dia 26/11/2024 (Terça-feira)\nDeu Dezena, Palpite 1216 no 1º Prêmio!",
-      "12h - BA - Resultado do dia 26/11/2024 (Terça-feira)\nDeu Dezena, Palpite 1616 no 3º Prêmio!",
-      "12h - BA - Resultado do dia 26/11/2024 (Terça-feira)\nDeu Dezena, Palpite 1116 no 3º Prêmio!",
-      "12h - BA - Resultado do dia 26/11/2024 (Terça-feira)\nDeu Dezena, Palpite 1216 no 3º Prêmio!"
-    ]
+    "frases": []
   },
   "LOTECE": {
     "palpites": [
@@ -253,7 +242,12 @@ const palpites = {
       "2621",
       "2628"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 9260 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 9860 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 9060 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 6260 no 1º Prêmio!"
+    ]
   },
   "PT SP": {
     "palpites": [
