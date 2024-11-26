@@ -74,6 +74,41 @@ const palpites = {
       "10h - BA - Resultado do dia 26/11/2024 (Terça-feira)\nDeu Dezena, Palpite 3588 no 8º Prêmio!"
     ]
   },
+  "LOTECE": {
+    "palpites": [
+      "0307",
+      "0309",
+      "0300",
+      "0327",
+      "0329",
+      "0320",
+      "0347",
+      "0349",
+      "0340",
+      "0807",
+      "0809",
+      "0800",
+      "0827",
+      "0829",
+      "0820",
+      "0847",
+      "0849",
+      "0840",
+      "0207",
+      "0209",
+      "0200",
+      "0227",
+      "0229",
+      "0220",
+      "0247",
+      "0249",
+      "0240",
+      "4307",
+      "4309",
+      "4300"
+    ],
+    "frases": []
+  },
   "LOOK/GOIAS": {
     "palpites": [
       "2522",
@@ -143,6 +178,9 @@ const palpites = {
       "6133"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 7213 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 7313 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 7713 no 4º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Centena, Palpite 5433 no 8º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 5433 no 8º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 5933 no 8º Prêmio!",
@@ -150,41 +188,6 @@ const palpites = {
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Centena, Palpite 9433 no 8º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 9433 no 8º Prêmio!"
     ]
-  },
-  "LOTECE": {
-    "palpites": [
-      "2034",
-      "2037",
-      "2038",
-      "2074",
-      "2077",
-      "2078",
-      "2014",
-      "2017",
-      "2018",
-      "2334",
-      "2337",
-      "2338",
-      "2374",
-      "2377",
-      "2378",
-      "2314",
-      "2317",
-      "2318",
-      "2634",
-      "2637",
-      "2638",
-      "2674",
-      "2677",
-      "2678",
-      "2614",
-      "2617",
-      "2618",
-      "3034",
-      "3037",
-      "3038"
-    ],
-    "frases": []
   },
   "PT RIO": {
     "palpites": [
