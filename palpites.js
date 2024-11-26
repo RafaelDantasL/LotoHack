@@ -32,7 +32,22 @@ const palpites = {
       "1413",
       "1410"
     ],
-    "frases": []
+    "frases": [
+      "12h - MALUCA - BA - Resultado do dia 26/11/2024 (Terça-feira)\nDeu Dezena, Palpite 2161 no 1º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 26/11/2024 (Terça-feira)\nDeu Dezena, Palpite 2661 no 1º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 26/11/2024 (Terça-feira)\nDeu Dezena, Palpite 2761 no 1º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 26/11/2024 (Terça-feira)\nDeu Dezena, Palpite 2121 no 4º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 26/11/2024 (Terça-feira)\nDeu Dezena, Palpite 2621 no 4º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 26/11/2024 (Terça-feira)\nDeu Dezena, Palpite 2721 no 4º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 26/11/2024 (Terça-feira)\nDeu Dezena, Palpite 6121 no 4º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 26/11/2024 (Terça-feira)\nDeu Dezena, Palpite 2161 no 5º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 26/11/2024 (Terça-feira)\nDeu Dezena, Palpite 2661 no 5º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 26/11/2024 (Terça-feira)\nDeu Centena, Palpite 2761 no 5º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 26/11/2024 (Terça-feira)\nDeu Dezena, Palpite 2761 no 5º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 26/11/2024 (Terça-feira)\nDeu Dezena, Palpite 2181 no 6º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 26/11/2024 (Terça-feira)\nDeu Dezena, Palpite 2681 no 6º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 26/11/2024 (Terça-feira)\nDeu Dezena, Palpite 2781 no 6º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -247,42 +262,37 @@ const palpites = {
   },
   "PT SP": {
     "palpites": [
-      "8066",
-      "8061",
-      "8064",
-      "8036",
-      "8031",
-      "8034",
-      "8016",
-      "8011",
-      "8014",
-      "8866",
-      "8861",
-      "8864",
-      "8836",
-      "8831",
-      "8834",
-      "8816",
-      "8811",
-      "8814",
-      "8966",
-      "8961",
-      "8964",
-      "8936",
-      "8931",
-      "8934",
-      "8916",
-      "8911",
-      "8914",
-      "9066",
-      "9061",
-      "9064"
+      "1432",
+      "1430",
+      "1431",
+      "1472",
+      "1470",
+      "1471",
+      "1422",
+      "1420",
+      "1421",
+      "1232",
+      "1230",
+      "1231",
+      "1272",
+      "1270",
+      "1271",
+      "1222",
+      "1220",
+      "1221",
+      "1932",
+      "1930",
+      "1931",
+      "1972",
+      "1970",
+      "1971",
+      "1922",
+      "1920",
+      "1921",
+      "3432",
+      "3430",
+      "3431"
     ],
-    "frases": [
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 9090 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 9190 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 9990 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3090 no 6º Prêmio!"
-    ]
+    "frases": []
   }
 };
