@@ -103,10 +103,52 @@ const palpites = {
       "7030"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 6016 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 6116 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 6616 no 2º Prêmio!",
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 1195 no 3º Prêmio!",
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Centena, Palpite 1495 no 3º Prêmio!",
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 1495 no 3º Prêmio!",
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 1695 no 3º Prêmio!"
+    ]
+  },
+  "PT RIO": {
+    "palpites": [
+      "9902",
+      "9903",
+      "9906",
+      "9942",
+      "9943",
+      "9946",
+      "9952",
+      "9953",
+      "9956",
+      "9002",
+      "9003",
+      "9006",
+      "9042",
+      "9043",
+      "9046",
+      "9052",
+      "9053",
+      "9056",
+      "9702",
+      "9703",
+      "9706",
+      "9742",
+      "9743",
+      "9746",
+      "9752",
+      "9753",
+      "9756",
+      "2902",
+      "2903",
+      "2906"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 9013 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 9913 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 9113 no 10º Prêmio!"
     ]
   },
   "LOTECE": {
@@ -176,41 +218,6 @@ const palpites = {
       "7762",
       "7767",
       "7765"
-    ],
-    "frases": []
-  },
-  "PT RIO": {
-    "palpites": [
-      "9092",
-      "9093",
-      "9090",
-      "9022",
-      "9023",
-      "9020",
-      "9012",
-      "9013",
-      "9010",
-      "9992",
-      "9993",
-      "9990",
-      "9922",
-      "9923",
-      "9920",
-      "9912",
-      "9913",
-      "9910",
-      "9192",
-      "9193",
-      "9190",
-      "9122",
-      "9123",
-      "9120",
-      "9112",
-      "9113",
-      "9110",
-      "0092",
-      "0093",
-      "0090"
     ],
     "frases": []
   },
