@@ -103,9 +103,56 @@ const palpites = {
       "2321"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 4111 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Centena, Palpite 4211 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 4211 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 4411 no 1º Prêmio!",
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 0700 no 9º Prêmio!",
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 0800 no 9º Prêmio!",
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 0000 no 9º Prêmio!"
+    ]
+  },
+  "PT RIO": {
+    "palpites": [
+      "2011",
+      "2012",
+      "2015",
+      "2001",
+      "2002",
+      "2005",
+      "2041",
+      "2042",
+      "2045",
+      "2111",
+      "2112",
+      "2115",
+      "2101",
+      "2102",
+      "2105",
+      "2141",
+      "2142",
+      "2145",
+      "2311",
+      "2312",
+      "2315",
+      "2301",
+      "2302",
+      "2305",
+      "2341",
+      "2342",
+      "2345",
+      "7011",
+      "7012",
+      "7015"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 8115 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 8515 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 8015 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 8111 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 8511 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Centena, Palpite 8011 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 8011 no 8º Prêmio!"
     ]
   },
   "LOTECE": {
@@ -175,41 +222,6 @@ const palpites = {
       "7452",
       "7453",
       "7457"
-    ],
-    "frases": []
-  },
-  "PT RIO": {
-    "palpites": [
-      "8161",
-      "8165",
-      "8160",
-      "8111",
-      "8115",
-      "8110",
-      "8131",
-      "8135",
-      "8130",
-      "8561",
-      "8565",
-      "8560",
-      "8511",
-      "8515",
-      "8510",
-      "8531",
-      "8535",
-      "8530",
-      "8061",
-      "8065",
-      "8060",
-      "8011",
-      "8015",
-      "8010",
-      "8031",
-      "8035",
-      "8030",
-      "5161",
-      "5165",
-      "5160"
     ],
     "frases": []
   },
