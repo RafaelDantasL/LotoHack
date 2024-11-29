@@ -139,53 +139,38 @@ const palpites = {
   },
   "LOOK/GOIAS": {
     "palpites": [
-      "5385",
-      "5383",
-      "5386",
-      "5305",
-      "5303",
-      "5306",
-      "5325",
-      "5323",
-      "5326",
-      "5285",
-      "5283",
-      "5286",
-      "5205",
-      "5203",
-      "5206",
-      "5225",
-      "5223",
-      "5226",
-      "5885",
-      "5883",
-      "5886",
-      "5805",
-      "5803",
-      "5806",
-      "5825",
-      "5823",
-      "5826",
-      "0385",
-      "0383",
-      "0386"
+      "3949",
+      "3944",
+      "3940",
+      "3929",
+      "3924",
+      "3920",
+      "3939",
+      "3934",
+      "3930",
+      "3149",
+      "3144",
+      "3140",
+      "3129",
+      "3124",
+      "3120",
+      "3139",
+      "3134",
+      "3130",
+      "3249",
+      "3244",
+      "3240",
+      "3229",
+      "3224",
+      "3220",
+      "3239",
+      "3234",
+      "3230",
+      "5949",
+      "5944",
+      "5940"
     ],
-    "frases": [
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 9050 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Centena, Palpite 9450 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 9450 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 9650 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 9022 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 9422 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 9622 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 2022 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 14h, 1º ao 10º\nDeu Dezena, Palpite 7083 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 14h, 1º ao 10º\nDeu Dezena, Palpite 7183 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 14h, 1º ao 10º\nDeu Dezena, Palpite 7683 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 14h, 1º ao 10º\nDeu Dezena, Palpite 7086 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 14h, 1º ao 10º\nDeu Dezena, Palpite 7186 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 14h, 1º ao 10º\nDeu Dezena, Palpite 7686 no 4º Prêmio!"
-    ]
+    "frases": []
   },
   "LOTEP": {
     "palpites": [
@@ -220,7 +205,11 @@ const palpites = {
       "5425",
       "5421"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 7867 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 7167 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 7267 no 4º Prêmio!"
+    ]
   },
   "PT RIO": {
     "palpites": [
