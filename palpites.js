@@ -73,6 +73,45 @@ const palpites = {
     ],
     "frases": []
   },
+  "LOTECE": {
+    "palpites": [
+      "3083",
+      "3084",
+      "3087",
+      "3023",
+      "3024",
+      "3027",
+      "3043",
+      "3044",
+      "3047",
+      "3383",
+      "3384",
+      "3387",
+      "3323",
+      "3324",
+      "3327",
+      "3343",
+      "3344",
+      "3347",
+      "3683",
+      "3684",
+      "3687",
+      "3623",
+      "3624",
+      "3627",
+      "3643",
+      "3644",
+      "3647",
+      "1083",
+      "1084",
+      "1087"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 4687 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 4287 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 4387 no 1º Prêmio!"
+    ]
+  },
   "LOOK/GOIAS": {
     "palpites": [
       "0015",
@@ -150,42 +189,11 @@ const palpites = {
       "4668",
       "4664"
     ],
-    "frases": []
-  },
-  "LOTECE": {
-    "palpites": [
-      "4608",
-      "4607",
-      "4600",
-      "4688",
-      "4687",
-      "4680",
-      "4628",
-      "4627",
-      "4620",
-      "4208",
-      "4207",
-      "4200",
-      "4288",
-      "4287",
-      "4280",
-      "4228",
-      "4227",
-      "4220",
-      "4308",
-      "4307",
-      "4300",
-      "4388",
-      "4387",
-      "4380",
-      "4328",
-      "4327",
-      "4320",
-      "6608",
-      "6607",
-      "6600"
-    ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 7867 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 7167 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 7267 no 4º Prêmio!"
+    ]
   },
   "PT RIO": {
     "palpites": [
