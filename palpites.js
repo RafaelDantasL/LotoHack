@@ -128,7 +128,14 @@ const palpites = {
       "1142",
       "1145"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 4687 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 4287 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 4387 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)\nDeu Dezena, Palpite 3027 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)\nDeu Dezena, Palpite 3327 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)\nDeu Dezena, Palpite 3627 no 5º Prêmio!"
+    ]
   },
   "LOOK/GOIAS": {
     "palpites": [
@@ -182,42 +189,38 @@ const palpites = {
   },
   "LOTEP": {
     "palpites": [
-      "4389",
-      "4384",
-      "4388",
-      "4339",
-      "4334",
-      "4338",
-      "4349",
-      "4344",
-      "4348",
-      "4789",
-      "4784",
-      "4788",
-      "4739",
-      "4734",
-      "4738",
-      "4749",
-      "4744",
-      "4748",
-      "4889",
-      "4884",
-      "4888",
-      "4839",
-      "4834",
-      "4838",
-      "4849",
-      "4844",
-      "4848",
-      "3389",
-      "3384",
-      "3388"
+      "9428",
+      "9425",
+      "9421",
+      "9458",
+      "9455",
+      "9451",
+      "9478",
+      "9475",
+      "9471",
+      "9828",
+      "9825",
+      "9821",
+      "9858",
+      "9855",
+      "9851",
+      "9878",
+      "9875",
+      "9871",
+      "9128",
+      "9125",
+      "9121",
+      "9158",
+      "9155",
+      "9151",
+      "9178",
+      "9175",
+      "9171",
+      "5428",
+      "5425",
+      "5421"
     ],
-    "frases": [
-      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 7867 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 7167 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 7267 no 4º Prêmio!"
-    ]
+    "frases": []
   },
   "PT RIO": {
     "palpites": [
