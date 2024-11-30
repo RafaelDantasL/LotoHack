@@ -83,6 +83,45 @@ const palpites = {
       "10h - BA - Resultado do dia 30/11/2024 (Sábado)\nDeu Dezena, Palpite 4079 no 10º Prêmio!"
     ]
   },
+  "LOTECE": {
+    "palpites": [
+      "1221",
+      "1229",
+      "1220",
+      "1231",
+      "1239",
+      "1230",
+      "1271",
+      "1279",
+      "1270",
+      "1021",
+      "1029",
+      "1020",
+      "1031",
+      "1039",
+      "1030",
+      "1071",
+      "1079",
+      "1070",
+      "1321",
+      "1329",
+      "1320",
+      "1331",
+      "1339",
+      "1330",
+      "1371",
+      "1379",
+      "1370",
+      "2221",
+      "2229",
+      "2220"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 4885 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 4985 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 4085 no 1º Prêmio!"
+    ]
+  },
   "LOOK/GOIAS": {
     "palpites": [
       "1075",
@@ -155,42 +194,12 @@ const palpites = {
       "4181",
       "4184"
     ],
-    "frases": []
-  },
-  "LOTECE": {
-    "palpites": [
-      "4867",
-      "4868",
-      "4865",
-      "4887",
-      "4888",
-      "4885",
-      "4817",
-      "4818",
-      "4815",
-      "4967",
-      "4968",
-      "4965",
-      "4987",
-      "4988",
-      "4985",
-      "4917",
-      "4918",
-      "4915",
-      "4067",
-      "4068",
-      "4065",
-      "4087",
-      "4088",
-      "4085",
-      "4017",
-      "4018",
-      "4015",
-      "9867",
-      "9868",
-      "9865"
-    ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 1901 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 1001 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 1501 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 2901 no 7º Prêmio!"
+    ]
   },
   "PT RIO": {
     "palpites": [
