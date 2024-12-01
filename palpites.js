@@ -102,7 +102,58 @@ const palpites = {
       "6033",
       "6031"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 3313 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 3413 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 3513 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 3370 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 3470 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 3570 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 1370 no 8º Prêmio!"
+    ]
+  },
+  "PT RIO": {
+    "palpites": [
+      "9413",
+      "9414",
+      "9411",
+      "9453",
+      "9454",
+      "9451",
+      "9493",
+      "9494",
+      "9491",
+      "9513",
+      "9514",
+      "9511",
+      "9553",
+      "9554",
+      "9551",
+      "9593",
+      "9594",
+      "9591",
+      "9813",
+      "9814",
+      "9811",
+      "9853",
+      "9854",
+      "9851",
+      "9893",
+      "9894",
+      "9891",
+      "3413",
+      "3414",
+      "3411"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 1464 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 1664 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 1164 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 3464 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 1413 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 1613 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 1113 no 9º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
@@ -171,41 +222,6 @@ const palpites = {
       "4256",
       "4250",
       "4255"
-    ],
-    "frases": []
-  },
-  "PT RIO": {
-    "palpites": [
-      "1463",
-      "1464",
-      "1466",
-      "1413",
-      "1414",
-      "1416",
-      "1423",
-      "1424",
-      "1426",
-      "1663",
-      "1664",
-      "1666",
-      "1613",
-      "1614",
-      "1616",
-      "1623",
-      "1624",
-      "1626",
-      "1163",
-      "1164",
-      "1166",
-      "1113",
-      "1114",
-      "1116",
-      "1123",
-      "1124",
-      "1126",
-      "3463",
-      "3464",
-      "3466"
     ],
     "frases": []
   },
