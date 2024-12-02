@@ -74,6 +74,50 @@ const palpites = {
       "10h - BA - Resultado do dia 02/12/2024 (Segunda-feira)\nDeu Dezena, Palpite 2775 no 4º Prêmio!"
     ]
   },
+  "LOTECE": {
+    "palpites": [
+      "4301",
+      "4304",
+      "4300",
+      "4321",
+      "4324",
+      "4320",
+      "4381",
+      "4384",
+      "4380",
+      "4401",
+      "4404",
+      "4400",
+      "4421",
+      "4424",
+      "4420",
+      "4481",
+      "4484",
+      "4480",
+      "4901",
+      "4904",
+      "4900",
+      "4921",
+      "4924",
+      "4920",
+      "4981",
+      "4984",
+      "4980",
+      "3301",
+      "3304",
+      "3300"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 3182 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Centena, Palpite 3282 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 3282 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 3982 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 3104 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 3204 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 3904 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 4104 no 7º Prêmio!"
+    ]
+  },
   "LOOK/GOIAS": {
     "palpites": [
       "6895",
@@ -143,45 +187,14 @@ const palpites = {
       "3375"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 8823 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 8223 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 8723 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 3823 no 7º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 3663 no 5º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 3263 no 5º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 3163 no 5º Prêmio!"
     ]
-  },
-  "LOTECE": {
-    "palpites": [
-      "3104",
-      "3100",
-      "3102",
-      "3164",
-      "3160",
-      "3162",
-      "3184",
-      "3180",
-      "3182",
-      "3204",
-      "3200",
-      "3202",
-      "3264",
-      "3260",
-      "3262",
-      "3284",
-      "3280",
-      "3282",
-      "3904",
-      "3900",
-      "3902",
-      "3964",
-      "3960",
-      "3962",
-      "3984",
-      "3980",
-      "3982",
-      "4104",
-      "4100",
-      "4102"
-    ],
-    "frases": []
   },
   "PT RIO": {
     "palpites": [
