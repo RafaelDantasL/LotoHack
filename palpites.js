@@ -103,6 +103,9 @@ const palpites = {
       "6171"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 0011 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 0411 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 0811 no 2º Prêmio!",
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Centena, Palpite 5179 no 6º Prêmio!",
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 5179 no 6º Prêmio!",
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 5479 no 6º Prêmio!",
@@ -111,6 +114,45 @@ const palpites = {
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 5468 no 10º Prêmio!",
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 5368 no 10º Prêmio!",
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 8168 no 10º Prêmio!"
+    ]
+  },
+  "PT RIO": {
+    "palpites": [
+      "0405",
+      "0404",
+      "0409",
+      "0495",
+      "0494",
+      "0499",
+      "0415",
+      "0414",
+      "0419",
+      "0505",
+      "0504",
+      "0509",
+      "0595",
+      "0594",
+      "0599",
+      "0515",
+      "0514",
+      "0519",
+      "0605",
+      "0604",
+      "0609",
+      "0695",
+      "0694",
+      "0699",
+      "0615",
+      "0614",
+      "0619",
+      "9405",
+      "9404",
+      "9409"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 9775 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 9475 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 9075 no 6º Prêmio!"
     ]
   },
   "LOTECE": {
@@ -180,41 +222,6 @@ const palpites = {
       "6166",
       "6163",
       "6160"
-    ],
-    "frases": []
-  },
-  "PT RIO": {
-    "palpites": [
-      "9723",
-      "9725",
-      "9729",
-      "9773",
-      "9775",
-      "9779",
-      "9783",
-      "9785",
-      "9789",
-      "9423",
-      "9425",
-      "9429",
-      "9473",
-      "9475",
-      "9479",
-      "9483",
-      "9485",
-      "9489",
-      "9023",
-      "9025",
-      "9029",
-      "9073",
-      "9075",
-      "9079",
-      "9083",
-      "9085",
-      "9089",
-      "3723",
-      "3725",
-      "3729"
     ],
     "frases": []
   },
