@@ -1,38 +1,42 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "3267",
-      "3262",
-      "3260",
-      "3217",
-      "3212",
-      "3210",
-      "3277",
-      "3272",
-      "3270",
-      "3767",
-      "3762",
-      "3760",
-      "3717",
-      "3712",
-      "3710",
-      "3777",
-      "3772",
-      "3770",
-      "3067",
-      "3062",
-      "3060",
-      "3017",
-      "3012",
-      "3010",
-      "3077",
-      "3072",
-      "3070",
-      "8267",
-      "8262",
-      "8260"
+      "9097",
+      "9090",
+      "9096",
+      "9027",
+      "9020",
+      "9026",
+      "9067",
+      "9060",
+      "9066",
+      "9597",
+      "9590",
+      "9596",
+      "9527",
+      "9520",
+      "9526",
+      "9567",
+      "9560",
+      "9566",
+      "9997",
+      "9990",
+      "9996",
+      "9927",
+      "9920",
+      "9926",
+      "9967",
+      "9960",
+      "9966",
+      "8097",
+      "8090",
+      "8096"
     ],
-    "frases": []
+    "frases": [
+      "12h - MALUCA - BA - Resultado do dia 05/12/2024 (Quinta-feira)\nDeu Dezena, Palpite 3217 no 10º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 05/12/2024 (Quinta-feira)\nDeu Dezena, Palpite 3717 no 10º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 05/12/2024 (Quinta-feira)\nDeu Dezena, Palpite 3017 no 10º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -67,7 +71,18 @@ const palpites = {
       "7068",
       "7069"
     ],
-    "frases": []
+    "frases": [
+      "10h - BA - Resultado do dia 05/12/2024 (Quinta-feira)\nDeu Dezena, Palpite 2839 no 1º Prêmio!",
+      "10h - BA - Resultado do dia 05/12/2024 (Quinta-feira)\nDeu Dezena, Palpite 2339 no 1º Prêmio!",
+      "10h - BA - Resultado do dia 05/12/2024 (Quinta-feira)\nDeu Dezena, Palpite 2039 no 1º Prêmio!",
+      "10h - BA - Resultado do dia 05/12/2024 (Quinta-feira)\nDeu Dezena, Palpite 2817 no 3º Prêmio!",
+      "10h - BA - Resultado do dia 05/12/2024 (Quinta-feira)\nDeu Dezena, Palpite 2317 no 3º Prêmio!",
+      "10h - BA - Resultado do dia 05/12/2024 (Quinta-feira)\nDeu Dezena, Palpite 2017 no 3º Prêmio!",
+      "10h - BA - Resultado do dia 05/12/2024 (Quinta-feira)\nDeu Dezena, Palpite 6817 no 3º Prêmio!",
+      "10h - BA - Resultado do dia 05/12/2024 (Quinta-feira)\nDeu Dezena, Palpite 2827 no 10º Prêmio!",
+      "10h - BA - Resultado do dia 05/12/2024 (Quinta-feira)\nDeu Dezena, Palpite 2327 no 10º Prêmio!",
+      "10h - BA - Resultado do dia 05/12/2024 (Quinta-feira)\nDeu Dezena, Palpite 2027 no 10º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
