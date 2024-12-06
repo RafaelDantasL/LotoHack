@@ -32,7 +32,14 @@ const palpites = {
       "8210",
       "8212"
     ],
-    "frases": []
+    "frases": [
+      "12h - MALUCA - BA - Resultado do dia 05/12/2024 (Quinta-feira)\nDeu Dezena, Palpite 3217 no 10º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 05/12/2024 (Quinta-feira)\nDeu Dezena, Palpite 3717 no 10º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 05/12/2024 (Quinta-feira)\nDeu Dezena, Palpite 3017 no 10º Prêmio!",
+      "19h - MALUCA - BA - Resultado do dia 05/12/2024 (Quinta-feira)\nDeu Dezena, Palpite 4717 no 7º Prêmio!",
+      "19h - MALUCA - BA - Resultado do dia 05/12/2024 (Quinta-feira)\nDeu Dezena, Palpite 4917 no 7º Prêmio!",
+      "19h - MALUCA - BA - Resultado do dia 05/12/2024 (Quinta-feira)\nDeu Dezena, Palpite 4117 no 7º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -275,48 +282,38 @@ const palpites = {
   },
   "PT RIO": {
     "palpites": [
-      "4215",
-      "4217",
-      "4211",
-      "4295",
-      "4297",
-      "4291",
-      "4225",
-      "4227",
-      "4221",
-      "4615",
-      "4617",
-      "4611",
-      "4695",
-      "4697",
-      "4691",
-      "4625",
-      "4627",
-      "4621",
-      "4015",
-      "4017",
-      "4011",
-      "4095",
-      "4097",
-      "4091",
-      "4025",
-      "4027",
-      "4021",
-      "6215",
-      "6217",
-      "6211"
+      "2447",
+      "2448",
+      "2449",
+      "2457",
+      "2458",
+      "2459",
+      "2427",
+      "2428",
+      "2429",
+      "2747",
+      "2748",
+      "2749",
+      "2757",
+      "2758",
+      "2759",
+      "2727",
+      "2728",
+      "2729",
+      "2847",
+      "2848",
+      "2849",
+      "2857",
+      "2858",
+      "2859",
+      "2827",
+      "2828",
+      "2829",
+      "5447",
+      "5448",
+      "5449"
     ],
-    "frases": [
-      "Resultado do Jogo do Bicho RJ, 18:20, PTN, 1º ao 10º\nDeu Dezena, Palpite 1111 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 18:20, PTN, 1º ao 10º\nDeu Dezena, Palpite 1611 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 18:20, PTN, 1º ao 10º\nDeu Dezena, Palpite 1911 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 18:20, PTN, 1º ao 10º\nDeu Dezena, Palpite 0111 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 18:20, PTN, 1º ao 10º\nDeu Dezena, Palpite 1111 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 18:20, PTN, 1º ao 10º\nDeu Dezena, Palpite 1611 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 18:20, PTN, 1º ao 10º\nDeu Centena, Palpite 1911 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 18:20, PTN, 1º ao 10º\nDeu Dezena, Palpite 1911 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 18:20, PTN, 1º ao 10º\nDeu Dezena, Palpite 0111 no 8º Prêmio!"
-    ]
+    "frases": []
   },
   "PT SP": {
     "palpites": [
