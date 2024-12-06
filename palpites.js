@@ -85,6 +85,46 @@ const palpites = {
       "10h - BA - Resultado do dia 06/12/2024 (Sexta-feira)\nDeu Dezena, Palpite 0467 no 8º Prêmio!"
     ]
   },
+  "LOTECE": {
+    "palpites": [
+      "2806",
+      "2802",
+      "2805",
+      "2856",
+      "2852",
+      "2855",
+      "2866",
+      "2862",
+      "2865",
+      "2006",
+      "2002",
+      "2005",
+      "2056",
+      "2052",
+      "2055",
+      "2066",
+      "2062",
+      "2065",
+      "2106",
+      "2102",
+      "2105",
+      "2156",
+      "2152",
+      "2155",
+      "2166",
+      "2162",
+      "2165",
+      "0806",
+      "0802",
+      "0805"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 4262 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 4762 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 4062 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 6262 no 4º Prêmio!"
+    ]
+  },
   "LOOK/GOIAS": {
     "palpites": [
       "0977",
@@ -157,41 +197,6 @@ const palpites = {
       "1199",
       "1193",
       "1190"
-    ],
-    "frases": []
-  },
-  "LOTECE": {
-    "palpites": [
-      "4262",
-      "4264",
-      "4260",
-      "4212",
-      "4214",
-      "4210",
-      "4202",
-      "4204",
-      "4200",
-      "4762",
-      "4764",
-      "4760",
-      "4712",
-      "4714",
-      "4710",
-      "4702",
-      "4704",
-      "4700",
-      "4062",
-      "4064",
-      "4060",
-      "4012",
-      "4014",
-      "4010",
-      "4002",
-      "4004",
-      "4000",
-      "6262",
-      "6264",
-      "6260"
     ],
     "frases": []
   },
