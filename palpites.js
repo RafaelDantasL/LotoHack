@@ -75,6 +75,46 @@ const palpites = {
     ],
     "frases": []
   },
+  "LOTECE": {
+    "palpites": [
+      "4441",
+      "4443",
+      "4442",
+      "4481",
+      "4483",
+      "4482",
+      "4411",
+      "4413",
+      "4412",
+      "4141",
+      "4143",
+      "4142",
+      "4181",
+      "4183",
+      "4182",
+      "4111",
+      "4113",
+      "4112",
+      "4041",
+      "4043",
+      "4042",
+      "4081",
+      "4083",
+      "4082",
+      "4011",
+      "4013",
+      "4012",
+      "6441",
+      "6443",
+      "6442"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 3213 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 3313 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 3913 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 4213 no 2º Prêmio!"
+    ]
+  },
   "LOOK/GOIAS": {
     "palpites": [
       "4436",
@@ -155,6 +195,10 @@ const palpites = {
       "3485"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 5559 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 5759 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 5859 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 2559 no 9º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 4289 no 2º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 4389 no 2º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 4089 no 2º Prêmio!",
@@ -162,41 +206,6 @@ const palpites = {
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 4381 no 4º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 4081 no 4º Prêmio!"
     ]
-  },
-  "LOTECE": {
-    "palpites": [
-      "3213",
-      "3214",
-      "3219",
-      "3223",
-      "3224",
-      "3229",
-      "3293",
-      "3294",
-      "3299",
-      "3313",
-      "3314",
-      "3319",
-      "3323",
-      "3324",
-      "3329",
-      "3393",
-      "3394",
-      "3399",
-      "3913",
-      "3914",
-      "3919",
-      "3923",
-      "3924",
-      "3929",
-      "3993",
-      "3994",
-      "3999",
-      "4213",
-      "4214",
-      "4219"
-    ],
-    "frases": []
   },
   "PT RIO": {
     "palpites": [
