@@ -1,43 +1,45 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "8111",
-      "8115",
-      "8118",
-      "8121",
-      "8125",
-      "8128",
-      "8141",
-      "8145",
-      "8148",
-      "8211",
-      "8215",
-      "8218",
-      "8221",
-      "8225",
-      "8228",
-      "8241",
-      "8245",
-      "8248",
-      "8511",
+      "1513",
+      "1515",
+      "1518",
+      "1563",
+      "1565",
+      "1568",
+      "1523",
+      "1525",
+      "1528",
+      "1013",
+      "1015",
+      "1018",
+      "1063",
+      "1065",
+      "1068",
+      "1023",
+      "1025",
+      "1028",
+      "1113",
+      "1115",
+      "1118",
+      "1163",
+      "1165",
+      "1168",
+      "1123",
+      "1125",
+      "1128",
+      "8513",
       "8515",
-      "8518",
-      "8521",
-      "8525",
-      "8528",
-      "8541",
-      "8545",
-      "8548",
-      "2111",
-      "2115",
-      "2118"
+      "8518"
     ],
     "frases": [
-      "10h - MALUCA - Resultado do dia 07/12/2024 (Sábado)\nDeu Dezena, Palpite 0453 no 8º Prêmio!",
-      "10h - MALUCA - Resultado do dia 07/12/2024 (Sábado)\nDeu Dezena, Palpite 0353 no 8º Prêmio!",
-      "10h - MALUCA - Resultado do dia 07/12/2024 (Sábado)\nDeu Centena, Palpite 0653 no 8º Prêmio!",
-      "10h - MALUCA - Resultado do dia 07/12/2024 (Sábado)\nDeu Dezena, Palpite 0653 no 8º Prêmio!",
-      "10h - MALUCA - Resultado do dia 07/12/2024 (Sábado)\nDeu Dezena, Palpite 9453 no 8º Prêmio!"
+      "15h - MALUCA - BA - Resultado do dia 07/12/2024 (Sábado)\nDeu Dezena, Palpite 8118 no 2º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 07/12/2024 (Sábado)\nDeu Milhar, Palpite 8218 no 2º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 07/12/2024 (Sábado)\nDeu Dezena, Palpite 8518 no 2º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 07/12/2024 (Sábado)\nDeu Dezena, Palpite 2118 no 2º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 07/12/2024 (Sábado)\nDeu Dezena, Palpite 8125 no 8º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 07/12/2024 (Sábado)\nDeu Dezena, Palpite 8225 no 8º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 07/12/2024 (Sábado)\nDeu Dezena, Palpite 8525 no 8º Prêmio!"
     ]
   },
   "BAHIA": {
@@ -73,7 +75,11 @@ const palpites = {
       "1025",
       "1022"
     ],
-    "frases": []
+    "frases": [
+      "12h - BA - Resultado do dia 07/12/2024 (Sábado)\nDeu Dezena, Palpite 1441 no 3º Prêmio!",
+      "12h - BA - Resultado do dia 07/12/2024 (Sábado)\nDeu Dezena, Palpite 1341 no 3º Prêmio!",
+      "12h - BA - Resultado do dia 07/12/2024 (Sábado)\nDeu Dezena, Palpite 1541 no 3º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
