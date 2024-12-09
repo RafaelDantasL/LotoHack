@@ -114,6 +114,50 @@ const palpites = {
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 4239 no 10º Prêmio!"
     ]
   },
+  "PT SP": {
+    "palpites": [
+      "9794",
+      "9797",
+      "9798",
+      "9744",
+      "9747",
+      "9748",
+      "9704",
+      "9707",
+      "9708",
+      "9994",
+      "9997",
+      "9998",
+      "9944",
+      "9947",
+      "9948",
+      "9904",
+      "9907",
+      "9908",
+      "9694",
+      "9697",
+      "9698",
+      "9644",
+      "9647",
+      "9648",
+      "9604",
+      "9607",
+      "9608",
+      "4794",
+      "4797",
+      "4798"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0708 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0908 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0008 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 5708 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Centena, Palpite 0748 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0748 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0948 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0048 no 3º Prêmio!"
+    ]
+  },
   "LOTECE": {
     "palpites": [
       "2118",
@@ -216,41 +260,6 @@ const palpites = {
       "6621",
       "6626",
       "6624"
-    ],
-    "frases": []
-  },
-  "PT SP": {
-    "palpites": [
-      "0708",
-      "0701",
-      "0704",
-      "0738",
-      "0731",
-      "0734",
-      "0748",
-      "0741",
-      "0744",
-      "0908",
-      "0901",
-      "0904",
-      "0938",
-      "0931",
-      "0934",
-      "0948",
-      "0941",
-      "0944",
-      "0008",
-      "0001",
-      "0004",
-      "0038",
-      "0031",
-      "0034",
-      "0048",
-      "0041",
-      "0044",
-      "5708",
-      "5701",
-      "5704"
     ],
     "frases": []
   }
