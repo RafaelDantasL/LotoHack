@@ -1,53 +1,35 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Pagamento via PIX</title>
   <style>
-    body {
-      font-family: Arial, sans-serif;
-      text-align: center;
-      padding: 20px;
-    }
-    #qrCode {
-      display: none;
-      margin: 20px auto;
-    }
-    #pixKeySection {
-      display: none;
-      margin-top: 20px;
-    }
-    #copyButton {
-      margin-top: 10px;
-      padding: 10px 20px;
-      cursor: pointer;
-    }
-    #statusMessage {
-      margin-top: 20px;
-      font-weight: bold;
-      color: green;
-    }
+    #qrCode { display: none; margin-top: 20px; }
+    #pixKeySection { display: none; margin-top: 10px; }
   </style>
 </head>
 <body>
   <h1>Pagamento via PIX</h1>
   <button onclick="createPayment()">Gerar PIX</button>
-  <p id="status"></p>
-  <img id="qrCode" alt="QR Code do PIX" width="300" height="300">
+  <div id="status"></div>
+  <img id="qrCode" alt="QR Code do PIX" />
   <div id="pixKeySection">
-    <h2>Chave PIX</h2>
-    <p id="pixKey"></p>
-    <button id="copyButton" onclick="copyToClipboard()">Copiar Chave PIX</button>
+    <p>Chave PIX: <span id="pixKey"></span></p>
+    <button onclick="copyPixKey()">Copiar Chave PIX</button>
   </div>
-  <p id="statusMessage"></p>
 
   <script>
     const WEB_APP_URL = 'https://script.google.com/macros/s/AKfycbyZg4KGtxyuU7_Go20wVKG2J-K2_pbMsMlxpD9RtOmRgi4w3ykpVQcwYbo5WNALLtI8Qw/exec';
-    let paymentId;
+    let paymentId = null;
 
     async function createPayment() {
       document.getElementById('status').textContent = 'Gerando pagamento, aguarde...';
       try {
-        const response = await fetch(`${WEB_APP_URL}?action=createPayment`, { method: 'POST' });
+        const response = await fetch(`${WEB_APP_URL}?action=createPayment`, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' }
+        });
         const data = await response.json();
         if (data.success) {
           const qrCodeImage = document.getElementById('qrCode');
@@ -60,7 +42,7 @@
           pixKeySection.style.display = 'block';
           document.getElementById('status').textContent = 'Pagamento gerado com sucesso!';
           paymentId = data.paymentId;
-          checkPaymentStatus(); // Inicia a verificação do pagamento.
+          checkPaymentStatus();
         } else {
           document.getElementById('status').textContent = `Erro: ${data.message}`;
         }
@@ -72,25 +54,21 @@
     async function checkPaymentStatus() {
       if (!paymentId) return;
       try {
-        const response = await fetch(`${WEB_APP_URL}?action=getPaymentStatus&paymentId=${paymentId}`, { method: 'GET' });
+        const response = await fetch(`${WEB_APP_URL}?action=getPaymentStatus&paymentId=${paymentId}`);
         const data = await response.json();
-        if (data.success) {
-          if (data.status === 'approved') {
-            document.getElementById('statusMessage').textContent = 'Pagamento realizado com sucesso!';
-          } else if (data.status === 'pending') {
-            setTimeout(checkPaymentStatus, 5000); // Verifica novamente após 5 segundos.
-          } else {
-            document.getElementById('statusMessage').textContent = `Status do pagamento: ${data.statusDetail}`;
-          }
+        if (data.success && data.status === 'approved') {
+          document.getElementById('status').textContent = 'Pagamento realizado com sucesso!';
+        } else if (data.success && data.status === 'pending') {
+          setTimeout(checkPaymentStatus, 5000); // Verifica novamente após 5 segundos.
         } else {
-          document.getElementById('statusMessage').textContent = `Erro: ${data.message}`;
+          document.getElementById('status').textContent = `Status: ${data.status}`;
         }
       } catch (error) {
-        document.getElementById('statusMessage').textContent = `Erro ao verificar pagamento: ${error.message}`;
+        document.getElementById('status').textContent = `Erro ao verificar status: ${error.message}`;
       }
     }
 
-    function copyToClipboard() {
+    function copyPixKey() {
       const pixKey = document.getElementById('pixKey').textContent;
       navigator.clipboard.writeText(pixKey).then(() => {
         alert('Chave PIX copiada para a área de transferência!');
