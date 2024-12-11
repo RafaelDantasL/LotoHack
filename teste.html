@@ -1,101 +1,101 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pagamento via PIX</title>
-    <script src="https://sdk.mercadopago.com/js/v2"></script>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            margin: 0;
-            padding: 0;
-            background-color: #f9f9f9;
-        }
-        .container {
-            margin: 20px auto;
-            max-width: 600px;
-            background: white;
-            padding: 20px;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-            border-radius: 8px;
-        }
-        #qrcode {
-            margin: 20px 0;
-            display: none;
-        }
-        .success {
-            display: none;
-            color: green;
-            font-size: 18px;
-            margin-top: 20px;
-        }
-    </style>
+  <title>Pagamento via PIX</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 20px;
+    }
+    #qrCode {
+      display: none;
+      margin: 20px auto;
+    }
+    #pixKeySection {
+      display: none;
+      margin-top: 20px;
+    }
+    #copyButton {
+      margin-top: 10px;
+      padding: 10px 20px;
+      cursor: pointer;
+    }
+    #statusMessage {
+      margin-top: 20px;
+      font-weight: bold;
+      color: green;
+    }
+  </style>
 </head>
 <body>
-    <div class="container">
-        <h1>Pagamento via PIX</h1>
-        <button type="button" id="generate-pix">Gerar QR Code PIX</button>
-        <div id="qrcode" style="display: none;">
-            <h3>Escaneie o QR Code ou copie a chave PIX abaixo:</h3>
-            <img id="qrcode-img" src="" alt="QR Code PIX">
-            <p id="pix-key"></p>
-            <button id="copy-pix">Copiar Chave PIX</button>
-        </div>
-        <div class="success">Pagamento realizado com sucesso!</div>
-    </div>
+  <h1>Pagamento via PIX</h1>
+  <button onclick="createPayment()">Gerar PIX</button>
+  <p id="status"></p>
+  <img id="qrCode" alt="QR Code do PIX" width="300" height="300">
+  <div id="pixKeySection">
+    <h2>Chave PIX</h2>
+    <p id="pixKey"></p>
+    <button id="copyButton" onclick="copyToClipboard()">Copiar Chave PIX</button>
+  </div>
+  <p id="statusMessage"></p>
 
-    <script>
-        document.getElementById('generate-pix').addEventListener('click', async () => {
-            try {
-                const response = await fetch('https://script.google.com/macros/s/AKfycby-_a-KSF_fT18Qxx5mSx7GlhAVmzYsAlH5p2JlexyEeomj1TZivWga6OZiEulQzlwB/exec', {
-                    method: 'POST',
-                    headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify({
-                        description: 'Pagamento via PIX'
-                    })
-                });
+  <script>
+    const WEB_APP_URL = 'https://script.google.com/macros/s/AKfycbyZg4KGtxyuU7_Go20wVKG2J-K2_pbMsMlxpD9RtOmRgi4w3ykpVQcwYbo5WNALLtI8Qw/exec';
+    let paymentId;
 
-                const data = await response.json();
-                if (data.point_of_interaction) {
-                    const qrCodeUrl = data.point_of_interaction.transaction_data.qr_code_base64;
-                    const pixKey = data.point_of_interaction.transaction_data.qr_code;
+    async function createPayment() {
+      document.getElementById('status').textContent = 'Gerando pagamento, aguarde...';
+      try {
+        const response = await fetch(`${WEB_APP_URL}?action=createPayment`, { method: 'POST' });
+        const data = await response.json();
+        if (data.success) {
+          const qrCodeImage = document.getElementById('qrCode');
+          const pixKey = document.getElementById('pixKey');
+          const pixKeySection = document.getElementById('pixKeySection');
 
-                    const qrCodeImg = document.getElementById('qrcode-img');
-                    const pixKeyElement = document.getElementById('pix-key');
+          qrCodeImage.src = `data:image/png;base64,${data.qrCodeBase64}`;
+          qrCodeImage.style.display = 'block';
+          pixKey.textContent = data.qrCodePix;
+          pixKeySection.style.display = 'block';
+          document.getElementById('status').textContent = 'Pagamento gerado com sucesso!';
+          paymentId = data.paymentId;
+          checkPaymentStatus(); // Inicia a verificação do pagamento.
+        } else {
+          document.getElementById('status').textContent = `Erro: ${data.message}`;
+        }
+      } catch (error) {
+        document.getElementById('status').textContent = `Erro ao gerar pagamento: ${error.message}`;
+      }
+    }
 
-                    qrCodeImg.src = `data:image/png;base64,${qrCodeUrl}`;
-                    pixKeyElement.textContent = pixKey;
+    async function checkPaymentStatus() {
+      if (!paymentId) return;
+      try {
+        const response = await fetch(`${WEB_APP_URL}?action=getPaymentStatus&paymentId=${paymentId}`, { method: 'GET' });
+        const data = await response.json();
+        if (data.success) {
+          if (data.status === 'approved') {
+            document.getElementById('statusMessage').textContent = 'Pagamento realizado com sucesso!';
+          } else if (data.status === 'pending') {
+            setTimeout(checkPaymentStatus, 5000); // Verifica novamente após 5 segundos.
+          } else {
+            document.getElementById('statusMessage').textContent = `Status do pagamento: ${data.statusDetail}`;
+          }
+        } else {
+          document.getElementById('statusMessage').textContent = `Erro: ${data.message}`;
+        }
+      } catch (error) {
+        document.getElementById('statusMessage').textContent = `Erro ao verificar pagamento: ${error.message}`;
+      }
+    }
 
-                    document.getElementById('qrcode').style.display = 'block';
-                } else {
-                    alert('Erro ao gerar o pagamento via PIX. Verifique suas credenciais.');
-                    console.error(data);
-                }
-            } catch (error) {
-                alert('Erro ao conectar à API do Mercado Pago.');
-                console.error(error);
-            }
-        });
-
-        document.getElementById('copy-pix').addEventListener('click', () => {
-            const pixKey = document.getElementById('pix-key').textContent;
-            navigator.clipboard.writeText(pixKey).then(() => {
-                alert('Chave PIX copiada!');
-            });
-        });
-
-        // Simulação de sucesso após pagamento (em ambiente real, use webhooks)
-        setInterval(async () => {
-            // Aqui você consultaria o status do pagamento por ID
-            const paymentStatus = "approved"; // Simulação
-
-            if (paymentStatus === "approved") {
-                document.querySelector('.success').style.display = 'block';
-                document.getElementById('qrcode').style.display = 'none';
-            }
-        }, 5000);
-    </script>
+    function copyToClipboard() {
+      const pixKey = document.getElementById('pixKey').textContent;
+      navigator.clipboard.writeText(pixKey).then(() => {
+        alert('Chave PIX copiada para a área de transferência!');
+      });
+    }
+  </script>
 </body>
 </html>
