@@ -69,6 +69,41 @@ const palpites = {
     ],
     "frases": []
   },
+  "LOTECE": {
+    "palpites": [
+      "3540",
+      "3547",
+      "3541",
+      "3570",
+      "3577",
+      "3571",
+      "3520",
+      "3527",
+      "3521",
+      "3740",
+      "3747",
+      "3741",
+      "3770",
+      "3777",
+      "3771",
+      "3720",
+      "3727",
+      "3721",
+      "3940",
+      "3947",
+      "3941",
+      "3970",
+      "3977",
+      "3971",
+      "3920",
+      "3927",
+      "3921",
+      "4540",
+      "4547",
+      "4541"
+    ],
+    "frases": []
+  },
   "LOOK/GOIAS": {
     "palpites": [
       "1121",
@@ -150,45 +185,20 @@ const palpites = {
       "1161"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 3371 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 3771 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 3871 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 3343 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 3743 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 3843 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 5343 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 3350 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 3750 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 3850 no 10º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 9028 no 1º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 9428 no 1º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 9628 no 1º Prêmio!"
     ]
-  },
-  "LOTECE": {
-    "palpites": [
-      "3824",
-      "3826",
-      "3827",
-      "3894",
-      "3896",
-      "3897",
-      "3804",
-      "3806",
-      "3807",
-      "3624",
-      "3626",
-      "3627",
-      "3694",
-      "3696",
-      "3697",
-      "3604",
-      "3606",
-      "3607",
-      "3924",
-      "3926",
-      "3927",
-      "3994",
-      "3996",
-      "3997",
-      "3904",
-      "3906",
-      "3907",
-      "5824",
-      "5826",
-      "5827"
-    ],
-    "frases": []
   },
   "PT RIO": {
     "palpites": [
