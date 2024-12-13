@@ -1,46 +1,41 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "2434",
-      "2435",
-      "2430",
-      "2484",
-      "2485",
-      "2480",
-      "2404",
-      "2405",
-      "2400",
-      "2134",
-      "2135",
-      "2130",
-      "2184",
-      "2185",
-      "2180",
-      "2104",
-      "2105",
-      "2100",
-      "2534",
-      "2535",
-      "2530",
-      "2584",
-      "2585",
-      "2580",
-      "2504",
-      "2505",
-      "2500",
-      "4434",
-      "4435",
-      "4430"
+      "1551",
+      "1554",
+      "1557",
+      "1581",
+      "1584",
+      "1587",
+      "1521",
+      "1524",
+      "1527",
+      "1651",
+      "1654",
+      "1657",
+      "1681",
+      "1684",
+      "1687",
+      "1621",
+      "1624",
+      "1627",
+      "1951",
+      "1954",
+      "1957",
+      "1981",
+      "1984",
+      "1987",
+      "1921",
+      "1924",
+      "1927",
+      "4551",
+      "4554",
+      "4557"
     ],
     "frases": [
-      "10h - MALUCA - Resultado do dia 13/12/2024 (Sexta-feira)\nDeu Dezena, Palpite 4593 no 4º Prêmio!",
-      "10h - MALUCA - Resultado do dia 13/12/2024 (Sexta-feira)\nDeu Dezena, Palpite 4093 no 4º Prêmio!",
-      "10h - MALUCA - Resultado do dia 13/12/2024 (Sexta-feira)\nDeu Dezena, Palpite 4193 no 4º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 13/12/2024 (Sexta-feira)\nDeu Dezena, Palpite 1304 no 9º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 13/12/2024 (Sexta-feira)\nDeu Dezena, Palpite 1104 no 9º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 13/12/2024 (Sexta-feira)\nDeu Centena, Palpite 1504 no 9º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 13/12/2024 (Sexta-feira)\nDeu Dezena, Palpite 1504 no 9º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 13/12/2024 (Sexta-feira)\nDeu Dezena, Palpite 4304 no 9º Prêmio!"
+      "15h - MALUCA - BA - Resultado do dia 13/12/2024 (Sexta-feira)\nDeu Dezena, Palpite 2484 no 7º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 13/12/2024 (Sexta-feira)\nDeu Dezena, Palpite 2184 no 7º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 13/12/2024 (Sexta-feira)\nDeu Dezena, Palpite 2584 no 7º Prêmio!"
     ]
   },
   "BAHIA": {
@@ -76,7 +71,11 @@ const palpites = {
       "2417",
       "2418"
     ],
-    "frases": []
+    "frases": [
+      "12h - BA - Resultado do dia 13/12/2024 (Sexta-feira)\nDeu Dezena, Palpite 3261 no 10º Prêmio!",
+      "12h - BA - Resultado do dia 13/12/2024 (Sexta-feira)\nDeu Dezena, Palpite 3561 no 10º Prêmio!",
+      "12h - BA - Resultado do dia 13/12/2024 (Sexta-feira)\nDeu Dezena, Palpite 3161 no 10º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
