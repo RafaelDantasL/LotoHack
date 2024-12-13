@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pagamento via PIX</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 20px;
+    }
+    /* Modal styles */
+    #paymentModal {
+      display: none;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0, 0, 0, 0.8);
+      justify-content: center;
+      align-items: center;
+    }
+    #modalContent {
+      background: #fff;
+      padding: 20px;
+      border-radius: 16px;
+      text-align: center;
+      width: 90%;
+      max-width: 400px;
+    }
+    #loadingSpinner {
+      display: none;
+      margin: 20px auto;
+      border: 8px solid #f3f3f3;
+      border-top: 8px solid #4CAF50;
+      border-radius: 50%;
+      width: 50px;
+      height: 50px;
+      animation: spin 1s linear infinite;
+    }
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+    #qrCode {
+      margin: 20px auto;
+    }
+    #pixKeySection {
+      margin-top: 20px;
+    }
+    #pixKey {
+      display: block;
+      margin: 0 auto;
+      width: 80%;
+      max-width: 300px;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+      box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+      color: #333;
+      font-size: 16px;
+      text-align: center;
+      overflow: hidden;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+      cursor: pointer;
+    }
+    #pixKey:hover {
+      border-color: #4CAF50;
+    }
+    #copyButton {
+      margin-top: 10px;
+      padding: 10px 20px;
+      cursor: pointer;
+    }
+    #statusMessage {
+      margin-top: 20px;
+      font-weight: bold;
+      color: green;
+    }
+    #copyNotification {
+      display: none;
+      position: fixed;
+      top: 10px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: #4CAF50;
+      color: white;
+      padding: 10px 20px;
+      border-radius: 5px;
+      font-size: 14px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      z-index: 1000;
+    }
+    .closeModal {
+      margin-top: 20px;
+      cursor: pointer;
+      background: none;
+      border: none;
+      color: #007bff;
+      font-size: 16px;
+      text-decoration: none;
+    }
+    .closeModal:hover {
+      color: #0056b3;
+    }
+    #successIcon {
+      width: 80px;
+      height: 80px;
+      margin: 20px auto;
+    }
+  </style>
+</head>
+<body>
+
+
+    <button onclick="openPaymentModal()">Clique Aqui</button>
+
+
+
+
+
+
+
+
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const body = document.body;
+      const modalHTML = `
+        <div id="paymentModal">
+          <div id="modalContent">
+            <div id="modalInnerContent">
+              <p id="status">Gerando pagamento, aguarde...</p>
+              <div id="loadingSpinner"></div>
+              <img id="qrCode" alt="QR Code do PIX" width="300" height="300" style="display: none;">
+              <div id="pixKeySection" style="display: none;">
+                <h2>Chave PIX</h2>
+                <div id="pixKey" contenteditable="true"></div>
+                <button id="copyButton" onclick="copyToClipboard()">Copiar Chave PIX</button>
+              </div>
+              <p id="statusMessage"></p>
+              <button class="closeModal" onclick="closeModal()">Fechar</button>
+            </div>
+          </div>
+        </div>
+        <div id="copyNotification">Chave PIX copiada!</div>
+      `;
+      body.innerHTML += modalHTML;
+
+      const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyZg4KGtxyuU7_Go20wVKG2J-K2_pbMsMlxpD9RtOmRgi4w3ykpVQcwYbo5WNALLtI8Qw/exec';
+      const PAYMENT_STORAGE_KEY = 'pixPayment';
+      const EXPIRATION_TIME = 15 * 60 * 1000; // 15 minutos em milissegundos
+
+      let paymentId;
+
+      window.openPaymentModal = function() {
+        const savedPayment = getSavedPayment();
+        if (savedPayment && Date.now() - savedPayment.timestamp < EXPIRATION_TIME) {
+          loadSavedPayment(savedPayment);
+          checkPaymentStatus(savedPayment.paymentId); // Verifica o status do pagamento salvo
+        } else {
+          openModal();
+          createPayment();
+        }
+      };
+
+      function openModal() {
+        document.getElementById('paymentModal').style.display = 'flex';
+      }
+
+      function closeModal() {
+        document.getElementById('paymentModal').style.display = 'none';
+        resetModalContent();
+      }
+
+      function resetModalContent() {
+        const modalInnerContent = document.getElementById('modalInnerContent');
+        modalInnerContent.innerHTML = `
+          <p id="status">Gerando pagamento, aguarde...</p>
+          <div id="loadingSpinner"></div>
+          <img id="qrCode" alt="QR Code do PIX" width="300" height="300" style="display: none;">
+          <div id="pixKeySection" style="display: none;">
+            <h2>Chave PIX</h2>
+            <div id="pixKey" contenteditable="true"></div>
+            <button id="copyButton" onclick="copyToClipboard()">Copiar Chave PIX</button>
+          </div>
+          <p id="statusMessage"></p>
+          <button class="closeModal" onclick="closeModal()">Fechar</button>
+        `;
+      }
+
+      function getSavedPayment() {
+        const paymentData = localStorage.getItem(PAYMENT_STORAGE_KEY);
+        return paymentData ? JSON.parse(paymentData) : null;
+      }
+
+      function savePayment(data) {
+        const paymentData = {
+          paymentId: data.paymentId,
+          qrCodeBase64: data.qrCodeBase64,
+          qrCodePix: data.qrCodePix,
+          timestamp: Date.now(),
+        };
+        localStorage.setItem(PAYMENT_STORAGE_KEY, JSON.stringify(paymentData));
+      }
+
+      function loadSavedPayment(data) {
+        const qrCodeImage = document.getElementById('qrCode');
+        const pixKey = document.getElementById('pixKey');
+        const pixKeySection = document.getElementById('pixKeySection');
+
+        qrCodeImage.src = `data:image/png;base64,${data.qrCodeBase64}`;
+        qrCodeImage.style.display = 'block';
+        pixKey.textContent = data.qrCodePix;
+        pixKeySection.style.display = 'block';
+
+        openModal();
+        document.getElementById('status').textContent = 'Pagamento pendente!';
+      }
+
+      async function createPayment() {
+        const statusElement = document.getElementById('status');
+        const spinner = document.getElementById('loadingSpinner');
+
+        spinner.style.display = 'block';
+        statusElement.textContent = 'Gerando pagamento, aguarde...';
+
+        try {
+          const response = await fetch(`${GOOGLE_SCRIPT_URL}?action=createPayment`, {
+            method: 'GET',
+          });
+          const data = await response.json();
+
+          if (data.success) {
+            savePayment(data);
+            const qrCodeImage = document.getElementById('qrCode');
+            const pixKey = document.getElementById('pixKey');
+            const pixKeySection = document.getElementById('pixKeySection');
+
+            qrCodeImage.src = `data:image/png;base64,${data.qrCodeBase64}`;
+            qrCodeImage.style.display = 'block';
+            pixKey.textContent = data.qrCodePix;
+            pixKeySection.style.display = 'block';
+            spinner.style.display = 'none';
+            statusElement.textContent = 'Pagamento gerado com sucesso!';
+            paymentId = data.paymentId; // Salva o ID do pagamento.
+
+            checkPaymentStatus(paymentId); // Inicia a verificação do pagamento.
+          } else {
+            spinner.style.display = 'none';
+            statusElement.textContent = `Erro: ${data.message}`;
+          }
+        } catch (error) {
+          spinner.style.display = 'none';
+          statusElement.textContent = `Erro na conexão: ${error.message}`;
+        }
+      }
+
+      async function checkPaymentStatus(paymentId) {
+        try {
+          const response = await fetch(`${GOOGLE_SCRIPT_URL}?action=getPaymentStatus&paymentId=${paymentId}`, {
+            method: 'GET',
+          });
+          const data = await response.json();
+
+          if (data.success) {
+            if (data.status === 'approved') {
+              showSuccessMessage();
+              localStorage.removeItem(PAYMENT_STORAGE_KEY); // Remove o pagamento armazenado
+            } else if (data.status === 'pending') {
+              setTimeout(() => checkPaymentStatus(paymentId), 5000); // Verifica novamente após 5 segundos.
+            } else {
+              document.getElementById('statusMessage').textContent = `Status do pagamento: ${data.statusDetail}`;
+            }
+          } else {
+            document.getElementById('statusMessage').textContent = `Erro: ${data.message}`;
+          }
+        } catch (error) {
+          document.getElementById('statusMessage').textContent = `Erro na conexão: ${error.message}`;
+        }
+      }
+
+      function showSuccessMessage() {
+        const modalContent = document.getElementById('modalInnerContent');
+        modalContent.innerHTML = `
+          <img id="successIcon" src="buyOK.png" alt="Pagamento realizado com sucesso">
+          <h2>Pagamento realizado com sucesso!</h2>
+          <a class="closeModal" onclick="closeModal()">Fechar</a>
+        `;
+      }
+
+      function copyToClipboard() {
+        const pixKey = document.getElementById('pixKey').textContent;
+        navigator.clipboard.writeText(pixKey).then(() => {
+          const notification = document.getElementById('copyNotification');
+          notification.style.display = 'block';
+          setTimeout(() => {
+            notification.style.display = 'none';
+          }, 2000); // A mensagem dura 2 segundos.
+        });
+      }
+    });
+  </script>
+</body>
+</html>
