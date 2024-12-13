@@ -73,6 +73,41 @@ const palpites = {
     ],
     "frases": []
   },
+  "LOTECE": {
+    "palpites": [
+      "1614",
+      "1615",
+      "1618",
+      "1654",
+      "1655",
+      "1658",
+      "1634",
+      "1635",
+      "1638",
+      "1114",
+      "1115",
+      "1118",
+      "1154",
+      "1155",
+      "1158",
+      "1134",
+      "1135",
+      "1138",
+      "1814",
+      "1815",
+      "1818",
+      "1854",
+      "1855",
+      "1858",
+      "1834",
+      "1835",
+      "1838",
+      "7614",
+      "7615",
+      "7618"
+    ],
+    "frases": []
+  },
   "LOOK/GOIAS": {
     "palpites": [
       "1646",
@@ -157,6 +192,10 @@ const palpites = {
       "2900"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 4126 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 4026 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 4626 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 3126 no 2º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 2206 no 6º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 2306 no 6º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 2806 no 6º Prêmio!",
@@ -164,41 +203,6 @@ const palpites = {
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 2307 no 10º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 2807 no 10º Prêmio!"
     ]
-  },
-  "LOTECE": {
-    "palpites": [
-      "2651",
-      "2652",
-      "2659",
-      "2631",
-      "2632",
-      "2639",
-      "2611",
-      "2612",
-      "2619",
-      "2151",
-      "2152",
-      "2159",
-      "2131",
-      "2132",
-      "2139",
-      "2111",
-      "2112",
-      "2119",
-      "2051",
-      "2052",
-      "2059",
-      "2031",
-      "2032",
-      "2039",
-      "2011",
-      "2012",
-      "2019",
-      "6651",
-      "6652",
-      "6659"
-    ],
-    "frases": []
   },
   "PT RIO": {
     "palpites": [
