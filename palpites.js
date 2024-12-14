@@ -1,45 +1,38 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "0107",
-      "0106",
-      "0103",
-      "0147",
-      "0146",
-      "0143",
-      "0127",
-      "0126",
-      "0123",
-      "0307",
-      "0306",
-      "0303",
-      "0347",
-      "0346",
-      "0343",
-      "0327",
-      "0326",
-      "0323",
-      "0707",
-      "0706",
-      "0703",
-      "0747",
-      "0746",
-      "0743",
-      "0727",
-      "0726",
-      "0723",
-      "1107",
-      "1106",
-      "1103"
+      "8405",
+      "8409",
+      "8400",
+      "8435",
+      "8439",
+      "8430",
+      "8475",
+      "8479",
+      "8470",
+      "8505",
+      "8509",
+      "8500",
+      "8535",
+      "8539",
+      "8530",
+      "8575",
+      "8579",
+      "8570",
+      "8605",
+      "8609",
+      "8600",
+      "8635",
+      "8639",
+      "8630",
+      "8675",
+      "8679",
+      "8670",
+      "0405",
+      "0409",
+      "0400"
     ],
-    "frases": [
-      "12h - MALUCA - BA - Resultado do dia 14/12/2024 (Sábado)\nDeu Dezena, Palpite 3006 no 2º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 14/12/2024 (Sábado)\nDeu Dezena, Palpite 3806 no 2º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 14/12/2024 (Sábado)\nDeu Dezena, Palpite 3206 no 2º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 14/12/2024 (Sábado)\nDeu Dezena, Palpite 3009 no 8º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 14/12/2024 (Sábado)\nDeu Dezena, Palpite 3809 no 8º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 14/12/2024 (Sábado)\nDeu Dezena, Palpite 3209 no 8º Prêmio!"
-    ]
+    "frases": []
   },
   "BAHIA": {
     "palpites": [
@@ -74,7 +67,17 @@ const palpites = {
       "3558",
       "3554"
     ],
-    "frases": []
+    "frases": [
+      "10h - BA - Resultado do dia 14/12/2024 (Sábado)\nDeu Dezena, Palpite 2728 no 5º Prêmio!",
+      "10h - BA - Resultado do dia 14/12/2024 (Sábado)\nDeu Dezena, Palpite 2928 no 5º Prêmio!",
+      "10h - BA - Resultado do dia 14/12/2024 (Sábado)\nDeu Dezena, Palpite 2028 no 5º Prêmio!",
+      "10h - BA - Resultado do dia 14/12/2024 (Sábado)\nDeu Dezena, Palpite 2728 no 8º Prêmio!",
+      "10h - BA - Resultado do dia 14/12/2024 (Sábado)\nDeu Dezena, Palpite 2928 no 8º Prêmio!",
+      "10h - BA - Resultado do dia 14/12/2024 (Sábado)\nDeu Dezena, Palpite 2028 no 8º Prêmio!",
+      "12h - BA - Resultado do dia 14/12/2024 (Sábado)\nDeu Dezena, Palpite 2308 no 3º Prêmio!",
+      "12h - BA - Resultado do dia 14/12/2024 (Sábado)\nDeu Dezena, Palpite 2408 no 3º Prêmio!",
+      "12h - BA - Resultado do dia 14/12/2024 (Sábado)\nDeu Dezena, Palpite 2808 no 3º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
