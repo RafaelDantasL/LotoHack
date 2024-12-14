@@ -28,11 +28,11 @@ function createModal() {
     // Mensagem no modal
     const message = document.createElement('div');
     message.innerHTML = `
-        <h2 style="color: #191970; font-size: 24px; margin-bottom: 10px;">🎯 Loto Hack: O Melhor Palpite para o Jogo do Bicho!</h2>
+        <h2 style="color: #191970; font-size: 24px; margin-bottom: 10px;">🎯 Loto Hacker: O Melhor Palpite para o Jogo do Bicho!</h2>
         <p style="font-size: 16px; line-height: 1.6; margin-bottom: 15px;">Aposte com inteligência e aumente suas chances de ganhar!<br>Nosso sistema avançado analisa os resultados para descobrir números com as maiores probabilidades de serem sorteados!</p>
         <h3 style="color: #1d3557; font-size: 20px; margin-bottom: 10px;">🛒 Por apenas R$ 18,00</h3>
         <p style="font-size: 16px; line-height: 1.6; margin-bottom: 15px;">🤏🏼 Pagamento único!<br>✔️ Acesso vitalício!</p>
-        <p style="font-weight: bold; font-size: 16px; margin-top: 15px;">👉 Transforme sua sorte em estratégia. Seja Loto Hack! 🍀</p><br><br>
+        <p style="font-weight: bold; font-size: 16px; margin-top: 15px;">👉 Transforme sua sorte em estratégia. Seja Loto Hacker! 🍀</p><br><br>
     `;
     modalContent.appendChild(message);
 
