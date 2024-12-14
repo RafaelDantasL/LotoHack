@@ -16,6 +16,10 @@ const urlsToCache = [
     '/icons/favicon.png',
     '/icons/favicon.ico',
     '/icons/favicon.svg',
+    '/MPayment/Modal.js'
+    '/MPayment/Script.js'
+    '/MPayment/Styles.css'
+    '/MPayment/BuyOK.png'  
     // Adicione aqui outros recursos que você deseja cachear
 ];
 
