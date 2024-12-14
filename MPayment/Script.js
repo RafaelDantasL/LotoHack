@@ -174,7 +174,7 @@
       function showSuccessMessage() {
         const modalContent = document.getElementById('modalInnerContent');
         modalContent.innerHTML = `
-          <img id="successIcon" src="MPayment/buyOK.png" alt="Pagamento realizado com sucesso">
+          <img id="successIcon" src="MPayment/BuyOK.png" alt="Pagamento realizado com sucesso">
           <h2>Pagamento realizado com sucesso!</h2><br><br>
           <a class="closeModal">Fechar</a>
         `;
