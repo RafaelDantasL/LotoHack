@@ -35,7 +35,6 @@ document.addEventListener('DOMContentLoaded', function () {
     const localStorageModeKey = 'appMode';
     const localStorageNameKey = 'lastSelectedName';
     const localStorageTitleKey = 'lastSelectedTitle';
-    const localStorageSharedKey = 'hasShared'; // Nova chave para status de compartilhamento
 
     // Estado atual
     let currentMode = 'Resultado'; // Modo padrão
@@ -262,8 +261,6 @@ document.addEventListener('DOMContentLoaded', function () {
                 url: window.location.href
             }).then(() => {
                 console.log('Compartilhamento bem-sucedido');
-                // Define o status de compartilhamento no localStorage somente após sucesso
-                localStorage.setItem(localStorageSharedKey, 'true');
             }).catch((error) => {
                 console.log('Compartilhamento cancelado ou erro:', error);
                 // Não define o status de compartilhamento se o compartilhamento foi cancelado ou falhou
@@ -602,7 +599,7 @@ function gerarGruposFrequentes(palpites) {
     function alert(mensagem) {
         exibirMensagemFlutuante(mensagem);
     }
-
+    
 // Modifique o evento do botão "Mostrar palpite"
 mostrarPalpiteBtn.addEventListener('click', function () {
     const selectedName = dropdownPalpite.value;
@@ -620,30 +617,15 @@ mostrarPalpiteBtn.addEventListener('click', function () {
     if (canShowPalpite()) {
         // Exibir os palpites com efeito de carregamento
         exibirPalpitesComLoading(selectedName);
-
-        // Resetar o status de compartilhamento
-        localStorage.setItem(localStorageSharedKey, 'false');
-
-        // Se o usuário não tiver privilégio, exibe a mensagem de alerta customizada após 10 segundos
-	if (!localStorage.getItem('privilegeAccess')) {
-	    setTimeout(() => {
-	        alert(`
-	            <p>Para desativar a obrigação de Compartilhar a página antes de ver os palpites e não ver mais os anúncios, 
-	            <a href="https://mpago.la/25bsxCc" style="color: #ffdd57; text-decoration: underline;">clique aqui!</a></p>
-	        `);
-	    }, 10000);
-	}
-
     } else {
-        alert("Por favor, compartilhe a página antes de mostrar os palpites.");
+        createModal();
     }
 });
-
-// Função para verificar se a página foi compartilhada ou se o privilégio foi concedido
+ 
+// Função para verificar se o privilégio foi concedido
 function canShowPalpite() {
-    const hasShared = localStorage.getItem(localStorageSharedKey) === 'true'; // Verifica se foi compartilhado
     const hasPrivilege = localStorage.getItem('privilegeAccess') === 'true'; // Verifica se o acesso privilegiado está ativado
-    return hasShared || hasPrivilege;
+    return hasPrivilege;
 }
 
 // Função para verificar e armazenar o privilégio via parâmetro de URL
@@ -658,7 +640,6 @@ function checkPrivilegeAccess() {
         window.history.replaceState({}, document.title, newUrl);
     }
 }
-
 
     // Função para mostrar a mensagem flutuante após 30 segundos
     function mostrarMensagemFlutuante() {
@@ -685,7 +666,6 @@ function checkPrivilegeAccess() {
 
 // Chama a função ao carregar a página
 checkPrivilegeAccess();
-
 
     // Função para lidar com o clique no botão 'Selecionar loteria' na seção Exibir Resultados
     selecionarLoteriaLink.addEventListener('click', function (event) {

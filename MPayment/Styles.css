@@ -1,0 +1,144 @@
+.modal-body body {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    padding: 20px;
+    background-color: #ffffff;
+    color: #333;
+  }
+
+  /* Modal styles */
+  .modal-body #paymentModal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.7);
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+  }
+
+  .modal-body #modalContent {
+    background: linear-gradient(135deg, #ffffff, #f0f0f0);
+    padding: 30px;
+    border-radius: 16px;
+    text-align: center;
+    width: 90%;
+    max-width: 400px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
+    animation: fadeIn 0.3s ease-in-out;
+  }
+
+  @keyframes fadeIn {
+    from { opacity: 0; transform: scale(0.9); }
+    to { opacity: 1; transform: scale(1); }
+  }
+
+  .modal-body #loadingSpinner {
+    display: none;
+    margin: 20px auto;
+    border: 8px solid #e0e0e0;
+    border-top: 8px solid #6200ea;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    animation: spin 1s linear infinite;
+  }
+
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+
+  .modal-body #qrCode {
+    margin: 20px auto;
+  }
+
+  .modal-body #pixKeySection {
+    margin-top: 20px;
+  }
+
+  .modal-body #pixKey {
+    display: block;
+    margin: 0 auto;
+    width: 80%;
+    max-width: 300px;
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    background-color: #f9f9f9;
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+    color: #555;
+    font-size: 16px;
+    text-align: center;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    cursor: pointer;
+    transition: border-color 0.3s, background-color 0.3s;
+  }
+
+  .modal-body #pixKey:hover {
+    border-color: #6200ea;
+    background-color: #f3f3f3;
+  }
+
+  .modal-body #copyButton {
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #6200ea;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+
+  .modal-body #copyButton:hover {
+    background-color: #3700b3;
+  }
+
+  .modal-body #statusMessage {
+    margin-top: 20px;
+    font-weight: bold;
+    color: #4caf50;
+  }
+
+  .modal-body #copyNotification {
+    display: none;
+    position: fixed;
+    top: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #6200ea;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-size: 14px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+  }
+
+  .modal-body .closeModal {
+    margin-top: 20px;
+    cursor: pointer;
+    background: none;
+    border: none;
+    color: #6200ea;
+    font-size: 16px;
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+
+  .modal-body .closeModal:hover {
+    color: #3700b3;
+  }
+
+  .modal-body #successIcon {
+    width: 80px;
+    height: 80px;
+    margin: 20px auto;
+  }
