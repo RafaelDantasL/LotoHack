@@ -32,7 +32,14 @@ const palpites = {
       "0409",
       "0400"
     ],
-    "frases": []
+    "frases": [
+      "12h - MALUCA - BA - Resultado do dia 14/12/2024 (Sábado)\nDeu Dezena, Palpite 3006 no 2º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 14/12/2024 (Sábado)\nDeu Dezena, Palpite 3806 no 2º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 14/12/2024 (Sábado)\nDeu Dezena, Palpite 3206 no 2º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 14/12/2024 (Sábado)\nDeu Dezena, Palpite 3009 no 8º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 14/12/2024 (Sábado)\nDeu Dezena, Palpite 3809 no 8º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 14/12/2024 (Sábado)\nDeu Dezena, Palpite 3209 no 8º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -81,38 +88,42 @@ const palpites = {
   },
   "LOTECE": {
     "palpites": [
-      "2023",
-      "2021",
-      "2020",
-      "2073",
-      "2071",
-      "2070",
-      "2093",
-      "2091",
-      "2090",
-      "2423",
-      "2421",
-      "2420",
-      "2473",
-      "2471",
-      "2470",
-      "2493",
-      "2491",
-      "2490",
-      "2123",
-      "2121",
-      "2120",
-      "2173",
-      "2171",
-      "2170",
-      "2193",
-      "2191",
-      "2190",
-      "6023",
-      "6021",
-      "6020"
+      "6402",
+      "6404",
+      "6407",
+      "6432",
+      "6434",
+      "6437",
+      "6452",
+      "6454",
+      "6457",
+      "6802",
+      "6804",
+      "6807",
+      "6832",
+      "6834",
+      "6837",
+      "6852",
+      "6854",
+      "6857",
+      "6502",
+      "6504",
+      "6507",
+      "6532",
+      "6534",
+      "6537",
+      "6552",
+      "6554",
+      "6557",
+      "0402",
+      "0404",
+      "0407"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 2090 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 2490 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 2190 no 9º Prêmio!"
+    ]
   },
   "LOOK/GOIAS": {
     "palpites": [
