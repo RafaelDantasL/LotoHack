@@ -114,6 +114,46 @@ const palpites = {
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 4050 no 7º Prêmio!"
     ]
   },
+  "PT RIO": {
+    "palpites": [
+      "0012",
+      "0019",
+      "0011",
+      "0002",
+      "0009",
+      "0001",
+      "0022",
+      "0029",
+      "0021",
+      "0912",
+      "0919",
+      "0911",
+      "0902",
+      "0909",
+      "0901",
+      "0922",
+      "0929",
+      "0921",
+      "0112",
+      "0119",
+      "0111",
+      "0102",
+      "0109",
+      "0101",
+      "0122",
+      "0129",
+      "0121",
+      "5012",
+      "5019",
+      "5011"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 0227 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 0427 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Milhar, Palpite 0027 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 7227 no 1º Prêmio!"
+    ]
+  },
   "LOTECE": {
     "palpites": [
       "9362",
@@ -181,41 +221,6 @@ const palpites = {
       "8409",
       "8407",
       "8400"
-    ],
-    "frases": []
-  },
-  "PT RIO": {
-    "palpites": [
-      "0227",
-      "0220",
-      "0225",
-      "0207",
-      "0200",
-      "0205",
-      "0217",
-      "0210",
-      "0215",
-      "0427",
-      "0420",
-      "0425",
-      "0407",
-      "0400",
-      "0405",
-      "0417",
-      "0410",
-      "0415",
-      "0027",
-      "0020",
-      "0025",
-      "0007",
-      "0000",
-      "0005",
-      "0017",
-      "0010",
-      "0015",
-      "7227",
-      "7220",
-      "7225"
     ],
     "frases": []
   },
