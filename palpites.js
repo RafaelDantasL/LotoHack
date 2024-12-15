@@ -1,46 +1,38 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "0031",
-      "0034",
-      "0030",
-      "0001",
-      "0004",
-      "0000",
-      "0051",
-      "0054",
-      "0050",
-      "0131",
-      "0134",
-      "0130",
-      "0101",
-      "0104",
-      "0100",
-      "0151",
-      "0154",
-      "0150",
-      "0231",
-      "0234",
-      "0230",
-      "0201",
-      "0204",
-      "0200",
-      "0251",
-      "0254",
-      "0250",
-      "2031",
-      "2034",
-      "2030"
+      "1315",
+      "1310",
+      "1319",
+      "1375",
+      "1370",
+      "1379",
+      "1325",
+      "1320",
+      "1329",
+      "1615",
+      "1610",
+      "1619",
+      "1675",
+      "1670",
+      "1679",
+      "1625",
+      "1620",
+      "1629",
+      "1015",
+      "1010",
+      "1019",
+      "1075",
+      "1070",
+      "1079",
+      "1025",
+      "1020",
+      "1029",
+      "3315",
+      "3310",
+      "3319"
     ],
-    "frases": [
-      "10h - MALUCA - Resultado do dia 15/12/2024 (Domingo)\nDeu Centena, Palpite 0542 no 1º Prêmio!",
-      "10h - MALUCA - Resultado do dia 15/12/2024 (Domingo)\nDeu Dezena, Palpite 0542 no 1º Prêmio!",
-      "10h - MALUCA - Resultado do dia 15/12/2024 (Domingo)\nDeu Dezena, Palpite 0042 no 1º Prêmio!",
-      "10h - MALUCA - Resultado do dia 15/12/2024 (Domingo)\nDeu Dezena, Palpite 0842 no 1º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 15/12/2024 (Domingo)\nDeu Dezena, Palpite 8001 no 3º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 15/12/2024 (Domingo)\nDeu Dezena, Palpite 8201 no 3º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 15/12/2024 (Domingo)\nDeu Dezena, Palpite 8501 no 3º Prêmio!"
-    ]
+    "frases": []
   },
   "BAHIA": {
     "palpites": [
@@ -75,7 +67,13 @@ const palpites = {
       "4103",
       "4104"
     ],
-    "frases": []
+    "frases": [
+      "12h - BA - Resultado do dia 15/12/2024 (Domingo)\nDeu Dezena, Palpite 0704 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 15/12/2024 (Domingo)\nDeu Centena, Palpite 0104 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 15/12/2024 (Domingo)\nDeu Dezena, Palpite 0104 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 15/12/2024 (Domingo)\nDeu Dezena, Palpite 0604 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 15/12/2024 (Domingo)\nDeu Dezena, Palpite 8704 no 4º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
