@@ -79,6 +79,50 @@ const palpites = {
       "10h - BA - Resultado do dia 16/12/2024 (Segunda-feira)\nDeu Dezena, Palpite 4104 no 6º Prêmio!"
     ]
   },
+  "LOTECE": {
+    "palpites": [
+      "0415",
+      "0416",
+      "0410",
+      "0455",
+      "0456",
+      "0450",
+      "0405",
+      "0406",
+      "0400",
+      "0815",
+      "0816",
+      "0810",
+      "0855",
+      "0856",
+      "0850",
+      "0805",
+      "0806",
+      "0800",
+      "0015",
+      "0016",
+      "0010",
+      "0055",
+      "0056",
+      "0050",
+      "0005",
+      "0006",
+      "0000",
+      "5415",
+      "5416",
+      "5410"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 9365 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 9065 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 9165 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 8365 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 9315 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Centena, Palpite 9015 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 9015 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 9115 no 6º Prêmio!"
+    ]
+  },
   "LOOK/GOIAS": {
     "palpites": [
       "5701",
@@ -163,41 +207,6 @@ const palpites = {
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Centena, Palpite 4430 no 3º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 4430 no 3º Prêmio!"
     ]
-  },
-  "LOTECE": {
-    "palpites": [
-      "9362",
-      "9365",
-      "9366",
-      "9312",
-      "9315",
-      "9316",
-      "9332",
-      "9335",
-      "9336",
-      "9062",
-      "9065",
-      "9066",
-      "9012",
-      "9015",
-      "9016",
-      "9032",
-      "9035",
-      "9036",
-      "9162",
-      "9165",
-      "9166",
-      "9112",
-      "9115",
-      "9116",
-      "9132",
-      "9135",
-      "9136",
-      "8362",
-      "8365",
-      "8366"
-    ],
-    "frases": []
   },
   "PT RIO": {
     "palpites": [
