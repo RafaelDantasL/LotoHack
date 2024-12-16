@@ -111,6 +111,45 @@ const palpites = {
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 4219 no 10º Prêmio!"
     ]
   },
+  "PT SP": {
+    "palpites": [
+      "7393",
+      "7394",
+      "7397",
+      "7333",
+      "7334",
+      "7337",
+      "7343",
+      "7344",
+      "7347",
+      "7593",
+      "7594",
+      "7597",
+      "7533",
+      "7534",
+      "7537",
+      "7543",
+      "7544",
+      "7547",
+      "7093",
+      "7094",
+      "7097",
+      "7033",
+      "7034",
+      "7037",
+      "7043",
+      "7044",
+      "7047",
+      "0393",
+      "0394",
+      "0397"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 8894 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 8494 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 8794 no 9º Prêmio!"
+    ]
+  },
   "LOTECE": {
     "palpites": [
       "9362",
@@ -213,41 +252,6 @@ const palpites = {
       "1653",
       "1652",
       "1651"
-    ],
-    "frases": []
-  },
-  "PT SP": {
-    "palpites": [
-      "8885",
-      "8884",
-      "8880",
-      "8875",
-      "8874",
-      "8870",
-      "8895",
-      "8894",
-      "8890",
-      "8485",
-      "8484",
-      "8480",
-      "8475",
-      "8474",
-      "8470",
-      "8495",
-      "8494",
-      "8490",
-      "8785",
-      "8784",
-      "8780",
-      "8775",
-      "8774",
-      "8770",
-      "8795",
-      "8794",
-      "8790",
-      "1885",
-      "1884",
-      "1880"
     ],
     "frases": []
   }
