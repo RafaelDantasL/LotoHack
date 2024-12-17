@@ -1,4 +1,51 @@
 const palpites = {
+  "BAHIA MALUCA": {
+    "palpites": [
+      "0750",
+      "0757",
+      "0751",
+      "0700",
+      "0707",
+      "0701",
+      "0770",
+      "0777",
+      "0771",
+      "0150",
+      "0157",
+      "0151",
+      "0100",
+      "0107",
+      "0101",
+      "0170",
+      "0177",
+      "0171",
+      "0050",
+      "0057",
+      "0051",
+      "0000",
+      "0007",
+      "0001",
+      "0070",
+      "0077",
+      "0071",
+      "4750",
+      "4757",
+      "4751"
+    ],
+    "frases": [
+      "10h - MALUCA - Resultado do dia 17/12/2024 (Terça-feira)\nDeu Dezena, Palpite 0390 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 17/12/2024 (Terça-feira)\nDeu Centena, Palpite 0990 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 17/12/2024 (Terça-feira)\nDeu Dezena, Palpite 0990 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 17/12/2024 (Terça-feira)\nDeu Dezena, Palpite 0090 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 17/12/2024 (Terça-feira)\nDeu Dezena, Palpite 1390 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 17/12/2024 (Terça-feira)\nDeu Dezena, Palpite 0318 no 4º Prêmio!",
+      "10h - MALUCA - Resultado do dia 17/12/2024 (Terça-feira)\nDeu Dezena, Palpite 0918 no 4º Prêmio!",
+      "10h - MALUCA - Resultado do dia 17/12/2024 (Terça-feira)\nDeu Dezena, Palpite 0018 no 4º Prêmio!",
+      "10h - MALUCA - Resultado do dia 17/12/2024 (Terça-feira)\nDeu Dezena, Palpite 0300 no 5º Prêmio!",
+      "10h - MALUCA - Resultado do dia 17/12/2024 (Terça-feira)\nDeu Dezena, Palpite 0900 no 5º Prêmio!",
+      "10h - MALUCA - Resultado do dia 17/12/2024 (Terça-feira)\nDeu Dezena, Palpite 0000 no 5º Prêmio!"
+    ]
+  },
   "BAHIA": {
     "palpites": [
       "0009",
@@ -38,41 +85,6 @@ const palpites = {
       "10h - BA - Resultado do dia 17/12/2024 (Terça-feira)\nDeu Dezena, Palpite 1103 no 9º Prêmio!",
       "10h - BA - Resultado do dia 17/12/2024 (Terça-feira)\nDeu Dezena, Palpite 7003 no 9º Prêmio!"
     ]
-  },
-  "BAHIA MALUCA": {
-    "palpites": [
-      "0397",
-      "0398",
-      "0390",
-      "0307",
-      "0308",
-      "0300",
-      "0317",
-      "0318",
-      "0310",
-      "0997",
-      "0998",
-      "0990",
-      "0907",
-      "0908",
-      "0900",
-      "0917",
-      "0918",
-      "0910",
-      "0097",
-      "0098",
-      "0090",
-      "0007",
-      "0008",
-      "0000",
-      "0017",
-      "0018",
-      "0010",
-      "1397",
-      "1398",
-      "1390"
-    ],
-    "frases": []
   },
   "LOTECE": {
     "palpites": [
