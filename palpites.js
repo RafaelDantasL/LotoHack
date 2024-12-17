@@ -32,7 +32,19 @@ const palpites = {
       "8000",
       "8001"
     ],
-    "frases": []
+    "frases": [
+      "10h - MALUCA - Resultado do dia 17/12/2024 (Terça-feira)\nDeu Dezena, Palpite 0390 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 17/12/2024 (Terça-feira)\nDeu Centena, Palpite 0990 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 17/12/2024 (Terça-feira)\nDeu Dezena, Palpite 0990 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 17/12/2024 (Terça-feira)\nDeu Dezena, Palpite 0090 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 17/12/2024 (Terça-feira)\nDeu Dezena, Palpite 1390 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 17/12/2024 (Terça-feira)\nDeu Dezena, Palpite 0318 no 4º Prêmio!",
+      "10h - MALUCA - Resultado do dia 17/12/2024 (Terça-feira)\nDeu Dezena, Palpite 0918 no 4º Prêmio!",
+      "10h - MALUCA - Resultado do dia 17/12/2024 (Terça-feira)\nDeu Dezena, Palpite 0018 no 4º Prêmio!",
+      "10h - MALUCA - Resultado do dia 17/12/2024 (Terça-feira)\nDeu Dezena, Palpite 0300 no 5º Prêmio!",
+      "10h - MALUCA - Resultado do dia 17/12/2024 (Terça-feira)\nDeu Dezena, Palpite 0900 no 5º Prêmio!",
+      "10h - MALUCA - Resultado do dia 17/12/2024 (Terça-feira)\nDeu Dezena, Palpite 0000 no 5º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -158,42 +170,38 @@ const palpites = {
   },
   "LOTEP": {
     "palpites": [
-      "5003",
-      "5009",
-      "5000",
-      "5043",
-      "5049",
-      "5040",
-      "5013",
-      "5019",
-      "5010",
-      "5303",
-      "5309",
-      "5300",
-      "5343",
-      "5349",
-      "5340",
-      "5313",
-      "5319",
-      "5310",
-      "5803",
-      "5809",
-      "5800",
-      "5843",
-      "5849",
-      "5840",
-      "5813",
-      "5819",
-      "5810",
-      "0003",
-      "0009",
-      "0000"
+      "2626",
+      "2621",
+      "2622",
+      "2686",
+      "2681",
+      "2682",
+      "2606",
+      "2601",
+      "2602",
+      "2426",
+      "2421",
+      "2422",
+      "2486",
+      "2481",
+      "2482",
+      "2406",
+      "2401",
+      "2402",
+      "2226",
+      "2221",
+      "2222",
+      "2286",
+      "2281",
+      "2282",
+      "2206",
+      "2201",
+      "2202",
+      "5626",
+      "5621",
+      "5622"
     ],
-    "frases": [
-      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 3123 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 3323 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 3923 no 7º Prêmio!"
-    ]
+    "frases": []
   },
   "PT RIO": {
     "palpites": [
