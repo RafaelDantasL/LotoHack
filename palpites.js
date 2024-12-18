@@ -141,7 +141,12 @@ const palpites = {
       "6406",
       "6407"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 6016 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 6616 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 6116 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 0016 no 2º Prêmio!"
+    ]
   },
   "LOTEP": {
     "palpites": [
@@ -184,38 +189,43 @@ const palpites = {
   },
   "PT RIO": {
     "palpites": [
-      "4707",
-      "4702",
-      "4700",
-      "4727",
-      "4722",
-      "4720",
-      "4737",
-      "4732",
-      "4730",
-      "4407",
-      "4402",
-      "4400",
-      "4427",
-      "4422",
-      "4420",
-      "4437",
-      "4432",
-      "4430",
-      "4107",
-      "4102",
-      "4100",
-      "4127",
-      "4122",
-      "4120",
-      "4137",
-      "4132",
-      "4130",
-      "2707",
-      "2702",
-      "2700"
+      "9007",
+      "9005",
+      "9009",
+      "9017",
+      "9015",
+      "9019",
+      "9077",
+      "9075",
+      "9079",
+      "9507",
+      "9505",
+      "9509",
+      "9517",
+      "9515",
+      "9519",
+      "9577",
+      "9575",
+      "9579",
+      "9707",
+      "9705",
+      "9709",
+      "9717",
+      "9715",
+      "9719",
+      "9777",
+      "9775",
+      "9779",
+      "4007",
+      "4005",
+      "4009"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 4707 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 4407 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 4107 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 2707 no 3º Prêmio!"
+    ]
   },
   "PT SP": {
     "palpites": [
