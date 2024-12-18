@@ -32,11 +32,7 @@ const palpites = {
       "0619",
       "0611"
     ],
-    "frases": [
-      "10h - MALUCA - Resultado do dia 18/12/2024 (Quarta-feira)\nDeu Dezena, Palpite 5034 no 7º Prêmio!",
-      "10h - MALUCA - Resultado do dia 18/12/2024 (Quarta-feira)\nDeu Dezena, Palpite 5234 no 7º Prêmio!",
-      "10h - MALUCA - Resultado do dia 18/12/2024 (Quarta-feira)\nDeu Dezena, Palpite 5734 no 7º Prêmio!"
-    ]
+    "frases": []
   },
   "BAHIA": {
     "palpites": [
@@ -169,10 +165,6 @@ const palpites = {
       "0029"
     ],
     "frases": [
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 6016 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 6616 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 6116 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 0016 no 2º Prêmio!",
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 16h, 1º ao 10º\nDeu Dezena, Palpite 2196 no 9º Prêmio!",
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 16h, 1º ao 10º\nDeu Dezena, Palpite 2696 no 9º Prêmio!",
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 16h, 1º ao 10º\nDeu Dezena, Palpite 2896 no 9º Prêmio!",
@@ -213,9 +205,6 @@ const palpites = {
       "6730"
     ],
     "frases": [
-      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0358 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0458 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0058 no 5º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Centena, Palpite 0200 no 5º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 0200 no 5º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 0600 no 5º Prêmio!",
@@ -256,10 +245,6 @@ const palpites = {
       "5210"
     ],
     "frases": [
-      "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 4707 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 4407 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 4107 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 2707 no 3º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 14:20, PT, 1º ao 10º\nDeu Dezena, Palpite 9007 no 2º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 14:20, PT, 1º ao 10º\nDeu Centena, Palpite 9507 no 2º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 14:20, PT, 1º ao 10º\nDeu Dezena, Palpite 9507 no 2º Prêmio!",
