@@ -1,42 +1,38 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "1610",
-      "1619",
-      "1611",
-      "1670",
-      "1679",
-      "1671",
-      "1600",
-      "1609",
-      "1601",
-      "1510",
-      "1519",
-      "1511",
-      "1570",
-      "1579",
-      "1571",
-      "1500",
-      "1509",
-      "1501",
-      "1710",
-      "1719",
-      "1711",
-      "1770",
-      "1779",
-      "1771",
-      "1700",
-      "1709",
-      "1701",
-      "0610",
-      "0619",
-      "0611"
+      "1503",
+      "1504",
+      "1505",
+      "1553",
+      "1554",
+      "1555",
+      "1593",
+      "1594",
+      "1595",
+      "1703",
+      "1704",
+      "1705",
+      "1753",
+      "1754",
+      "1755",
+      "1793",
+      "1794",
+      "1795",
+      "1003",
+      "1004",
+      "1005",
+      "1053",
+      "1054",
+      "1055",
+      "1093",
+      "1094",
+      "1095",
+      "2503",
+      "2504",
+      "2505"
     ],
-    "frases": [
-      "10h - MALUCA - Resultado do dia 18/12/2024 (Quarta-feira)\nDeu Dezena, Palpite 5034 no 7º Prêmio!",
-      "10h - MALUCA - Resultado do dia 18/12/2024 (Quarta-feira)\nDeu Dezena, Palpite 5234 no 7º Prêmio!",
-      "10h - MALUCA - Resultado do dia 18/12/2024 (Quarta-feira)\nDeu Dezena, Palpite 5734 no 7º Prêmio!"
-    ]
+    "frases": []
   },
   "BAHIA": {
     "palpites": [
@@ -71,7 +67,20 @@ const palpites = {
       "4529",
       "4521"
     ],
-    "frases": []
+    "frases": [
+      "12h - BA - Resultado do dia 18/12/2024 (Quarta-feira)\nDeu Dezena, Palpite 0097 no 7º Prêmio!",
+      "12h - BA - Resultado do dia 18/12/2024 (Quarta-feira)\nDeu Dezena, Palpite 0297 no 7º Prêmio!",
+      "12h - BA - Resultado do dia 18/12/2024 (Quarta-feira)\nDeu Dezena, Palpite 0397 no 7º Prêmio!",
+      "12h - BA - Resultado do dia 18/12/2024 (Quarta-feira)\nDeu Dezena, Palpite 1097 no 7º Prêmio!",
+      "12h - BA - Resultado do dia 18/12/2024 (Quarta-feira)\nDeu Centena, Palpite 0060 no 8º Prêmio!",
+      "12h - BA - Resultado do dia 18/12/2024 (Quarta-feira)\nDeu Dezena, Palpite 0060 no 8º Prêmio!",
+      "12h - BA - Resultado do dia 18/12/2024 (Quarta-feira)\nDeu Dezena, Palpite 0260 no 8º Prêmio!",
+      "12h - BA - Resultado do dia 18/12/2024 (Quarta-feira)\nDeu Dezena, Palpite 0360 no 8º Prêmio!",
+      "15h - BA - Resultado do dia 18/12/2024 (Quarta-feira)\nDeu Dezena, Palpite 0274 no 4º Prêmio!",
+      "15h - BA - Resultado do dia 18/12/2024 (Quarta-feira)\nDeu Dezena, Palpite 0674 no 4º Prêmio!",
+      "15h - BA - Resultado do dia 18/12/2024 (Quarta-feira)\nDeu Dezena, Palpite 0074 no 4º Prêmio!",
+      "15h - BA - Resultado do dia 18/12/2024 (Quarta-feira)\nDeu Dezena, Palpite 6274 no 4º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
