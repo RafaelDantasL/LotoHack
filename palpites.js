@@ -32,7 +32,11 @@ const palpites = {
       "2002",
       "2006"
     ],
-    "frases": []
+    "frases": [
+      "10h - MALUCA - Resultado do dia 18/12/2024 (Quarta-feira)\nDeu Dezena, Palpite 5034 no 7º Prêmio!",
+      "10h - MALUCA - Resultado do dia 18/12/2024 (Quarta-feira)\nDeu Dezena, Palpite 5234 no 7º Prêmio!",
+      "10h - MALUCA - Resultado do dia 18/12/2024 (Quarta-feira)\nDeu Dezena, Palpite 5734 no 7º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -146,7 +150,12 @@ const palpites = {
       "6406",
       "6407"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 6016 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 6616 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 6116 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 0016 no 2º Prêmio!"
+    ]
   },
   "LOTEP": {
     "palpites": [
@@ -182,10 +191,92 @@ const palpites = {
       "9812"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0358 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0458 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0058 no 5º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Centena, Palpite 0200 no 5º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 0200 no 5º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 0600 no 5º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 0700 no 5º Prêmio!"
+    ]
+  },
+  "PT RIO": {
+    "palpites": [
+      "9007",
+      "9005",
+      "9009",
+      "9017",
+      "9015",
+      "9019",
+      "9077",
+      "9075",
+      "9079",
+      "9507",
+      "9505",
+      "9509",
+      "9517",
+      "9515",
+      "9519",
+      "9577",
+      "9575",
+      "9579",
+      "9707",
+      "9705",
+      "9709",
+      "9717",
+      "9715",
+      "9719",
+      "9777",
+      "9775",
+      "9779",
+      "4007",
+      "4005",
+      "4009"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 4707 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 4407 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 4107 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 2707 no 3º Prêmio!"
+    ]
+  },
+  "PT SP": {
+    "palpites": [
+      "9318",
+      "9311",
+      "9319",
+      "9388",
+      "9381",
+      "9389",
+      "9338",
+      "9331",
+      "9339",
+      "9718",
+      "9711",
+      "9719",
+      "9788",
+      "9781",
+      "9789",
+      "9738",
+      "9731",
+      "9739",
+      "9818",
+      "9811",
+      "9819",
+      "9888",
+      "9881",
+      "9889",
+      "9838",
+      "9831",
+      "9839",
+      "3318",
+      "3311",
+      "3319"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2748 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2448 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2648 no 5º Prêmio!"
     ]
   }
 };
