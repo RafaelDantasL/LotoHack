@@ -53,10 +53,10 @@ function createModal() {
         document.body.removeChild(modalContainer);
 
 
-// Verifica se a chave 'kiwify' existe no localStorage
-if (localStorage.getItem('kiwify')) {
-    // Obtém o valor da chave 'kiwify', que é um link
-    const link = localStorage.getItem('kiwify');
+// Verifica se a chave 'afiliado' existe no localStorage
+if (localStorage.getItem('afiliado')) {
+    // Obtém o valor da chave 'afiliado', que é um link
+    const link = localStorage.getItem('afiliado');
     // Redireciona para o link armazenado
     window.location.href = link;
 } else {
