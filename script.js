@@ -639,6 +639,17 @@ function checkPrivilegeAccess() {
         const newUrl = window.location.origin + window.location.pathname; // URL sem parâmetros
         window.history.replaceState({}, document.title, newUrl);
     }
+
+// Novo parâmetro adicionado (Para link de afiliado Kwify)
+    if (urlParams.get('access') === 'kiwify') {
+        // Armazena o privilégio no localStorage
+        localStorage.setItem('kiwify', 'https://pay.kiwify.com.br/hIkHZ23');
+
+        // Remove o parâmetro 'access' da URL sem recarregar a página
+        const newUrl = window.location.origin + window.location.pathname; // URL sem parâmetros
+        window.history.replaceState({}, document.title, newUrl);
+
+   }
 }
 
     // Função para mostrar a mensagem flutuante após 30 segundos
