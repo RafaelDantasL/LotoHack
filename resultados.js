@@ -1924,6 +1924,130 @@ const resultado = {
           "Cachorro"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 16:00, PTV, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "5128",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "2º",
+          "1045",
+          "12",
+          "Elefante"
+        ],
+        [
+          "3º",
+          "9720",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "4º",
+          "4294",
+          "24",
+          "Veado"
+        ],
+        [
+          "5º",
+          "6817",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "6º [soma]",
+          "7004",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "358",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 16:00, PTV, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "5128",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "2º",
+          "1045",
+          "12",
+          "Elefante"
+        ],
+        [
+          "3º",
+          "9720",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "4º",
+          "4294",
+          "24",
+          "Veado"
+        ],
+        [
+          "5º",
+          "6817",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "6º",
+          "5194",
+          "24",
+          "Veado"
+        ],
+        [
+          "7º",
+          "1072",
+          "18",
+          "Porco"
+        ],
+        [
+          "8º",
+          "2429",
+          "08",
+          "Camelo"
+        ],
+        [
+          "9º",
+          "8504",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "10º",
+          "4203",
+          "01",
+          "Avestruz"
+        ]
+      ]
     }
   ],
   "PT SP": [
