@@ -3379,6 +3379,130 @@ const resultado = {
           "Gato"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "5711",
+          "03",
+          "Burro"
+        ],
+        [
+          "2º",
+          "4720",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "3º",
+          "4125",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "4º",
+          "8413",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "5º",
+          "9048",
+          "12",
+          "Elefante"
+        ],
+        [
+          "6º [soma]",
+          "2017",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "955",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "5711",
+          "03",
+          "Burro"
+        ],
+        [
+          "2º",
+          "4720",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "3º",
+          "4125",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "4º",
+          "8413",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "5º",
+          "9048",
+          "12",
+          "Elefante"
+        ],
+        [
+          "6º",
+          "5448",
+          "12",
+          "Elefante"
+        ],
+        [
+          "7º",
+          "7714",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "8º",
+          "1221",
+          "06",
+          "Cabra"
+        ],
+        [
+          "9º",
+          "1053",
+          "14",
+          "Gato"
+        ],
+        [
+          "10º",
+          "7453",
+          "14",
+          "Gato"
+        ]
+      ]
     }
   ]
 };
