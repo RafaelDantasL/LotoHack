@@ -221,9 +221,6 @@ const palpites = {
       "Resultado do Jogo do Bicho LOTEP - PB, 15:45h\nDeu Dezena, Palpite 3684 no 6º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 18h\nDeu Dezena, Palpite 1155 no 2º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 18h\nDeu Dezena, Palpite 1255 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 18h\nDeu Dezena, Palpite 1855 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 18h\nDeu Dezena, Palpite 1155 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 18h\nDeu Dezena, Palpite 1255 no 2º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 18h\nDeu Dezena, Palpite 1855 no 2º Prêmio!"
     ]
   },
