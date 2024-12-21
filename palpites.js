@@ -1,42 +1,42 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "6017",
-      "6010",
-      "6019",
-      "6087",
-      "6080",
-      "6089",
-      "6097",
-      "6090",
-      "6099",
-      "6317",
-      "6310",
-      "6319",
-      "6387",
-      "6380",
-      "6389",
-      "6397",
-      "6390",
-      "6399",
-      "6417",
-      "6410",
-      "6419",
-      "6487",
-      "6480",
-      "6489",
-      "6497",
-      "6490",
-      "6499",
-      "7017",
-      "7010",
-      "7019"
+      "4412",
+      "4413",
+      "4411",
+      "4462",
+      "4463",
+      "4461",
+      "4442",
+      "4443",
+      "4441",
+      "4612",
+      "4613",
+      "4611",
+      "4662",
+      "4663",
+      "4661",
+      "4642",
+      "4643",
+      "4641",
+      "4012",
+      "4013",
+      "4011",
+      "4062",
+      "4063",
+      "4061",
+      "4042",
+      "4043",
+      "4041",
+      "6412",
+      "6413",
+      "6411"
     ],
     "frases": [
-      "12h - MALUCA - BA - Resultado do dia 21/12/2024 (Sábado)\nDeu Dezena, Palpite 0326 no 8º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 21/12/2024 (Sábado)\nDeu Centena, Palpite 0026 no 8º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 21/12/2024 (Sábado)\nDeu Dezena, Palpite 0026 no 8º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 21/12/2024 (Sábado)\nDeu Dezena, Palpite 0926 no 8º Prêmio!"
+      "15h - MALUCA - BA - Resultado do dia 21/12/2024 (Sábado)\nDeu Dezena, Palpite 6017 no 7º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 21/12/2024 (Sábado)\nDeu Dezena, Palpite 6317 no 7º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 21/12/2024 (Sábado)\nDeu Dezena, Palpite 6417 no 7º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 21/12/2024 (Sábado)\nDeu Dezena, Palpite 7017 no 7º Prêmio!"
     ]
   },
   "BAHIA": {
@@ -72,7 +72,14 @@ const palpites = {
       "6621",
       "6622"
     ],
-    "frases": []
+    "frases": [
+      "12h - BA - Resultado do dia 21/12/2024 (Sábado)\nDeu Dezena, Palpite 1109 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 21/12/2024 (Sábado)\nDeu Dezena, Palpite 1309 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 21/12/2024 (Sábado)\nDeu Dezena, Palpite 1609 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 21/12/2024 (Sábado)\nDeu Dezena, Palpite 1130 no 7º Prêmio!",
+      "12h - BA - Resultado do dia 21/12/2024 (Sábado)\nDeu Dezena, Palpite 1330 no 7º Prêmio!",
+      "12h - BA - Resultado do dia 21/12/2024 (Sábado)\nDeu Dezena, Palpite 1630 no 7º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
