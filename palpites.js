@@ -280,45 +280,5 @@ const palpites = {
       "2758"
     ],
     "frases": []
-  },
-  "LOTEP": {
-    "palpites": [
-      "6113",
-      "6114",
-      "6115",
-      "6143",
-      "6144",
-      "6145",
-      "6173",
-      "6174",
-      "6175",
-      "6513",
-      "6514",
-      "6515",
-      "6543",
-      "6544",
-      "6545",
-      "6573",
-      "6574",
-      "6575",
-      "6613",
-      "6614",
-      "6615",
-      "6643",
-      "6644",
-      "6645",
-      "6673",
-      "6674",
-      "6675",
-      "0113",
-      "0114",
-      "0115"
-    ],
-    "frases": [
-      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Centena, Palpite 1866 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 1866 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 1366 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 1066 no 1º Prêmio!"
-    ]
   }
 };
