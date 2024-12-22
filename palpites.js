@@ -32,7 +32,11 @@ const palpites = {
       "6114",
       "6116"
     ],
-    "frases": []
+    "frases": [
+      "10h - MALUCA - Resultado do dia 22/12/2024 (Domingo)\nDeu Dezena, Palpite 6621 no 4º Prêmio!",
+      "10h - MALUCA - Resultado do dia 22/12/2024 (Domingo)\nDeu Dezena, Palpite 6521 no 4º Prêmio!",
+      "10h - MALUCA - Resultado do dia 22/12/2024 (Domingo)\nDeu Dezena, Palpite 6221 no 4º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -68,5 +72,94 @@ const palpites = {
       "0829"
     ],
     "frases": []
+  },
+  "LOOK/GOIAS": {
+    "palpites": [
+      "8030",
+      "8036",
+      "8031",
+      "8010",
+      "8016",
+      "8011",
+      "8040",
+      "8046",
+      "8041",
+      "8330",
+      "8336",
+      "8331",
+      "8310",
+      "8316",
+      "8311",
+      "8340",
+      "8346",
+      "8341",
+      "8430",
+      "8436",
+      "8431",
+      "8410",
+      "8416",
+      "8411",
+      "8440",
+      "8446",
+      "8441",
+      "3030",
+      "3036",
+      "3031"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 7513 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 7613 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Centena, Palpite 7713 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 7713 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Centena, Palpite 7535 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 7535 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 7635 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 7735 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 3585 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 3085 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 3385 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 3582 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 3082 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 3382 no 5º Prêmio!"
+    ]
+  },
+  "LOTEP": {
+    "palpites": [
+      "2249",
+      "2240",
+      "2242",
+      "2209",
+      "2200",
+      "2202",
+      "2279",
+      "2270",
+      "2272",
+      "2649",
+      "2640",
+      "2642",
+      "2609",
+      "2600",
+      "2602",
+      "2679",
+      "2670",
+      "2672",
+      "2749",
+      "2740",
+      "2742",
+      "2709",
+      "2700",
+      "2702",
+      "2779",
+      "2770",
+      "2772",
+      "3249",
+      "3240",
+      "3242"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 1345 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 1945 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 1145 no 3º Prêmio!"
+    ]
   }
 };
