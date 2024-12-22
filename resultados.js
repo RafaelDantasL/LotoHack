@@ -3024,6 +3024,130 @@ const resultado = {
           "Cachorro"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 19hs - PTSP, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "4413",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "2º",
+          "6133",
+          "09",
+          "Cobra"
+        ],
+        [
+          "3º",
+          "8115",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "4º",
+          "4917",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "5º",
+          "6057",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "6º [soma]",
+          "9635",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "064",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 19hs - PTSP, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "4413",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "2º",
+          "6133",
+          "09",
+          "Cobra"
+        ],
+        [
+          "3º",
+          "8115",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "4º",
+          "4917",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "5º",
+          "6057",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "6º",
+          "4684",
+          "21",
+          "Touro"
+        ],
+        [
+          "7º",
+          "4119",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "8º",
+          "1311",
+          "03",
+          "Burro"
+        ],
+        [
+          "9º",
+          "3357",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "10º",
+          "3106",
+          "02",
+          "Águia"
+        ]
+      ]
     }
   ]
 };
