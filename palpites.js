@@ -196,5 +196,85 @@ const palpites = {
       "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 7457 no 8º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 7857 no 8º Prêmio!"
     ]
+  },
+  "PT RIO": {
+    "palpites": [
+      "2223",
+      "2221",
+      "2224",
+      "2263",
+      "2261",
+      "2264",
+      "2283",
+      "2281",
+      "2284",
+      "2123",
+      "2121",
+      "2124",
+      "2163",
+      "2161",
+      "2164",
+      "2183",
+      "2181",
+      "2184",
+      "2023",
+      "2021",
+      "2024",
+      "2063",
+      "2061",
+      "2064",
+      "2083",
+      "2081",
+      "2084",
+      "3223",
+      "3221",
+      "3224"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 3014 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 3314 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Centena, Palpite 3414 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 3414 no 6º Prêmio!"
+    ]
+  },
+  "PT SP": {
+    "palpites": [
+      "8701",
+      "8706",
+      "8707",
+      "8751",
+      "8756",
+      "8757",
+      "8761",
+      "8766",
+      "8767",
+      "8801",
+      "8806",
+      "8807",
+      "8851",
+      "8856",
+      "8857",
+      "8861",
+      "8866",
+      "8867",
+      "8901",
+      "8906",
+      "8907",
+      "8951",
+      "8956",
+      "8957",
+      "8961",
+      "8966",
+      "8967",
+      "5701",
+      "5706",
+      "5707"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0058 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0158 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0358 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1058 no 6º Prêmio!"
+    ]
   }
 };
