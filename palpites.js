@@ -317,45 +317,5 @@ const palpites = {
       "Resultado do Jogo do Bicho SP, 19hs - PT FEDERAL, 1º ao 10º\nDeu Dezena, Palpite 4472 no 4º Prêmio!",
       "Resultado do Jogo do Bicho SP, 19hs - PT FEDERAL, 1º ao 10º\nDeu Dezena, Palpite 5172 no 4º Prêmio!"
     ]
-  },
-  "LOTEP": {
-    "palpites": [
-      "5236",
-      "5232",
-      "5233",
-      "5226",
-      "5222",
-      "5223",
-      "5206",
-      "5202",
-      "5203",
-      "5936",
-      "5932",
-      "5933",
-      "5926",
-      "5922",
-      "5923",
-      "5906",
-      "5902",
-      "5903",
-      "5436",
-      "5432",
-      "5433",
-      "5426",
-      "5422",
-      "5423",
-      "5406",
-      "5402",
-      "5403",
-      "7236",
-      "7232",
-      "7233"
-    ],
-    "frases": [
-      "Resultado do Jogo do Bicho LOTEP - PB, 15:45h\nDeu Dezena, Palpite 5500 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 15:45h\nDeu Dezena, Palpite 5300 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 15:45h\nDeu Dezena, Palpite 5000 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 15:45h\nDeu Dezena, Palpite 2500 no 6º Prêmio!"
-    ]
   }
 };
