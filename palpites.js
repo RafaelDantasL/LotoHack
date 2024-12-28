@@ -200,43 +200,38 @@ const palpites = {
   },
   "LOTEP": {
     "palpites": [
-      "0508",
-      "0500",
-      "0501",
-      "0588",
-      "0580",
-      "0581",
-      "0568",
-      "0560",
-      "0561",
-      "0608",
-      "0600",
-      "0601",
-      "0688",
-      "0680",
-      "0681",
-      "0668",
-      "0660",
-      "0661",
-      "0308",
-      "0300",
-      "0301",
-      "0388",
-      "0380",
-      "0381",
-      "0368",
-      "0360",
-      "0361",
-      "4508",
-      "4500",
-      "4501"
+      "5236",
+      "5232",
+      "5233",
+      "5226",
+      "5222",
+      "5223",
+      "5206",
+      "5202",
+      "5203",
+      "5936",
+      "5932",
+      "5933",
+      "5926",
+      "5922",
+      "5923",
+      "5906",
+      "5902",
+      "5903",
+      "5436",
+      "5432",
+      "5433",
+      "5426",
+      "5422",
+      "5423",
+      "5406",
+      "5402",
+      "5403",
+      "7236",
+      "7232",
+      "7233"
     ],
-    "frases": [
-      "Resultado do Jogo do Bicho LOTEP - PB, 15:45h\nDeu Dezena, Palpite 5500 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 15:45h\nDeu Dezena, Palpite 5300 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 15:45h\nDeu Dezena, Palpite 5000 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 15:45h\nDeu Dezena, Palpite 2500 no 6º Prêmio!"
-    ]
+    "frases": []
   },
   "PT RIO": {
     "palpites": [
@@ -325,6 +320,17 @@ const palpites = {
       "5175",
       "5173"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Centena, Palpite 5584 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 5584 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 5684 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 5784 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 3825 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 3225 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 3625 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 2020 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 2220 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 2320 no 10º Prêmio!"
+    ]
   }
 };
