@@ -1,42 +1,42 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "6215",
-      "6219",
-      "6210",
-      "6245",
-      "6249",
-      "6240",
-      "6255",
-      "6259",
-      "6250",
-      "6015",
-      "6019",
-      "6010",
-      "6045",
-      "6049",
-      "6040",
-      "6055",
-      "6059",
-      "6050",
-      "6115",
-      "6119",
-      "6110",
-      "6145",
-      "6149",
-      "6140",
-      "6155",
-      "6159",
-      "6150",
-      "3215",
-      "3219",
-      "3210"
+      "1706",
+      "1702",
+      "1700",
+      "1726",
+      "1722",
+      "1720",
+      "1796",
+      "1792",
+      "1790",
+      "1806",
+      "1802",
+      "1800",
+      "1826",
+      "1822",
+      "1820",
+      "1896",
+      "1892",
+      "1890",
+      "1006",
+      "1002",
+      "1000",
+      "1026",
+      "1022",
+      "1020",
+      "1096",
+      "1092",
+      "1090",
+      "7706",
+      "7702",
+      "7700"
     ],
     "frases": [
-      "10h - MALUCA - Resultado do dia 29/12/2024 (Domingo)\nDeu Dezena, Palpite 8099 no 5º Prêmio!",
-      "10h - MALUCA - Resultado do dia 29/12/2024 (Domingo)\nDeu Dezena, Palpite 8299 no 5º Prêmio!",
-      "10h - MALUCA - Resultado do dia 29/12/2024 (Domingo)\nDeu Dezena, Palpite 8499 no 5º Prêmio!",
-      "10h - MALUCA - Resultado do dia 29/12/2024 (Domingo)\nDeu Dezena, Palpite 4099 no 5º Prêmio!"
+      "12h - MALUCA - BA - Resultado do dia 29/12/2024 (Domingo)\nDeu Centena, Palpite 6250 no 4º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 29/12/2024 (Domingo)\nDeu Dezena, Palpite 6250 no 4º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 29/12/2024 (Domingo)\nDeu Dezena, Palpite 6050 no 4º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 29/12/2024 (Domingo)\nDeu Dezena, Palpite 6150 no 4º Prêmio!"
     ]
   },
   "BAHIA": {
@@ -72,7 +72,11 @@ const palpites = {
       "4772",
       "4776"
     ],
-    "frases": []
+    "frases": [
+      "10h - BA - Resultado do dia 29/12/2024 (Domingo)\nDeu Dezena, Palpite 3029 no 7º Prêmio!",
+      "10h - BA - Resultado do dia 29/12/2024 (Domingo)\nDeu Milhar, Palpite 3129 no 7º Prêmio!",
+      "10h - BA - Resultado do dia 29/12/2024 (Domingo)\nDeu Dezena, Palpite 3329 no 7º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
