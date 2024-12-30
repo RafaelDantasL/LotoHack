@@ -108,6 +108,80 @@ const palpites = {
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 9008 no 6º Prêmio!"
     ]
   },
+  "LOTEP": {
+    "palpites": [
+      "2207",
+      "2200",
+      "2201",
+      "2297",
+      "2290",
+      "2291",
+      "2227",
+      "2220",
+      "2221",
+      "2407",
+      "2400",
+      "2401",
+      "2497",
+      "2490",
+      "2491",
+      "2427",
+      "2420",
+      "2421",
+      "2507",
+      "2500",
+      "2501",
+      "2597",
+      "2590",
+      "2591",
+      "2527",
+      "2520",
+      "2521",
+      "0207",
+      "0200",
+      "0201"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 9703 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 9303 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 9403 no 5º Prêmio!"
+    ]
+  },
+  "LOTECE": {
+    "palpites": [
+      "2115",
+      "2110",
+      "2116",
+      "2185",
+      "2180",
+      "2186",
+      "2125",
+      "2120",
+      "2126",
+      "2715",
+      "2710",
+      "2716",
+      "2785",
+      "2780",
+      "2786",
+      "2725",
+      "2720",
+      "2726",
+      "2015",
+      "2010",
+      "2016",
+      "2085",
+      "2080",
+      "2086",
+      "2025",
+      "2020",
+      "2026",
+      "1115",
+      "1110",
+      "1116"
+    ],
+    "frases": []
+  },
   "PT RIO": {
     "palpites": [
       "0807",
@@ -147,5 +221,40 @@ const palpites = {
       "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 3873 no 4º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 6673 no 4º Prêmio!"
     ]
+  },
+  "PT SP": {
+    "palpites": [
+      "0342",
+      "0344",
+      "0349",
+      "0332",
+      "0334",
+      "0339",
+      "0392",
+      "0394",
+      "0399",
+      "0442",
+      "0444",
+      "0449",
+      "0432",
+      "0434",
+      "0439",
+      "0492",
+      "0494",
+      "0499",
+      "0942",
+      "0944",
+      "0949",
+      "0932",
+      "0934",
+      "0939",
+      "0992",
+      "0994",
+      "0999",
+      "1342",
+      "1344",
+      "1349"
+    ],
+    "frases": []
   }
 };
