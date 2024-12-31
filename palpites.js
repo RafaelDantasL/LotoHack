@@ -259,5 +259,48 @@ const palpites = {
       "6633"
     ],
     "frases": []
+  },
+  "PT SP": {
+    "palpites": [
+      "2042",
+      "2045",
+      "2040",
+      "2052",
+      "2055",
+      "2050",
+      "2072",
+      "2075",
+      "2070",
+      "2442",
+      "2445",
+      "2440",
+      "2452",
+      "2455",
+      "2450",
+      "2472",
+      "2475",
+      "2470",
+      "2142",
+      "2145",
+      "2140",
+      "2152",
+      "2155",
+      "2150",
+      "2172",
+      "2175",
+      "2170",
+      "3042",
+      "3045",
+      "3040"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 1202 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Centena, Palpite 1402 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 1402 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 1302 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 1254 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 1454 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 1354 no 8º Prêmio!"
+    ]
   }
 };
