@@ -1943,6 +1943,130 @@ const resultado = {
           "Carneiro"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "5219",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "2º",
+          "2425",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "3º",
+          "6425",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "4º",
+          "9773",
+          "19",
+          "Pavão"
+        ],
+        [
+          "5º",
+          "5164",
+          "16",
+          "Leão"
+        ],
+        [
+          "6º [soma]",
+          "9006",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "656",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "5219",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "2º",
+          "2425",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "3º",
+          "6425",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "4º",
+          "9773",
+          "19",
+          "Pavão"
+        ],
+        [
+          "5º",
+          "5164",
+          "16",
+          "Leão"
+        ],
+        [
+          "6º",
+          "5269",
+          "18",
+          "Porco"
+        ],
+        [
+          "7º",
+          "2447",
+          "12",
+          "Elefante"
+        ],
+        [
+          "8º",
+          "1227",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "9º",
+          "9553",
+          "14",
+          "Gato"
+        ],
+        [
+          "10º",
+          "7502",
+          "01",
+          "Avestruz"
+        ]
+      ]
     }
   ]
 };
