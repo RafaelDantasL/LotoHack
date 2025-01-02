@@ -32,7 +32,17 @@ const palpites = {
       "3001",
       "3002"
     ],
-    "frases": []
+    "frases": [
+      "10h - MALUCA - Resultado do dia 02/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 7130 no 6º Prêmio!",
+      "10h - MALUCA - Resultado do dia 02/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 7330 no 6º Prêmio!",
+      "10h - MALUCA - Resultado do dia 02/01/2025 (Quinta-feira)\nDeu Centena, Palpite 7530 no 6º Prêmio!",
+      "10h - MALUCA - Resultado do dia 02/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 7530 no 6º Prêmio!",
+      "10h - MALUCA - Resultado do dia 02/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 2130 no 6º Prêmio!",
+      "10h - MALUCA - Resultado do dia 02/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 7131 no 8º Prêmio!",
+      "10h - MALUCA - Resultado do dia 02/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 7331 no 8º Prêmio!",
+      "10h - MALUCA - Resultado do dia 02/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 7531 no 8º Prêmio!",
+      "10h - MALUCA - Resultado do dia 02/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 2131 no 8º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -68,5 +78,47 @@ const palpites = {
       "9109"
     ],
     "frases": []
+  },
+  "LOTECE": {
+    "palpites": [
+      "4848",
+      "4849",
+      "4841",
+      "4868",
+      "4869",
+      "4861",
+      "4898",
+      "4899",
+      "4891",
+      "4748",
+      "4749",
+      "4741",
+      "4768",
+      "4769",
+      "4761",
+      "4798",
+      "4799",
+      "4791",
+      "4948",
+      "4949",
+      "4941",
+      "4968",
+      "4969",
+      "4961",
+      "4998",
+      "4999",
+      "4991",
+      "6848",
+      "6849",
+      "6841"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 2565 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 2065 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 2465 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 2568 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 2068 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 2468 no 7º Prêmio!"
+    ]
   }
 };
