@@ -1,4 +1,43 @@
 const palpites = {
+  "BAHIA MALUCA": {
+    "palpites": [
+      "4430",
+      "4437",
+      "4431",
+      "4440",
+      "4447",
+      "4441",
+      "4400",
+      "4407",
+      "4401",
+      "4830",
+      "4837",
+      "4831",
+      "4840",
+      "4847",
+      "4841",
+      "4800",
+      "4807",
+      "4801",
+      "4030",
+      "4037",
+      "4031",
+      "4040",
+      "4047",
+      "4041",
+      "4000",
+      "4007",
+      "4001",
+      "9430",
+      "9437",
+      "9431"
+    ],
+    "frases": [
+      "10h - MALUCA - Resultado do dia 03/01/2025 (Sexta-feira)\nDeu Dezena, Palpite 8185 no 4º Prêmio!",
+      "10h - MALUCA - Resultado do dia 03/01/2025 (Sexta-feira)\nDeu Dezena, Palpite 8285 no 4º Prêmio!",
+      "10h - MALUCA - Resultado do dia 03/01/2025 (Sexta-feira)\nDeu Dezena, Palpite 8485 no 4º Prêmio!"
+    ]
+  },
   "BAHIA": {
     "palpites": [
       "0414",
@@ -41,41 +80,6 @@ const palpites = {
       "10h - BA - Resultado do dia 03/01/2025 (Sexta-feira)\nDeu Dezena, Palpite 1837 no 8º Prêmio!",
       "10h - BA - Resultado do dia 03/01/2025 (Sexta-feira)\nDeu Dezena, Palpite 1137 no 8º Prêmio!"
     ]
-  },
-  "BAHIA MALUCA": {
-    "palpites": [
-      "8107",
-      "8105",
-      "8109",
-      "8187",
-      "8185",
-      "8189",
-      "8127",
-      "8125",
-      "8129",
-      "8207",
-      "8205",
-      "8209",
-      "8287",
-      "8285",
-      "8289",
-      "8227",
-      "8225",
-      "8229",
-      "8407",
-      "8405",
-      "8409",
-      "8487",
-      "8485",
-      "8489",
-      "8427",
-      "8425",
-      "8429",
-      "0107",
-      "0105",
-      "0109"
-    ],
-    "frases": []
   },
   "LOTECE": {
     "palpites": [
