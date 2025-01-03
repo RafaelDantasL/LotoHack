@@ -1943,6 +1943,130 @@ const resultado = {
           "Burro"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "3350",
+          "13",
+          "Galo"
+        ],
+        [
+          "2º",
+          "4419",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "3º",
+          "5813",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "4º",
+          "9748",
+          "12",
+          "Elefante"
+        ],
+        [
+          "5º",
+          "8646",
+          "12",
+          "Elefante"
+        ],
+        [
+          "6º [soma]",
+          "1976",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "803",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "3350",
+          "13",
+          "Galo"
+        ],
+        [
+          "2º",
+          "4419",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "3º",
+          "5813",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "4º",
+          "9748",
+          "12",
+          "Elefante"
+        ],
+        [
+          "5º",
+          "8646",
+          "12",
+          "Elefante"
+        ],
+        [
+          "6º",
+          "3459",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "7º",
+          "3487",
+          "22",
+          "Tigre"
+        ],
+        [
+          "8º",
+          "5114",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "9º",
+          "0938",
+          "10",
+          "Coelho"
+        ],
+        [
+          "10º",
+          "4974",
+          "19",
+          "Pavão"
+        ]
+      ]
     }
   ]
 };
