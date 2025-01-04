@@ -232,45 +232,5 @@ const palpites = {
       "4320"
     ],
     "frases": []
-  },
-  "PT SP": {
-    "palpites": [
-      "2450",
-      "2457",
-      "2451",
-      "2410",
-      "2417",
-      "2411",
-      "2420",
-      "2427",
-      "2421",
-      "2950",
-      "2957",
-      "2951",
-      "2910",
-      "2917",
-      "2911",
-      "2920",
-      "2927",
-      "2921",
-      "2150",
-      "2157",
-      "2151",
-      "2110",
-      "2117",
-      "2111",
-      "2120",
-      "2127",
-      "2121",
-      "1450",
-      "1457",
-      "1451"
-    ],
-    "frases": [
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Centena, Palpite 4208 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 4208 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 4408 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 4908 no 9º Prêmio!"
-    ]
   }
 };
