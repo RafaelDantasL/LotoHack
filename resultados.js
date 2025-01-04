@@ -571,6 +571,77 @@ const resultado = {
           "Vaca"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "2801",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "2º",
+          "1098",
+          "25",
+          "Vaca"
+        ],
+        [
+          "3º",
+          "4177",
+          "20",
+          "Peru"
+        ],
+        [
+          "4º",
+          "7334",
+          "09",
+          "Cobra"
+        ],
+        [
+          "5º",
+          "7511",
+          "03",
+          "Burro"
+        ],
+        [
+          "6º",
+          "1614",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "7º",
+          "6158",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "8º",
+          "0669",
+          "18",
+          "Porco"
+        ],
+        [
+          "9º",
+          "8345",
+          "12",
+          "Elefante"
+        ],
+        [
+          "10º",
+          "9160",
+          "15",
+          "Jacaré"
+        ]
+      ]
     }
   ],
   "LOOK/GOIAS": [
