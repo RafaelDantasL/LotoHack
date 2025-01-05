@@ -1,5 +1,7 @@
 {
+  "acumulado": false,
   "dataApuracao": "28/12/2024",
+  "dataProximoConcurso": "",
   "dezenasSorteadasOrdemSorteio": [
     "031976",
     "014292",
@@ -7,8 +9,110 @@
     "096672",
     "068951"
   ],
-
+  "exibirDetalhamentoPorCidade": true,
+  "id": null,
+  "indicadorConcursoEspecial": 1,
+  "listaDezenas": [
+    "031976",
+    "014292",
+    "030948",
+    "096672",
+    "068951"
+  ],
+  "listaDezenasSegundoSorteio": null,
+  "listaMunicipioUFGanhadores": [
+    {
+      "ganhadores": 0,
+      "municipio": "CIDADE OCIDENTAL",
+      "nomeFatansiaUL": "LOTERIAS MORADA DA SORTE",
+      "posicao": 3,
+      "serie": "A",
+      "uf": "GO"
+    },
+    {
+      "ganhadores": 0,
+      "municipio": "SANTA BARBARA",
+      "nomeFatansiaUL": "A FAVORITA",
+      "posicao": 2,
+      "serie": "A",
+      "uf": "MG"
+    },
+    {
+      "ganhadores": 0,
+      "municipio": "JABOATAO DOS GUARARAPES",
+      "nomeFatansiaUL": "SORTE SUA",
+      "posicao": 5,
+      "serie": "A",
+      "uf": "PE"
+    },
+    {
+      "ganhadores": 0,
+      "municipio": "CAMPINAS",
+      "nomeFatansiaUL": "CACULA",
+      "posicao": 1,
+      "serie": "A",
+      "uf": "SP"
+    },
+    {
+      "ganhadores": 0,
+      "municipio": "SAO PAULO",
+      "nomeFatansiaUL": "X  DA  SORTE  LOTERIAS",
+      "posicao": 4,
+      "serie": "A",
+      "uf": "SP"
+    }
+  ],
+  "listaRateioPremio": [
+    {
+      "descricaoFaixa": "1 acertos",
+      "faixa": 1,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 500000.0
+    },
+    {
+      "descricaoFaixa": "2 acertos",
+      "faixa": 2,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 27000.0
+    },
+    {
+      "descricaoFaixa": "3 acertos",
+      "faixa": 3,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 24000.0
+    },
+    {
+      "descricaoFaixa": "4 acertos",
+      "faixa": 4,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 19000.0
+    },
+    {
+      "descricaoFaixa": "5 acertos",
+      "faixa": 5,
+      "numeroDeGanhadores": 1,
+      "valorPremio": 18329.0
+    }
+  ],
+  "listaResultadoEquipeEsportiva": null,
+  "localSorteio": "ESPAÇO DA SORTE",
+  "nomeMunicipioUFSorteio": "SAO PAULO, SP",
+  "nomeTimeCoracaoMesSorte": null,
   "numero": 5929,
   "numeroConcursoAnterior": 5928,
+  "numeroConcursoFinal_0_5": 0,
   "numeroConcursoProximo": 5930,
-  }
+  "numeroJogo": 10,
+  "observacao": null,
+  "premiacaoContingencia": null,
+  "tipoJogo": "LOTERIA_FEDERAL",
+  "tipoPublicacao": 3,
+  "ultimoConcurso": true,
+  "valorArrecadado": 0.0,
+  "valorAcumuladoConcurso_0_5": 0.0,
+  "valorAcumuladoConcursoEspecial": 0.0,
+  "valorAcumuladoProximoConcurso": 0.0,
+  "valorEstimadoProximoConcurso": 0.0,
+  "valorSaldoReservaGarantidora": 0.0,
+  "valorTotalPremioFaixaUm": 0.0
+}
