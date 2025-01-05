@@ -1,15 +1,14 @@
 {
-  "resultados": [
-    "0456",
-    "1203",
-    "0098",
-    "8765",
-    "0321",
-    "5000",
-    "0047",
-    "1902",
-    "0750",
-    "3333"
+  "dataApuracao": "28/12/2024",
+  "dezenasSorteadasOrdemSorteio": [
+    "031976",
+    "014292",
+    "030948",
+    "096672",
+    "068951"
   ],
-  "data": "2025-01-04"
-}
+
+  "numero": 5929,
+  "numeroConcursoAnterior": 5928,
+  "numeroConcursoProximo": 5930,
+  }
