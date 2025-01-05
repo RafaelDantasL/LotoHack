@@ -1,12 +1,9 @@
 {
-  "numero": "1234",
-  "dataApuracao": "2025-01-03T00:00:00Z",
   "dezenasSorteadasOrdemSorteio": [
     "2345",
     "6789",
     "0123",
     "4567",
     "8901"
-  ],
-  "numeroConcursoProximo": "1235"
+  ]
 }
