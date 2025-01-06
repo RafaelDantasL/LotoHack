@@ -1,44 +1,42 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "5001",
-      "5008",
-      "5000",
-      "5011",
-      "5018",
-      "5010",
-      "5021",
-      "5028",
-      "5020",
-      "5301",
-      "5308",
-      "5300",
-      "5311",
-      "5318",
-      "5310",
-      "5321",
-      "5328",
-      "5320",
-      "5401",
-      "5408",
-      "5400",
-      "5411",
-      "5418",
-      "5410",
-      "5421",
-      "5428",
-      "5420",
-      "6001",
-      "6008",
-      "6000"
+      "1100",
+      "1107",
+      "1101",
+      "1180",
+      "1187",
+      "1181",
+      "1120",
+      "1127",
+      "1121",
+      "1500",
+      "1507",
+      "1501",
+      "1580",
+      "1587",
+      "1581",
+      "1520",
+      "1527",
+      "1521",
+      "1000",
+      "1007",
+      "1001",
+      "1080",
+      "1087",
+      "1081",
+      "1020",
+      "1027",
+      "1021",
+      "2100",
+      "2107",
+      "2101"
     ],
     "frases": [
-      "10h - MALUCA - Resultado do dia 06/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 4168 no 6º Prêmio!",
-      "10h - MALUCA - Resultado do dia 06/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 4268 no 6º Prêmio!",
-      "10h - MALUCA - Resultado do dia 06/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 4768 no 6º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 06/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 1046 no 6º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 06/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 1446 no 6º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 06/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 1546 no 6º Prêmio!"
+      "15h - MALUCA - BA - Resultado do dia 06/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 5000 no 2º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 06/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 5300 no 2º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 06/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 5400 no 2º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 06/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 6000 no 2º Prêmio!"
     ]
   },
   "BAHIA": {
@@ -74,7 +72,15 @@ const palpites = {
       "4701",
       "4706"
     ],
-    "frases": []
+    "frases": [
+      "10h - BA - Resultado do dia 06/01/2025 (Segunda-feira)\nDeu Centena, Palpite 2341 no 5º Prêmio!",
+      "10h - BA - Resultado do dia 06/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 2341 no 5º Prêmio!",
+      "10h - BA - Resultado do dia 06/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 2541 no 5º Prêmio!",
+      "10h - BA - Resultado do dia 06/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 2941 no 5º Prêmio!",
+      "12h - BA - Resultado do dia 06/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 6362 no 6º Prêmio!",
+      "12h - BA - Resultado do dia 06/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 6062 no 6º Prêmio!",
+      "12h - BA - Resultado do dia 06/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 6162 no 6º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
