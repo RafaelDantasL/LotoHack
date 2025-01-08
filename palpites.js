@@ -113,6 +113,46 @@ const palpites = {
       "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 6207 no 1º Prêmio!"
     ]
   },
+  "LOOK/GOIAS": {
+    "palpites": [
+      "6565",
+      "6561",
+      "6563",
+      "6525",
+      "6521",
+      "6523",
+      "6555",
+      "6551",
+      "6553",
+      "6165",
+      "6161",
+      "6163",
+      "6125",
+      "6121",
+      "6123",
+      "6155",
+      "6151",
+      "6153",
+      "6265",
+      "6261",
+      "6263",
+      "6225",
+      "6221",
+      "6223",
+      "6255",
+      "6251",
+      "6253",
+      "1565",
+      "1561",
+      "1563"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 5060 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Centena, Palpite 5260 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 5260 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 5760 no 5º Prêmio!"
+    ]
+  },
   "LOTEP": {
     "palpites": [
       "8395",
@@ -146,6 +186,97 @@ const palpites = {
       "0391",
       "0390"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 7001 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 7201 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 7301 no 6º Prêmio!"
+    ]
+  },
+  "PT RIO": {
+    "palpites": [
+      "0241",
+      "0244",
+      "0247",
+      "0261",
+      "0264",
+      "0267",
+      "0291",
+      "0294",
+      "0297",
+      "0041",
+      "0044",
+      "0047",
+      "0061",
+      "0064",
+      "0067",
+      "0091",
+      "0094",
+      "0097",
+      "0441",
+      "0444",
+      "0447",
+      "0461",
+      "0464",
+      "0467",
+      "0491",
+      "0494",
+      "0497",
+      "2241",
+      "2244",
+      "2247"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 1291 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Centena, Palpite 1491 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 1491 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 1391 no 3º Prêmio!"
+    ]
+  },
+  "PT SP": {
+    "palpites": [
+      "1113",
+      "1117",
+      "1118",
+      "1133",
+      "1137",
+      "1138",
+      "1163",
+      "1167",
+      "1168",
+      "1613",
+      "1617",
+      "1618",
+      "1633",
+      "1637",
+      "1638",
+      "1663",
+      "1667",
+      "1668",
+      "1813",
+      "1817",
+      "1818",
+      "1833",
+      "1837",
+      "1838",
+      "1863",
+      "1867",
+      "1868",
+      "4113",
+      "4117",
+      "4118"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3767 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Centena, Palpite 3567 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3567 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3067 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3776 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3576 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3076 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2762 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2062 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Centena, Palpite 2562 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2562 no 8º Prêmio!"
+    ]
   }
 };
