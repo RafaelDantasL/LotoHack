@@ -201,6 +201,88 @@ const palpites = {
       "0596",
       "0598"
     ],
+    "frases": [
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 7001 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 7201 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 7301 no 6º Prêmio!"
+    ]
+  },
+  "PT RIO": {
+    "palpites": [
+      "5355",
+      "5352",
+      "5353",
+      "5335",
+      "5332",
+      "5333",
+      "5315",
+      "5312",
+      "5313",
+      "5955",
+      "5952",
+      "5953",
+      "5935",
+      "5932",
+      "5933",
+      "5915",
+      "5912",
+      "5913",
+      "5755",
+      "5752",
+      "5753",
+      "5735",
+      "5732",
+      "5733",
+      "5715",
+      "5712",
+      "5713",
+      "1355",
+      "1352",
+      "1353"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 1291 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Centena, Palpite 1491 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 1491 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 1391 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 0297 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 0097 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 0497 no 2º Prêmio!"
+    ]
+  },
+  "PT SP": {
+    "palpites": [
+      "4201",
+      "4209",
+      "4202",
+      "4221",
+      "4229",
+      "4222",
+      "4231",
+      "4239",
+      "4232",
+      "4001",
+      "4009",
+      "4002",
+      "4021",
+      "4029",
+      "4022",
+      "4031",
+      "4039",
+      "4032",
+      "4901",
+      "4909",
+      "4902",
+      "4921",
+      "4929",
+      "4922",
+      "4931",
+      "4939",
+      "4932",
+      "3201",
+      "3209",
+      "3202"
+    ],
     "frases": []
   }
 };
