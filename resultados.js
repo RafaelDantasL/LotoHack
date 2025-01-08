@@ -1926,6 +1926,59 @@ const resultado = {
   ],
   "PT RIO": [
     {
+      "titulo": "Resultado do Jogo do Bicho A FEDERAL DO BRASIL - RJ",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "3028",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "2º",
+          "9905",
+          "02",
+          "Águia"
+        ],
+        [
+          "3º",
+          "2498",
+          "25",
+          "Vaca"
+        ],
+        [
+          "4º",
+          "1133",
+          "09",
+          "Cobra"
+        ],
+        [
+          "5º",
+          "0985",
+          "22",
+          "Tigre"
+        ],
+        [
+          "6º [soma]",
+          "7549",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "232",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
       "titulo": "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 5º",
       "conteudo": [
         [
