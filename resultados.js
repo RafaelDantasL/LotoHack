@@ -1958,6 +1958,77 @@ const resultado = {
           "Tigre"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho PB, Paratodos 20:00",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "5145",
+          "12",
+          "Elefante"
+        ],
+        [
+          "2º",
+          "7892",
+          "23",
+          "Urso"
+        ],
+        [
+          "3º",
+          "8042",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "4º",
+          "6286",
+          "22",
+          "Tigre"
+        ],
+        [
+          "5º",
+          "5628",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "6º",
+          "5786",
+          "22",
+          "Tigre"
+        ],
+        [
+          "7º",
+          "1802",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "8º",
+          "4948",
+          "12",
+          "Elefante"
+        ],
+        [
+          "9º",
+          "5226",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "10º",
+          "0755",
+          "14",
+          "Gato"
+        ]
+      ]
     }
   ],
   "PT RIO": [
