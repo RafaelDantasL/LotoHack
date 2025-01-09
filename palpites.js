@@ -1,41 +1,44 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "6790",
-      "6797",
-      "6791",
-      "6780",
-      "6787",
-      "6781",
-      "6700",
-      "6707",
-      "6701",
-      "6490",
-      "6497",
-      "6491",
-      "6480",
-      "6487",
-      "6481",
-      "6400",
-      "6407",
-      "6401",
-      "6090",
-      "6097",
-      "6091",
-      "6080",
-      "6087",
-      "6081",
-      "6000",
-      "6007",
-      "6001",
-      "7790",
-      "7797",
-      "7791"
+      "5220",
+      "5223",
+      "5221",
+      "5280",
+      "5283",
+      "5281",
+      "5200",
+      "5203",
+      "5201",
+      "5320",
+      "5323",
+      "5321",
+      "5380",
+      "5383",
+      "5381",
+      "5300",
+      "5303",
+      "5301",
+      "5820",
+      "5823",
+      "5821",
+      "5880",
+      "5883",
+      "5881",
+      "5800",
+      "5803",
+      "5801",
+      "3220",
+      "3223",
+      "3221"
     ],
     "frases": [
-      "10h - MALUCA - Resultado do dia 09/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 3900 no 4º Prêmio!",
-      "10h - MALUCA - Resultado do dia 09/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 3800 no 4º Prêmio!",
-      "10h - MALUCA - Resultado do dia 09/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 3000 no 4º Prêmio!"
+      "15h - MALUCA - BA - Resultado do dia 09/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 6780 no 7º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 09/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 6480 no 7º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 09/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 6080 no 7º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 09/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 6700 no 8º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 09/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 6400 no 8º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 09/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 6000 no 8º Prêmio!"
     ]
   },
   "BAHIA": {
@@ -71,7 +74,15 @@ const palpites = {
       "1085",
       "1083"
     ],
-    "frases": []
+    "frases": [
+      "10h - BA - Resultado do dia 09/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 9000 no 8º Prêmio!",
+      "10h - BA - Resultado do dia 09/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 9500 no 8º Prêmio!",
+      "10h - BA - Resultado do dia 09/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 9200 no 8º Prêmio!",
+      "12h - BA - Resultado do dia 09/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 0014 no 2º Prêmio!",
+      "12h - BA - Resultado do dia 09/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 0314 no 2º Prêmio!",
+      "12h - BA - Resultado do dia 09/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 0414 no 2º Prêmio!",
+      "12h - BA - Resultado do dia 09/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 3014 no 2º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
