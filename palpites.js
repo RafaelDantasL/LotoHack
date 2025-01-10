@@ -1,4 +1,44 @@
 const palpites = {
+  "BAHIA MALUCA": {
+    "palpites": [
+      "6009",
+      "6007",
+      "6000",
+      "6039",
+      "6037",
+      "6030",
+      "6059",
+      "6057",
+      "6050",
+      "6609",
+      "6607",
+      "6600",
+      "6639",
+      "6637",
+      "6630",
+      "6659",
+      "6657",
+      "6650",
+      "6309",
+      "6307",
+      "6300",
+      "6339",
+      "6337",
+      "6330",
+      "6359",
+      "6357",
+      "6350",
+      "8009",
+      "8007",
+      "8000"
+    ],
+    "frases": [
+      "10h - MALUCA - Resultado do dia 10/01/2025 (Sexta-feira)\nDeu Dezena, Palpite 4109 no 4º Prêmio!",
+      "10h - MALUCA - Resultado do dia 10/01/2025 (Sexta-feira)\nDeu Dezena, Palpite 4409 no 4º Prêmio!",
+      "10h - MALUCA - Resultado do dia 10/01/2025 (Sexta-feira)\nDeu Dezena, Palpite 4609 no 4º Prêmio!",
+      "10h - MALUCA - Resultado do dia 10/01/2025 (Sexta-feira)\nDeu Dezena, Palpite 6109 no 4º Prêmio!"
+    ]
+  },
   "BAHIA": {
     "palpites": [
       "8305",
@@ -31,41 +71,6 @@ const palpites = {
       "9305",
       "9300",
       "9306"
-    ],
-    "frases": []
-  },
-  "BAHIA MALUCA": {
-    "palpites": [
-      "4101",
-      "4109",
-      "4103",
-      "4141",
-      "4149",
-      "4143",
-      "4161",
-      "4169",
-      "4163",
-      "4401",
-      "4409",
-      "4403",
-      "4441",
-      "4449",
-      "4443",
-      "4461",
-      "4469",
-      "4463",
-      "4601",
-      "4609",
-      "4603",
-      "4641",
-      "4649",
-      "4643",
-      "4661",
-      "4669",
-      "4663",
-      "6101",
-      "6109",
-      "6103"
     ],
     "frases": []
   },
