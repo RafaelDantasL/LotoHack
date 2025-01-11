@@ -68,6 +68,10 @@ const palpites = {
       "7133"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 23h, 1º ao 10º\nDeu Dezena, Palpite 7447 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 23h, 1º ao 10º\nDeu Centena, Palpite 7147 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 23h, 1º ao 10º\nDeu Dezena, Palpite 7147 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 23h, 1º ao 10º\nDeu Dezena, Palpite 7547 no 1º Prêmio!",
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 1142 no 8º Prêmio!",
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 1342 no 8º Prêmio!",
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 1442 no 8º Prêmio!"
@@ -182,75 +186,5 @@ const palpites = {
       "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Centena, Palpite 9347 no 3º Prêmio!",
       "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 9347 no 3º Prêmio!"
     ]
-  },
-  "BAHIA MALUCA": {
-    "palpites": [
-      "0920",
-      "0921",
-      "0923",
-      "0940",
-      "0941",
-      "0943",
-      "0910",
-      "0911",
-      "0913",
-      "0420",
-      "0421",
-      "0423",
-      "0440",
-      "0441",
-      "0443",
-      "0410",
-      "0411",
-      "0413",
-      "0120",
-      "0121",
-      "0123",
-      "0140",
-      "0141",
-      "0143",
-      "0110",
-      "0111",
-      "0113",
-      "1920",
-      "1921",
-      "1923"
-    ],
-    "frases": []
-  },
-  "LOTECE": {
-    "palpites": [
-      "5310",
-      "5313",
-      "5311",
-      "5320",
-      "5323",
-      "5321",
-      "5380",
-      "5383",
-      "5381",
-      "5610",
-      "5613",
-      "5611",
-      "5620",
-      "5623",
-      "5621",
-      "5680",
-      "5683",
-      "5681",
-      "5710",
-      "5713",
-      "5711",
-      "5720",
-      "5723",
-      "5721",
-      "5780",
-      "5783",
-      "5781",
-      "3310",
-      "3313",
-      "3311"
-    ],
-    "frases": []
   }
 };
