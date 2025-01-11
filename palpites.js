@@ -138,6 +138,10 @@ const palpites = {
       "8222"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 23h, 1º ao 10º\nDeu Dezena, Palpite 7447 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 23h, 1º ao 10º\nDeu Centena, Palpite 7147 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 23h, 1º ao 10º\nDeu Dezena, Palpite 7147 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 23h, 1º ao 10º\nDeu Dezena, Palpite 7547 no 1º Prêmio!",
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 1142 no 8º Prêmio!",
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 1342 no 8º Prêmio!",
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 1442 no 8º Prêmio!"
@@ -212,45 +216,5 @@ const palpites = {
       "0654"
     ],
     "frases": []
-  },
-  "PT SP": {
-    "palpites": [
-      "1711",
-      "1713",
-      "1712",
-      "1781",
-      "1783",
-      "1782",
-      "1771",
-      "1773",
-      "1772",
-      "1511",
-      "1513",
-      "1512",
-      "1581",
-      "1583",
-      "1582",
-      "1571",
-      "1573",
-      "1572",
-      "1611",
-      "1613",
-      "1612",
-      "1681",
-      "1683",
-      "1682",
-      "1671",
-      "1673",
-      "1672",
-      "8711",
-      "8713",
-      "8712"
-    ],
-    "frases": [
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 9047 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 9747 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Centena, Palpite 9347 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 9347 no 3º Prêmio!"
-    ]
   }
 };
