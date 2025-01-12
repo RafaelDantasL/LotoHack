@@ -2900,6 +2900,130 @@ const resultado = {
           "Pavão"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 18hs - PTSP, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "7732",
+          "08",
+          "Camelo"
+        ],
+        [
+          "2º",
+          "3520",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "3º",
+          "7109",
+          "03",
+          "Burro"
+        ],
+        [
+          "4º",
+          "5626",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "5º",
+          "6414",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "6º [soma]",
+          "0401",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "216",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 18hs - PTSP, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "7732",
+          "08",
+          "Camelo"
+        ],
+        [
+          "2º",
+          "3520",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "3º",
+          "7109",
+          "03",
+          "Burro"
+        ],
+        [
+          "4º",
+          "5626",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "5º",
+          "6414",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "6º",
+          "7375",
+          "19",
+          "Pavão"
+        ],
+        [
+          "7º",
+          "7516",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "8º",
+          "3202",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "9º",
+          "2096",
+          "24",
+          "Veado"
+        ],
+        [
+          "10º",
+          "0590",
+          "23",
+          "Urso"
+        ]
+      ]
     }
   ]
 };
