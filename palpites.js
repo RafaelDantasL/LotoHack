@@ -32,7 +32,16 @@ const palpites = {
       "0307",
       "0302"
     ],
-    "frases": []
+    "frases": [
+      "10h - MALUCA - Resultado do dia 12/01/2025 (Domingo)\nDeu Centena, Palpite 3060 no 3º Prêmio!",
+      "10h - MALUCA - Resultado do dia 12/01/2025 (Domingo)\nDeu Dezena, Palpite 3060 no 3º Prêmio!",
+      "10h - MALUCA - Resultado do dia 12/01/2025 (Domingo)\nDeu Dezena, Palpite 3160 no 3º Prêmio!",
+      "10h - MALUCA - Resultado do dia 12/01/2025 (Domingo)\nDeu Dezena, Palpite 3260 no 3º Prêmio!",
+      "10h - MALUCA - Resultado do dia 12/01/2025 (Domingo)\nDeu Dezena, Palpite 3030 no 10º Prêmio!",
+      "10h - MALUCA - Resultado do dia 12/01/2025 (Domingo)\nDeu Dezena, Palpite 3130 no 10º Prêmio!",
+      "10h - MALUCA - Resultado do dia 12/01/2025 (Domingo)\nDeu Dezena, Palpite 3230 no 10º Prêmio!",
+      "10h - MALUCA - Resultado do dia 12/01/2025 (Domingo)\nDeu Dezena, Palpite 0030 no 10º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -78,6 +87,83 @@ const palpites = {
       "12h - BA - Resultado do dia 12/01/2025 (Domingo)\nDeu Dezena, Palpite 4034 no 10º Prêmio!",
       "12h - BA - Resultado do dia 12/01/2025 (Domingo)\nDeu Dezena, Palpite 4434 no 10º Prêmio!",
       "12h - BA - Resultado do dia 12/01/2025 (Domingo)\nDeu Dezena, Palpite 4634 no 10º Prêmio!"
+    ]
+  },
+  "LOOK/GOIAS": {
+    "palpites": [
+      "1058",
+      "1050",
+      "1052",
+      "1018",
+      "1010",
+      "1012",
+      "1008",
+      "1000",
+      "1002",
+      "1158",
+      "1150",
+      "1152",
+      "1118",
+      "1110",
+      "1112",
+      "1108",
+      "1100",
+      "1102",
+      "1758",
+      "1750",
+      "1752",
+      "1718",
+      "1710",
+      "1712",
+      "1708",
+      "1700",
+      "1702",
+      "4058",
+      "4050",
+      "4052"
+    ],
+    "frases": []
+  },
+  "LOTEP": {
+    "palpites": [
+      "3722",
+      "3723",
+      "3720",
+      "3752",
+      "3753",
+      "3750",
+      "3702",
+      "3703",
+      "3700",
+      "3822",
+      "3823",
+      "3820",
+      "3852",
+      "3853",
+      "3850",
+      "3802",
+      "3803",
+      "3800",
+      "3922",
+      "3923",
+      "3920",
+      "3952",
+      "3953",
+      "3950",
+      "3902",
+      "3903",
+      "3900",
+      "4722",
+      "4723",
+      "4720"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 3347 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 3447 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 3047 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 3320 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 3420 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 3020 no 8º Prêmio!"
     ]
   }
 };
