@@ -241,5 +241,87 @@ const palpites = {
       "1814"
     ],
     "frases": []
+  },
+  "PT RIO": {
+    "palpites": [
+      "6538",
+      "6533",
+      "6536",
+      "6548",
+      "6543",
+      "6546",
+      "6508",
+      "6503",
+      "6506",
+      "6638",
+      "6633",
+      "6636",
+      "6648",
+      "6643",
+      "6646",
+      "6608",
+      "6603",
+      "6606",
+      "6738",
+      "6733",
+      "6736",
+      "6748",
+      "6743",
+      "6746",
+      "6708",
+      "6703",
+      "6706",
+      "0538",
+      "0533",
+      "0536"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho RJ, 14:20, PT, 1º ao 10º\nDeu Dezena, Palpite 5300 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 14:20, PT, 1º ao 10º\nDeu Dezena, Palpite 5100 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 14:20, PT, 1º ao 10º\nDeu Dezena, Palpite 5000 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 14:20, PT, 1º ao 10º\nDeu Dezena, Palpite 8300 no 1º Prêmio!"
+    ]
+  },
+  "PT SP": {
+    "palpites": [
+      "8358",
+      "8351",
+      "8353",
+      "8398",
+      "8391",
+      "8393",
+      "8318",
+      "8311",
+      "8313",
+      "8458",
+      "8451",
+      "8453",
+      "8498",
+      "8491",
+      "8493",
+      "8418",
+      "8411",
+      "8413",
+      "8558",
+      "8551",
+      "8553",
+      "8598",
+      "8591",
+      "8593",
+      "8518",
+      "8511",
+      "8513",
+      "3358",
+      "3351",
+      "3353"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 9041 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 9741 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 9341 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 1752 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 1152 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 1252 no 4º Prêmio!"
+    ]
   }
 };
