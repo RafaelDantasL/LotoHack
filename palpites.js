@@ -1,4 +1,113 @@
 const palpites = {
+  "BAHIA": {
+    "palpites": [
+      "0701",
+      "0706",
+      "0709",
+      "0741",
+      "0746",
+      "0749",
+      "0711",
+      "0716",
+      "0719",
+      "0101",
+      "0106",
+      "0109",
+      "0141",
+      "0146",
+      "0149",
+      "0111",
+      "0116",
+      "0119",
+      "0001",
+      "0006",
+      "0009",
+      "0041",
+      "0046",
+      "0049",
+      "0011",
+      "0016",
+      "0019",
+      "4701",
+      "4706",
+      "4709"
+    ],
+    "frases": [
+      "10h - BA - Resultado do dia 14/01/2025 (Terça-feira)\nDeu Dezena, Palpite 1601 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 14/01/2025 (Terça-feira)\nDeu Dezena, Palpite 1801 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 14/01/2025 (Terça-feira)\nDeu Dezena, Palpite 1001 no 2º Prêmio!"
+    ]
+  },
+  "BAHIA MALUCA": {
+    "palpites": [
+      "1610",
+      "1611",
+      "1613",
+      "1660",
+      "1661",
+      "1663",
+      "1600",
+      "1601",
+      "1603",
+      "1110",
+      "1111",
+      "1113",
+      "1160",
+      "1161",
+      "1163",
+      "1100",
+      "1101",
+      "1103",
+      "1210",
+      "1211",
+      "1213",
+      "1260",
+      "1261",
+      "1263",
+      "1200",
+      "1201",
+      "1203",
+      "0610",
+      "0611",
+      "0613"
+    ],
+    "frases": []
+  },
+  "LOTECE": {
+    "palpites": [
+      "1330",
+      "1335",
+      "1338",
+      "1360",
+      "1365",
+      "1368",
+      "1390",
+      "1395",
+      "1398",
+      "1430",
+      "1435",
+      "1438",
+      "1460",
+      "1465",
+      "1468",
+      "1490",
+      "1495",
+      "1498",
+      "1030",
+      "1035",
+      "1038",
+      "1060",
+      "1065",
+      "1068",
+      "1090",
+      "1095",
+      "1098",
+      "8330",
+      "8335",
+      "8338"
+    ],
+    "frases": []
+  },
   "LOOK/GOIAS": {
     "palpites": [
       "2988",
@@ -158,6 +267,15 @@ const palpites = {
       "3558",
       "3555"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2209 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2909 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Centena, Palpite 2309 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2309 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2290 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2990 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2390 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 5290 no 9º Prêmio!"
+    ]
   }
 };
