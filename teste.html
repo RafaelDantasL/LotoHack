@@ -3,18 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Alterar URL</title>
+    <title>Limpar URL</title>
 </head>
 <body>
     <h1>Página carregada</h1>
-    <p>A URL foi alterada automaticamente para <strong>https://app.acertos.club</strong>!</p>
+    <p>A barra de navegação foi limpa!</p>
 
     <script>
-        // Define a nova URL que será exibida na barra de navegação
-        const novaURL = 'https://app.acertos.club';
-
-        // Altera a URL na barra de navegação sem redirecionar ou recarregar a página
-        history.replaceState(null, '', novaURL);
+        // Limpa a barra de navegação
+        history.replaceState(null, '', '/');
     </script>
 </body>
 </html>
