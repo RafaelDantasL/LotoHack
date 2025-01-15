@@ -212,6 +212,77 @@ const resultado = {
           "Carneiro"
         ]
       ]
+    },
+    {
+      "titulo": "19h FEDERAL - MALUCA - BA - Resultado do dia 15/01/2025 (Quarta-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "4226",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "2º",
+          "8881",
+          "21",
+          "Touro"
+        ],
+        [
+          "3º",
+          "6324",
+          "06",
+          "Cabra"
+        ],
+        [
+          "4º",
+          "1053",
+          "14",
+          "Gato"
+        ],
+        [
+          "5º",
+          "8373",
+          "19",
+          "Pavão"
+        ],
+        [
+          "6º",
+          "0821",
+          "06",
+          "Cabra"
+        ],
+        [
+          "7º",
+          "7216",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "8º",
+          "3813",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "9º",
+          "8890",
+          "23",
+          "Urso"
+        ],
+        [
+          "10º",
+          "7052",
+          "13",
+          "Galo"
+        ]
+      ]
     }
   ],
   "BAHIA": [
