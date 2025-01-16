@@ -1,48 +1,38 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "9580",
-      "9582",
-      "9581",
-      "9530",
-      "9532",
-      "9531",
-      "9560",
-      "9562",
-      "9561",
-      "9080",
-      "9082",
-      "9081",
-      "9030",
-      "9032",
-      "9031",
-      "9060",
-      "9062",
-      "9061",
-      "9380",
-      "9382",
-      "9381",
-      "9330",
-      "9332",
-      "9331",
-      "9360",
-      "9362",
-      "9361",
-      "8580",
-      "8582",
-      "8581"
+      "1307",
+      "1303",
+      "1300",
+      "1367",
+      "1363",
+      "1360",
+      "1317",
+      "1313",
+      "1310",
+      "1907",
+      "1903",
+      "1900",
+      "1967",
+      "1963",
+      "1960",
+      "1917",
+      "1913",
+      "1910",
+      "1007",
+      "1003",
+      "1000",
+      "1067",
+      "1063",
+      "1060",
+      "1017",
+      "1013",
+      "1010",
+      "3307",
+      "3303",
+      "3300"
     ],
-    "frases": [
-      "10h - MALUCA - Resultado do dia 16/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 6390 no 7º Prêmio!",
-      "10h - MALUCA - Resultado do dia 16/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 6090 no 7º Prêmio!",
-      "10h - MALUCA - Resultado do dia 16/01/2025 (Quinta-feira)\nDeu Centena, Palpite 6490 no 7º Prêmio!",
-      "10h - MALUCA - Resultado do dia 16/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 6490 no 7º Prêmio!",
-      "10h - MALUCA - Resultado do dia 16/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 1390 no 7º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 16/01/2025 (Quinta-feira)\nDeu Centena, Palpite 4380 no 9º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 16/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 4380 no 9º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 16/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 4680 no 9º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 16/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 4280 no 9º Prêmio!"
-    ]
+    "frases": []
   },
   "BAHIA": {
     "palpites": [
@@ -77,7 +67,18 @@ const palpites = {
       "3394",
       "3397"
     ],
-    "frases": []
+    "frases": [
+      "10h - BA - Resultado do dia 16/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 3046 no 7º Prêmio!",
+      "10h - BA - Resultado do dia 16/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 3246 no 7º Prêmio!",
+      "10h - BA - Resultado do dia 16/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 3946 no 7º Prêmio!",
+      "12h - BA - Resultado do dia 16/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 4490 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 16/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 4690 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 16/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 4090 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 16/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 4480 no 7º Prêmio!",
+      "12h - BA - Resultado do dia 16/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 4680 no 7º Prêmio!",
+      "12h - BA - Resultado do dia 16/01/2025 (Quinta-feira)\nDeu Centena, Palpite 4080 no 7º Prêmio!",
+      "12h - BA - Resultado do dia 16/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 4080 no 7º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
