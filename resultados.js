@@ -2599,6 +2599,130 @@ const resultado = {
           "Tigre"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "2082",
+          "21",
+          "Touro"
+        ],
+        [
+          "2º",
+          "3719",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "3º",
+          "9804",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "4º",
+          "4915",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "5º",
+          "1754",
+          "14",
+          "Gato"
+        ],
+        [
+          "6º [soma]",
+          "2274",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "742",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "2082",
+          "21",
+          "Touro"
+        ],
+        [
+          "2º",
+          "3719",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "3º",
+          "9804",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "4º",
+          "4915",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "5º",
+          "1754",
+          "14",
+          "Gato"
+        ],
+        [
+          "6º",
+          "2394",
+          "24",
+          "Veado"
+        ],
+        [
+          "7º",
+          "0789",
+          "23",
+          "Urso"
+        ],
+        [
+          "8º",
+          "8101",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "9º",
+          "2945",
+          "12",
+          "Elefante"
+        ],
+        [
+          "10º",
+          "6503",
+          "01",
+          "Avestruz"
+        ]
+      ]
     }
   ]
 };
