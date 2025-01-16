@@ -202,7 +202,11 @@ const palpites = {
       "0331",
       "0333"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 1275 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 1475 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 1075 no 8º Prêmio!"
+    ]
   },
   "PT RIO": {
     "palpites": [
@@ -254,48 +258,37 @@ const palpites = {
   },
   "PT SP": {
     "palpites": [
-      "0021",
-      "0023",
-      "0026",
-      "0081",
-      "0083",
-      "0086",
-      "0051",
-      "0053",
-      "0056",
-      "0221",
-      "0223",
-      "0226",
-      "0281",
-      "0283",
-      "0286",
-      "0251",
-      "0253",
-      "0256",
-      "0521",
-      "0523",
-      "0526",
-      "0581",
-      "0583",
-      "0586",
-      "0551",
-      "0553",
-      "0556",
-      "5021",
-      "5023",
-      "5026"
+      "1065",
+      "1066",
+      "1067",
+      "1005",
+      "1006",
+      "1007",
+      "1075",
+      "1076",
+      "1077",
+      "1265",
+      "1266",
+      "1267",
+      "1205",
+      "1206",
+      "1207",
+      "1275",
+      "1276",
+      "1277",
+      "1165",
+      "1166",
+      "1167",
+      "1105",
+      "1106",
+      "1107",
+      "1175",
+      "1176",
+      "1177",
+      "9065",
+      "9066",
+      "9067"
     ],
-    "frases": [
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 7433 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 7033 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 7133 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 6021 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 6621 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 6121 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 6021 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Centena, Palpite 6621 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 6621 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 6121 no 6º Prêmio!"
-    ]
+    "frases": []
   }
 };
