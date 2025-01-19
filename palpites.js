@@ -1,41 +1,42 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "1617",
-      "1619",
-      "1610",
-      "1657",
-      "1659",
-      "1650",
-      "1627",
-      "1629",
-      "1620",
-      "1217",
-      "1219",
-      "1210",
-      "1257",
-      "1259",
-      "1250",
-      "1227",
-      "1229",
-      "1220",
-      "1917",
-      "1919",
-      "1910",
-      "1957",
-      "1959",
-      "1950",
-      "1927",
-      "1929",
-      "1920",
-      "2617",
-      "2619",
-      "2610"
+      "8105",
+      "8103",
+      "8109",
+      "8115",
+      "8113",
+      "8119",
+      "8135",
+      "8133",
+      "8139",
+      "8205",
+      "8203",
+      "8209",
+      "8215",
+      "8213",
+      "8219",
+      "8235",
+      "8233",
+      "8239",
+      "8005",
+      "8003",
+      "8009",
+      "8015",
+      "8013",
+      "8019",
+      "8035",
+      "8033",
+      "8039",
+      "2105",
+      "2103",
+      "2109"
     ],
     "frases": [
-      "10h - MALUCA - Resultado do dia 19/01/2025 (Domingo)\nDeu Dezena, Palpite 1124 no 10º Prêmio!",
-      "10h - MALUCA - Resultado do dia 19/01/2025 (Domingo)\nDeu Dezena, Palpite 1824 no 10º Prêmio!",
-      "10h - MALUCA - Resultado do dia 19/01/2025 (Domingo)\nDeu Dezena, Palpite 1224 no 10º Prêmio!"
+      "12h - MALUCA - BA - Resultado do dia 19/01/2025 (Domingo)\nDeu Dezena, Palpite 1659 no 1º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 19/01/2025 (Domingo)\nDeu Dezena, Palpite 1259 no 1º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 19/01/2025 (Domingo)\nDeu Centena, Palpite 1959 no 1º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 19/01/2025 (Domingo)\nDeu Dezena, Palpite 1959 no 1º Prêmio!"
     ]
   },
   "BAHIA": {
@@ -71,7 +72,15 @@ const palpites = {
       "4102",
       "4109"
     ],
-    "frases": []
+    "frases": [
+      "10h - BA - Resultado do dia 19/01/2025 (Domingo)\nDeu Dezena, Palpite 1810 no 1º Prêmio!",
+      "10h - BA - Resultado do dia 19/01/2025 (Domingo)\nDeu Dezena, Palpite 1110 no 1º Prêmio!",
+      "10h - BA - Resultado do dia 19/01/2025 (Domingo)\nDeu Dezena, Palpite 1710 no 1º Prêmio!",
+      "10h - BA - Resultado do dia 19/01/2025 (Domingo)\nDeu Dezena, Palpite 4810 no 1º Prêmio!",
+      "10h - BA - Resultado do dia 19/01/2025 (Domingo)\nDeu Dezena, Palpite 1822 no 5º Prêmio!",
+      "10h - BA - Resultado do dia 19/01/2025 (Domingo)\nDeu Dezena, Palpite 1122 no 5º Prêmio!",
+      "10h - BA - Resultado do dia 19/01/2025 (Domingo)\nDeu Dezena, Palpite 1722 no 5º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
