@@ -33,6 +33,11 @@ const palpites = {
       "1867"
     ],
     "frases": [
+      "10h - MALUCA - Resultado do dia 20/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 1830 no 9º Prêmio!",
+      "10h - MALUCA - Resultado do dia 20/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 1230 no 9º Prêmio!",
+      "10h - MALUCA - Resultado do dia 20/01/2025 (Segunda-feira)\nDeu Centena, Palpite 1130 no 9º Prêmio!",
+      "10h - MALUCA - Resultado do dia 20/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 1130 no 9º Prêmio!",
+      "10h - MALUCA - Resultado do dia 20/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 5830 no 9º Prêmio!",
       "15h - MALUCA - BA - Resultado do dia 20/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 0223 no 6º Prêmio!",
       "15h - MALUCA - BA - Resultado do dia 20/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 0723 no 6º Prêmio!",
       "15h - MALUCA - BA - Resultado do dia 20/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 0123 no 6º Prêmio!"
@@ -71,45 +76,54 @@ const palpites = {
       "2688",
       "2680"
     ],
-    "frases": []
+    "frases": [
+      "12h - BA - Resultado do dia 20/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 0411 no 3º Prêmio!",
+      "12h - BA - Resultado do dia 20/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 0111 no 3º Prêmio!",
+      "12h - BA - Resultado do dia 20/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 0511 no 3º Prêmio!",
+      "12h - BA - Resultado do dia 20/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 9411 no 3º Prêmio!",
+      "12h - BA - Resultado do dia 20/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 0410 no 6º Prêmio!",
+      "12h - BA - Resultado do dia 20/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 0110 no 6º Prêmio!",
+      "12h - BA - Resultado do dia 20/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 0510 no 6º Prêmio!",
+      "12h - BA - Resultado do dia 20/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 9410 no 6º Prêmio!"
+    ]
   },
-  "PT SP": {
+  "LOTECE": {
     "palpites": [
-      "1431",
-      "1439",
-      "1432",
-      "1451",
-      "1459",
-      "1452",
-      "1401",
-      "1409",
-      "1402",
-      "1031",
-      "1039",
-      "1032",
-      "1051",
-      "1059",
-      "1052",
-      "1001",
-      "1009",
-      "1002",
-      "1131",
-      "1139",
-      "1132",
-      "1151",
-      "1159",
-      "1152",
-      "1101",
-      "1109",
-      "1102",
-      "6431",
-      "6439",
-      "6432"
+      "4691",
+      "4695",
+      "4699",
+      "4611",
+      "4615",
+      "4619",
+      "4681",
+      "4685",
+      "4689",
+      "4591",
+      "4595",
+      "4599",
+      "4511",
+      "4515",
+      "4519",
+      "4581",
+      "4585",
+      "4589",
+      "4791",
+      "4795",
+      "4799",
+      "4711",
+      "4715",
+      "4719",
+      "4781",
+      "4785",
+      "4789",
+      "6691",
+      "6695",
+      "6699"
     ],
     "frases": [
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 8331 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 8431 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 8131 no 9º Prêmio!"
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 4691 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 4791 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 4091 no 10º Prêmio!"
     ]
   }
 };
