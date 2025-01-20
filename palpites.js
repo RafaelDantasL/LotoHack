@@ -32,15 +32,7 @@ const palpites = {
       "5835",
       "5839"
     ],
-    "frases": [
-      "10h - MALUCA - Resultado do dia 19/01/2025 (Domingo)\nDeu Dezena, Palpite 1124 no 10º Prêmio!",
-      "10h - MALUCA - Resultado do dia 19/01/2025 (Domingo)\nDeu Dezena, Palpite 1824 no 10º Prêmio!",
-      "10h - MALUCA - Resultado do dia 19/01/2025 (Domingo)\nDeu Dezena, Palpite 1224 no 10º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 19/01/2025 (Domingo)\nDeu Dezena, Palpite 1659 no 1º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 19/01/2025 (Domingo)\nDeu Dezena, Palpite 1259 no 1º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 19/01/2025 (Domingo)\nDeu Centena, Palpite 1959 no 1º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 19/01/2025 (Domingo)\nDeu Dezena, Palpite 1959 no 1º Prêmio!"
-    ]
+    "frases": []
   },
   "BAHIA": {
     "palpites": [
@@ -75,55 +67,40 @@ const palpites = {
       "1025",
       "1026"
     ],
-    "frases": [
-      "10h - BA - Resultado do dia 19/01/2025 (Domingo)\nDeu Dezena, Palpite 1810 no 1º Prêmio!",
-      "10h - BA - Resultado do dia 19/01/2025 (Domingo)\nDeu Dezena, Palpite 1110 no 1º Prêmio!",
-      "10h - BA - Resultado do dia 19/01/2025 (Domingo)\nDeu Dezena, Palpite 1710 no 1º Prêmio!",
-      "10h - BA - Resultado do dia 19/01/2025 (Domingo)\nDeu Dezena, Palpite 4810 no 1º Prêmio!",
-      "10h - BA - Resultado do dia 19/01/2025 (Domingo)\nDeu Dezena, Palpite 1822 no 5º Prêmio!",
-      "10h - BA - Resultado do dia 19/01/2025 (Domingo)\nDeu Dezena, Palpite 1122 no 5º Prêmio!",
-      "10h - BA - Resultado do dia 19/01/2025 (Domingo)\nDeu Dezena, Palpite 1722 no 5º Prêmio!",
-      "15h - BA - Resultado do dia 19/01/2025 (Domingo)\nDeu Centena, Palpite 1125 no 1º Prêmio!",
-      "15h - BA - Resultado do dia 19/01/2025 (Domingo)\nDeu Dezena, Palpite 1125 no 1º Prêmio!",
-      "15h - BA - Resultado do dia 19/01/2025 (Domingo)\nDeu Dezena, Palpite 1525 no 1º Prêmio!",
-      "15h - BA - Resultado do dia 19/01/2025 (Domingo)\nDeu Dezena, Palpite 1825 no 1º Prêmio!",
-      "15h - BA - Resultado do dia 19/01/2025 (Domingo)\nDeu Dezena, Palpite 1129 no 5º Prêmio!",
-      "15h - BA - Resultado do dia 19/01/2025 (Domingo)\nDeu Dezena, Palpite 1529 no 5º Prêmio!",
-      "15h - BA - Resultado do dia 19/01/2025 (Domingo)\nDeu Dezena, Palpite 1829 no 5º Prêmio!"
-    ]
+    "frases": []
   },
   "LOOK/GOIAS": {
     "palpites": [
-      "1685",
-      "1686",
-      "1680",
-      "1675",
-      "1676",
-      "1670",
-      "1695",
-      "1696",
-      "1690",
-      "1185",
-      "1186",
-      "1180",
-      "1175",
-      "1176",
-      "1170",
-      "1195",
-      "1196",
-      "1190",
-      "1985",
-      "1986",
-      "1980",
-      "1975",
-      "1976",
-      "1970",
-      "1995",
-      "1996",
-      "1990",
-      "4685",
-      "4686",
-      "4680"
+      "4434",
+      "4437",
+      "4433",
+      "4474",
+      "4477",
+      "4473",
+      "4494",
+      "4497",
+      "4493",
+      "4634",
+      "4637",
+      "4633",
+      "4674",
+      "4677",
+      "4673",
+      "4694",
+      "4697",
+      "4693",
+      "4234",
+      "4237",
+      "4233",
+      "4274",
+      "4277",
+      "4273",
+      "4294",
+      "4297",
+      "4293",
+      "7434",
+      "7437",
+      "7433"
     ],
     "frases": []
   }
