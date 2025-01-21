@@ -1,45 +1,38 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "0420",
-      "0421",
-      "0429",
-      "0400",
-      "0401",
-      "0409",
-      "0410",
-      "0411",
-      "0419",
-      "0120",
-      "0121",
-      "0129",
-      "0100",
-      "0101",
-      "0109",
-      "0110",
-      "0111",
-      "0119",
-      "0220",
-      "0221",
-      "0229",
-      "0200",
-      "0201",
-      "0209",
-      "0210",
-      "0211",
-      "0219",
-      "1420",
-      "1421",
-      "1429"
+      "1667",
+      "1668",
+      "1660",
+      "1697",
+      "1698",
+      "1690",
+      "1617",
+      "1618",
+      "1610",
+      "1067",
+      "1068",
+      "1060",
+      "1097",
+      "1098",
+      "1090",
+      "1017",
+      "1018",
+      "1010",
+      "1367",
+      "1368",
+      "1360",
+      "1397",
+      "1398",
+      "1390",
+      "1317",
+      "1318",
+      "1310",
+      "0667",
+      "0668",
+      "0660"
     ],
-    "frases": [
-      "10h - MALUCA - Resultado do dia 21/01/2025 (Terça-feira)\nDeu Dezena, Palpite 5190 no 2º Prêmio!",
-      "10h - MALUCA - Resultado do dia 21/01/2025 (Terça-feira)\nDeu Dezena, Palpite 5690 no 2º Prêmio!",
-      "10h - MALUCA - Resultado do dia 21/01/2025 (Terça-feira)\nDeu Dezena, Palpite 5790 no 2º Prêmio!",
-      "10h - MALUCA - Resultado do dia 21/01/2025 (Terça-feira)\nDeu Dezena, Palpite 5103 no 3º Prêmio!",
-      "10h - MALUCA - Resultado do dia 21/01/2025 (Terça-feira)\nDeu Dezena, Palpite 5603 no 3º Prêmio!",
-      "10h - MALUCA - Resultado do dia 21/01/2025 (Terça-feira)\nDeu Dezena, Palpite 5703 no 3º Prêmio!"
-    ]
+    "frases": []
   },
   "BAHIA": {
     "palpites": [
@@ -74,7 +67,25 @@ const palpites = {
       "6602",
       "6606"
     ],
-    "frases": []
+    "frases": [
+      "10h - BA - Resultado do dia 21/01/2025 (Terça-feira)\nDeu Dezena, Palpite 1551 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 21/01/2025 (Terça-feira)\nDeu Dezena, Palpite 1051 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 21/01/2025 (Terça-feira)\nDeu Dezena, Palpite 1151 no 2º Prêmio!",
+      "12h - BA - Resultado do dia 21/01/2025 (Terça-feira)\nDeu Milhar, Palpite 9084 no 6º Prêmio!",
+      "12h - BA - Resultado do dia 21/01/2025 (Terça-feira)\nDeu Dezena, Palpite 9384 no 6º Prêmio!",
+      "12h - BA - Resultado do dia 21/01/2025 (Terça-feira)\nDeu Dezena, Palpite 9584 no 6º Prêmio!",
+      "12h - BA - Resultado do dia 21/01/2025 (Terça-feira)\nDeu Centena, Palpite 9084 no 7º Prêmio!",
+      "12h - BA - Resultado do dia 21/01/2025 (Terça-feira)\nDeu Dezena, Palpite 9084 no 7º Prêmio!",
+      "12h - BA - Resultado do dia 21/01/2025 (Terça-feira)\nDeu Dezena, Palpite 9384 no 7º Prêmio!",
+      "12h - BA - Resultado do dia 21/01/2025 (Terça-feira)\nDeu Dezena, Palpite 9584 no 7º Prêmio!",
+      "12h - BA - Resultado do dia 21/01/2025 (Terça-feira)\nDeu Centena, Palpite 9088 no 8º Prêmio!",
+      "12h - BA - Resultado do dia 21/01/2025 (Terça-feira)\nDeu Dezena, Palpite 9088 no 8º Prêmio!",
+      "12h - BA - Resultado do dia 21/01/2025 (Terça-feira)\nDeu Dezena, Palpite 9388 no 8º Prêmio!",
+      "12h - BA - Resultado do dia 21/01/2025 (Terça-feira)\nDeu Dezena, Palpite 9588 no 8º Prêmio!",
+      "15h - BA - Resultado do dia 21/01/2025 (Terça-feira)\nDeu Dezena, Palpite 9034 no 7º Prêmio!",
+      "15h - BA - Resultado do dia 21/01/2025 (Terça-feira)\nDeu Dezena, Palpite 9434 no 7º Prêmio!",
+      "15h - BA - Resultado do dia 21/01/2025 (Terça-feira)\nDeu Dezena, Palpite 9734 no 7º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
