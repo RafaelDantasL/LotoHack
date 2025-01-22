@@ -208,43 +208,38 @@ const palpites = {
   },
   "LOTEP": {
     "palpites": [
-      "5501",
-      "5505",
-      "5508",
-      "5511",
-      "5515",
-      "5518",
-      "5541",
-      "5545",
-      "5548",
-      "5001",
-      "5005",
-      "5008",
-      "5011",
-      "5015",
-      "5018",
-      "5041",
-      "5045",
-      "5048",
-      "5901",
-      "5905",
-      "5908",
-      "5911",
-      "5915",
-      "5918",
-      "5941",
-      "5945",
-      "5948",
-      "0501",
-      "0505",
-      "0508"
+      "9622",
+      "9623",
+      "9628",
+      "9692",
+      "9693",
+      "9698",
+      "9662",
+      "9663",
+      "9668",
+      "9722",
+      "9723",
+      "9728",
+      "9792",
+      "9793",
+      "9798",
+      "9762",
+      "9763",
+      "9768",
+      "9822",
+      "9823",
+      "9828",
+      "9892",
+      "9893",
+      "9898",
+      "9862",
+      "9863",
+      "9868",
+      "1622",
+      "1623",
+      "1628"
     ],
-    "frases": [
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 3277 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 3377 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Centena, Palpite 3677 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 3677 no 8º Prêmio!"
-    ]
+    "frases": []
   },
   "PT RIO": {
     "palpites": [
@@ -329,6 +324,14 @@ const palpites = {
       "5827",
       "5829"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1500 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Centena, Palpite 1600 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1600 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1700 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 6300 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 6700 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 6500 no 8º Prêmio!"
+    ]
   }
 };
