@@ -1,38 +1,43 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "3770",
-      "3771",
-      "3772",
-      "3740",
-      "3741",
-      "3742",
-      "3700",
-      "3701",
-      "3702",
-      "3870",
-      "3871",
-      "3872",
-      "3840",
-      "3841",
-      "3842",
-      "3800",
-      "3801",
-      "3802",
-      "3070",
-      "3071",
-      "3072",
-      "3040",
-      "3041",
-      "3042",
-      "3000",
-      "3001",
-      "3002",
-      "4770",
-      "4771",
-      "4772"
+      "8332",
+      "8335",
+      "8330",
+      "8302",
+      "8305",
+      "8300",
+      "8312",
+      "8315",
+      "8310",
+      "8432",
+      "8435",
+      "8430",
+      "8402",
+      "8405",
+      "8400",
+      "8412",
+      "8415",
+      "8410",
+      "8832",
+      "8835",
+      "8830",
+      "8802",
+      "8805",
+      "8800",
+      "8812",
+      "8815",
+      "8810",
+      "0332",
+      "0335",
+      "0330"
     ],
-    "frases": []
+    "frases": [
+      "12h - MALUCA - BA - Resultado do dia 23/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 3742 no 8º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 23/01/2025 (Quinta-feira)\nDeu Centena, Palpite 3842 no 8º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 23/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 3842 no 8º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 23/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 3042 no 8º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -67,7 +72,12 @@ const palpites = {
       "2205",
       "2200"
     ],
-    "frases": []
+    "frases": [
+      "10h - BA - Resultado do dia 23/01/2025 (Quinta-feira)\nDeu Centena, Palpite 0119 no 6º Prêmio!",
+      "10h - BA - Resultado do dia 23/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 0119 no 6º Prêmio!",
+      "10h - BA - Resultado do dia 23/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 0219 no 6º Prêmio!",
+      "10h - BA - Resultado do dia 23/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 0819 no 6º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
