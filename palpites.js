@@ -363,55 +363,5 @@ const palpites = {
       "6120"
     ],
     "frases": []
-  },
-  "PT SP": {
-    "palpites": [
-      "1624",
-      "1625",
-      "1620",
-      "1664",
-      "1665",
-      "1660",
-      "1614",
-      "1615",
-      "1610",
-      "1224",
-      "1225",
-      "1220",
-      "1264",
-      "1265",
-      "1260",
-      "1214",
-      "1215",
-      "1210",
-      "1724",
-      "1725",
-      "1720",
-      "1764",
-      "1765",
-      "1760",
-      "1714",
-      "1715",
-      "1710",
-      "5624",
-      "5625",
-      "5620"
-    ],
-    "frases": [
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1500 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Centena, Palpite 1600 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1600 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1700 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 6300 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 6700 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 6500 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 19hs - PT FEDERAL, 1º ao 10º\nDeu Dezena, Palpite 7888 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 19hs - PT FEDERAL, 1º ao 10º\nDeu Dezena, Palpite 7188 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 19hs - PT FEDERAL, 1º ao 10º\nDeu Dezena, Palpite 7288 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 10º\nDeu Dezena, Palpite 8261 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 10º\nDeu Centena, Palpite 8661 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 10º\nDeu Dezena, Palpite 8661 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 10º\nDeu Dezena, Palpite 8061 no 3º Prêmio!"
-    ]
   }
 };
