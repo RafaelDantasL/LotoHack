@@ -1,42 +1,41 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "8332",
-      "8335",
-      "8330",
-      "8302",
-      "8305",
-      "8300",
-      "8312",
-      "8315",
-      "8310",
-      "8432",
-      "8435",
-      "8430",
-      "8402",
-      "8405",
-      "8400",
-      "8412",
-      "8415",
-      "8410",
-      "8832",
-      "8835",
-      "8830",
-      "8802",
-      "8805",
-      "8800",
-      "8812",
-      "8815",
-      "8810",
-      "0332",
-      "0335",
-      "0330"
+      "7013",
+      "7010",
+      "7011",
+      "7083",
+      "7080",
+      "7081",
+      "7003",
+      "7000",
+      "7001",
+      "7113",
+      "7110",
+      "7111",
+      "7183",
+      "7180",
+      "7181",
+      "7103",
+      "7100",
+      "7101",
+      "7913",
+      "7910",
+      "7911",
+      "7983",
+      "7980",
+      "7981",
+      "7903",
+      "7900",
+      "7901",
+      "4013",
+      "4010",
+      "4011"
     ],
     "frases": [
-      "12h - MALUCA - BA - Resultado do dia 23/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 3742 no 8º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 23/01/2025 (Quinta-feira)\nDeu Centena, Palpite 3842 no 8º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 23/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 3842 no 8º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 23/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 3042 no 8º Prêmio!"
+      "15h - MALUCA - BA - Resultado do dia 23/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 8300 no 1º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 23/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 8400 no 1º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 23/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 8800 no 1º Prêmio!"
     ]
   },
   "BAHIA": {
@@ -72,7 +71,12 @@ const palpites = {
       "0797",
       "0791"
     ],
-    "frases": []
+    "frases": [
+      "10h - BA - Resultado do dia 23/01/2025 (Quinta-feira)\nDeu Centena, Palpite 0119 no 6º Prêmio!",
+      "10h - BA - Resultado do dia 23/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 0119 no 6º Prêmio!",
+      "10h - BA - Resultado do dia 23/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 0219 no 6º Prêmio!",
+      "10h - BA - Resultado do dia 23/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 0819 no 6º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
