@@ -1,57 +1,38 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "4382",
-      "4380",
-      "4381",
-      "4332",
-      "4330",
-      "4331",
-      "4302",
-      "4300",
-      "4301",
-      "4482",
-      "4480",
-      "4481",
-      "4432",
-      "4430",
-      "4431",
-      "4402",
-      "4400",
-      "4401",
-      "4082",
-      "4080",
-      "4081",
-      "4032",
-      "4030",
-      "4031",
-      "4002",
-      "4000",
-      "4001",
-      "2382",
-      "2380",
-      "2381"
+      "5357",
+      "5352",
+      "5358",
+      "5347",
+      "5342",
+      "5348",
+      "5397",
+      "5392",
+      "5398",
+      "5057",
+      "5052",
+      "5058",
+      "5047",
+      "5042",
+      "5048",
+      "5097",
+      "5092",
+      "5098",
+      "5157",
+      "5152",
+      "5158",
+      "5147",
+      "5142",
+      "5148",
+      "5197",
+      "5192",
+      "5198",
+      "6357",
+      "6352",
+      "6358"
     ],
-    "frases": [
-      "12h - MALUCA - BA - Resultado do dia 23/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 3742 no 8º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 23/01/2025 (Quinta-feira)\nDeu Centena, Palpite 3842 no 8º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 23/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 3842 no 8º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 23/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 3042 no 8º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 23/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 8300 no 1º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 23/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 8400 no 1º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 23/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 8800 no 1º Prêmio!",
-      "19h - MALUCA - BA - Resultado do dia 23/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 7080 no 2º Prêmio!",
-      "19h - MALUCA - BA - Resultado do dia 23/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 7180 no 2º Prêmio!",
-      "19h - MALUCA - BA - Resultado do dia 23/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 7980 no 2º Prêmio!",
-      "19h - MALUCA - BA - Resultado do dia 23/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 7010 no 7º Prêmio!",
-      "19h - MALUCA - BA - Resultado do dia 23/01/2025 (Quinta-feira)\nDeu Centena, Palpite 7110 no 7º Prêmio!",
-      "19h - MALUCA - BA - Resultado do dia 23/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 7110 no 7º Prêmio!",
-      "19h - MALUCA - BA - Resultado do dia 23/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 7910 no 7º Prêmio!",
-      "19h - MALUCA - BA - Resultado do dia 23/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 4010 no 7º Prêmio!",
-      "19h - MALUCA - BA - Resultado do dia 23/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 7081 no 10º Prêmio!",
-      "19h - MALUCA - BA - Resultado do dia 23/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 7181 no 10º Prêmio!",
-      "19h - MALUCA - BA - Resultado do dia 23/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 7981 no 10º Prêmio!"
-    ]
+    "frases": []
   },
   "BAHIA": {
     "palpites": [
@@ -86,7 +67,12 @@ const palpites = {
       "5757",
       "5752"
     ],
-    "frases": []
+    "frases": [
+      "10h - BA - Resultado do dia 23/01/2025 (Quinta-feira)\nDeu Centena, Palpite 0119 no 6º Prêmio!",
+      "10h - BA - Resultado do dia 23/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 0119 no 6º Prêmio!",
+      "10h - BA - Resultado do dia 23/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 0219 no 6º Prêmio!",
+      "10h - BA - Resultado do dia 23/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 0819 no 6º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
