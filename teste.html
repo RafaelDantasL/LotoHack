@@ -4,10 +4,17 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Importador de Tabelas</title>
+  <style>
+    body { font-family: Arial, sans-serif; }
+    .table-container { margin-bottom: 20px; }
+    table { border-collapse: collapse; width: 100%; border: 1px solid #ddd; }
+    th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+    th { background-color: #f2f2f2; }
+  </style>
 </head>
 <body>
-  <h1>Importar Tabelas de um Site</h1>
-  <input type="text" id="urlInput" placeholder="https://www.resultadofacil.com.br/resultado-do-jogo-do-bicho/GO">
+  <h1>Importar Tabelas com Títulos</h1>
+  <input type="text" id="urlInput" placeholder="Insira a URL do site">
   <button onclick="fetchData()">Importar</button>
 
   <h2>Resultados:</h2>
@@ -16,7 +23,7 @@
   <script>
     async function fetchData() {
       const url = document.getElementById("urlInput").value;
-      const gasUrl = "https://script.google.com/macros/s/AKfycbzxJwjp1bYeeLBSjAOCHAQ8odUovTiKylJeJ0ZQfdsrEgJvO-TQqSc4z8luFekWhFNhaA/exec"; // Substitua pela URL gerada no GAS
+      const gasUrl = "https://script.google.com/macros/s/SEU_DEPLOY_URL/exec"; // Substitua pela URL gerada no GAS
       
       if (!url) {
         alert("Por favor, insira uma URL válida.");
@@ -39,14 +46,25 @@
           return;
         }
 
-        let html = "<table border='1'>";
-        data.data.forEach(row => {
-          html += "<tr>" + row.map(cell => `<td>${cell}</td>`).join('') + "</tr>";
-        });
-        html += "</table>";
+        document.getElementById("results").innerHTML = ""; // Limpar os resultados anteriores
+        
+        data.data.forEach(tableObj => {
+          let html = `<div class="table-container"><h3>${tableObj.title}</h3><table>`;
 
-        document.getElementById("results").innerHTML = html;
+          tableObj.table.forEach((row, index) => {
+            html += `<tr>`;
+            row.forEach(cell => {
+              html += index === 0 ? `<th>${cell}</th>` : `<td>${cell}</td>`;
+            });
+            html += `</tr>`;
+          });
+
+          html += `</table></div>`;
+          document.getElementById("results").innerHTML += html;
+        });
+
       } catch (error) {
+        console.error("Erro na requisição:", error);
         document.getElementById("results").innerText = "Erro ao obter dados.";
       }
     }
