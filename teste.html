@@ -1,17 +1,55 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Limpar URL</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Importador de Tabelas</title>
 </head>
 <body>
-    <h1>Página carregada</h1>
-    <p>A barra de navegação foi limpa!</p>
+  <h1>Importar Tabelas de um Site</h1>
+  <input type="text" id="urlInput" placeholder="https://www.resultadofacil.com.br/resultado-do-jogo-do-bicho/GO">
+  <button onclick="fetchData()">Importar</button>
 
-    <script>
-        // Limpa a barra de navegação
-        history.replaceState(null, '', '/');
-    </script>
+  <h2>Resultados:</h2>
+  <div id="results"></div>
+
+  <script>
+    async function fetchData() {
+      const url = document.getElementById("urlInput").value;
+      const gasUrl = "https://script.google.com/macros/s/AKfycbzxJwjp1bYeeLBSjAOCHAQ8odUovTiKylJeJ0ZQfdsrEgJvO-TQqSc4z8luFekWhFNhaA/exec"; // Substitua pela URL gerada no GAS
+      
+      if (!url) {
+        alert("Por favor, insira uma URL válida.");
+        return;
+      }
+
+      try {
+        const response = await fetch(gasUrl, {
+          method: "POST",
+          body: JSON.stringify({ url }),
+          headers: {
+            "Content-Type": "application/json"
+          }
+        });
+
+        const data = await response.json();
+        
+        if (data.error) {
+          document.getElementById("results").innerText = "Erro: " + data.error;
+          return;
+        }
+
+        let html = "<table border='1'>";
+        data.data.forEach(row => {
+          html += "<tr>" + row.map(cell => `<td>${cell}</td>`).join('') + "</tr>";
+        });
+        html += "</table>";
+
+        document.getElementById("results").innerHTML = html;
+      } catch (error) {
+        document.getElementById("results").innerText = "Erro ao obter dados.";
+      }
+    }
+  </script>
 </body>
 </html>
