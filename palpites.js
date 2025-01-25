@@ -1,4 +1,119 @@
 const palpites = {
+  "BAHIA": {
+    "palpites": [
+      "1015",
+      "1010",
+      "1013",
+      "1045",
+      "1040",
+      "1043",
+      "1095",
+      "1090",
+      "1093",
+      "1415",
+      "1410",
+      "1413",
+      "1445",
+      "1440",
+      "1443",
+      "1495",
+      "1490",
+      "1493",
+      "1615",
+      "1610",
+      "1613",
+      "1645",
+      "1640",
+      "1643",
+      "1695",
+      "1690",
+      "1693",
+      "0015",
+      "0010",
+      "0013"
+    ],
+    "frases": [
+      "10h - BA - Resultado do dia 25/01/2025 (Sábado)\nDeu Dezena, Palpite 4010 no 7º Prêmio!",
+      "10h - BA - Resultado do dia 25/01/2025 (Sábado)\nDeu Dezena, Palpite 4710 no 7º Prêmio!",
+      "10h - BA - Resultado do dia 25/01/2025 (Sábado)\nDeu Dezena, Palpite 4810 no 7º Prêmio!",
+      "10h - BA - Resultado do dia 25/01/2025 (Sábado)\nDeu Dezena, Palpite 1010 no 7º Prêmio!",
+      "10h - BA - Resultado do dia 25/01/2025 (Sábado)\nDeu Milhar, Palpite 4019 no 10º Prêmio!",
+      "10h - BA - Resultado do dia 25/01/2025 (Sábado)\nDeu Dezena, Palpite 4719 no 10º Prêmio!",
+      "10h - BA - Resultado do dia 25/01/2025 (Sábado)\nDeu Dezena, Palpite 4819 no 10º Prêmio!",
+      "10h - BA - Resultado do dia 25/01/2025 (Sábado)\nDeu Centena, Palpite 1019 no 10º Prêmio!",
+      "10h - BA - Resultado do dia 25/01/2025 (Sábado)\nDeu Dezena, Palpite 1019 no 10º Prêmio!"
+    ]
+  },
+  "BAHIA MALUCA": {
+    "palpites": [
+      "9714",
+      "9718",
+      "9711",
+      "9704",
+      "9708",
+      "9701",
+      "9744",
+      "9748",
+      "9741",
+      "9614",
+      "9618",
+      "9611",
+      "9604",
+      "9608",
+      "9601",
+      "9644",
+      "9648",
+      "9641",
+      "9814",
+      "9818",
+      "9811",
+      "9804",
+      "9808",
+      "9801",
+      "9844",
+      "9848",
+      "9841",
+      "3714",
+      "3718",
+      "3711"
+    ],
+    "frases": []
+  },
+  "LOTECE": {
+    "palpites": [
+      "1243",
+      "1244",
+      "1247",
+      "1233",
+      "1234",
+      "1237",
+      "1203",
+      "1204",
+      "1207",
+      "1343",
+      "1344",
+      "1347",
+      "1333",
+      "1334",
+      "1337",
+      "1303",
+      "1304",
+      "1307",
+      "1643",
+      "1644",
+      "1647",
+      "1633",
+      "1634",
+      "1637",
+      "1603",
+      "1604",
+      "1607",
+      "3243",
+      "3244",
+      "3247"
+    ],
+    "frases": []
+  },
   "LOOK/GOIAS": {
     "palpites": [
       "6064",
@@ -149,6 +264,11 @@ const palpites = {
       "6912",
       "6919"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0792 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0292 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0992 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 5792 no 3º Prêmio!"
+    ]
   }
 };
