@@ -1922,6 +1922,77 @@ const resultado = {
           "Avestruz"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho PB - FEDERAL",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "1356",
+          "14",
+          "Gato"
+        ],
+        [
+          "2º",
+          "0006",
+          "02",
+          "Águia"
+        ],
+        [
+          "3º",
+          "1041",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "4º",
+          "4264",
+          "16",
+          "Leão"
+        ],
+        [
+          "5º",
+          "2142",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "6º",
+          "1014",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "7º",
+          "3002",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "8º",
+          "5046",
+          "12",
+          "Elefante"
+        ],
+        [
+          "9º",
+          "6614",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "10º",
+          "4485",
+          "22",
+          "Tigre"
+        ]
+      ]
     }
   ],
   "PT RIO": [
