@@ -1943,6 +1943,130 @@ const resultado = {
           "Borboleta"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "8424",
+          "06",
+          "Cabra"
+        ],
+        [
+          "2º",
+          "7742",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "3º",
+          "0603",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "4º",
+          "0225",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "5º",
+          "4737",
+          "10",
+          "Coelho"
+        ],
+        [
+          "6º [soma]",
+          "1731",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "218",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "8424",
+          "06",
+          "Cabra"
+        ],
+        [
+          "2º",
+          "7742",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "3º",
+          "0603",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "4º",
+          "0225",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "5º",
+          "4737",
+          "10",
+          "Coelho"
+        ],
+        [
+          "6º",
+          "8700",
+          "25",
+          "Vaca"
+        ],
+        [
+          "7º",
+          "4762",
+          "16",
+          "Leão"
+        ],
+        [
+          "8º",
+          "2402",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "9º",
+          "4235",
+          "09",
+          "Cobra"
+        ],
+        [
+          "10º",
+          "1830",
+          "08",
+          "Camelo"
+        ]
+      ]
     }
   ]
 };
