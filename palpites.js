@@ -32,7 +32,12 @@ const palpites = {
       "1234",
       "1236"
     ],
-    "frases": []
+    "frases": [
+      "10h - MALUCA - Resultado do dia 27/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 2541 no 7º Prêmio!",
+      "10h - MALUCA - Resultado do dia 27/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 2641 no 7º Prêmio!",
+      "10h - MALUCA - Resultado do dia 27/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 2741 no 7º Prêmio!",
+      "10h - MALUCA - Resultado do dia 27/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 5541 no 7º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -68,9 +73,66 @@ const palpites = {
       "1125"
     ],
     "frases": [
+      "10h - BA - Resultado do dia 27/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 4567 no 4º Prêmio!",
+      "10h - BA - Resultado do dia 27/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 4867 no 4º Prêmio!",
+      "10h - BA - Resultado do dia 27/01/2025 (Segunda-feira)\nDeu Centena, Palpite 4167 no 4º Prêmio!",
+      "10h - BA - Resultado do dia 27/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 4167 no 4º Prêmio!",
+      "10h - BA - Resultado do dia 27/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 1567 no 4º Prêmio!",
+      "10h - BA - Resultado do dia 27/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 4512 no 9º Prêmio!",
+      "10h - BA - Resultado do dia 27/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 4812 no 9º Prêmio!",
+      "10h - BA - Resultado do dia 27/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 4112 no 9º Prêmio!",
+      "12h - BA - Resultado do dia 27/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 0310 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 27/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 0110 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 27/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 0410 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 27/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 8310 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 27/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 0330 no 9º Prêmio!",
+      "12h - BA - Resultado do dia 27/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 0130 no 9º Prêmio!",
+      "12h - BA - Resultado do dia 27/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 0430 no 9º Prêmio!",
       "15h - BA - Resultado do dia 27/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 3341 no 4º Prêmio!",
       "15h - BA - Resultado do dia 27/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 3441 no 4º Prêmio!",
       "15h - BA - Resultado do dia 27/01/2025 (Segunda-feira)\nDeu Dezena, Palpite 3041 no 4º Prêmio!"
+    ]
+  },
+  "LOTECE": {
+    "palpites": [
+      "2200",
+      "2205",
+      "2201",
+      "2240",
+      "2245",
+      "2241",
+      "2290",
+      "2295",
+      "2291",
+      "2300",
+      "2305",
+      "2301",
+      "2340",
+      "2345",
+      "2341",
+      "2390",
+      "2395",
+      "2391",
+      "2500",
+      "2505",
+      "2501",
+      "2540",
+      "2545",
+      "2541",
+      "2590",
+      "2595",
+      "2591",
+      "7200",
+      "7205",
+      "7201"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 3840 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 3440 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 3140 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 3871 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 3471 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 3171 no 4º Prêmio!"
     ]
   }
 };
