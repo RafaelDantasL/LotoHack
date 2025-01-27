@@ -3379,6 +3379,130 @@ const resultado = {
           "Avestruz"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "0444",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "2º",
+          "1641",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "3º",
+          "2227",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "4º",
+          "3816",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "5º",
+          "3013",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "6º [soma]",
+          "1141",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "728",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "0444",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "2º",
+          "1641",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "3º",
+          "2227",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "4º",
+          "3816",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "5º",
+          "3013",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "6º",
+          "0123",
+          "06",
+          "Cabra"
+        ],
+        [
+          "7º",
+          "4628",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "8º",
+          "4421",
+          "06",
+          "Cabra"
+        ],
+        [
+          "9º",
+          "4176",
+          "19",
+          "Pavão"
+        ],
+        [
+          "10º",
+          "4489",
+          "23",
+          "Urso"
+        ]
+      ]
     }
   ]
 };
