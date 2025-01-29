@@ -32,7 +32,12 @@ const palpites = {
       "0901",
       "0904"
     ],
-    "frases": []
+    "frases": [
+      "10h - MALUCA - Resultado do dia 29/01/2025 (Quarta-feira)\nDeu Dezena, Palpite 3143 no 8º Prêmio!",
+      "10h - MALUCA - Resultado do dia 29/01/2025 (Quarta-feira)\nDeu Dezena, Palpite 3443 no 8º Prêmio!",
+      "10h - MALUCA - Resultado do dia 29/01/2025 (Quarta-feira)\nDeu Dezena, Palpite 3643 no 8º Prêmio!",
+      "10h - MALUCA - Resultado do dia 29/01/2025 (Quarta-feira)\nDeu Dezena, Palpite 1143 no 8º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -68,9 +73,59 @@ const palpites = {
       "9503"
     ],
     "frases": [
+      "10h - BA - Resultado do dia 29/01/2025 (Quarta-feira)\nDeu Dezena, Palpite 4410 no 10º Prêmio!",
+      "10h - BA - Resultado do dia 29/01/2025 (Quarta-feira)\nDeu Centena, Palpite 4110 no 10º Prêmio!",
+      "10h - BA - Resultado do dia 29/01/2025 (Quarta-feira)\nDeu Dezena, Palpite 4110 no 10º Prêmio!",
+      "10h - BA - Resultado do dia 29/01/2025 (Quarta-feira)\nDeu Dezena, Palpite 4810 no 10º Prêmio!",
+      "12h - BA - Resultado do dia 29/01/2025 (Quarta-feira)\nDeu Dezena, Palpite 1375 no 7º Prêmio!",
+      "12h - BA - Resultado do dia 29/01/2025 (Quarta-feira)\nDeu Dezena, Palpite 1475 no 7º Prêmio!",
+      "12h - BA - Resultado do dia 29/01/2025 (Quarta-feira)\nDeu Dezena, Palpite 1575 no 7º Prêmio!",
+      "12h - BA - Resultado do dia 29/01/2025 (Quarta-feira)\nDeu Dezena, Palpite 3375 no 7º Prêmio!",
       "15h - BA - Resultado do dia 29/01/2025 (Quarta-feira)\nDeu Dezena, Palpite 0154 no 10º Prêmio!",
       "15h - BA - Resultado do dia 29/01/2025 (Quarta-feira)\nDeu Dezena, Palpite 0354 no 10º Prêmio!",
       "15h - BA - Resultado do dia 29/01/2025 (Quarta-feira)\nDeu Dezena, Palpite 0754 no 10º Prêmio!"
+    ]
+  },
+  "LOTECE": {
+    "palpites": [
+      "9750",
+      "9754",
+      "9759",
+      "9760",
+      "9764",
+      "9769",
+      "9790",
+      "9794",
+      "9799",
+      "9950",
+      "9954",
+      "9959",
+      "9960",
+      "9964",
+      "9969",
+      "9990",
+      "9994",
+      "9999",
+      "9050",
+      "9054",
+      "9059",
+      "9060",
+      "9064",
+      "9069",
+      "9090",
+      "9094",
+      "9099",
+      "0750",
+      "0754",
+      "0759"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 7074 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 7174 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 7374 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 7010 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 7110 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 7310 no 9º Prêmio!"
     ]
   }
 };
