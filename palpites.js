@@ -1,46 +1,38 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "4010",
-      "4011",
-      "4019",
-      "4070",
-      "4071",
-      "4079",
-      "4000",
-      "4001",
-      "4009",
-      "4310",
-      "4311",
-      "4319",
-      "4370",
-      "4371",
-      "4379",
-      "4300",
-      "4301",
-      "4309",
-      "4410",
-      "4411",
-      "4419",
-      "4470",
-      "4471",
-      "4479",
-      "4400",
-      "4401",
-      "4409",
-      "8010",
-      "8011",
-      "8019"
+      "1847",
+      "1845",
+      "1849",
+      "1877",
+      "1875",
+      "1879",
+      "1827",
+      "1825",
+      "1829",
+      "1547",
+      "1545",
+      "1549",
+      "1577",
+      "1575",
+      "1579",
+      "1527",
+      "1525",
+      "1529",
+      "1247",
+      "1245",
+      "1249",
+      "1277",
+      "1275",
+      "1279",
+      "1227",
+      "1225",
+      "1229",
+      "4847",
+      "4845",
+      "4849"
     ],
-    "frases": [
-      "12h - MALUCA - BA - Resultado do dia 30/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 4375 no 3º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 30/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 4075 no 3º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 30/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 4175 no 3º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 30/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 3179 no 6º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 30/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 3779 no 6º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 30/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 3979 no 6º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 30/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 8179 no 6º Prêmio!"
-    ]
+    "frases": []
   },
   "BAHIA": {
     "palpites": [
@@ -75,7 +67,19 @@ const palpites = {
       "3484",
       "3486"
     ],
-    "frases": []
+    "frases": [
+      "12h - BA - Resultado do dia 30/01/2025 (Quinta-feira)\nDeu Centena, Palpite 1375 no 5º Prêmio!",
+      "12h - BA - Resultado do dia 30/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 1375 no 5º Prêmio!",
+      "12h - BA - Resultado do dia 30/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 1775 no 5º Prêmio!",
+      "12h - BA - Resultado do dia 30/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 1175 no 5º Prêmio!",
+      "12h - BA - Resultado do dia 30/01/2025 (Quinta-feira)\nDeu Centena, Palpite 1379 no 9º Prêmio!",
+      "12h - BA - Resultado do dia 30/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 1379 no 9º Prêmio!",
+      "12h - BA - Resultado do dia 30/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 1779 no 9º Prêmio!",
+      "12h - BA - Resultado do dia 30/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 1179 no 9º Prêmio!",
+      "15h - BA - Resultado do dia 30/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 1327 no 8º Prêmio!",
+      "15h - BA - Resultado do dia 30/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 1927 no 8º Prêmio!",
+      "15h - BA - Resultado do dia 30/01/2025 (Quinta-feira)\nDeu Dezena, Palpite 1527 no 8º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
