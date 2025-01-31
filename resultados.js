@@ -2917,6 +2917,130 @@ const resultado = {
           "Camelo"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 21:20, CORUJA, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "2541",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "2º",
+          "6220",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "3º",
+          "8304",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "4º",
+          "6303",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "5º",
+          "0545",
+          "12",
+          "Elefante"
+        ],
+        [
+          "6º [soma]",
+          "3913",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "805",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 21:20, CORUJA, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "2541",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "2º",
+          "6220",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "3º",
+          "8304",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "4º",
+          "6303",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "5º",
+          "0545",
+          "12",
+          "Elefante"
+        ],
+        [
+          "6º",
+          "2686",
+          "22",
+          "Tigre"
+        ],
+        [
+          "7º",
+          "5233",
+          "09",
+          "Cobra"
+        ],
+        [
+          "8º",
+          "4200",
+          "25",
+          "Vaca"
+        ],
+        [
+          "9º",
+          "1043",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "10º",
+          "7075",
+          "19",
+          "Pavão"
+        ]
+      ]
     }
   ],
   "PT SP": [
