@@ -1924,6 +1924,130 @@ const resultado = {
           "Carneiro"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 16:00, PTV, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "4601",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "2º",
+          "7915",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "3º",
+          "6682",
+          "21",
+          "Touro"
+        ],
+        [
+          "4º",
+          "6145",
+          "12",
+          "Elefante"
+        ],
+        [
+          "5º",
+          "5102",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "6º [soma]",
+          "0445",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "416",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 16:00, PTV, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "4601",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "2º",
+          "7915",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "3º",
+          "6682",
+          "21",
+          "Touro"
+        ],
+        [
+          "4º",
+          "6145",
+          "12",
+          "Elefante"
+        ],
+        [
+          "5º",
+          "5102",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "6º",
+          "4766",
+          "17",
+          "Macaco"
+        ],
+        [
+          "7º",
+          "6961",
+          "16",
+          "Leão"
+        ],
+        [
+          "8º",
+          "0184",
+          "21",
+          "Touro"
+        ],
+        [
+          "9º",
+          "1525",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "10º",
+          "3881",
+          "21",
+          "Touro"
+        ]
+      ]
     }
   ],
   "PT SP": [
