@@ -246,6 +246,45 @@ const palpites = {
       "6138",
       "6133"
     ],
+    "frases": [
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 0229 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 0029 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 0329 no 1º Prêmio!"
+    ]
+  },
+  "PT SP": {
+    "palpites": [
+      "2144",
+      "2142",
+      "2146",
+      "2104",
+      "2102",
+      "2106",
+      "2114",
+      "2112",
+      "2116",
+      "2044",
+      "2042",
+      "2046",
+      "2004",
+      "2002",
+      "2006",
+      "2014",
+      "2012",
+      "2016",
+      "2544",
+      "2542",
+      "2546",
+      "2504",
+      "2502",
+      "2506",
+      "2514",
+      "2512",
+      "2516",
+      "8144",
+      "8142",
+      "8146"
+    ],
     "frases": []
   }
 };
