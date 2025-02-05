@@ -1,45 +1,41 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "1301",
-      "1302",
-      "1309",
-      "1381",
-      "1382",
-      "1389",
-      "1321",
-      "1322",
-      "1329",
-      "1401",
-      "1402",
-      "1409",
-      "1481",
-      "1482",
-      "1489",
-      "1421",
-      "1422",
-      "1429",
-      "1601",
-      "1602",
-      "1609",
-      "1681",
-      "1682",
-      "1689",
-      "1621",
-      "1622",
-      "1629",
-      "0301",
-      "0302",
-      "0309"
+      "1693",
+      "1699",
+      "1690",
+      "1613",
+      "1619",
+      "1610",
+      "1673",
+      "1679",
+      "1670",
+      "1593",
+      "1599",
+      "1590",
+      "1513",
+      "1519",
+      "1510",
+      "1573",
+      "1579",
+      "1570",
+      "1093",
+      "1099",
+      "1090",
+      "1013",
+      "1019",
+      "1010",
+      "1073",
+      "1079",
+      "1070",
+      "2693",
+      "2699",
+      "2690"
     ],
     "frases": [
-      "15h - MALUCA - BA - Resultado do dia 05/02/2025 (Quarta-feira)\nDeu Dezena, Palpite 0109 no 7º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 05/02/2025 (Quarta-feira)\nDeu Milhar, Palpite 0309 no 7º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 05/02/2025 (Quarta-feira)\nDeu Dezena, Palpite 0509 no 7º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 05/02/2025 (Quarta-feira)\nDeu Dezena, Palpite 0150 no 8º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 05/02/2025 (Quarta-feira)\nDeu Dezena, Palpite 0350 no 8º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 05/02/2025 (Quarta-feira)\nDeu Dezena, Palpite 0550 no 8º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 05/02/2025 (Quarta-feira)\nDeu Dezena, Palpite 3150 no 8º Prêmio!"
+      "19h FEDERAL - MALUCA - BA - Resultado do dia 05/02/2025 (Quarta-feira)\nDeu Dezena, Palpite 1329 no 8º Prêmio!",
+      "19h FEDERAL - MALUCA - BA - Resultado do dia 05/02/2025 (Quarta-feira)\nDeu Dezena, Palpite 1429 no 8º Prêmio!",
+      "19h FEDERAL - MALUCA - BA - Resultado do dia 05/02/2025 (Quarta-feira)\nDeu Dezena, Palpite 1629 no 8º Prêmio!"
     ]
   },
   "BAHIA": {
@@ -75,7 +71,14 @@ const palpites = {
       "5665",
       "5669"
     ],
-    "frases": []
+    "frases": [
+      "10h - BA - Resultado do dia 05/02/2025 (Quarta-feira)\nDeu Dezena, Palpite 2010 no 6º Prêmio!",
+      "10h - BA - Resultado do dia 05/02/2025 (Quarta-feira)\nDeu Dezena, Palpite 2110 no 6º Prêmio!",
+      "10h - BA - Resultado do dia 05/02/2025 (Quarta-feira)\nDeu Dezena, Palpite 2410 no 6º Prêmio!",
+      "12h - BA - Resultado do dia 05/02/2025 (Quarta-feira)\nDeu Dezena, Palpite 1733 no 10º Prêmio!",
+      "12h - BA - Resultado do dia 05/02/2025 (Quarta-feira)\nDeu Dezena, Palpite 1133 no 10º Prêmio!",
+      "12h - BA - Resultado do dia 05/02/2025 (Quarta-feira)\nDeu Dezena, Palpite 1933 no 10º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
