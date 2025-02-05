@@ -36,41 +36,41 @@ const palpites = {
   },
   "BAHIA": {
     "palpites": [
-      "1780",
-      "1782",
-      "1783",
-      "1700",
-      "1702",
-      "1703",
-      "1730",
-      "1732",
-      "1733",
-      "1180",
-      "1182",
-      "1183",
-      "1100",
-      "1102",
-      "1103",
-      "1130",
-      "1132",
-      "1133",
-      "1980",
-      "1982",
-      "1983",
-      "1900",
-      "1902",
-      "1903",
-      "1930",
-      "1932",
-      "1933",
-      "0780",
-      "0782",
-      "0783"
+      "9215",
+      "9213",
+      "9210",
+      "9205",
+      "9203",
+      "9200",
+      "9255",
+      "9253",
+      "9250",
+      "9015",
+      "9013",
+      "9010",
+      "9005",
+      "9003",
+      "9000",
+      "9055",
+      "9053",
+      "9050",
+      "9615",
+      "9613",
+      "9610",
+      "9605",
+      "9603",
+      "9600",
+      "9655",
+      "9653",
+      "9650",
+      "3215",
+      "3213",
+      "3210"
     ],
     "frases": [
-      "10h - BA - Resultado do dia 05/02/2025 (Quarta-feira)\nDeu Dezena, Palpite 2010 no 6º Prêmio!",
-      "10h - BA - Resultado do dia 05/02/2025 (Quarta-feira)\nDeu Dezena, Palpite 2110 no 6º Prêmio!",
-      "10h - BA - Resultado do dia 05/02/2025 (Quarta-feira)\nDeu Dezena, Palpite 2410 no 6º Prêmio!"
+      "12h - BA - Resultado do dia 05/02/2025 (Quarta-feira)\nDeu Dezena, Palpite 1733 no 10º Prêmio!",
+      "12h - BA - Resultado do dia 05/02/2025 (Quarta-feira)\nDeu Dezena, Palpite 1133 no 10º Prêmio!",
+      "12h - BA - Resultado do dia 05/02/2025 (Quarta-feira)\nDeu Dezena, Palpite 1933 no 10º Prêmio!"
     ]
   },
   "LOTECE": {
@@ -280,6 +280,10 @@ const palpites = {
       "1476",
       "1478"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 4718 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 4018 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 4218 no 2º Prêmio!"
+    ]
   }
 };
