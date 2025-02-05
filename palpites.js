@@ -1,38 +1,46 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "0154",
-      "0159",
-      "0150",
-      "0124",
-      "0129",
-      "0120",
-      "0104",
-      "0109",
-      "0100",
-      "0354",
-      "0359",
-      "0350",
-      "0324",
-      "0329",
-      "0320",
-      "0304",
-      "0309",
-      "0300",
-      "0554",
-      "0559",
-      "0550",
-      "0524",
-      "0529",
-      "0520",
-      "0504",
-      "0509",
-      "0500",
-      "3154",
-      "3159",
-      "3150"
+      "1301",
+      "1302",
+      "1309",
+      "1381",
+      "1382",
+      "1389",
+      "1321",
+      "1322",
+      "1329",
+      "1401",
+      "1402",
+      "1409",
+      "1481",
+      "1482",
+      "1489",
+      "1421",
+      "1422",
+      "1429",
+      "1601",
+      "1602",
+      "1609",
+      "1681",
+      "1682",
+      "1689",
+      "1621",
+      "1622",
+      "1629",
+      "0301",
+      "0302",
+      "0309"
     ],
-    "frases": []
+    "frases": [
+      "15h - MALUCA - BA - Resultado do dia 05/02/2025 (Quarta-feira)\nDeu Dezena, Palpite 0109 no 7º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 05/02/2025 (Quarta-feira)\nDeu Milhar, Palpite 0309 no 7º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 05/02/2025 (Quarta-feira)\nDeu Dezena, Palpite 0509 no 7º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 05/02/2025 (Quarta-feira)\nDeu Dezena, Palpite 0150 no 8º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 05/02/2025 (Quarta-feira)\nDeu Dezena, Palpite 0350 no 8º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 05/02/2025 (Quarta-feira)\nDeu Dezena, Palpite 0550 no 8º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 05/02/2025 (Quarta-feira)\nDeu Dezena, Palpite 3150 no 8º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -67,7 +75,14 @@ const palpites = {
       "1084",
       "1086"
     ],
-    "frases": []
+    "frases": [
+      "10h - BA - Resultado do dia 05/02/2025 (Quarta-feira)\nDeu Dezena, Palpite 2010 no 6º Prêmio!",
+      "10h - BA - Resultado do dia 05/02/2025 (Quarta-feira)\nDeu Dezena, Palpite 2110 no 6º Prêmio!",
+      "10h - BA - Resultado do dia 05/02/2025 (Quarta-feira)\nDeu Dezena, Palpite 2410 no 6º Prêmio!",
+      "12h - BA - Resultado do dia 05/02/2025 (Quarta-feira)\nDeu Dezena, Palpite 1733 no 10º Prêmio!",
+      "12h - BA - Resultado do dia 05/02/2025 (Quarta-feira)\nDeu Dezena, Palpite 1133 no 10º Prêmio!",
+      "12h - BA - Resultado do dia 05/02/2025 (Quarta-feira)\nDeu Dezena, Palpite 1933 no 10º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
