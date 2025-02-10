@@ -1,4 +1,51 @@
 const palpites = {
+  "BAHIA MALUCA": {
+    "palpites": [
+      "1831",
+      "1834",
+      "1830",
+      "1891",
+      "1894",
+      "1890",
+      "1801",
+      "1804",
+      "1800",
+      "1631",
+      "1634",
+      "1630",
+      "1691",
+      "1694",
+      "1690",
+      "1601",
+      "1604",
+      "1600",
+      "1031",
+      "1034",
+      "1030",
+      "1091",
+      "1094",
+      "1090",
+      "1001",
+      "1004",
+      "1000",
+      "3831",
+      "3834",
+      "3830"
+    ],
+    "frases": [
+      "10h - MALUCA - Resultado do dia 10/02/2025 (Segunda-feira)\nDeu Dezena, Palpite 1004 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 10/02/2025 (Segunda-feira)\nDeu Dezena, Palpite 1104 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 10/02/2025 (Segunda-feira)\nDeu Dezena, Palpite 1204 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 10/02/2025 (Segunda-feira)\nDeu Dezena, Palpite 1031 no 3º Prêmio!",
+      "10h - MALUCA - Resultado do dia 10/02/2025 (Segunda-feira)\nDeu Dezena, Palpite 1131 no 3º Prêmio!",
+      "10h - MALUCA - Resultado do dia 10/02/2025 (Segunda-feira)\nDeu Milhar, Palpite 1231 no 3º Prêmio!",
+      "10h - MALUCA - Resultado do dia 10/02/2025 (Segunda-feira)\nDeu Dezena, Palpite 0031 no 3º Prêmio!",
+      "10h - MALUCA - Resultado do dia 10/02/2025 (Segunda-feira)\nDeu Dezena, Palpite 1032 no 8º Prêmio!",
+      "10h - MALUCA - Resultado do dia 10/02/2025 (Segunda-feira)\nDeu Dezena, Palpite 1132 no 8º Prêmio!",
+      "10h - MALUCA - Resultado do dia 10/02/2025 (Segunda-feira)\nDeu Dezena, Palpite 1232 no 8º Prêmio!",
+      "10h - MALUCA - Resultado do dia 10/02/2025 (Segunda-feira)\nDeu Dezena, Palpite 0032 no 8º Prêmio!"
+    ]
+  },
   "BAHIA": {
     "palpites": [
       "0148",
@@ -38,41 +85,6 @@ const palpites = {
       "10h - BA - Resultado do dia 10/02/2025 (Segunda-feira)\nDeu Dezena, Palpite 4302 no 10º Prêmio!",
       "10h - BA - Resultado do dia 10/02/2025 (Segunda-feira)\nDeu Dezena, Palpite 5102 no 10º Prêmio!"
     ]
-  },
-  "BAHIA MALUCA": {
-    "palpites": [
-      "1034",
-      "1031",
-      "1032",
-      "1054",
-      "1051",
-      "1052",
-      "1004",
-      "1001",
-      "1002",
-      "1134",
-      "1131",
-      "1132",
-      "1154",
-      "1151",
-      "1152",
-      "1104",
-      "1101",
-      "1102",
-      "1234",
-      "1231",
-      "1232",
-      "1254",
-      "1251",
-      "1252",
-      "1204",
-      "1201",
-      "1202",
-      "0034",
-      "0031",
-      "0032"
-    ],
-    "frases": []
   },
   "LOTECE": {
     "palpites": [
