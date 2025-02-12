@@ -2917,6 +2917,130 @@ const resultado = {
           "Cachorro"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 21:20, CORUJA, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "8619",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "2º",
+          "0788",
+          "22",
+          "Tigre"
+        ],
+        [
+          "3º",
+          "7240",
+          "10",
+          "Coelho"
+        ],
+        [
+          "4º",
+          "1543",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "5º",
+          "9327",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "6º [soma]",
+          "7517",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "791",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 21:20, CORUJA, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "8619",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "2º",
+          "0788",
+          "22",
+          "Tigre"
+        ],
+        [
+          "3º",
+          "7240",
+          "10",
+          "Coelho"
+        ],
+        [
+          "4º",
+          "1543",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "5º",
+          "9327",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "6º",
+          "8071",
+          "18",
+          "Porco"
+        ],
+        [
+          "7º",
+          "6725",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "8º",
+          "1844",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "9º",
+          "9803",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "10º",
+          "3960",
+          "15",
+          "Jacaré"
+        ]
+      ]
     }
   ],
   "PT SP": [
