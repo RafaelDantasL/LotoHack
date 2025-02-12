@@ -1,38 +1,42 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "3173",
-      "3170",
-      "3171",
-      "3163",
-      "3160",
-      "3161",
-      "3103",
-      "3100",
-      "3101",
-      "3273",
-      "3270",
-      "3271",
-      "3263",
-      "3260",
-      "3261",
-      "3203",
-      "3200",
-      "3201",
-      "3073",
-      "3070",
-      "3071",
-      "3063",
-      "3060",
-      "3061",
-      "3003",
-      "3000",
-      "3001",
-      "0173",
-      "0170",
-      "0171"
+      "6322",
+      "6320",
+      "6321",
+      "6302",
+      "6300",
+      "6301",
+      "6352",
+      "6350",
+      "6351",
+      "6422",
+      "6420",
+      "6421",
+      "6402",
+      "6400",
+      "6401",
+      "6452",
+      "6450",
+      "6451",
+      "6522",
+      "6520",
+      "6521",
+      "6502",
+      "6500",
+      "6501",
+      "6552",
+      "6550",
+      "6551",
+      "7322",
+      "7320",
+      "7321"
     ],
-    "frases": []
+    "frases": [
+      "15h - MALUCA - BA - Resultado do dia 12/02/2025 (Quarta-feira)\nDeu Dezena, Palpite 3103 no 3º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 12/02/2025 (Quarta-feira)\nDeu Dezena, Palpite 3203 no 3º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 12/02/2025 (Quarta-feira)\nDeu Dezena, Palpite 3003 no 3º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -67,7 +71,17 @@ const palpites = {
       "2030",
       "2031"
     ],
-    "frases": []
+    "frases": [
+      "12h - BA - Resultado do dia 12/02/2025 (Quarta-feira)\nDeu Dezena, Palpite 4506 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 12/02/2025 (Quarta-feira)\nDeu Dezena, Palpite 4606 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 12/02/2025 (Quarta-feira)\nDeu Dezena, Palpite 4106 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 12/02/2025 (Quarta-feira)\nDeu Dezena, Palpite 4506 no 5º Prêmio!",
+      "12h - BA - Resultado do dia 12/02/2025 (Quarta-feira)\nDeu Dezena, Palpite 4606 no 5º Prêmio!",
+      "12h - BA - Resultado do dia 12/02/2025 (Quarta-feira)\nDeu Dezena, Palpite 4106 no 5º Prêmio!",
+      "12h - BA - Resultado do dia 12/02/2025 (Quarta-feira)\nDeu Dezena, Palpite 4520 no 10º Prêmio!",
+      "12h - BA - Resultado do dia 12/02/2025 (Quarta-feira)\nDeu Dezena, Palpite 4620 no 10º Prêmio!",
+      "12h - BA - Resultado do dia 12/02/2025 (Quarta-feira)\nDeu Dezena, Palpite 4120 no 10º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
