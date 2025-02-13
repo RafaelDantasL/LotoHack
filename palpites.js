@@ -36,46 +36,41 @@ const palpites = {
   },
   "BAHIA": {
     "palpites": [
-      "0610",
-      "0611",
-      "0613",
-      "0680",
-      "0681",
-      "0683",
-      "0620",
-      "0621",
-      "0623",
-      "0810",
-      "0811",
-      "0813",
-      "0880",
-      "0881",
-      "0883",
-      "0820",
-      "0821",
-      "0823",
-      "0410",
-      "0411",
-      "0413",
-      "0480",
-      "0481",
-      "0483",
-      "0420",
-      "0421",
-      "0423",
-      "6610",
-      "6611",
-      "6613"
+      "4700",
+      "4701",
+      "4703",
+      "4750",
+      "4751",
+      "4753",
+      "4780",
+      "4781",
+      "4783",
+      "4200",
+      "4201",
+      "4203",
+      "4250",
+      "4251",
+      "4253",
+      "4280",
+      "4281",
+      "4283",
+      "4100",
+      "4101",
+      "4103",
+      "4150",
+      "4151",
+      "4153",
+      "4180",
+      "4181",
+      "4183",
+      "6700",
+      "6701",
+      "6703"
     ],
     "frases": [
-      "10h - BA - Resultado do dia 13/02/2025 (Quinta-feira)\nDeu Dezena, Palpite 7249 no 6º Prêmio!",
-      "10h - BA - Resultado do dia 13/02/2025 (Quinta-feira)\nDeu Dezena, Palpite 7449 no 6º Prêmio!",
-      "10h - BA - Resultado do dia 13/02/2025 (Quinta-feira)\nDeu Dezena, Palpite 7149 no 6º Prêmio!",
-      "10h - BA - Resultado do dia 13/02/2025 (Quinta-feira)\nDeu Dezena, Palpite 7232 no 10º Prêmio!",
-      "10h - BA - Resultado do dia 13/02/2025 (Quinta-feira)\nDeu Centena, Palpite 7432 no 10º Prêmio!",
-      "10h - BA - Resultado do dia 13/02/2025 (Quinta-feira)\nDeu Dezena, Palpite 7432 no 10º Prêmio!",
-      "10h - BA - Resultado do dia 13/02/2025 (Quinta-feira)\nDeu Dezena, Palpite 7132 no 10º Prêmio!",
-      "10h - BA - Resultado do dia 13/02/2025 (Quinta-feira)\nDeu Dezena, Palpite 9232 no 10º Prêmio!"
+      "12h - BA - Resultado do dia 13/02/2025 (Quinta-feira)\nDeu Dezena, Palpite 0680 no 6º Prêmio!",
+      "12h - BA - Resultado do dia 13/02/2025 (Quinta-feira)\nDeu Dezena, Palpite 0880 no 6º Prêmio!",
+      "12h - BA - Resultado do dia 13/02/2025 (Quinta-feira)\nDeu Dezena, Palpite 0480 no 6º Prêmio!"
     ]
   },
   "LOTECE": {
@@ -294,6 +289,10 @@ const palpites = {
       "6302",
       "6303"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1414 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1714 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1114 no 7º Prêmio!"
+    ]
   }
 };
