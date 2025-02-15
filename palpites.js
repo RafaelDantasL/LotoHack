@@ -236,6 +236,51 @@ const palpites = {
       "1000",
       "1008"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 0557 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Centena, Palpite 0457 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 0457 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 0057 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 2557 no 1º Prêmio!"
+    ]
+  },
+  "PT SP": {
+    "palpites": [
+      "0551",
+      "0552",
+      "0554",
+      "0521",
+      "0522",
+      "0524",
+      "0531",
+      "0532",
+      "0534",
+      "0651",
+      "0652",
+      "0654",
+      "0621",
+      "0622",
+      "0624",
+      "0631",
+      "0632",
+      "0634",
+      "0351",
+      "0352",
+      "0354",
+      "0321",
+      "0322",
+      "0324",
+      "0331",
+      "0332",
+      "0334",
+      "9551",
+      "9552",
+      "9554"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 5546 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 5646 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 5146 no 6º Prêmio!"
+    ]
   }
 };
