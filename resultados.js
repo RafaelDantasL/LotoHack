@@ -3148,6 +3148,130 @@ const resultado = {
           "Elefante"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "9932",
+          "08",
+          "Camelo"
+        ],
+        [
+          "2º",
+          "1735",
+          "09",
+          "Cobra"
+        ],
+        [
+          "3º",
+          "2326",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "4º",
+          "8782",
+          "21",
+          "Touro"
+        ],
+        [
+          "5º",
+          "7701",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "6º [soma]",
+          "0476",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "232",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "9932",
+          "08",
+          "Camelo"
+        ],
+        [
+          "2º",
+          "1735",
+          "09",
+          "Cobra"
+        ],
+        [
+          "3º",
+          "2326",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "4º",
+          "8782",
+          "21",
+          "Touro"
+        ],
+        [
+          "5º",
+          "7701",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "6º",
+          "9128",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "7º",
+          "9737",
+          "10",
+          "Coelho"
+        ],
+        [
+          "8º",
+          "3328",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "9º",
+          "2562",
+          "16",
+          "Leão"
+        ],
+        [
+          "10º",
+          "5231",
+          "08",
+          "Camelo"
+        ]
+      ]
     }
   ]
 };
