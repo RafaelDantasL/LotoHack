@@ -209,6 +209,87 @@ const palpites = {
       "2893",
       "2898"
     ],
+    "frases": [
+      "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 3681 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 3281 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 3381 no 3º Prêmio!"
+    ]
+  },
+  "PT SP": {
+    "palpites": [
+      "2111",
+      "2118",
+      "2119",
+      "2131",
+      "2138",
+      "2139",
+      "2121",
+      "2128",
+      "2129",
+      "2211",
+      "2218",
+      "2219",
+      "2231",
+      "2238",
+      "2239",
+      "2221",
+      "2228",
+      "2229",
+      "2511",
+      "2518",
+      "2519",
+      "2531",
+      "2538",
+      "2539",
+      "2521",
+      "2528",
+      "2529",
+      "5111",
+      "5118",
+      "5119"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1016 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1516 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1916 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1059 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1559 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1959 no 10º Prêmio!"
+    ]
+  },
+  "LOTECE": {
+    "palpites": [
+      "2725",
+      "2724",
+      "2729",
+      "2765",
+      "2764",
+      "2769",
+      "2795",
+      "2794",
+      "2799",
+      "2925",
+      "2924",
+      "2929",
+      "2965",
+      "2964",
+      "2969",
+      "2995",
+      "2994",
+      "2999",
+      "2125",
+      "2124",
+      "2129",
+      "2165",
+      "2164",
+      "2169",
+      "2195",
+      "2194",
+      "2199",
+      "6725",
+      "6724",
+      "6729"
+    ],
     "frases": []
   }
 };
