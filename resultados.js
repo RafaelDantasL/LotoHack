@@ -2652,6 +2652,130 @@ const resultado = {
           "Cobra"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "5214",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "2º",
+          "2511",
+          "03",
+          "Burro"
+        ],
+        [
+          "3º",
+          "6432",
+          "08",
+          "Camelo"
+        ],
+        [
+          "4º",
+          "9018",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "5º",
+          "7616",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "6º [soma]",
+          "0791",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "092",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "5214",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "2º",
+          "2511",
+          "03",
+          "Burro"
+        ],
+        [
+          "3º",
+          "6432",
+          "08",
+          "Camelo"
+        ],
+        [
+          "4º",
+          "9018",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "5º",
+          "7616",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "6º",
+          "5269",
+          "18",
+          "Porco"
+        ],
+        [
+          "7º",
+          "2540",
+          "10",
+          "Coelho"
+        ],
+        [
+          "8º",
+          "1131",
+          "08",
+          "Camelo"
+        ],
+        [
+          "9º",
+          "4128",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "10º",
+          "3859",
+          "15",
+          "Jacaré"
+        ]
+      ]
     }
   ]
 };
