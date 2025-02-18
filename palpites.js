@@ -85,6 +85,41 @@ const palpites = {
       "10h - BA - Resultado do dia 18/02/2025 (Terça-feira)\nDeu Dezena, Palpite 3333 no 3º Prêmio!"
     ]
   },
+  "LOTECE": {
+    "palpites": [
+      "3452",
+      "3455",
+      "3451",
+      "3442",
+      "3445",
+      "3441",
+      "3402",
+      "3405",
+      "3401",
+      "3852",
+      "3855",
+      "3851",
+      "3842",
+      "3845",
+      "3841",
+      "3802",
+      "3805",
+      "3801",
+      "3552",
+      "3555",
+      "3551",
+      "3542",
+      "3545",
+      "3541",
+      "3502",
+      "3505",
+      "3501",
+      "1452",
+      "1455",
+      "1451"
+    ],
+    "frases": []
+  },
   "LOOK/GOIAS": {
     "palpites": [
       "0829",
@@ -162,42 +197,16 @@ const palpites = {
       "0223",
       "0224"
     ],
-    "frases": []
-  },
-  "LOTECE": {
-    "palpites": [
-      "0303",
-      "0309",
-      "0302",
-      "0313",
-      "0319",
-      "0312",
-      "0323",
-      "0329",
-      "0322",
-      "0403",
-      "0409",
-      "0402",
-      "0413",
-      "0419",
-      "0412",
-      "0423",
-      "0429",
-      "0422",
-      "0003",
-      "0009",
-      "0002",
-      "0013",
-      "0019",
-      "0012",
-      "0023",
-      "0029",
-      "0022",
-      "1303",
-      "1309",
-      "1302"
-    ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Centena, Palpite 1020 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 1020 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 1620 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 1520 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Centena, Palpite 1030 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 1030 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 1630 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 1530 no 5º Prêmio!"
+    ]
   },
   "PT RIO": {
     "palpites": [
