@@ -431,6 +431,59 @@ const resultado = {
   ],
   "LOTECE": [
     {
+      "titulo": "Resultado do Jogo do Bicho A FEDERAL DO BRASIL CE - Ceará Federal",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "4978",
+          "20",
+          "Peru"
+        ],
+        [
+          "2º",
+          "1421",
+          "06",
+          "Cabra"
+        ],
+        [
+          "3º",
+          "3038",
+          "10",
+          "Coelho"
+        ],
+        [
+          "4º",
+          "0508",
+          "02",
+          "Águia"
+        ],
+        [
+          "5º",
+          "2959",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "6º [soma]",
+          "2904",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "433",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
       "titulo": "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)",
       "conteudo": [
         [
@@ -645,6 +698,130 @@ const resultado = {
     }
   ],
   "LOOK/GOIAS": [
+    {
+      "titulo": "Resultado do Jogo do Bicho FEDERAL, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "4978",
+          "20",
+          "Peru"
+        ],
+        [
+          "2º",
+          "1421",
+          "06",
+          "Cabra"
+        ],
+        [
+          "3º",
+          "3038",
+          "10",
+          "Coelho"
+        ],
+        [
+          "4º",
+          "0508",
+          "02",
+          "Águia"
+        ],
+        [
+          "5º",
+          "2959",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "6º [soma]",
+          "2904",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "433",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho FEDERAL, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "4978",
+          "20",
+          "Peru"
+        ],
+        [
+          "2º",
+          "1421",
+          "06",
+          "Cabra"
+        ],
+        [
+          "3º",
+          "3038",
+          "10",
+          "Coelho"
+        ],
+        [
+          "4º",
+          "0508",
+          "02",
+          "Águia"
+        ],
+        [
+          "5º",
+          "2959",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "6º",
+          "4130",
+          "08",
+          "Camelo"
+        ],
+        [
+          "7º",
+          "9405",
+          "02",
+          "Águia"
+        ],
+        [
+          "8º",
+          "7230",
+          "08",
+          "Camelo"
+        ],
+        [
+          "9º",
+          "8188",
+          "22",
+          "Tigre"
+        ],
+        [
+          "10º",
+          "1857",
+          "15",
+          "Jacaré"
+        ]
+      ]
+    },
     {
       "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 5º",
       "conteudo": [
@@ -1745,9 +1922,133 @@ const resultado = {
           "Porco"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho PB - FEDERAL",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "4978",
+          "20",
+          "Peru"
+        ],
+        [
+          "2º",
+          "1421",
+          "06",
+          "Cabra"
+        ],
+        [
+          "3º",
+          "3038",
+          "10",
+          "Coelho"
+        ],
+        [
+          "4º",
+          "0508",
+          "02",
+          "Águia"
+        ],
+        [
+          "5º",
+          "2959",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "6º",
+          "4130",
+          "08",
+          "Camelo"
+        ],
+        [
+          "7º",
+          "9405",
+          "02",
+          "Águia"
+        ],
+        [
+          "8º",
+          "7230",
+          "08",
+          "Camelo"
+        ],
+        [
+          "9º",
+          "8188",
+          "22",
+          "Tigre"
+        ],
+        [
+          "10º",
+          "1857",
+          "15",
+          "Jacaré"
+        ]
+      ]
     }
   ],
   "PT RIO": [
+    {
+      "titulo": "Resultado do Jogo do Bicho A FEDERAL DO BRASIL - RJ",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "4978",
+          "20",
+          "Peru"
+        ],
+        [
+          "2º",
+          "1421",
+          "06",
+          "Cabra"
+        ],
+        [
+          "3º",
+          "3038",
+          "10",
+          "Coelho"
+        ],
+        [
+          "4º",
+          "0508",
+          "02",
+          "Águia"
+        ],
+        [
+          "5º",
+          "2959",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "6º [soma]",
+          "2904",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "433",
+          "",
+          ""
+        ]
+      ]
+    },
     {
       "titulo": "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 5º",
       "conteudo": [
@@ -2916,6 +3217,130 @@ const resultado = {
           "2527",
           "07",
           "Carneiro"
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 19hs - PT FEDERAL, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "4978",
+          "20",
+          "Peru"
+        ],
+        [
+          "2º",
+          "1421",
+          "06",
+          "Cabra"
+        ],
+        [
+          "3º",
+          "3038",
+          "10",
+          "Coelho"
+        ],
+        [
+          "4º",
+          "0508",
+          "02",
+          "Águia"
+        ],
+        [
+          "5º",
+          "2959",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "6º [soma]",
+          "2904",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "433",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 19hs - PT FEDERAL, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "4978",
+          "20",
+          "Peru"
+        ],
+        [
+          "2º",
+          "1421",
+          "06",
+          "Cabra"
+        ],
+        [
+          "3º",
+          "3038",
+          "10",
+          "Coelho"
+        ],
+        [
+          "4º",
+          "0508",
+          "02",
+          "Águia"
+        ],
+        [
+          "5º",
+          "2959",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "6º",
+          "4130",
+          "08",
+          "Camelo"
+        ],
+        [
+          "7º",
+          "9405",
+          "02",
+          "Águia"
+        ],
+        [
+          "8º",
+          "7230",
+          "08",
+          "Camelo"
+        ],
+        [
+          "9º",
+          "8188",
+          "22",
+          "Tigre"
+        ],
+        [
+          "10º",
+          "1857",
+          "15",
+          "Jacaré"
         ]
       ]
     }
