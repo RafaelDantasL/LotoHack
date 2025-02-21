@@ -41,42 +41,38 @@ const palpites = {
   },
   "BAHIA": {
     "palpites": [
-      "5110",
-      "5115",
-      "5116",
-      "5140",
-      "5145",
-      "5146",
-      "5120",
-      "5125",
-      "5126",
-      "5010",
-      "5015",
-      "5016",
-      "5040",
-      "5045",
-      "5046",
-      "5020",
-      "5025",
-      "5026",
-      "5610",
-      "5615",
-      "5616",
-      "5640",
-      "5645",
-      "5646",
-      "5620",
-      "5625",
-      "5626",
-      "8110",
-      "8115",
-      "8116"
+      "0352",
+      "0357",
+      "0355",
+      "0302",
+      "0307",
+      "0305",
+      "0382",
+      "0387",
+      "0385",
+      "0852",
+      "0857",
+      "0855",
+      "0802",
+      "0807",
+      "0805",
+      "0882",
+      "0887",
+      "0885",
+      "0052",
+      "0057",
+      "0055",
+      "0002",
+      "0007",
+      "0005",
+      "0082",
+      "0087",
+      "0085",
+      "7352",
+      "7357",
+      "7355"
     ],
-    "frases": [
-      "10h - BA - Resultado do dia 21/02/2025 (Sexta-feira)\nDeu Dezena, Palpite 0480 no 4º Prêmio!",
-      "10h - BA - Resultado do dia 21/02/2025 (Sexta-feira)\nDeu Dezena, Palpite 0580 no 4º Prêmio!",
-      "10h - BA - Resultado do dia 21/02/2025 (Sexta-feira)\nDeu Dezena, Palpite 0680 no 4º Prêmio!"
-    ]
+    "frases": []
   },
   "LOTECE": {
     "palpites": [
@@ -262,6 +258,10 @@ const palpites = {
       "1200",
       "1201"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0555 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0055 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0255 no 1º Prêmio!"
+    ]
   }
 };
