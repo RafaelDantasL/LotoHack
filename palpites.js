@@ -1,50 +1,38 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "2500",
-      "2505",
-      "2508",
-      "2570",
-      "2575",
-      "2578",
-      "2590",
-      "2595",
-      "2598",
-      "2600",
-      "2605",
-      "2608",
-      "2670",
-      "2675",
-      "2678",
-      "2690",
-      "2695",
-      "2698",
-      "2000",
-      "2005",
-      "2008",
-      "2070",
-      "2075",
-      "2078",
-      "2090",
-      "2095",
-      "2098",
-      "7500",
-      "7505",
-      "7508"
+      "3502",
+      "3507",
+      "3509",
+      "3592",
+      "3597",
+      "3599",
+      "3512",
+      "3517",
+      "3519",
+      "3602",
+      "3607",
+      "3609",
+      "3692",
+      "3697",
+      "3699",
+      "3612",
+      "3617",
+      "3619",
+      "3902",
+      "3907",
+      "3909",
+      "3992",
+      "3997",
+      "3999",
+      "3912",
+      "3917",
+      "3919",
+      "4502",
+      "4507",
+      "4509"
     ],
-    "frases": [
-      "10h - MALUCA - Resultado do dia 21/02/2025 (Sexta-feira)\nDeu Dezena, Palpite 4128 no 2º Prêmio!",
-      "10h - MALUCA - Resultado do dia 21/02/2025 (Sexta-feira)\nDeu Dezena, Palpite 4528 no 2º Prêmio!",
-      "10h - MALUCA - Resultado do dia 21/02/2025 (Sexta-feira)\nDeu Dezena, Palpite 4028 no 2º Prêmio!",
-      "10h - MALUCA - Resultado do dia 21/02/2025 (Sexta-feira)\nDeu Dezena, Palpite 5128 no 2º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 21/02/2025 (Sexta-feira)\nDeu Dezena, Palpite 5108 no 2º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 21/02/2025 (Sexta-feira)\nDeu Milhar, Palpite 5508 no 2º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 21/02/2025 (Sexta-feira)\nDeu Dezena, Palpite 5608 no 2º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 21/02/2025 (Sexta-feira)\nDeu Dezena, Palpite 7108 no 2º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 21/02/2025 (Sexta-feira)\nDeu Dezena, Palpite 5110 no 7º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 21/02/2025 (Sexta-feira)\nDeu Dezena, Palpite 5510 no 7º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 21/02/2025 (Sexta-feira)\nDeu Dezena, Palpite 5610 no 7º Prêmio!"
-    ]
+    "frases": []
   },
   "BAHIA": {
     "palpites": [
@@ -79,7 +67,11 @@ const palpites = {
       "9034",
       "9030"
     ],
-    "frases": []
+    "frases": [
+      "10h - BA - Resultado do dia 21/02/2025 (Sexta-feira)\nDeu Dezena, Palpite 0480 no 4º Prêmio!",
+      "10h - BA - Resultado do dia 21/02/2025 (Sexta-feira)\nDeu Dezena, Palpite 0580 no 4º Prêmio!",
+      "10h - BA - Resultado do dia 21/02/2025 (Sexta-feira)\nDeu Dezena, Palpite 0680 no 4º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
