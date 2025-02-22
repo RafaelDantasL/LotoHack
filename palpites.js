@@ -1,48 +1,38 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "9377",
-      "9370",
-      "9371",
-      "9347",
-      "9340",
-      "9341",
-      "9307",
-      "9300",
-      "9301",
-      "9277",
-      "9270",
-      "9271",
-      "9247",
-      "9240",
-      "9241",
-      "9207",
-      "9200",
-      "9201",
-      "9577",
-      "9570",
-      "9571",
-      "9547",
-      "9540",
-      "9541",
-      "9507",
-      "9500",
-      "9501",
-      "4377",
-      "4370",
-      "4371"
+      "1704",
+      "1706",
+      "1708",
+      "1714",
+      "1716",
+      "1718",
+      "1724",
+      "1726",
+      "1728",
+      "1104",
+      "1106",
+      "1108",
+      "1114",
+      "1116",
+      "1118",
+      "1124",
+      "1126",
+      "1128",
+      "1004",
+      "1006",
+      "1008",
+      "1014",
+      "1016",
+      "1018",
+      "1024",
+      "1026",
+      "1028",
+      "2704",
+      "2706",
+      "2708"
     ],
-    "frases": [
-      "10h - MALUCA - Resultado do dia 22/02/2025 (Sábado)\nDeu Dezena, Palpite 1709 no 2º Prêmio!",
-      "10h - MALUCA - Resultado do dia 22/02/2025 (Sábado)\nDeu Dezena, Palpite 1009 no 2º Prêmio!",
-      "10h - MALUCA - Resultado do dia 22/02/2025 (Sábado)\nDeu Milhar, Palpite 1109 no 2º Prêmio!",
-      "10h - MALUCA - Resultado do dia 22/02/2025 (Sábado)\nDeu Dezena, Palpite 2709 no 2º Prêmio!",
-      "10h - MALUCA - Resultado do dia 22/02/2025 (Sábado)\nDeu Dezena, Palpite 1709 no 10º Prêmio!",
-      "10h - MALUCA - Resultado do dia 22/02/2025 (Sábado)\nDeu Centena, Palpite 1009 no 10º Prêmio!",
-      "10h - MALUCA - Resultado do dia 22/02/2025 (Sábado)\nDeu Dezena, Palpite 1009 no 10º Prêmio!",
-      "10h - MALUCA - Resultado do dia 22/02/2025 (Sábado)\nDeu Dezena, Palpite 1109 no 10º Prêmio!",
-      "10h - MALUCA - Resultado do dia 22/02/2025 (Sábado)\nDeu Dezena, Palpite 2709 no 10º Prêmio!"
-    ]
+    "frases": []
   },
   "BAHIA": {
     "palpites": [
@@ -77,7 +67,20 @@ const palpites = {
       "1211",
       "1212"
     ],
-    "frases": []
+    "frases": [
+      "10h - BA - Resultado do dia 22/02/2025 (Sábado)\nDeu Dezena, Palpite 5201 no 3º Prêmio!",
+      "10h - BA - Resultado do dia 22/02/2025 (Sábado)\nDeu Dezena, Palpite 5001 no 3º Prêmio!",
+      "10h - BA - Resultado do dia 22/02/2025 (Sábado)\nDeu Dezena, Palpite 5401 no 3º Prêmio!",
+      "10h - BA - Resultado do dia 22/02/2025 (Sábado)\nDeu Dezena, Palpite 9201 no 3º Prêmio!",
+      "10h - BA - Resultado do dia 22/02/2025 (Sábado)\nDeu Dezena, Palpite 5200 no 10º Prêmio!",
+      "10h - BA - Resultado do dia 22/02/2025 (Sábado)\nDeu Centena, Palpite 5000 no 10º Prêmio!",
+      "10h - BA - Resultado do dia 22/02/2025 (Sábado)\nDeu Dezena, Palpite 5000 no 10º Prêmio!",
+      "10h - BA - Resultado do dia 22/02/2025 (Sábado)\nDeu Dezena, Palpite 5400 no 10º Prêmio!",
+      "10h - BA - Resultado do dia 22/02/2025 (Sábado)\nDeu Dezena, Palpite 9200 no 10º Prêmio!",
+      "12h - BA - Resultado do dia 22/02/2025 (Sábado)\nDeu Dezena, Palpite 4004 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 22/02/2025 (Sábado)\nDeu Dezena, Palpite 4704 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 22/02/2025 (Sábado)\nDeu Dezena, Palpite 4804 no 4º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
