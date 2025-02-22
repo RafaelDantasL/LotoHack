@@ -427,6 +427,77 @@ const resultado = {
           "Cobra"
         ]
       ]
+    },
+    {
+      "titulo": "19h FEDERAL - BA - Resultado do dia 22/02/2025 (Sábado)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "4468",
+          "17",
+          "Macaco"
+        ],
+        [
+          "2º",
+          "9903",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "3º",
+          "3635",
+          "09",
+          "Cobra"
+        ],
+        [
+          "4º",
+          "3088",
+          "22",
+          "Tigre"
+        ],
+        [
+          "5º",
+          "2525",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "6º",
+          "8410",
+          "03",
+          "Burro"
+        ],
+        [
+          "7º",
+          "6046",
+          "12",
+          "Elefante"
+        ],
+        [
+          "8º",
+          "8420",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "9º",
+          "0504",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "10º",
+          "5946",
+          "12",
+          "Elefante"
+        ]
+      ]
     }
   ],
   "LOTECE": [
