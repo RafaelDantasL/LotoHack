@@ -1,42 +1,38 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "0135",
-      "0130",
-      "0134",
-      "0105",
-      "0100",
-      "0104",
-      "0125",
-      "0120",
-      "0124",
-      "0335",
-      "0330",
-      "0334",
-      "0305",
-      "0300",
-      "0304",
-      "0325",
-      "0320",
-      "0324",
-      "0435",
-      "0430",
-      "0434",
-      "0405",
-      "0400",
-      "0404",
-      "0425",
-      "0420",
-      "0424",
-      "2135",
-      "2130",
-      "2134"
+      "0803",
+      "0807",
+      "0808",
+      "0883",
+      "0887",
+      "0888",
+      "0833",
+      "0837",
+      "0838",
+      "0303",
+      "0307",
+      "0308",
+      "0383",
+      "0387",
+      "0388",
+      "0333",
+      "0337",
+      "0338",
+      "0403",
+      "0407",
+      "0408",
+      "0483",
+      "0487",
+      "0488",
+      "0433",
+      "0437",
+      "0438",
+      "3803",
+      "3807",
+      "3808"
     ],
-    "frases": [
-      "12h - MALUCA - BA - Resultado do dia 23/02/2025 (Domingo)\nDeu Dezena, Palpite 0328 no 9º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 23/02/2025 (Domingo)\nDeu Dezena, Palpite 0628 no 9º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 23/02/2025 (Domingo)\nDeu Dezena, Palpite 0028 no 9º Prêmio!"
-    ]
+    "frases": []
   },
   "BAHIA": {
     "palpites": [
@@ -71,7 +67,23 @@ const palpites = {
       "4088",
       "4082"
     ],
-    "frases": []
+    "frases": [
+      "10h - BA - Resultado do dia 23/02/2025 (Domingo)\nDeu Dezena, Palpite 2034 no 5º Prêmio!",
+      "10h - BA - Resultado do dia 23/02/2025 (Domingo)\nDeu Dezena, Palpite 2334 no 5º Prêmio!",
+      "10h - BA - Resultado do dia 23/02/2025 (Domingo)\nDeu Dezena, Palpite 2434 no 5º Prêmio!",
+      "12h - BA - Resultado do dia 23/02/2025 (Domingo)\nDeu Dezena, Palpite 2405 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 23/02/2025 (Domingo)\nDeu Dezena, Palpite 2705 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 23/02/2025 (Domingo)\nDeu Centena, Palpite 2905 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 23/02/2025 (Domingo)\nDeu Dezena, Palpite 2905 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 23/02/2025 (Domingo)\nDeu Dezena, Palpite 3405 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 23/02/2025 (Domingo)\nDeu Dezena, Palpite 2405 no 6º Prêmio!",
+      "12h - BA - Resultado do dia 23/02/2025 (Domingo)\nDeu Dezena, Palpite 2705 no 6º Prêmio!",
+      "12h - BA - Resultado do dia 23/02/2025 (Domingo)\nDeu Dezena, Palpite 2905 no 6º Prêmio!",
+      "12h - BA - Resultado do dia 23/02/2025 (Domingo)\nDeu Dezena, Palpite 3405 no 6º Prêmio!",
+      "12h - BA - Resultado do dia 23/02/2025 (Domingo)\nDeu Dezena, Palpite 2445 no 9º Prêmio!",
+      "12h - BA - Resultado do dia 23/02/2025 (Domingo)\nDeu Dezena, Palpite 2745 no 9º Prêmio!",
+      "12h - BA - Resultado do dia 23/02/2025 (Domingo)\nDeu Dezena, Palpite 2945 no 9º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
