@@ -239,9 +239,50 @@ const palpites = {
       "5301"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 1000 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 1700 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 1900 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 1005 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 1705 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 1905 no 8º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 14:20, PT, 1º ao 10º\nDeu Dezena, Palpite 6220 no 5º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 14:20, PT, 1º ao 10º\nDeu Dezena, Palpite 6820 no 5º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 14:20, PT, 1º ao 10º\nDeu Dezena, Palpite 6020 no 5º Prêmio!"
     ]
+  },
+  "PT SP": {
+    "palpites": [
+      "3373",
+      "3375",
+      "3377",
+      "3333",
+      "3335",
+      "3337",
+      "3363",
+      "3365",
+      "3367",
+      "3873",
+      "3875",
+      "3877",
+      "3833",
+      "3835",
+      "3837",
+      "3863",
+      "3865",
+      "3867",
+      "3473",
+      "3475",
+      "3477",
+      "3433",
+      "3435",
+      "3437",
+      "3463",
+      "3465",
+      "3467",
+      "4373",
+      "4375",
+      "4377"
+    ],
+    "frases": []
   }
 };
