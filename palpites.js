@@ -69,6 +69,45 @@ const palpites = {
     ],
     "frases": []
   },
+  "LOTECE": {
+    "palpites": [
+      "1143",
+      "1145",
+      "1147",
+      "1153",
+      "1155",
+      "1157",
+      "1103",
+      "1105",
+      "1107",
+      "1543",
+      "1545",
+      "1547",
+      "1553",
+      "1555",
+      "1557",
+      "1503",
+      "1505",
+      "1507",
+      "1843",
+      "1845",
+      "1847",
+      "1853",
+      "1855",
+      "1857",
+      "1803",
+      "1805",
+      "1807",
+      "4143",
+      "4145",
+      "4147"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 0401 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 0501 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 0001 no 1º Prêmio!"
+    ]
+  },
   "LOOK/GOIAS": {
     "palpites": [
       "0404",
@@ -152,41 +191,6 @@ const palpites = {
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Centena, Palpite 2134 no 8º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 2134 no 8º Prêmio!"
     ]
-  },
-  "LOTECE": {
-    "palpites": [
-      "0431",
-      "0432",
-      "0434",
-      "0471",
-      "0472",
-      "0474",
-      "0401",
-      "0402",
-      "0404",
-      "0531",
-      "0532",
-      "0534",
-      "0571",
-      "0572",
-      "0574",
-      "0501",
-      "0502",
-      "0504",
-      "0031",
-      "0032",
-      "0034",
-      "0071",
-      "0072",
-      "0074",
-      "0001",
-      "0002",
-      "0004",
-      "6431",
-      "6432",
-      "6434"
-    ],
-    "frases": []
   },
   "PT RIO": {
     "palpites": [
