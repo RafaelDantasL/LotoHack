@@ -1,46 +1,38 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "4081",
-      "4082",
-      "4088",
-      "4001",
-      "4002",
-      "4008",
-      "4011",
-      "4012",
-      "4018",
-      "4781",
-      "4782",
-      "4788",
-      "4701",
-      "4702",
-      "4708",
-      "4711",
-      "4712",
-      "4718",
-      "4881",
-      "4882",
-      "4888",
-      "4801",
-      "4802",
-      "4808",
-      "4811",
-      "4812",
-      "4818",
-      "3081",
-      "3082",
-      "3088"
+      "1954",
+      "1958",
+      "1950",
+      "1904",
+      "1908",
+      "1900",
+      "1924",
+      "1928",
+      "1920",
+      "1654",
+      "1658",
+      "1650",
+      "1604",
+      "1608",
+      "1600",
+      "1624",
+      "1628",
+      "1620",
+      "1854",
+      "1858",
+      "1850",
+      "1804",
+      "1808",
+      "1800",
+      "1824",
+      "1828",
+      "1820",
+      "3954",
+      "3958",
+      "3950"
     ],
-    "frases": [
-      "10h - MALUCA - Resultado do dia 25/02/2025 (Terça-feira)\nDeu Dezena, Palpite 8046 no 3º Prêmio!",
-      "10h - MALUCA - Resultado do dia 25/02/2025 (Terça-feira)\nDeu Dezena, Palpite 8146 no 3º Prêmio!",
-      "10h - MALUCA - Resultado do dia 25/02/2025 (Terça-feira)\nDeu Dezena, Palpite 8246 no 3º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 25/02/2025 (Terça-feira)\nDeu Dezena, Palpite 2114 no 4º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 25/02/2025 (Terça-feira)\nDeu Dezena, Palpite 2714 no 4º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 25/02/2025 (Terça-feira)\nDeu Dezena, Palpite 2214 no 4º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 25/02/2025 (Terça-feira)\nDeu Dezena, Palpite 3114 no 4º Prêmio!"
-    ]
+    "frases": []
   },
   "BAHIA": {
     "palpites": [
@@ -75,7 +67,11 @@ const palpites = {
       "0451",
       "0456"
     ],
-    "frases": []
+    "frases": [
+      "10h - BA - Resultado do dia 25/02/2025 (Terça-feira)\nDeu Dezena, Palpite 0481 no 7º Prêmio!",
+      "10h - BA - Resultado do dia 25/02/2025 (Terça-feira)\nDeu Dezena, Palpite 0681 no 7º Prêmio!",
+      "10h - BA - Resultado do dia 25/02/2025 (Terça-feira)\nDeu Dezena, Palpite 0881 no 7º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
