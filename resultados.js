@@ -212,6 +212,77 @@ const resultado = {
           "Tigre"
         ]
       ]
+    },
+    {
+      "titulo": "19h FEDERAL - MALUCA - BA - Resultado do dia 26/02/2025 (Quarta-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "6815",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "2º",
+          "4225",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "3º",
+          "9418",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "4º",
+          "0527",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "5º",
+          "6101",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "6º",
+          "7084",
+          "21",
+          "Touro"
+        ],
+        [
+          "7º",
+          "8950",
+          "13",
+          "Galo"
+        ],
+        [
+          "8º",
+          "3987",
+          "22",
+          "Tigre"
+        ],
+        [
+          "9º",
+          "2749",
+          "13",
+          "Galo"
+        ],
+        [
+          "10º",
+          "9428",
+          "07",
+          "Carneiro"
+        ]
+      ]
     }
   ],
   "BAHIA": [
@@ -425,6 +496,77 @@ const resultado = {
           "7826",
           "07",
           "Carneiro"
+        ]
+      ]
+    },
+    {
+      "titulo": "19h FEDERAL - BA - Resultado do dia 26/02/2025 (Quarta-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "0946",
+          "12",
+          "Elefante"
+        ],
+        [
+          "2º",
+          "5428",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "3º",
+          "2121",
+          "06",
+          "Cabra"
+        ],
+        [
+          "4º",
+          "7855",
+          "14",
+          "Gato"
+        ],
+        [
+          "5º",
+          "1016",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "6º",
+          "2387",
+          "22",
+          "Tigre"
+        ],
+        [
+          "7º",
+          "7990",
+          "23",
+          "Urso"
+        ],
+        [
+          "8º",
+          "4858",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "9º",
+          "9704",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "10º",
+          "8249",
+          "13",
+          "Galo"
         ]
       ]
     }
