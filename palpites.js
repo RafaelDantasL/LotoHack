@@ -244,6 +244,52 @@ const palpites = {
       "3232",
       "3233"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Centena, Palpite 8441 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 8441 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 8541 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 8041 no 5º Prêmio!"
+    ]
+  },
+  "PT SP": {
+    "palpites": [
+      "9001",
+      "9000",
+      "9002",
+      "9091",
+      "9090",
+      "9092",
+      "9021",
+      "9020",
+      "9022",
+      "9301",
+      "9300",
+      "9302",
+      "9391",
+      "9390",
+      "9392",
+      "9321",
+      "9320",
+      "9322",
+      "9401",
+      "9400",
+      "9402",
+      "9491",
+      "9490",
+      "9492",
+      "9421",
+      "9420",
+      "9422",
+      "0001",
+      "0000",
+      "0002"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 6406 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 6106 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Centena, Palpite 6306 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 6306 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 7406 no 2º Prêmio!"
+    ]
   }
 };
