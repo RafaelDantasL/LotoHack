@@ -1,47 +1,41 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "7787",
-      "7784",
-      "7789",
-      "7727",
-      "7724",
-      "7729",
-      "7707",
-      "7704",
-      "7709",
-      "7587",
-      "7584",
-      "7589",
-      "7527",
-      "7524",
-      "7529",
-      "7507",
-      "7504",
-      "7509",
-      "7087",
-      "7084",
-      "7089",
-      "7027",
-      "7024",
-      "7029",
-      "7007",
-      "7004",
-      "7009",
-      "9787",
-      "9784",
-      "9789"
+      "4431",
+      "4434",
+      "4430",
+      "4461",
+      "4464",
+      "4460",
+      "4411",
+      "4414",
+      "4410",
+      "4131",
+      "4134",
+      "4130",
+      "4161",
+      "4164",
+      "4160",
+      "4111",
+      "4114",
+      "4110",
+      "4231",
+      "4234",
+      "4230",
+      "4261",
+      "4264",
+      "4260",
+      "4211",
+      "4214",
+      "4210",
+      "9431",
+      "9434",
+      "9430"
     ],
     "frases": [
-      "10h - MALUCA - Resultado do dia 02/03/2025 (Domingo)\nDeu Dezena, Palpite 3145 no 7º Prêmio!",
-      "10h - MALUCA - Resultado do dia 02/03/2025 (Domingo)\nDeu Dezena, Palpite 3445 no 7º Prêmio!",
-      "10h - MALUCA - Resultado do dia 02/03/2025 (Domingo)\nDeu Dezena, Palpite 3945 no 7º Prêmio!",
-      "10h - MALUCA - Resultado do dia 02/03/2025 (Domingo)\nDeu Dezena, Palpite 7145 no 7º Prêmio!",
-      "10h - MALUCA - Resultado do dia 02/03/2025 (Domingo)\nDeu Dezena, Palpite 3145 no 9º Prêmio!",
-      "10h - MALUCA - Resultado do dia 02/03/2025 (Domingo)\nDeu Centena, Palpite 3445 no 9º Prêmio!",
-      "10h - MALUCA - Resultado do dia 02/03/2025 (Domingo)\nDeu Dezena, Palpite 3445 no 9º Prêmio!",
-      "10h - MALUCA - Resultado do dia 02/03/2025 (Domingo)\nDeu Dezena, Palpite 3945 no 9º Prêmio!",
-      "10h - MALUCA - Resultado do dia 02/03/2025 (Domingo)\nDeu Dezena, Palpite 7145 no 9º Prêmio!"
+      "15h - MALUCA - BA - Resultado do dia 02/03/2025 (Domingo)\nDeu Dezena, Palpite 7724 no 1º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 02/03/2025 (Domingo)\nDeu Dezena, Palpite 7524 no 1º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 02/03/2025 (Domingo)\nDeu Dezena, Palpite 7024 no 1º Prêmio!"
     ]
   },
   "BAHIA": {
@@ -77,7 +71,11 @@ const palpites = {
       "8712",
       "8719"
     ],
-    "frases": []
+    "frases": [
+      "10h - BA - Resultado do dia 02/03/2025 (Domingo)\nDeu Dezena, Palpite 4973 no 4º Prêmio!",
+      "10h - BA - Resultado do dia 02/03/2025 (Domingo)\nDeu Dezena, Palpite 4173 no 4º Prêmio!",
+      "10h - BA - Resultado do dia 02/03/2025 (Domingo)\nDeu Dezena, Palpite 4473 no 4º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
