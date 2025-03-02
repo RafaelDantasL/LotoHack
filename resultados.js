@@ -3148,6 +3148,130 @@ const resultado = {
           "Cachorro"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "9144",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "2º",
+          "8410",
+          "03",
+          "Burro"
+        ],
+        [
+          "3º",
+          "1820",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "4º",
+          "8914",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "5º",
+          "6848",
+          "12",
+          "Elefante"
+        ],
+        [
+          "6º [soma]",
+          "5136",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "901",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "9144",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "2º",
+          "8410",
+          "03",
+          "Burro"
+        ],
+        [
+          "3º",
+          "1820",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "4º",
+          "8914",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "5º",
+          "6848",
+          "12",
+          "Elefante"
+        ],
+        [
+          "6º",
+          "9818",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "7º",
+          "1489",
+          "23",
+          "Urso"
+        ],
+        [
+          "8º",
+          "4121",
+          "06",
+          "Cabra"
+        ],
+        [
+          "9º",
+          "4004",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "10º",
+          "4568",
+          "17",
+          "Macaco"
+        ]
+      ]
     }
   ]
 };
