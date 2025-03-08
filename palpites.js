@@ -1,47 +1,38 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "0213",
-      "0210",
-      "0218",
-      "0243",
-      "0240",
-      "0248",
-      "0203",
-      "0200",
-      "0208",
-      "0013",
-      "0010",
-      "0018",
-      "0043",
-      "0040",
-      "0048",
-      "0003",
-      "0000",
-      "0008",
-      "0313",
-      "0310",
-      "0318",
-      "0343",
-      "0340",
-      "0348",
-      "0303",
-      "0300",
-      "0308",
-      "1213",
-      "1210",
-      "1218"
+      "6949",
+      "6944",
+      "6940",
+      "6969",
+      "6964",
+      "6960",
+      "6999",
+      "6994",
+      "6990",
+      "6549",
+      "6544",
+      "6540",
+      "6569",
+      "6564",
+      "6560",
+      "6599",
+      "6594",
+      "6590",
+      "6049",
+      "6044",
+      "6040",
+      "6069",
+      "6064",
+      "6060",
+      "6099",
+      "6094",
+      "6090",
+      "2949",
+      "2944",
+      "2940"
     ],
-    "frases": [
-      "10h - MALUCA - Resultado do dia 07/03/2025 (Sexta-feira)\nDeu Dezena, Palpite 6200 no 3º Prêmio!",
-      "10h - MALUCA - Resultado do dia 07/03/2025 (Sexta-feira)\nDeu Dezena, Palpite 6400 no 3º Prêmio!",
-      "10h - MALUCA - Resultado do dia 07/03/2025 (Sexta-feira)\nDeu Dezena, Palpite 6900 no 3º Prêmio!",
-      "10h - MALUCA - Resultado do dia 07/03/2025 (Sexta-feira)\nDeu Dezena, Palpite 1200 no 3º Prêmio!",
-      "10h - MALUCA - Resultado do dia 07/03/2025 (Sexta-feira)\nDeu Dezena, Palpite 6209 no 9º Prêmio!",
-      "10h - MALUCA - Resultado do dia 07/03/2025 (Sexta-feira)\nDeu Dezena, Palpite 6409 no 9º Prêmio!",
-      "10h - MALUCA - Resultado do dia 07/03/2025 (Sexta-feira)\nDeu Dezena, Palpite 6909 no 9º Prêmio!",
-      "10h - MALUCA - Resultado do dia 07/03/2025 (Sexta-feira)\nDeu Dezena, Palpite 1209 no 9º Prêmio!"
-    ]
+    "frases": []
   },
   "BAHIA": {
     "palpites": [
@@ -76,7 +67,20 @@ const palpites = {
       "2097",
       "2096"
     ],
-    "frases": []
+    "frases": [
+      "10h - BA - Resultado do dia 07/03/2025 (Sexta-feira)\nDeu Dezena, Palpite 6800 no 9º Prêmio!",
+      "10h - BA - Resultado do dia 07/03/2025 (Sexta-feira)\nDeu Dezena, Palpite 6100 no 9º Prêmio!",
+      "10h - BA - Resultado do dia 07/03/2025 (Sexta-feira)\nDeu Dezena, Palpite 6200 no 9º Prêmio!",
+      "12h - BA - Resultado do dia 07/03/2025 (Sexta-feira)\nDeu Dezena, Palpite 2001 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 07/03/2025 (Sexta-feira)\nDeu Dezena, Palpite 2101 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 07/03/2025 (Sexta-feira)\nDeu Dezena, Palpite 2901 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 07/03/2025 (Sexta-feira)\nDeu Centena, Palpite 2058 no 5º Prêmio!",
+      "12h - BA - Resultado do dia 07/03/2025 (Sexta-feira)\nDeu Dezena, Palpite 2058 no 5º Prêmio!",
+      "12h - BA - Resultado do dia 07/03/2025 (Sexta-feira)\nDeu Dezena, Palpite 2158 no 5º Prêmio!",
+      "12h - BA - Resultado do dia 07/03/2025 (Sexta-feira)\nDeu Dezena, Palpite 2958 no 5º Prêmio!",
+      "12h - BA - Resultado do dia 07/03/2025 (Sexta-feira)\nDeu Centena, Palpite 7058 no 5º Prêmio!",
+      "12h - BA - Resultado do dia 07/03/2025 (Sexta-feira)\nDeu Dezena, Palpite 7058 no 5º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
