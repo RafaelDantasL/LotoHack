@@ -1550,6 +1550,77 @@ const resultado = {
           "Carneiro"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho LOTEP - PB, 18h",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "5558",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "2º",
+          "7124",
+          "06",
+          "Cabra"
+        ],
+        [
+          "3º",
+          "4513",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "4º",
+          "2144",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "5º",
+          "3514",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "6º",
+          "5742",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "7º",
+          "5151",
+          "13",
+          "Galo"
+        ],
+        [
+          "8º",
+          "5214",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "9º",
+          "8434",
+          "09",
+          "Cobra"
+        ],
+        [
+          "10º",
+          "7394",
+          "24",
+          "Veado"
+        ]
+      ]
     }
   ],
   "PT RIO": [
