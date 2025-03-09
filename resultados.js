@@ -3148,6 +3148,130 @@ const resultado = {
           "Cavalo"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "2804",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "2º",
+          "4256",
+          "14",
+          "Gato"
+        ],
+        [
+          "3º",
+          "1102",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "4º",
+          "5215",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "5º",
+          "4670",
+          "18",
+          "Porco"
+        ],
+        [
+          "6º [soma]",
+          "8047",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "933",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "2804",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "2º",
+          "4256",
+          "14",
+          "Gato"
+        ],
+        [
+          "3º",
+          "1102",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "4º",
+          "5215",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "5º",
+          "4670",
+          "18",
+          "Porco"
+        ],
+        [
+          "6º",
+          "2415",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "7º",
+          "8212",
+          "03",
+          "Burro"
+        ],
+        [
+          "8º",
+          "0501",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "9º",
+          "4625",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "10º",
+          "3800",
+          "25",
+          "Vaca"
+        ]
+      ]
     }
   ]
 };
