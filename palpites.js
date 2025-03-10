@@ -1,44 +1,38 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "6833",
-      "6830",
-      "6832",
-      "6803",
-      "6800",
-      "6802",
-      "6813",
-      "6810",
-      "6812",
-      "6133",
-      "6130",
-      "6132",
-      "6103",
-      "6100",
-      "6102",
-      "6113",
-      "6110",
-      "6112",
-      "6233",
-      "6230",
-      "6232",
-      "6203",
-      "6200",
-      "6202",
-      "6213",
-      "6210",
-      "6212",
-      "8833",
-      "8830",
-      "8832"
+      "5063",
+      "5065",
+      "5067",
+      "5033",
+      "5035",
+      "5037",
+      "5023",
+      "5025",
+      "5027",
+      "5763",
+      "5765",
+      "5767",
+      "5733",
+      "5735",
+      "5737",
+      "5723",
+      "5725",
+      "5727",
+      "5263",
+      "5265",
+      "5267",
+      "5233",
+      "5235",
+      "5237",
+      "5223",
+      "5225",
+      "5227",
+      "9063",
+      "9065",
+      "9067"
     ],
-    "frases": [
-      "15h - MALUCA - BA - Resultado do dia 10/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 0150 no 7º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 10/03/2025 (Segunda-feira)\nDeu Centena, Palpite 0550 no 7º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 10/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 0550 no 7º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 10/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 0250 no 7º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 10/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 3150 no 7º Prêmio!"
-    ]
+    "frases": []
   },
   "BAHIA": {
     "palpites": [
@@ -73,7 +67,15 @@ const palpites = {
       "5303",
       "5305"
     ],
-    "frases": []
+    "frases": [
+      "15h - BA - Resultado do dia 10/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 0551 no 7º Prêmio!",
+      "15h - BA - Resultado do dia 10/03/2025 (Segunda-feira)\nDeu Centena, Palpite 0151 no 7º Prêmio!",
+      "15h - BA - Resultado do dia 10/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 0151 no 7º Prêmio!",
+      "15h - BA - Resultado do dia 10/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 0351 no 7º Prêmio!",
+      "15h - BA - Resultado do dia 10/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 0551 no 8º Prêmio!",
+      "15h - BA - Resultado do dia 10/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 0151 no 8º Prêmio!",
+      "15h - BA - Resultado do dia 10/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 0351 no 8º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
