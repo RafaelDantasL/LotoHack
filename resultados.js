@@ -571,6 +571,77 @@ const resultado = {
           "Borboleta"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "8046",
+          "12",
+          "Elefante"
+        ],
+        [
+          "2º",
+          "3845",
+          "12",
+          "Elefante"
+        ],
+        [
+          "3º",
+          "6100",
+          "25",
+          "Vaca"
+        ],
+        [
+          "4º",
+          "2761",
+          "16",
+          "Leão"
+        ],
+        [
+          "5º",
+          "5888",
+          "22",
+          "Tigre"
+        ],
+        [
+          "6º",
+          "1421",
+          "06",
+          "Cabra"
+        ],
+        [
+          "7º",
+          "8612",
+          "03",
+          "Burro"
+        ],
+        [
+          "8º",
+          "8514",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "9º",
+          "9889",
+          "23",
+          "Urso"
+        ],
+        [
+          "10º",
+          "6357",
+          "15",
+          "Jacaré"
+        ]
+      ]
     }
   ],
   "LOOK/GOIAS": [
@@ -1282,6 +1353,77 @@ const resultado = {
           "1094",
           "24",
           "Veado"
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho LOTEP - PB, 15:45h",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "9215",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "2º",
+          "9142",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "3º",
+          "5902",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "4º",
+          "1026",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "5º",
+          "2647",
+          "12",
+          "Elefante"
+        ],
+        [
+          "6º",
+          "9951",
+          "13",
+          "Galo"
+        ],
+        [
+          "7º",
+          "2190",
+          "23",
+          "Urso"
+        ],
+        [
+          "8º",
+          "1402",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "9º",
+          "5226",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "10º",
+          "6701",
+          "01",
+          "Avestruz"
         ]
       ]
     }
