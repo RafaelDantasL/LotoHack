@@ -32,11 +32,7 @@ const palpites = {
       "7212",
       "7213"
     ],
-    "frases": [
-      "10h - MALUCA - Resultado do dia 11/03/2025 (Terça-feira)\nDeu Dezena, Palpite 1905 no 6º Prêmio!",
-      "10h - MALUCA - Resultado do dia 11/03/2025 (Terça-feira)\nDeu Dezena, Palpite 1005 no 6º Prêmio!",
-      "10h - MALUCA - Resultado do dia 11/03/2025 (Terça-feira)\nDeu Dezena, Palpite 1105 no 6º Prêmio!"
-    ]
+    "frases": []
   },
   "BAHIA": {
     "palpites": [
@@ -72,6 +68,23 @@ const palpites = {
       "6125"
     ],
     "frases": [
+      "12h - BA - Resultado do dia 11/03/2025 (Terça-feira)\nDeu Centena, Palpite 0419 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 11/03/2025 (Terça-feira)\nDeu Dezena, Palpite 0419 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 11/03/2025 (Terça-feira)\nDeu Dezena, Palpite 0619 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 11/03/2025 (Terça-feira)\nDeu Dezena, Palpite 0819 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 11/03/2025 (Terça-feira)\nDeu Centena, Palpite 1419 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 11/03/2025 (Terça-feira)\nDeu Dezena, Palpite 1419 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 11/03/2025 (Terça-feira)\nDeu Dezena, Palpite 0418 no 6º Prêmio!",
+      "12h - BA - Resultado do dia 11/03/2025 (Terça-feira)\nDeu Dezena, Palpite 0618 no 6º Prêmio!",
+      "12h - BA - Resultado do dia 11/03/2025 (Terça-feira)\nDeu Dezena, Palpite 0818 no 6º Prêmio!",
+      "12h - BA - Resultado do dia 11/03/2025 (Terça-feira)\nDeu Dezena, Palpite 1418 no 6º Prêmio!",
+      "12h - BA - Resultado do dia 11/03/2025 (Terça-feira)\nDeu Dezena, Palpite 0400 no 9º Prêmio!",
+      "12h - BA - Resultado do dia 11/03/2025 (Terça-feira)\nDeu Dezena, Palpite 0600 no 9º Prêmio!",
+      "12h - BA - Resultado do dia 11/03/2025 (Terça-feira)\nDeu Dezena, Palpite 0800 no 9º Prêmio!",
+      "12h - BA - Resultado do dia 11/03/2025 (Terça-feira)\nDeu Dezena, Palpite 0498 no 10º Prêmio!",
+      "12h - BA - Resultado do dia 11/03/2025 (Terça-feira)\nDeu Centena, Palpite 0698 no 10º Prêmio!",
+      "12h - BA - Resultado do dia 11/03/2025 (Terça-feira)\nDeu Dezena, Palpite 0698 no 10º Prêmio!",
+      "12h - BA - Resultado do dia 11/03/2025 (Terça-feira)\nDeu Dezena, Palpite 0898 no 10º Prêmio!",
       "15h - BA - Resultado do dia 11/03/2025 (Terça-feira)\nDeu Dezena, Palpite 2123 no 7º Prêmio!",
       "15h - BA - Resultado do dia 11/03/2025 (Terça-feira)\nDeu Centena, Palpite 2223 no 7º Prêmio!",
       "15h - BA - Resultado do dia 11/03/2025 (Terça-feira)\nDeu Dezena, Palpite 2223 no 7º Prêmio!",
