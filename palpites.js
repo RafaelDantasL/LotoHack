@@ -78,6 +78,41 @@ const palpites = {
       "10h - BA - Resultado do dia 12/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 2008 no 8º Prêmio!"
     ]
   },
+  "LOTECE": {
+    "palpites": [
+      "3495",
+      "3490",
+      "3491",
+      "3415",
+      "3410",
+      "3411",
+      "3425",
+      "3420",
+      "3421",
+      "3695",
+      "3690",
+      "3691",
+      "3615",
+      "3610",
+      "3611",
+      "3625",
+      "3620",
+      "3621",
+      "3895",
+      "3890",
+      "3891",
+      "3815",
+      "3810",
+      "3811",
+      "3825",
+      "3820",
+      "3821",
+      "4495",
+      "4490",
+      "4491"
+    ],
+    "frases": []
+  },
   "LOOK/GOIAS": {
     "palpites": [
       "1983",
@@ -153,45 +188,17 @@ const palpites = {
       "4751"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 2622 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 2022 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 2722 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 2759 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 2159 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 2459 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 4759 no 9º Prêmio!",
       "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 2929 no 5º Prêmio!",
       "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 2129 no 5º Prêmio!",
       "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 2029 no 5º Prêmio!"
     ]
-  },
-  "LOTECE": {
-    "palpites": [
-      "0111",
-      "0118",
-      "0119",
-      "0121",
-      "0128",
-      "0129",
-      "0151",
-      "0158",
-      "0159",
-      "0311",
-      "0318",
-      "0319",
-      "0321",
-      "0328",
-      "0329",
-      "0351",
-      "0358",
-      "0359",
-      "0011",
-      "0018",
-      "0019",
-      "0021",
-      "0028",
-      "0029",
-      "0051",
-      "0058",
-      "0059",
-      "1111",
-      "1118",
-      "1119"
-    ],
-    "frases": []
   },
   "PT RIO": {
     "palpites": [
