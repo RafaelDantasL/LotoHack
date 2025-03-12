@@ -1392,6 +1392,130 @@ const resultado = {
           "Cachorro"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 14:20, PT, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "3748",
+          "12",
+          "Elefante"
+        ],
+        [
+          "2º",
+          "1145",
+          "12",
+          "Elefante"
+        ],
+        [
+          "3º",
+          "8709",
+          "03",
+          "Burro"
+        ],
+        [
+          "4º",
+          "0816",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "5º",
+          "6315",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "6º [soma]",
+          "0733",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "291",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 14:20, PT, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "3748",
+          "12",
+          "Elefante"
+        ],
+        [
+          "2º",
+          "1145",
+          "12",
+          "Elefante"
+        ],
+        [
+          "3º",
+          "8709",
+          "03",
+          "Burro"
+        ],
+        [
+          "4º",
+          "0816",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "5º",
+          "6315",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "6º",
+          "3180",
+          "20",
+          "Peru"
+        ],
+        [
+          "7º",
+          "7178",
+          "20",
+          "Peru"
+        ],
+        [
+          "8º",
+          "4401",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "9º",
+          "8596",
+          "24",
+          "Veado"
+        ],
+        [
+          "10º",
+          "4088",
+          "22",
+          "Tigre"
+        ]
+      ]
     }
   ],
   "PT SP": [
