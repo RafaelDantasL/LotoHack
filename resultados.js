@@ -3556,6 +3556,130 @@ const resultado = {
           "Macaco"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "2904",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "2º",
+          "0439",
+          "10",
+          "Coelho"
+        ],
+        [
+          "3º",
+          "8351",
+          "13",
+          "Galo"
+        ],
+        [
+          "4º",
+          "9713",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "5º",
+          "9728",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "6º [soma]",
+          "1135",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "274",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "2904",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "2º",
+          "0439",
+          "10",
+          "Coelho"
+        ],
+        [
+          "3º",
+          "8351",
+          "13",
+          "Galo"
+        ],
+        [
+          "4º",
+          "9713",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "5º",
+          "9728",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "6º",
+          "2089",
+          "23",
+          "Urso"
+        ],
+        [
+          "7º",
+          "9437",
+          "10",
+          "Coelho"
+        ],
+        [
+          "8º",
+          "0351",
+          "13",
+          "Galo"
+        ],
+        [
+          "9º",
+          "4913",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "10º",
+          "7925",
+          "07",
+          "Carneiro"
+        ]
+      ]
     }
   ]
 };
