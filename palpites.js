@@ -32,7 +32,12 @@ const palpites = {
       "4472",
       "4479"
     ],
-    "frases": []
+    "frases": [
+      "10h - MALUCA - Resultado do dia 13/03/2025 (Quinta-feira)\nDeu Dezena, Palpite 1761 no 4º Prêmio!",
+      "10h - MALUCA - Resultado do dia 13/03/2025 (Quinta-feira)\nDeu Centena, Palpite 1061 no 4º Prêmio!",
+      "10h - MALUCA - Resultado do dia 13/03/2025 (Quinta-feira)\nDeu Dezena, Palpite 1061 no 4º Prêmio!",
+      "10h - MALUCA - Resultado do dia 13/03/2025 (Quinta-feira)\nDeu Dezena, Palpite 1161 no 4º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -159,38 +164,42 @@ const palpites = {
   },
   "LOTEP": {
     "palpites": [
-      "2922",
-      "2928",
-      "2926",
-      "2902",
-      "2908",
-      "2906",
-      "2952",
-      "2958",
-      "2956",
-      "2222",
-      "2228",
-      "2226",
-      "2202",
-      "2208",
-      "2206",
-      "2252",
-      "2258",
-      "2256",
-      "2322",
-      "2328",
-      "2326",
-      "2302",
-      "2308",
-      "2306",
-      "2352",
-      "2358",
-      "2356",
-      "7922",
-      "7928",
-      "7926"
+      "9992",
+      "9990",
+      "9993",
+      "9902",
+      "9900",
+      "9903",
+      "9972",
+      "9970",
+      "9973",
+      "9092",
+      "9090",
+      "9093",
+      "9002",
+      "9000",
+      "9003",
+      "9072",
+      "9070",
+      "9073",
+      "9492",
+      "9490",
+      "9493",
+      "9402",
+      "9400",
+      "9403",
+      "9472",
+      "9470",
+      "9473",
+      "2992",
+      "2990",
+      "2993"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 2906 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 2206 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 2306 no 5º Prêmio!"
+    ]
   },
   "PT RIO": {
     "palpites": [
