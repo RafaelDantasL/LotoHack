@@ -1,42 +1,38 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "9307",
-      "9309",
-      "9300",
-      "9317",
-      "9319",
-      "9310",
-      "9327",
-      "9329",
-      "9320",
-      "9807",
-      "9809",
-      "9800",
-      "9817",
-      "9819",
-      "9810",
-      "9827",
-      "9829",
-      "9820",
-      "9007",
-      "9009",
-      "9000",
-      "9017",
-      "9019",
-      "9010",
-      "9027",
-      "9029",
-      "9020",
-      "0307",
-      "0309",
-      "0300"
+      "1734",
+      "1730",
+      "1731",
+      "1764",
+      "1760",
+      "1761",
+      "1774",
+      "1770",
+      "1771",
+      "1034",
+      "1030",
+      "1031",
+      "1064",
+      "1060",
+      "1061",
+      "1074",
+      "1070",
+      "1071",
+      "1134",
+      "1130",
+      "1131",
+      "1164",
+      "1160",
+      "1161",
+      "1174",
+      "1170",
+      "1171",
+      "9734",
+      "9730",
+      "9731"
     ],
-    "frases": [
-      "10h - MALUCA - Resultado do dia 12/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 1000 no 7º Prêmio!",
-      "10h - MALUCA - Resultado do dia 12/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 1700 no 7º Prêmio!",
-      "10h - MALUCA - Resultado do dia 12/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 1800 no 7º Prêmio!"
-    ]
+    "frases": []
   },
   "BAHIA": {
     "palpites": [
@@ -71,7 +67,26 @@ const palpites = {
       "6447",
       "6448"
     ],
-    "frases": []
+    "frases": [
+      "10h - BA - Resultado do dia 12/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 1008 no 8º Prêmio!",
+      "10h - BA - Resultado do dia 12/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 1408 no 8º Prêmio!",
+      "10h - BA - Resultado do dia 12/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 1708 no 8º Prêmio!",
+      "10h - BA - Resultado do dia 12/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 2008 no 8º Prêmio!",
+      "12h - BA - Resultado do dia 12/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 0333 no 1º Prêmio!",
+      "12h - BA - Resultado do dia 12/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 0033 no 1º Prêmio!",
+      "12h - BA - Resultado do dia 12/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 0933 no 1º Prêmio!",
+      "12h - BA - Resultado do dia 12/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 3333 no 1º Prêmio!",
+      "15h - BA - Resultado do dia 12/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 0843 no 10º Prêmio!",
+      "15h - BA - Resultado do dia 12/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 0243 no 10º Prêmio!",
+      "15h - BA - Resultado do dia 12/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 0643 no 10º Prêmio!",
+      "15h - BA - Resultado do dia 12/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 1843 no 10º Prêmio!",
+      "19h FEDERAL - BA - Resultado do dia 12/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 1140 no 3º Prêmio!",
+      "19h FEDERAL - BA - Resultado do dia 12/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 1040 no 3º Prêmio!",
+      "19h FEDERAL - BA - Resultado do dia 12/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 1240 no 3º Prêmio!",
+      "19h FEDERAL - BA - Resultado do dia 12/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 1144 no 6º Prêmio!",
+      "19h FEDERAL - BA - Resultado do dia 12/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 1044 no 6º Prêmio!",
+      "19h FEDERAL - BA - Resultado do dia 12/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 1244 no 6º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
