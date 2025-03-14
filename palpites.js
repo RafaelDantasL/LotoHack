@@ -33,6 +33,9 @@ const palpites = {
       "9055"
     ],
     "frases": [
+      "12h - MALUCA - BA - Resultado do dia 14/03/2025 (Sexta-feira)\nDeu Dezena, Palpite 6240 no 1º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 14/03/2025 (Sexta-feira)\nDeu Dezena, Palpite 6140 no 1º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 14/03/2025 (Sexta-feira)\nDeu Dezena, Palpite 6040 no 1º Prêmio!",
       "15h - MALUCA - BA - Resultado do dia 14/03/2025 (Sexta-feira)\nDeu Dezena, Palpite 7314 no 5º Prêmio!",
       "15h - MALUCA - BA - Resultado do dia 14/03/2025 (Sexta-feira)\nDeu Dezena, Palpite 7514 no 5º Prêmio!",
       "15h - MALUCA - BA - Resultado do dia 14/03/2025 (Sexta-feira)\nDeu Dezena, Palpite 7714 no 5º Prêmio!"
@@ -71,45 +74,61 @@ const palpites = {
       "4412",
       "4419"
     ],
-    "frases": []
+    "frases": [
+      "10h - BA - Resultado do dia 14/03/2025 (Sexta-feira)\nDeu Centena, Palpite 6122 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 14/03/2025 (Sexta-feira)\nDeu Dezena, Palpite 6122 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 14/03/2025 (Sexta-feira)\nDeu Dezena, Palpite 6522 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 14/03/2025 (Sexta-feira)\nDeu Dezena, Palpite 6722 no 2º Prêmio!",
+      "12h - BA - Resultado do dia 14/03/2025 (Sexta-feira)\nDeu Dezena, Palpite 1134 no 2º Prêmio!",
+      "12h - BA - Resultado do dia 14/03/2025 (Sexta-feira)\nDeu Dezena, Palpite 1434 no 2º Prêmio!",
+      "12h - BA - Resultado do dia 14/03/2025 (Sexta-feira)\nDeu Centena, Palpite 1834 no 2º Prêmio!",
+      "12h - BA - Resultado do dia 14/03/2025 (Sexta-feira)\nDeu Dezena, Palpite 1834 no 2º Prêmio!",
+      "12h - BA - Resultado do dia 14/03/2025 (Sexta-feira)\nDeu Dezena, Palpite 1130 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 14/03/2025 (Sexta-feira)\nDeu Centena, Palpite 1430 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 14/03/2025 (Sexta-feira)\nDeu Dezena, Palpite 1430 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 14/03/2025 (Sexta-feira)\nDeu Dezena, Palpite 1830 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 14/03/2025 (Sexta-feira)\nDeu Dezena, Palpite 1131 no 10º Prêmio!",
+      "12h - BA - Resultado do dia 14/03/2025 (Sexta-feira)\nDeu Dezena, Palpite 1431 no 10º Prêmio!",
+      "12h - BA - Resultado do dia 14/03/2025 (Sexta-feira)\nDeu Dezena, Palpite 1831 no 10º Prêmio!"
+    ]
   },
-  "PT SP": {
+  "LOTECE": {
     "palpites": [
-      "8814",
-      "8813",
-      "8818",
-      "8824",
-      "8823",
-      "8828",
-      "8854",
-      "8853",
-      "8858",
-      "8114",
-      "8113",
-      "8118",
-      "8124",
-      "8123",
-      "8128",
-      "8154",
-      "8153",
-      "8158",
-      "8914",
-      "8913",
-      "8918",
-      "8924",
-      "8923",
-      "8928",
-      "8954",
-      "8953",
-      "8958",
-      "2814",
-      "2813",
-      "2818"
+      "7533",
+      "7539",
+      "7530",
+      "7553",
+      "7559",
+      "7550",
+      "7563",
+      "7569",
+      "7560",
+      "7833",
+      "7839",
+      "7830",
+      "7853",
+      "7859",
+      "7850",
+      "7863",
+      "7869",
+      "7860",
+      "7933",
+      "7939",
+      "7930",
+      "7953",
+      "7959",
+      "7950",
+      "7963",
+      "7969",
+      "7960",
+      "1533",
+      "1539",
+      "1530"
     ],
     "frases": [
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 3791 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 3091 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 3291 no 7º Prêmio!"
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 3339 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 3839 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 3039 no 5º Prêmio!"
     ]
   }
 };
