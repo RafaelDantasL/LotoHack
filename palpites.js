@@ -33,6 +33,16 @@ const palpites = {
       "5252"
     ],
     "frases": [
+      "12h - MALUCA - BA - Resultado do dia 15/03/2025 (Sábado)\nDeu Centena, Palpite 3391 no 1º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 15/03/2025 (Sábado)\nDeu Dezena, Palpite 3391 no 1º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 15/03/2025 (Sábado)\nDeu Dezena, Palpite 3791 no 1º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 15/03/2025 (Sábado)\nDeu Dezena, Palpite 3191 no 1º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 15/03/2025 (Sábado)\nDeu Centena, Palpite 3369 no 9º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 15/03/2025 (Sábado)\nDeu Dezena, Palpite 3369 no 9º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 15/03/2025 (Sábado)\nDeu Dezena, Palpite 3769 no 9º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 15/03/2025 (Sábado)\nDeu Dezena, Palpite 3169 no 9º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 15/03/2025 (Sábado)\nDeu Centena, Palpite 6369 no 9º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 15/03/2025 (Sábado)\nDeu Dezena, Palpite 6369 no 9º Prêmio!",
       "19h FEDERAL - MALUCA - BA - Resultado do dia 15/03/2025 (Sábado)\nDeu Milhar, Palpite 0917 no 7º Prêmio!",
       "19h FEDERAL - MALUCA - BA - Resultado do dia 15/03/2025 (Sábado)\nDeu Dezena, Palpite 0517 no 7º Prêmio!",
       "19h FEDERAL - MALUCA - BA - Resultado do dia 15/03/2025 (Sábado)\nDeu Dezena, Palpite 0717 no 7º Prêmio!",
@@ -74,10 +84,6 @@ const palpites = {
       "2504"
     ],
     "frases": [
-      "12h - BA - Resultado do dia 15/03/2025 (Sábado)\nDeu Centena, Palpite 9371 no 10º Prêmio!",
-      "12h - BA - Resultado do dia 15/03/2025 (Sábado)\nDeu Dezena, Palpite 9371 no 10º Prêmio!",
-      "12h - BA - Resultado do dia 15/03/2025 (Sábado)\nDeu Dezena, Palpite 9571 no 10º Prêmio!",
-      "12h - BA - Resultado do dia 15/03/2025 (Sábado)\nDeu Dezena, Palpite 9671 no 10º Prêmio!",
       "19h FEDERAL - BA - Resultado do dia 15/03/2025 (Sábado)\nDeu Dezena, Palpite 0174 no 9º Prêmio!",
       "19h FEDERAL - BA - Resultado do dia 15/03/2025 (Sábado)\nDeu Dezena, Palpite 0974 no 9º Prêmio!",
       "19h FEDERAL - BA - Resultado do dia 15/03/2025 (Sábado)\nDeu Centena, Palpite 0074 no 9º Prêmio!",
