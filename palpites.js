@@ -1,49 +1,38 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "7341",
-      "7344",
-      "7347",
-      "7381",
-      "7384",
-      "7387",
-      "7301",
-      "7304",
-      "7307",
-      "7541",
-      "7544",
-      "7547",
-      "7581",
-      "7584",
-      "7587",
-      "7501",
-      "7504",
-      "7507",
-      "7741",
-      "7744",
-      "7747",
-      "7781",
-      "7784",
-      "7787",
-      "7701",
-      "7704",
-      "7707",
-      "2341",
-      "2344",
-      "2347"
+      "0912",
+      "0917",
+      "0910",
+      "0902",
+      "0907",
+      "0900",
+      "0932",
+      "0937",
+      "0930",
+      "0512",
+      "0517",
+      "0510",
+      "0502",
+      "0507",
+      "0500",
+      "0532",
+      "0537",
+      "0530",
+      "0712",
+      "0717",
+      "0710",
+      "0702",
+      "0707",
+      "0700",
+      "0732",
+      "0737",
+      "0730",
+      "1912",
+      "1917",
+      "1910"
     ],
-    "frases": [
-      "12h - MALUCA - BA - Resultado do dia 15/03/2025 (Sábado)\nDeu Centena, Palpite 3391 no 1º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 15/03/2025 (Sábado)\nDeu Dezena, Palpite 3391 no 1º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 15/03/2025 (Sábado)\nDeu Dezena, Palpite 3791 no 1º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 15/03/2025 (Sábado)\nDeu Dezena, Palpite 3191 no 1º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 15/03/2025 (Sábado)\nDeu Centena, Palpite 3369 no 9º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 15/03/2025 (Sábado)\nDeu Dezena, Palpite 3369 no 9º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 15/03/2025 (Sábado)\nDeu Dezena, Palpite 3769 no 9º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 15/03/2025 (Sábado)\nDeu Dezena, Palpite 3169 no 9º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 15/03/2025 (Sábado)\nDeu Centena, Palpite 6369 no 9º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 15/03/2025 (Sábado)\nDeu Dezena, Palpite 6369 no 9º Prêmio!"
-    ]
+    "frases": []
   },
   "BAHIA": {
     "palpites": [
@@ -78,7 +67,12 @@ const palpites = {
       "1154",
       "1159"
     ],
-    "frases": []
+    "frases": [
+      "12h - BA - Resultado do dia 15/03/2025 (Sábado)\nDeu Centena, Palpite 9371 no 10º Prêmio!",
+      "12h - BA - Resultado do dia 15/03/2025 (Sábado)\nDeu Dezena, Palpite 9371 no 10º Prêmio!",
+      "12h - BA - Resultado do dia 15/03/2025 (Sábado)\nDeu Dezena, Palpite 9571 no 10º Prêmio!",
+      "12h - BA - Resultado do dia 15/03/2025 (Sábado)\nDeu Dezena, Palpite 9671 no 10º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
