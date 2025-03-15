@@ -154,10 +154,6 @@ const palpites = {
       "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)\nDeu Dezena, Palpite 7001 no 2º Prêmio!",
       "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)\nDeu Dezena, Palpite 7201 no 2º Prêmio!",
       "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)\nDeu Dezena, Palpite 7601 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)\nDeu Dezena, Palpite 9001 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)\nDeu Dezena, Palpite 7001 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)\nDeu Dezena, Palpite 7201 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)\nDeu Dezena, Palpite 7601 no 2º Prêmio!",
       "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)\nDeu Dezena, Palpite 9001 no 2º Prêmio!"
     ]
   },
