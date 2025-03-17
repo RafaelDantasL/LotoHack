@@ -198,6 +198,11 @@ const palpites = {
       "0391"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Centena, Palpite 3831 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 3831 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 3131 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 3931 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Milhar, Palpite 4831 no 2º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 0835 no 1º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 0135 no 1º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 0035 no 1º Prêmio!",
@@ -210,5 +215,79 @@ const palpites = {
       "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 0135 no 10º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 0035 no 10º Prêmio!"
     ]
+  },
+  "PT RIO": {
+    "palpites": [
+      "1522",
+      "1524",
+      "1526",
+      "1552",
+      "1554",
+      "1556",
+      "1562",
+      "1564",
+      "1566",
+      "1622",
+      "1624",
+      "1626",
+      "1652",
+      "1654",
+      "1656",
+      "1662",
+      "1664",
+      "1666",
+      "1122",
+      "1124",
+      "1126",
+      "1152",
+      "1154",
+      "1156",
+      "1162",
+      "1164",
+      "1166",
+      "0522",
+      "0524",
+      "0526"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 0208 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 0308 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 0708 no 4º Prêmio!"
+    ]
+  },
+  "PT SP": {
+    "palpites": [
+      "3755",
+      "3757",
+      "3756",
+      "3775",
+      "3777",
+      "3776",
+      "3715",
+      "3717",
+      "3716",
+      "3955",
+      "3957",
+      "3956",
+      "3975",
+      "3977",
+      "3976",
+      "3915",
+      "3917",
+      "3916",
+      "3555",
+      "3557",
+      "3556",
+      "3575",
+      "3577",
+      "3576",
+      "3515",
+      "3517",
+      "3516",
+      "7755",
+      "7757",
+      "7756"
+    ],
+    "frases": []
   }
 };
