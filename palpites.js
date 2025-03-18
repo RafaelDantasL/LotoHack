@@ -1,41 +1,47 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "8423",
-      "8427",
-      "8420",
-      "8433",
-      "8437",
-      "8430",
-      "8493",
-      "8497",
-      "8490",
-      "8023",
-      "8027",
-      "8020",
-      "8033",
-      "8037",
-      "8030",
-      "8093",
-      "8097",
-      "8090",
-      "8123",
-      "8127",
-      "8120",
-      "8133",
-      "8137",
-      "8130",
-      "8193",
-      "8197",
-      "8190",
-      "1423",
-      "1427",
-      "1420"
+      "2810",
+      "2811",
+      "2813",
+      "2880",
+      "2881",
+      "2883",
+      "2890",
+      "2891",
+      "2893",
+      "2210",
+      "2211",
+      "2213",
+      "2280",
+      "2281",
+      "2283",
+      "2290",
+      "2291",
+      "2293",
+      "2710",
+      "2711",
+      "2713",
+      "2780",
+      "2781",
+      "2783",
+      "2790",
+      "2791",
+      "2793",
+      "1810",
+      "1811",
+      "1813"
     ],
     "frases": [
-      "19h - MALUCA - BA - Resultado do dia 17/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 0123 no 7º Prêmio!",
-      "19h - MALUCA - BA - Resultado do dia 17/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 0423 no 7º Prêmio!",
-      "19h - MALUCA - BA - Resultado do dia 17/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 0523 no 7º Prêmio!"
+      "21h - MALUCA - BA - Resultado do dia 17/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 8497 no 3º Prêmio!",
+      "21h - MALUCA - BA - Resultado do dia 17/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 8097 no 3º Prêmio!",
+      "21h - MALUCA - BA - Resultado do dia 17/03/2025 (Segunda-feira)\nDeu Centena, Palpite 8197 no 3º Prêmio!",
+      "21h - MALUCA - BA - Resultado do dia 17/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 8197 no 3º Prêmio!",
+      "21h - MALUCA - BA - Resultado do dia 17/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 8423 no 5º Prêmio!",
+      "21h - MALUCA - BA - Resultado do dia 17/03/2025 (Segunda-feira)\nDeu Centena, Palpite 8023 no 5º Prêmio!",
+      "21h - MALUCA - BA - Resultado do dia 17/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 8023 no 5º Prêmio!",
+      "21h - MALUCA - BA - Resultado do dia 17/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 8123 no 5º Prêmio!",
+      "21h - MALUCA - BA - Resultado do dia 17/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 1423 no 5º Prêmio!"
     ]
   },
   "BAHIA": {
@@ -71,7 +77,14 @@ const palpites = {
       "3130",
       "3135"
     ],
-    "frases": []
+    "frases": [
+      "10h - BA - Resultado do dia 17/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 8470 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 17/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 8670 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 17/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 8770 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 17/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 8410 no 8º Prêmio!",
+      "10h - BA - Resultado do dia 17/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 8610 no 8º Prêmio!",
+      "10h - BA - Resultado do dia 17/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 8710 no 8º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
