@@ -224,5 +224,87 @@ const palpites = {
       "7372"
     ],
     "frases": []
+  },
+  "PT RIO": {
+    "palpites": [
+      "2027",
+      "2024",
+      "2029",
+      "2067",
+      "2064",
+      "2069",
+      "2097",
+      "2094",
+      "2099",
+      "2427",
+      "2424",
+      "2429",
+      "2467",
+      "2464",
+      "2469",
+      "2497",
+      "2494",
+      "2499",
+      "2127",
+      "2124",
+      "2129",
+      "2167",
+      "2164",
+      "2169",
+      "2197",
+      "2194",
+      "2199",
+      "0027",
+      "0024",
+      "0029"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 7166 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 7766 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 7666 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 7167 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 7767 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Centena, Palpite 7667 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 7667 no 8º Prêmio!"
+    ]
+  },
+  "PT SP": {
+    "palpites": [
+      "5500",
+      "5505",
+      "5508",
+      "5510",
+      "5515",
+      "5518",
+      "5520",
+      "5525",
+      "5528",
+      "5100",
+      "5105",
+      "5108",
+      "5110",
+      "5115",
+      "5118",
+      "5120",
+      "5125",
+      "5128",
+      "5300",
+      "5305",
+      "5308",
+      "5310",
+      "5315",
+      "5318",
+      "5320",
+      "5325",
+      "5328",
+      "9500",
+      "9505",
+      "9508"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 4030 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 4230 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 4630 no 4º Prêmio!"
+    ]
   }
 };
