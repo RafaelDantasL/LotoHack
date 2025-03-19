@@ -33,6 +33,17 @@ const palpites = {
       "8071"
     ],
     "frases": [
+      "12h - MALUCA - BA - Resultado do dia 19/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 0706 no 4º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 19/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 0806 no 4º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 19/03/2025 (Quarta-feira)\nDeu Centena, Palpite 0106 no 4º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 19/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 0106 no 4º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 19/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 5706 no 4º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 19/03/2025 (Quarta-feira)\nDeu Centena, Palpite 5036 no 6º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 19/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 5036 no 6º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 19/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 5136 no 6º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 19/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 5236 no 6º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 19/03/2025 (Quarta-feira)\nDeu Centena, Palpite 2036 no 6º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 19/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 2036 no 6º Prêmio!",
       "19h FEDERAL - MALUCA - BA - Resultado do dia 19/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 9148 no 6º Prêmio!",
       "19h FEDERAL - MALUCA - BA - Resultado do dia 19/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 9348 no 6º Prêmio!",
       "19h FEDERAL - MALUCA - BA - Resultado do dia 19/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 9548 no 6º Prêmio!"
@@ -72,6 +83,9 @@ const palpites = {
       "4170"
     ],
     "frases": [
+      "12h - BA - Resultado do dia 19/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 0215 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 19/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 0315 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 19/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 0415 no 4º Prêmio!",
       "19h FEDERAL - BA - Resultado do dia 19/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 1118 no 5º Prêmio!",
       "19h FEDERAL - BA - Resultado do dia 19/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 1618 no 5º Prêmio!",
       "19h FEDERAL - BA - Resultado do dia 19/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 1418 no 5º Prêmio!",
@@ -81,5 +95,40 @@ const palpites = {
       "19h FEDERAL - BA - Resultado do dia 19/03/2025 (Quarta-feira)\nDeu Centena, Palpite 1409 no 7º Prêmio!",
       "19h FEDERAL - BA - Resultado do dia 19/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 1409 no 7º Prêmio!"
     ]
+  },
+  "LOTECE": {
+    "palpites": [
+      "2594",
+      "2591",
+      "2590",
+      "2514",
+      "2511",
+      "2510",
+      "2544",
+      "2541",
+      "2540",
+      "2794",
+      "2791",
+      "2790",
+      "2714",
+      "2711",
+      "2710",
+      "2744",
+      "2741",
+      "2740",
+      "2294",
+      "2291",
+      "2290",
+      "2214",
+      "2211",
+      "2210",
+      "2244",
+      "2241",
+      "2240",
+      "3594",
+      "3591",
+      "3590"
+    ],
+    "frases": []
   }
 };
