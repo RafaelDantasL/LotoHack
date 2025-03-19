@@ -1,43 +1,44 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "5031",
-      "5038",
-      "5036",
-      "5001",
-      "5008",
-      "5006",
-      "5051",
-      "5058",
-      "5056",
-      "5131",
-      "5138",
-      "5136",
-      "5101",
-      "5108",
-      "5106",
-      "5151",
-      "5158",
-      "5156",
-      "5231",
-      "5238",
-      "5236",
-      "5201",
-      "5208",
-      "5206",
-      "5251",
-      "5258",
-      "5256",
-      "2031",
-      "2038",
-      "2036"
+      "9111",
+      "9113",
+      "9118",
+      "9141",
+      "9143",
+      "9148",
+      "9161",
+      "9163",
+      "9168",
+      "9311",
+      "9313",
+      "9318",
+      "9341",
+      "9343",
+      "9348",
+      "9361",
+      "9363",
+      "9368",
+      "9511",
+      "9513",
+      "9518",
+      "9541",
+      "9543",
+      "9548",
+      "9561",
+      "9563",
+      "9568",
+      "2111",
+      "2113",
+      "2118"
     ],
     "frases": [
-      "12h - MALUCA - BA - Resultado do dia 19/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 0706 no 4º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 19/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 0806 no 4º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 19/03/2025 (Quarta-feira)\nDeu Centena, Palpite 0106 no 4º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 19/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 0106 no 4º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 19/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 5706 no 4º Prêmio!"
+      "15h - MALUCA - BA - Resultado do dia 19/03/2025 (Quarta-feira)\nDeu Centena, Palpite 5036 no 6º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 19/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 5036 no 6º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 19/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 5136 no 6º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 19/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 5236 no 6º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 19/03/2025 (Quarta-feira)\nDeu Centena, Palpite 2036 no 6º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 19/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 2036 no 6º Prêmio!"
     ]
   },
   "BAHIA": {
@@ -73,7 +74,11 @@ const palpites = {
       "8113",
       "8119"
     ],
-    "frases": []
+    "frases": [
+      "12h - BA - Resultado do dia 19/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 0215 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 19/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 0315 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 19/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 0415 no 4º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
