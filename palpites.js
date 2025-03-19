@@ -85,6 +85,54 @@ const palpites = {
       "12h - BA - Resultado do dia 19/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 0415 no 4º Prêmio!"
     ]
   },
+  "LOTECE": {
+    "palpites": [
+      "0336",
+      "0330",
+      "0337",
+      "0346",
+      "0340",
+      "0347",
+      "0376",
+      "0370",
+      "0377",
+      "0436",
+      "0430",
+      "0437",
+      "0446",
+      "0440",
+      "0447",
+      "0476",
+      "0470",
+      "0477",
+      "0736",
+      "0730",
+      "0737",
+      "0746",
+      "0740",
+      "0747",
+      "0776",
+      "0770",
+      "0777",
+      "1336",
+      "1330",
+      "1337"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 0376 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Centena, Palpite 0476 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 0476 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 0776 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Centena, Palpite 0376 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 0376 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 0476 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 0776 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 0336 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 0436 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 0736 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 1336 no 7º Prêmio!"
+    ]
+  },
   "LOOK/GOIAS": {
     "palpites": [
       "8208",
