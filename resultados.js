@@ -1943,6 +1943,130 @@ const resultado = {
           "Carneiro"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "4717",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "2º",
+          "3745",
+          "12",
+          "Elefante"
+        ],
+        [
+          "3º",
+          "6370",
+          "18",
+          "Porco"
+        ],
+        [
+          "4º",
+          "9192",
+          "23",
+          "Urso"
+        ],
+        [
+          "5º",
+          "5486",
+          "22",
+          "Tigre"
+        ],
+        [
+          "6º [soma]",
+          "9510",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "665",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "4717",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "2º",
+          "3745",
+          "12",
+          "Elefante"
+        ],
+        [
+          "3º",
+          "6370",
+          "18",
+          "Porco"
+        ],
+        [
+          "4º",
+          "9192",
+          "23",
+          "Urso"
+        ],
+        [
+          "5º",
+          "5486",
+          "22",
+          "Tigre"
+        ],
+        [
+          "6º",
+          "4369",
+          "18",
+          "Porco"
+        ],
+        [
+          "7º",
+          "7731",
+          "08",
+          "Camelo"
+        ],
+        [
+          "8º",
+          "1479",
+          "20",
+          "Peru"
+        ],
+        [
+          "9º",
+          "7502",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "10º",
+          "0591",
+          "23",
+          "Urso"
+        ]
+      ]
     }
   ]
 };
