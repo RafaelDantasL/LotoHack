@@ -1,49 +1,42 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "0120",
-      "0122",
-      "0125",
-      "0100",
-      "0102",
-      "0105",
-      "0150",
-      "0152",
-      "0155",
-      "0620",
-      "0622",
-      "0625",
-      "0600",
-      "0602",
-      "0605",
-      "0650",
-      "0652",
-      "0655",
-      "0020",
-      "0022",
-      "0025",
-      "0000",
-      "0002",
-      "0005",
-      "0050",
-      "0052",
-      "0055",
-      "1120",
-      "1122",
-      "1125"
+      "9903",
+      "9904",
+      "9905",
+      "9993",
+      "9994",
+      "9995",
+      "9913",
+      "9914",
+      "9915",
+      "9303",
+      "9304",
+      "9305",
+      "9393",
+      "9394",
+      "9395",
+      "9313",
+      "9314",
+      "9315",
+      "9003",
+      "9004",
+      "9005",
+      "9093",
+      "9094",
+      "9095",
+      "9013",
+      "9014",
+      "9015",
+      "1903",
+      "1904",
+      "1905"
     ],
     "frases": [
-      "10h - MALUCA - Resultado do dia 20/03/2025 (Quinta-feira)\nDeu Dezena, Palpite 4388 no 2º Prêmio!",
-      "10h - MALUCA - Resultado do dia 20/03/2025 (Quinta-feira)\nDeu Dezena, Palpite 4488 no 2º Prêmio!",
-      "10h - MALUCA - Resultado do dia 20/03/2025 (Quinta-feira)\nDeu Dezena, Palpite 4188 no 2º Prêmio!",
-      "10h - MALUCA - Resultado do dia 20/03/2025 (Quinta-feira)\nDeu Dezena, Palpite 1388 no 2º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 20/03/2025 (Quinta-feira)\nDeu Dezena, Palpite 9590 no 3º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 20/03/2025 (Quinta-feira)\nDeu Dezena, Palpite 9690 no 3º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 20/03/2025 (Quinta-feira)\nDeu Dezena, Palpite 9990 no 3º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 20/03/2025 (Quinta-feira)\nDeu Dezena, Palpite 5590 no 3º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 20/03/2025 (Quinta-feira)\nDeu Dezena, Palpite 9505 no 5º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 20/03/2025 (Quinta-feira)\nDeu Dezena, Palpite 9605 no 5º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 20/03/2025 (Quinta-feira)\nDeu Dezena, Palpite 9905 no 5º Prêmio!"
+      "15h - MALUCA - BA - Resultado do dia 20/03/2025 (Quinta-feira)\nDeu Dezena, Palpite 0125 no 6º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 20/03/2025 (Quinta-feira)\nDeu Dezena, Palpite 0625 no 6º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 20/03/2025 (Quinta-feira)\nDeu Dezena, Palpite 0025 no 6º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 20/03/2025 (Quinta-feira)\nDeu Dezena, Palpite 1125 no 6º Prêmio!"
     ]
   },
   "BAHIA": {
@@ -79,7 +72,12 @@ const palpites = {
       "0115",
       "0112"
     ],
-    "frases": []
+    "frases": [
+      "12h - BA - Resultado do dia 20/03/2025 (Quinta-feira)\nDeu Centena, Palpite 0951 no 3º Prêmio!",
+      "12h - BA - Resultado do dia 20/03/2025 (Quinta-feira)\nDeu Dezena, Palpite 0951 no 3º Prêmio!",
+      "12h - BA - Resultado do dia 20/03/2025 (Quinta-feira)\nDeu Dezena, Palpite 0051 no 3º Prêmio!",
+      "12h - BA - Resultado do dia 20/03/2025 (Quinta-feira)\nDeu Dezena, Palpite 0651 no 3º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
