@@ -32,7 +32,16 @@ const palpites = {
       "6214",
       "6215"
     ],
-    "frases": []
+    "frases": [
+      "12h - MALUCA - BA - Resultado do dia 21/03/2025 (Sexta-feira)\nDeu Dezena, Palpite 1158 no 2º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 21/03/2025 (Sexta-feira)\nDeu Dezena, Palpite 1658 no 2º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 21/03/2025 (Sexta-feira)\nDeu Dezena, Palpite 1758 no 2º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 21/03/2025 (Sexta-feira)\nDeu Dezena, Palpite 5158 no 2º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 21/03/2025 (Sexta-feira)\nDeu Dezena, Palpite 1158 no 10º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 21/03/2025 (Sexta-feira)\nDeu Dezena, Palpite 1658 no 10º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 21/03/2025 (Sexta-feira)\nDeu Dezena, Palpite 1758 no 10º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 21/03/2025 (Sexta-feira)\nDeu Dezena, Palpite 5158 no 10º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -69,38 +78,38 @@ const palpites = {
     ],
     "frases": []
   },
-  "PT SP": {
+  "LOTECE": {
     "palpites": [
-      "1226",
-      "1225",
-      "1220",
-      "1236",
-      "1235",
-      "1230",
-      "1256",
-      "1255",
-      "1250",
-      "1726",
-      "1725",
-      "1720",
-      "1736",
-      "1735",
-      "1730",
-      "1756",
-      "1755",
-      "1750",
-      "1926",
-      "1925",
-      "1920",
-      "1936",
-      "1935",
-      "1930",
-      "1956",
-      "1955",
-      "1950",
-      "5226",
-      "5225",
-      "5220"
+      "4681",
+      "4686",
+      "4687",
+      "4601",
+      "4606",
+      "4607",
+      "4621",
+      "4626",
+      "4627",
+      "4081",
+      "4086",
+      "4087",
+      "4001",
+      "4006",
+      "4007",
+      "4021",
+      "4026",
+      "4027",
+      "4181",
+      "4186",
+      "4187",
+      "4101",
+      "4106",
+      "4107",
+      "4121",
+      "4126",
+      "4127",
+      "1681",
+      "1686",
+      "1687"
     ],
     "frases": []
   }
