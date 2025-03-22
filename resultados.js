@@ -3556,6 +3556,130 @@ const resultado = {
           "Porco"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "2326",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "2º",
+          "9496",
+          "24",
+          "Veado"
+        ],
+        [
+          "3º",
+          "0420",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "4º",
+          "9120",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "5º",
+          "8618",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "6º [soma]",
+          "9980",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "087",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "2326",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "2º",
+          "9496",
+          "24",
+          "Veado"
+        ],
+        [
+          "3º",
+          "0420",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "4º",
+          "9120",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "5º",
+          "8618",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "6º",
+          "2909",
+          "03",
+          "Burro"
+        ],
+        [
+          "7º",
+          "3441",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "8º",
+          "2922",
+          "06",
+          "Cabra"
+        ],
+        [
+          "9º",
+          "6600",
+          "25",
+          "Vaca"
+        ],
+        [
+          "10º",
+          "5852",
+          "13",
+          "Galo"
+        ]
+      ]
     }
   ]
 };
