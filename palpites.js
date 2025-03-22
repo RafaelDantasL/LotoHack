@@ -32,7 +32,19 @@ const palpites = {
       "7133",
       "7130"
     ],
-    "frases": []
+    "frases": [
+      "10h - MALUCA - Resultado do dia 22/03/2025 (Sábado)\nDeu Dezena, Palpite 1615 no 10º Prêmio!",
+      "10h - MALUCA - Resultado do dia 22/03/2025 (Sábado)\nDeu Dezena, Palpite 1515 no 10º Prêmio!",
+      "10h - MALUCA - Resultado do dia 22/03/2025 (Sábado)\nDeu Dezena, Palpite 1015 no 10º Prêmio!",
+      "10h - MALUCA - Resultado do dia 22/03/2025 (Sábado)\nDeu Dezena, Palpite 0615 no 10º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 22/03/2025 (Sábado)\nDeu Dezena, Palpite 2135 no 3º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 22/03/2025 (Sábado)\nDeu Dezena, Palpite 2535 no 3º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 22/03/2025 (Sábado)\nDeu Dezena, Palpite 2635 no 3º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 22/03/2025 (Sábado)\nDeu Dezena, Palpite 2118 no 4º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 22/03/2025 (Sábado)\nDeu Dezena, Palpite 2518 no 4º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 22/03/2025 (Sábado)\nDeu Dezena, Palpite 2618 no 4º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 22/03/2025 (Sábado)\nDeu Dezena, Palpite 4118 no 4º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -71,38 +83,42 @@ const palpites = {
   },
   "LOTECE": {
     "palpites": [
-      "9031",
-      "9032",
-      "9035",
-      "9051",
-      "9052",
-      "9055",
-      "9081",
-      "9082",
-      "9085",
-      "9231",
-      "9232",
-      "9235",
-      "9251",
-      "9252",
-      "9255",
-      "9281",
-      "9282",
-      "9285",
-      "9431",
-      "9432",
-      "9435",
-      "9451",
-      "9452",
-      "9455",
-      "9481",
-      "9482",
-      "9485",
-      "5031",
-      "5032",
-      "5035"
+      "8824",
+      "8827",
+      "8828",
+      "8834",
+      "8837",
+      "8838",
+      "8884",
+      "8887",
+      "8888",
+      "8224",
+      "8227",
+      "8228",
+      "8234",
+      "8237",
+      "8238",
+      "8284",
+      "8287",
+      "8288",
+      "8324",
+      "8327",
+      "8328",
+      "8334",
+      "8337",
+      "8338",
+      "8384",
+      "8387",
+      "8388",
+      "4824",
+      "4827",
+      "4828"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 9085 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 9285 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 9485 no 9º Prêmio!"
+    ]
   },
   "LOOK/GOIAS": {
     "palpites": [
