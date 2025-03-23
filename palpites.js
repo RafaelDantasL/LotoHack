@@ -1,50 +1,38 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "0674",
-      "0676",
-      "0678",
-      "0694",
-      "0696",
-      "0698",
-      "0644",
-      "0646",
-      "0648",
-      "0774",
-      "0776",
-      "0778",
-      "0794",
-      "0796",
-      "0798",
-      "0744",
-      "0746",
-      "0748",
-      "0074",
-      "0076",
-      "0078",
-      "0094",
-      "0096",
-      "0098",
-      "0044",
-      "0046",
-      "0048",
-      "3674",
-      "3676",
-      "3678"
+      "1140",
+      "1144",
+      "1145",
+      "1180",
+      "1184",
+      "1185",
+      "1110",
+      "1114",
+      "1115",
+      "1340",
+      "1344",
+      "1345",
+      "1380",
+      "1384",
+      "1385",
+      "1310",
+      "1314",
+      "1315",
+      "1840",
+      "1844",
+      "1845",
+      "1880",
+      "1884",
+      "1885",
+      "1810",
+      "1814",
+      "1815",
+      "4140",
+      "4144",
+      "4145"
     ],
-    "frases": [
-      "10h - MALUCA - Resultado do dia 22/03/2025 (Sábado)\nDeu Dezena, Palpite 1615 no 10º Prêmio!",
-      "10h - MALUCA - Resultado do dia 22/03/2025 (Sábado)\nDeu Dezena, Palpite 1515 no 10º Prêmio!",
-      "10h - MALUCA - Resultado do dia 22/03/2025 (Sábado)\nDeu Dezena, Palpite 1015 no 10º Prêmio!",
-      "10h - MALUCA - Resultado do dia 22/03/2025 (Sábado)\nDeu Dezena, Palpite 0615 no 10º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 22/03/2025 (Sábado)\nDeu Dezena, Palpite 2135 no 3º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 22/03/2025 (Sábado)\nDeu Dezena, Palpite 2535 no 3º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 22/03/2025 (Sábado)\nDeu Dezena, Palpite 2635 no 3º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 22/03/2025 (Sábado)\nDeu Dezena, Palpite 2118 no 4º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 22/03/2025 (Sábado)\nDeu Dezena, Palpite 2518 no 4º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 22/03/2025 (Sábado)\nDeu Dezena, Palpite 2618 no 4º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 22/03/2025 (Sábado)\nDeu Dezena, Palpite 4118 no 4º Prêmio!"
-    ]
+    "frases": []
   },
   "BAHIA": {
     "palpites": [
@@ -79,7 +67,18 @@ const palpites = {
       "7843",
       "7846"
     ],
-    "frases": []
+    "frases": [
+      "19h FEDERAL - BA - Resultado do dia 22/03/2025 (Sábado)\nDeu Dezena, Palpite 3102 no 1º Prêmio!",
+      "19h FEDERAL - BA - Resultado do dia 22/03/2025 (Sábado)\nDeu Dezena, Palpite 3302 no 1º Prêmio!",
+      "19h FEDERAL - BA - Resultado do dia 22/03/2025 (Sábado)\nDeu Dezena, Palpite 3702 no 1º Prêmio!",
+      "19h FEDERAL - BA - Resultado do dia 22/03/2025 (Sábado)\nDeu Dezena, Palpite 3192 no 3º Prêmio!",
+      "19h FEDERAL - BA - Resultado do dia 22/03/2025 (Sábado)\nDeu Dezena, Palpite 3392 no 3º Prêmio!",
+      "19h FEDERAL - BA - Resultado do dia 22/03/2025 (Sábado)\nDeu Dezena, Palpite 3792 no 3º Prêmio!",
+      "19h FEDERAL - BA - Resultado do dia 22/03/2025 (Sábado)\nDeu Dezena, Palpite 5192 no 3º Prêmio!",
+      "19h FEDERAL - BA - Resultado do dia 22/03/2025 (Sábado)\nDeu Dezena, Palpite 3130 no 6º Prêmio!",
+      "19h FEDERAL - BA - Resultado do dia 22/03/2025 (Sábado)\nDeu Dezena, Palpite 3330 no 6º Prêmio!",
+      "19h FEDERAL - BA - Resultado do dia 22/03/2025 (Sábado)\nDeu Dezena, Palpite 3730 no 6º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
