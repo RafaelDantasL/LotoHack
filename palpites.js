@@ -32,7 +32,24 @@ const palpites = {
       "5628",
       "5626"
     ],
-    "frases": []
+    "frases": [
+      "10h - MALUCA - Resultado do dia 24/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 1710 no 6º Prêmio!",
+      "10h - MALUCA - Resultado do dia 24/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 1310 no 6º Prêmio!",
+      "10h - MALUCA - Resultado do dia 24/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 1010 no 6º Prêmio!",
+      "10h - MALUCA - Resultado do dia 24/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 1719 no 10º Prêmio!",
+      "10h - MALUCA - Resultado do dia 24/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 1319 no 10º Prêmio!",
+      "10h - MALUCA - Resultado do dia 24/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 1019 no 10º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 24/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 6031 no 4º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 24/03/2025 (Segunda-feira)\nDeu Centena, Palpite 6131 no 4º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 24/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 6131 no 4º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 24/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 6231 no 4º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 24/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 6030 no 6º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 24/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 6130 no 6º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 24/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 6230 no 6º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 24/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 6011 no 9º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 24/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 6111 no 9º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 24/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 6211 no 9º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -67,41 +84,58 @@ const palpites = {
       "8767",
       "8769"
     ],
-    "frases": []
+    "frases": [
+      "12h - BA - Resultado do dia 24/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 5031 no 1º Prêmio!",
+      "12h - BA - Resultado do dia 24/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 5131 no 1º Prêmio!",
+      "12h - BA - Resultado do dia 24/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 5431 no 1º Prêmio!",
+      "12h - BA - Resultado do dia 24/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 5001 no 6º Prêmio!",
+      "12h - BA - Resultado do dia 24/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 5101 no 6º Prêmio!",
+      "12h - BA - Resultado do dia 24/03/2025 (Segunda-feira)\nDeu Centena, Palpite 5401 no 6º Prêmio!",
+      "12h - BA - Resultado do dia 24/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 5401 no 6º Prêmio!",
+      "12h - BA - Resultado do dia 24/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 6001 no 6º Prêmio!"
+    ]
   },
-  "PT SP": {
+  "LOTECE": {
     "palpites": [
-      "6767",
-      "6760",
-      "6761",
-      "6707",
-      "6700",
-      "6701",
-      "6747",
-      "6740",
-      "6741",
-      "6167",
-      "6160",
-      "6161",
-      "6107",
-      "6100",
-      "6101",
-      "6147",
-      "6140",
-      "6141",
-      "6667",
-      "6660",
-      "6661",
-      "6607",
-      "6600",
-      "6601",
-      "6647",
-      "6640",
-      "6641",
-      "1767",
-      "1760",
-      "1761"
+      "1081",
+      "1088",
+      "1080",
+      "1001",
+      "1008",
+      "1000",
+      "1021",
+      "1028",
+      "1020",
+      "1181",
+      "1188",
+      "1180",
+      "1101",
+      "1108",
+      "1100",
+      "1121",
+      "1128",
+      "1120",
+      "1681",
+      "1688",
+      "1680",
+      "1601",
+      "1608",
+      "1600",
+      "1621",
+      "1628",
+      "1620",
+      "6081",
+      "6088",
+      "6080"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 0051 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 0251 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 0451 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 0051 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 0251 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Centena, Palpite 0451 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 0451 no 6º Prêmio!"
+    ]
   }
 };
