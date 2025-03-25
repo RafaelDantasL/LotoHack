@@ -262,58 +262,5 @@ const palpites = {
       "Resultado do Jogo do Bicho RJ, 16:00, PTV, 1º ao 10º\nDeu Dezena, Palpite 9919 no 8º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 16:00, PTV, 1º ao 10º\nDeu Milhar, Palpite 4419 no 8º Prêmio!"
     ]
-  },
-  "PT SP": {
-    "palpites": [
-      "0580",
-      "0586",
-      "0583",
-      "0550",
-      "0556",
-      "0553",
-      "0590",
-      "0596",
-      "0593",
-      "0680",
-      "0686",
-      "0683",
-      "0650",
-      "0656",
-      "0653",
-      "0690",
-      "0696",
-      "0693",
-      "0080",
-      "0086",
-      "0083",
-      "0050",
-      "0056",
-      "0053",
-      "0090",
-      "0096",
-      "0093",
-      "9580",
-      "9586",
-      "9583"
-    ],
-    "frases": [
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0700 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0000 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0200 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 6691 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 6191 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 6391 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 6611 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 6111 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 6311 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 5611 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 2186 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Centena, Palpite 2686 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 2686 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 2886 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 2186 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 2686 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 2886 no 7º Prêmio!"
-    ]
   }
 };
