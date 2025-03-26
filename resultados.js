@@ -1572,6 +1572,130 @@ const resultado = {
           "Burro"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "3032",
+          "08",
+          "Camelo"
+        ],
+        [
+          "2º",
+          "2145",
+          "12",
+          "Elefante"
+        ],
+        [
+          "3º",
+          "0314",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "4º",
+          "7531",
+          "08",
+          "Camelo"
+        ],
+        [
+          "5º",
+          "1518",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "6º [soma]",
+          "4540",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "503",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "3032",
+          "08",
+          "Camelo"
+        ],
+        [
+          "2º",
+          "2145",
+          "12",
+          "Elefante"
+        ],
+        [
+          "3º",
+          "0314",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "4º",
+          "7531",
+          "08",
+          "Camelo"
+        ],
+        [
+          "5º",
+          "1518",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "6º",
+          "3207",
+          "02",
+          "Águia"
+        ],
+        [
+          "7º",
+          "0135",
+          "09",
+          "Cobra"
+        ],
+        [
+          "8º",
+          "3413",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "9º",
+          "2541",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "10º",
+          "3836",
+          "09",
+          "Cobra"
+        ]
+      ]
     }
   ]
 };
