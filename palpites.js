@@ -1,38 +1,42 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "7100",
-      "7106",
-      "7107",
-      "7120",
-      "7126",
-      "7127",
-      "7190",
-      "7196",
-      "7197",
-      "7200",
-      "7206",
-      "7207",
-      "7220",
-      "7226",
-      "7227",
-      "7290",
-      "7296",
-      "7297",
-      "7700",
-      "7706",
-      "7707",
-      "7720",
-      "7726",
-      "7727",
-      "7790",
-      "7796",
-      "7797",
-      "6100",
-      "6106",
-      "6107"
+      "6195",
+      "6197",
+      "6191",
+      "6135",
+      "6137",
+      "6131",
+      "6165",
+      "6167",
+      "6161",
+      "6295",
+      "6297",
+      "6291",
+      "6235",
+      "6237",
+      "6231",
+      "6265",
+      "6267",
+      "6261",
+      "6495",
+      "6497",
+      "6491",
+      "6435",
+      "6437",
+      "6431",
+      "6465",
+      "6467",
+      "6461",
+      "9195",
+      "9197",
+      "9191"
     ],
-    "frases": []
+    "frases": [
+      "12h - MALUCA - BA - Resultado do dia 26/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 7197 no 7º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 26/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 7297 no 7º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 26/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 7797 no 7º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -67,7 +71,19 @@ const palpites = {
       "5640",
       "5641"
     ],
-    "frases": []
+    "frases": [
+      "10h - BA - Resultado do dia 26/03/2025 (Quarta-feira)\nDeu Centena, Palpite 1231 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 26/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 1231 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 26/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 1631 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 26/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 1031 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 26/03/2025 (Quarta-feira)\nDeu Centena, Palpite 5231 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 26/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 5231 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 26/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 1231 no 4º Prêmio!",
+      "10h - BA - Resultado do dia 26/03/2025 (Quarta-feira)\nDeu Centena, Palpite 1631 no 4º Prêmio!",
+      "10h - BA - Resultado do dia 26/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 1631 no 4º Prêmio!",
+      "10h - BA - Resultado do dia 26/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 1031 no 4º Prêmio!",
+      "10h - BA - Resultado do dia 26/03/2025 (Quarta-feira)\nDeu Dezena, Palpite 5231 no 4º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
