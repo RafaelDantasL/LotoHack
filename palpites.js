@@ -305,49 +305,5 @@ const palpites = {
       "1819"
     ],
     "frases": []
-  },
-  "PT SP": {
-    "palpites": [
-      "6341",
-      "6346",
-      "6342",
-      "6311",
-      "6316",
-      "6312",
-      "6321",
-      "6326",
-      "6322",
-      "6541",
-      "6546",
-      "6542",
-      "6511",
-      "6516",
-      "6512",
-      "6521",
-      "6526",
-      "6522",
-      "6441",
-      "6446",
-      "6442",
-      "6411",
-      "6416",
-      "6412",
-      "6421",
-      "6426",
-      "6422",
-      "7341",
-      "7346",
-      "7342"
-    ],
-    "frases": [
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0020 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0420 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0820 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2020 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 7707 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Centena, Palpite 7407 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 7407 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 7807 no 10º Prêmio!"
-    ]
   }
 };
