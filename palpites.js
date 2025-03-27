@@ -262,45 +262,5 @@ const palpites = {
       "0221"
     ],
     "frases": []
-  },
-  "PT SP": {
-    "palpites": [
-      "1473",
-      "1475",
-      "1478",
-      "1453",
-      "1455",
-      "1458",
-      "1423",
-      "1425",
-      "1428",
-      "1173",
-      "1175",
-      "1178",
-      "1153",
-      "1155",
-      "1158",
-      "1123",
-      "1125",
-      "1128",
-      "1273",
-      "1275",
-      "1278",
-      "1253",
-      "1255",
-      "1258",
-      "1223",
-      "1225",
-      "1228",
-      "2473",
-      "2475",
-      "2478"
-    ],
-    "frases": [
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0020 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0420 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0820 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2020 no 6º Prêmio!"
-    ]
   }
 };
