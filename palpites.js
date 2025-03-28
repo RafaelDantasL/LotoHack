@@ -1,38 +1,42 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "3240",
-      "3245",
-      "3243",
-      "3270",
-      "3275",
-      "3273",
-      "3200",
-      "3205",
-      "3203",
-      "3940",
-      "3945",
-      "3943",
-      "3970",
-      "3975",
-      "3973",
-      "3900",
-      "3905",
-      "3903",
-      "3140",
-      "3145",
-      "3143",
-      "3170",
-      "3175",
-      "3173",
-      "3100",
-      "3105",
-      "3103",
-      "5240",
-      "5245",
-      "5243"
+      "9594",
+      "9595",
+      "9596",
+      "9534",
+      "9535",
+      "9536",
+      "9544",
+      "9545",
+      "9546",
+      "9794",
+      "9795",
+      "9796",
+      "9734",
+      "9735",
+      "9736",
+      "9744",
+      "9745",
+      "9746",
+      "9994",
+      "9995",
+      "9996",
+      "9934",
+      "9935",
+      "9936",
+      "9944",
+      "9945",
+      "9946",
+      "3594",
+      "3595",
+      "3596"
     ],
-    "frases": []
+    "frases": [
+      "12h - MALUCA - BA - Resultado do dia 28/03/2025 (Sexta-feira)\nDeu Dezena, Palpite 3273 no 5º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 28/03/2025 (Sexta-feira)\nDeu Dezena, Palpite 3973 no 5º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 28/03/2025 (Sexta-feira)\nDeu Dezena, Palpite 3173 no 5º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -67,7 +71,11 @@ const palpites = {
       "3095",
       "3096"
     ],
-    "frases": []
+    "frases": [
+      "10h - BA - Resultado do dia 28/03/2025 (Sexta-feira)\nDeu Dezena, Palpite 4103 no 4º Prêmio!",
+      "10h - BA - Resultado do dia 28/03/2025 (Sexta-feira)\nDeu Dezena, Palpite 4403 no 4º Prêmio!",
+      "10h - BA - Resultado do dia 28/03/2025 (Sexta-feira)\nDeu Dezena, Palpite 4703 no 4º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
