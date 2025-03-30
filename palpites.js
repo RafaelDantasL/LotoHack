@@ -1,54 +1,38 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "2363",
-      "2361",
-      "2366",
-      "2353",
-      "2351",
-      "2356",
-      "2373",
-      "2371",
-      "2376",
-      "2163",
-      "2161",
-      "2166",
-      "2153",
-      "2151",
-      "2156",
-      "2173",
-      "2171",
-      "2176",
-      "2463",
-      "2461",
-      "2466",
-      "2453",
-      "2451",
-      "2456",
-      "2473",
-      "2471",
-      "2476",
-      "5363",
-      "5361",
-      "5366"
+      "1313",
+      "1310",
+      "1311",
+      "1333",
+      "1330",
+      "1331",
+      "1343",
+      "1340",
+      "1341",
+      "1113",
+      "1110",
+      "1111",
+      "1133",
+      "1130",
+      "1131",
+      "1143",
+      "1140",
+      "1141",
+      "1813",
+      "1810",
+      "1811",
+      "1833",
+      "1830",
+      "1831",
+      "1843",
+      "1840",
+      "1841",
+      "4313",
+      "4310",
+      "4311"
     ],
-    "frases": [
-      "10h - MALUCA - Resultado do dia 30/03/2025 (Domingo)\nDeu Dezena, Palpite 9287 no 4º Prêmio!",
-      "10h - MALUCA - Resultado do dia 30/03/2025 (Domingo)\nDeu Dezena, Palpite 9587 no 4º Prêmio!",
-      "10h - MALUCA - Resultado do dia 30/03/2025 (Domingo)\nDeu Dezena, Palpite 9687 no 4º Prêmio!",
-      "10h - MALUCA - Resultado do dia 30/03/2025 (Domingo)\nDeu Dezena, Palpite 9216 no 7º Prêmio!",
-      "10h - MALUCA - Resultado do dia 30/03/2025 (Domingo)\nDeu Centena, Palpite 9516 no 7º Prêmio!",
-      "10h - MALUCA - Resultado do dia 30/03/2025 (Domingo)\nDeu Dezena, Palpite 9516 no 7º Prêmio!",
-      "10h - MALUCA - Resultado do dia 30/03/2025 (Domingo)\nDeu Dezena, Palpite 9616 no 7º Prêmio!",
-      "10h - MALUCA - Resultado do dia 30/03/2025 (Domingo)\nDeu Dezena, Palpite 1216 no 7º Prêmio!",
-      "10h - MALUCA - Resultado do dia 30/03/2025 (Domingo)\nDeu Dezena, Palpite 9286 no 8º Prêmio!",
-      "10h - MALUCA - Resultado do dia 30/03/2025 (Domingo)\nDeu Dezena, Palpite 9586 no 8º Prêmio!",
-      "10h - MALUCA - Resultado do dia 30/03/2025 (Domingo)\nDeu Centena, Palpite 9686 no 8º Prêmio!",
-      "10h - MALUCA - Resultado do dia 30/03/2025 (Domingo)\nDeu Dezena, Palpite 9686 no 8º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 30/03/2025 (Domingo)\nDeu Dezena, Palpite 1216 no 1º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 30/03/2025 (Domingo)\nDeu Dezena, Palpite 1316 no 1º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 30/03/2025 (Domingo)\nDeu Dezena, Palpite 1116 no 1º Prêmio!"
-    ]
+    "frases": []
   },
   "BAHIA": {
     "palpites": [
@@ -83,7 +67,12 @@ const palpites = {
       "3133",
       "3134"
     ],
-    "frases": []
+    "frases": [
+      "10h - BA - Resultado do dia 30/03/2025 (Domingo)\nDeu Dezena, Palpite 1104 no 3º Prêmio!",
+      "10h - BA - Resultado do dia 30/03/2025 (Domingo)\nDeu Dezena, Palpite 1804 no 3º Prêmio!",
+      "10h - BA - Resultado do dia 30/03/2025 (Domingo)\nDeu Dezena, Palpite 1004 no 3º Prêmio!",
+      "10h - BA - Resultado do dia 30/03/2025 (Domingo)\nDeu Dezena, Palpite 6104 no 3º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
