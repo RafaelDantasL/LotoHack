@@ -43,47 +43,38 @@ const palpites = {
   },
   "BAHIA": {
     "palpites": [
-      "4633",
-      "4631",
-      "4638",
-      "4683",
-      "4681",
-      "4688",
-      "4653",
-      "4651",
-      "4658",
-      "4033",
-      "4031",
-      "4038",
-      "4083",
-      "4081",
-      "4088",
-      "4053",
-      "4051",
-      "4058",
-      "4133",
-      "4131",
-      "4138",
-      "4183",
-      "4181",
-      "4188",
-      "4153",
-      "4151",
-      "4158",
-      "5633",
-      "5631",
-      "5638"
+      "5215",
+      "5210",
+      "5213",
+      "5225",
+      "5220",
+      "5223",
+      "5255",
+      "5250",
+      "5253",
+      "5315",
+      "5310",
+      "5313",
+      "5325",
+      "5320",
+      "5323",
+      "5355",
+      "5350",
+      "5353",
+      "5715",
+      "5710",
+      "5713",
+      "5725",
+      "5720",
+      "5723",
+      "5755",
+      "5750",
+      "5753",
+      "9215",
+      "9210",
+      "9213"
     ],
-    "frases": [
-      "10h - BA - Resultado do dia 31/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 2133 no 6º Prêmio!",
-      "10h - BA - Resultado do dia 31/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 2333 no 6º Prêmio!",
-      "10h - BA - Resultado do dia 31/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 2533 no 6º Prêmio!",
-      "10h - BA - Resultado do dia 31/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 3133 no 6º Prêmio!",
-      "10h - BA - Resultado do dia 31/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 2133 no 9º Prêmio!",
-      "10h - BA - Resultado do dia 31/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 2333 no 9º Prêmio!",
-      "10h - BA - Resultado do dia 31/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 2533 no 9º Prêmio!",
-      "10h - BA - Resultado do dia 31/03/2025 (Segunda-feira)\nDeu Dezena, Palpite 3133 no 9º Prêmio!"
-    ]
+    "frases": []
   },
   "LOTECE": {
     "palpites": [
@@ -297,6 +288,10 @@ const palpites = {
       "5982",
       "5983"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Milhar, Palpite 3002 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3802 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3102 no 2º Prêmio!"
+    ]
   }
 };
