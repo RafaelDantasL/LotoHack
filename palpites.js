@@ -288,47 +288,5 @@ const palpites = {
       "Resultado do Jogo do Bicho RJ, 16:00, PTV, 1º ao 10º\nDeu Dezena, Palpite 9303 no 1º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 16:00, PTV, 1º ao 10º\nDeu Dezena, Palpite 9703 no 1º Prêmio!"
     ]
-  },
-  "PT SP": {
-    "palpites": [
-      "2011",
-      "2012",
-      "2013",
-      "2001",
-      "2002",
-      "2003",
-      "2021",
-      "2022",
-      "2023",
-      "2211",
-      "2212",
-      "2213",
-      "2201",
-      "2202",
-      "2203",
-      "2221",
-      "2222",
-      "2223",
-      "2811",
-      "2812",
-      "2813",
-      "2801",
-      "2802",
-      "2803",
-      "2821",
-      "2822",
-      "2823",
-      "9011",
-      "9012",
-      "9013"
-    ],
-    "frases": [
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Milhar, Palpite 3002 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3802 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3102 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 4654 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 4054 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 4254 no 6º Prêmio!"
-    ]
   }
 };
