@@ -69,6 +69,41 @@ const palpites = {
     ],
     "frases": []
   },
+  "LOOK/GOIAS": {
+    "palpites": [
+      "9710",
+      "9714",
+      "9713",
+      "9720",
+      "9724",
+      "9723",
+      "9700",
+      "9704",
+      "9703",
+      "9610",
+      "9614",
+      "9613",
+      "9620",
+      "9624",
+      "9623",
+      "9600",
+      "9604",
+      "9603",
+      "9010",
+      "9014",
+      "9013",
+      "9020",
+      "9024",
+      "9023",
+      "9000",
+      "9004",
+      "9003",
+      "0710",
+      "0714",
+      "0713"
+    ],
+    "frases": []
+  },
   "LOTECE": {
     "palpites": [
       "2007",
@@ -103,48 +138,6 @@ const palpites = {
       "4005"
     ],
     "frases": []
-  },
-  "LOOK/GOIAS": {
-    "palpites": [
-      "7155",
-      "7152",
-      "7153",
-      "7175",
-      "7172",
-      "7173",
-      "7125",
-      "7122",
-      "7123",
-      "7355",
-      "7352",
-      "7353",
-      "7375",
-      "7372",
-      "7373",
-      "7325",
-      "7322",
-      "7323",
-      "7555",
-      "7552",
-      "7553",
-      "7575",
-      "7572",
-      "7573",
-      "7525",
-      "7522",
-      "7523",
-      "8155",
-      "8152",
-      "8153"
-    ],
-    "frases": [
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 7877 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 7177 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 7077 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 7852 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 7152 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 7052 no 8º Prêmio!"
-    ]
   },
   "LOTEP": {
     "palpites": [
