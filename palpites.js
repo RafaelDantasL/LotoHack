@@ -252,9 +252,52 @@ const palpites = {
       "2456"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 2283 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 2683 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 2383 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 7283 no 9º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 14:20, PT, 1º ao 10º\nDeu Dezena, Palpite 0713 no 10º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 14:20, PT, 1º ao 10º\nDeu Dezena, Palpite 0213 no 10º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 14:20, PT, 1º ao 10º\nDeu Dezena, Palpite 0013 no 10º Prêmio!"
+    ]
+  },
+  "PT SP": {
+    "palpites": [
+      "7630",
+      "7633",
+      "7637",
+      "7670",
+      "7673",
+      "7677",
+      "7600",
+      "7603",
+      "7607",
+      "7030",
+      "7033",
+      "7037",
+      "7070",
+      "7073",
+      "7077",
+      "7000",
+      "7003",
+      "7007",
+      "7230",
+      "7233",
+      "7237",
+      "7270",
+      "7273",
+      "7277",
+      "7200",
+      "7203",
+      "7207",
+      "5630",
+      "5633",
+      "5637"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 6110 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 6610 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 6210 no 1º Prêmio!"
     ]
   }
 };
