@@ -1,4 +1,39 @@
 const palpites = {
+  "BAHIA MALUCA": {
+    "palpites": [
+      "5770",
+      "5773",
+      "5776",
+      "5760",
+      "5763",
+      "5766",
+      "5780",
+      "5783",
+      "5786",
+      "5070",
+      "5073",
+      "5076",
+      "5060",
+      "5063",
+      "5066",
+      "5080",
+      "5083",
+      "5086",
+      "5170",
+      "5173",
+      "5176",
+      "5160",
+      "5163",
+      "5166",
+      "5180",
+      "5183",
+      "5186",
+      "8770",
+      "8773",
+      "8776"
+    ],
+    "frases": []
+  },
   "BAHIA": {
     "palpites": [
       "7806",
@@ -39,6 +74,156 @@ const palpites = {
       "10h - BA - Resultado do dia 02/04/2025 (Quarta-feira)\nDeu Dezena, Palpite 4602 no 5º Prêmio!"
     ]
   },
+  "LOTECE": {
+    "palpites": [
+      "5404",
+      "5409",
+      "5400",
+      "5414",
+      "5419",
+      "5410",
+      "5424",
+      "5429",
+      "5420",
+      "5604",
+      "5609",
+      "5600",
+      "5614",
+      "5619",
+      "5610",
+      "5624",
+      "5629",
+      "5620",
+      "5004",
+      "5009",
+      "5000",
+      "5014",
+      "5019",
+      "5010",
+      "5024",
+      "5029",
+      "5020",
+      "6404",
+      "6409",
+      "6400"
+    ],
+    "frases": []
+  },
+  "LOOK/GOIAS": {
+    "palpites": [
+      "4024",
+      "4029",
+      "4020",
+      "4004",
+      "4009",
+      "4000",
+      "4044",
+      "4049",
+      "4040",
+      "4624",
+      "4629",
+      "4620",
+      "4604",
+      "4609",
+      "4600",
+      "4644",
+      "4649",
+      "4640",
+      "4824",
+      "4829",
+      "4820",
+      "4804",
+      "4809",
+      "4800",
+      "4844",
+      "4849",
+      "4840",
+      "3024",
+      "3029",
+      "3020"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 0006 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 0306 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 0706 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 4006 no 2º Prêmio!"
+    ]
+  },
+  "LOTEP": {
+    "palpites": [
+      "3633",
+      "3634",
+      "3639",
+      "3623",
+      "3624",
+      "3629",
+      "3673",
+      "3674",
+      "3679",
+      "3733",
+      "3734",
+      "3739",
+      "3723",
+      "3724",
+      "3729",
+      "3773",
+      "3774",
+      "3779",
+      "3033",
+      "3034",
+      "3039",
+      "3023",
+      "3024",
+      "3029",
+      "3073",
+      "3074",
+      "3079",
+      "5633",
+      "5634",
+      "5639"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 6979 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 6779 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 6879 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 2979 no 10º Prêmio!"
+    ]
+  },
+  "PT RIO": {
+    "palpites": [
+      "7735",
+      "7731",
+      "7732",
+      "7765",
+      "7761",
+      "7762",
+      "7715",
+      "7711",
+      "7712",
+      "7035",
+      "7031",
+      "7032",
+      "7065",
+      "7061",
+      "7062",
+      "7015",
+      "7011",
+      "7012",
+      "7135",
+      "7131",
+      "7132",
+      "7165",
+      "7161",
+      "7162",
+      "7115",
+      "7111",
+      "7112",
+      "6735",
+      "6731",
+      "6732"
+    ],
+    "frases": []
+  },
   "PT SP": {
     "palpites": [
       "1147",
@@ -72,6 +257,10 @@ const palpites = {
       "2140",
       "2141"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3096 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3396 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3496 no 10º Prêmio!"
+    ]
   }
 };
