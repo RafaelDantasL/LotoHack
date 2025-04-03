@@ -3379,6 +3379,130 @@ const resultado = {
           "Borboleta"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "7760",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "2º",
+          "6318",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "3º",
+          "0795",
+          "24",
+          "Veado"
+        ],
+        [
+          "4º",
+          "4930",
+          "08",
+          "Camelo"
+        ],
+        [
+          "5º",
+          "3417",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "6º [soma]",
+          "3220",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "027",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "7760",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "2º",
+          "6318",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "3º",
+          "0795",
+          "24",
+          "Veado"
+        ],
+        [
+          "4º",
+          "4930",
+          "08",
+          "Camelo"
+        ],
+        [
+          "5º",
+          "3417",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "6º",
+          "7604",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "7º",
+          "7379",
+          "20",
+          "Peru"
+        ],
+        [
+          "8º",
+          "6193",
+          "24",
+          "Veado"
+        ],
+        [
+          "9º",
+          "0850",
+          "13",
+          "Galo"
+        ],
+        [
+          "10º",
+          "5246",
+          "12",
+          "Elefante"
+        ]
+      ]
     }
   ]
 };
