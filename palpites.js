@@ -142,42 +142,42 @@ const palpites = {
   },
   "LOOK/GOIAS": {
     "palpites": [
-      "1227",
-      "1224",
-      "1226",
-      "1207",
-      "1204",
-      "1206",
-      "1247",
-      "1244",
-      "1246",
-      "1527",
-      "1524",
-      "1526",
-      "1507",
-      "1504",
-      "1506",
-      "1547",
-      "1544",
-      "1546",
-      "1627",
-      "1624",
-      "1626",
-      "1607",
-      "1604",
-      "1606",
-      "1647",
-      "1644",
-      "1646",
-      "0227",
-      "0224",
-      "0226"
+      "0288",
+      "0284",
+      "0281",
+      "0208",
+      "0204",
+      "0201",
+      "0238",
+      "0234",
+      "0231",
+      "0588",
+      "0584",
+      "0581",
+      "0508",
+      "0504",
+      "0501",
+      "0538",
+      "0534",
+      "0531",
+      "0088",
+      "0084",
+      "0081",
+      "0008",
+      "0004",
+      "0001",
+      "0038",
+      "0034",
+      "0031",
+      "3288",
+      "3284",
+      "3281"
     ],
     "frases": [
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 14h, 1º ao 10º\nDeu Dezena, Palpite 6510 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 14h, 1º ao 10º\nDeu Dezena, Palpite 6710 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 14h, 1º ao 10º\nDeu Dezena, Palpite 6910 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 14h, 1º ao 10º\nDeu Dezena, Palpite 4510 no 1º Prêmio!"
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 16h, 1º ao 10º\nDeu Centena, Palpite 1207 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 16h, 1º ao 10º\nDeu Dezena, Palpite 1207 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 16h, 1º ao 10º\nDeu Dezena, Palpite 1507 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 16h, 1º ao 10º\nDeu Dezena, Palpite 1607 no 10º Prêmio!"
     ]
   },
   "LOTEP": {
@@ -213,7 +213,14 @@ const palpites = {
       "2276",
       "2270"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 1931 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 1131 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 1731 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 1931 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 1131 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 1731 no 8º Prêmio!"
+    ]
   },
   "PT RIO": {
     "palpites": [
