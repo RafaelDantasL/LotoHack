@@ -198,6 +198,9 @@ const palpites = {
       "0645"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 9976 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 9176 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 9576 no 1º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 7000 no 1º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 7300 no 1º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Centena, Palpite 7600 no 1º Prêmio!",
@@ -206,5 +209,82 @@ const palpites = {
       "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 7336 no 4º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 7636 no 4º Prêmio!"
     ]
+  },
+  "PT SP": {
+    "palpites": [
+      "7410",
+      "7411",
+      "7419",
+      "7420",
+      "7421",
+      "7429",
+      "7440",
+      "7441",
+      "7449",
+      "7210",
+      "7211",
+      "7219",
+      "7220",
+      "7221",
+      "7229",
+      "7240",
+      "7241",
+      "7249",
+      "7310",
+      "7311",
+      "7319",
+      "7320",
+      "7321",
+      "7329",
+      "7340",
+      "7341",
+      "7349",
+      "1410",
+      "1411",
+      "1419"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 2010 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 2110 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 2210 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 2010 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 2110 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 2210 no 5º Prêmio!"
+    ]
+  },
+  "LOTECE": {
+    "palpites": [
+      "0201",
+      "0207",
+      "0200",
+      "0211",
+      "0217",
+      "0210",
+      "0281",
+      "0287",
+      "0280",
+      "0001",
+      "0007",
+      "0000",
+      "0011",
+      "0017",
+      "0010",
+      "0081",
+      "0087",
+      "0080",
+      "0301",
+      "0307",
+      "0300",
+      "0311",
+      "0317",
+      "0310",
+      "0381",
+      "0387",
+      "0380",
+      "3201",
+      "3207",
+      "3200"
+    ],
+    "frases": []
   }
 };
