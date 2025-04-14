@@ -36,41 +36,44 @@ const palpites = {
   },
   "BAHIA": {
     "palpites": [
-      "5986",
-      "5987",
-      "5980",
-      "5916",
-      "5917",
-      "5910",
-      "5906",
-      "5907",
-      "5900",
-      "5286",
-      "5287",
-      "5280",
-      "5216",
-      "5217",
-      "5210",
-      "5206",
-      "5207",
-      "5200",
-      "5086",
-      "5087",
-      "5080",
-      "5016",
-      "5017",
-      "5010",
-      "5006",
-      "5007",
-      "5000",
-      "3986",
-      "3987",
-      "3980"
+      "9066",
+      "9063",
+      "9065",
+      "9026",
+      "9023",
+      "9025",
+      "9006",
+      "9003",
+      "9005",
+      "9466",
+      "9463",
+      "9465",
+      "9426",
+      "9423",
+      "9425",
+      "9406",
+      "9403",
+      "9405",
+      "9966",
+      "9963",
+      "9965",
+      "9926",
+      "9923",
+      "9925",
+      "9906",
+      "9903",
+      "9905",
+      "5066",
+      "5063",
+      "5065"
     ],
     "frases": [
-      "10h - BA - Resultado do dia 14/04/2025 (Segunda-feira)\nDeu Dezena, Palpite 3150 no 7º Prêmio!",
-      "10h - BA - Resultado do dia 14/04/2025 (Segunda-feira)\nDeu Dezena, Palpite 3550 no 7º Prêmio!",
-      "10h - BA - Resultado do dia 14/04/2025 (Segunda-feira)\nDeu Dezena, Palpite 3250 no 7º Prêmio!"
+      "12h - BA - Resultado do dia 14/04/2025 (Segunda-feira)\nDeu Centena, Palpite 5986 no 6º Prêmio!",
+      "12h - BA - Resultado do dia 14/04/2025 (Segunda-feira)\nDeu Dezena, Palpite 5986 no 6º Prêmio!",
+      "12h - BA - Resultado do dia 14/04/2025 (Segunda-feira)\nDeu Dezena, Palpite 5286 no 6º Prêmio!",
+      "12h - BA - Resultado do dia 14/04/2025 (Segunda-feira)\nDeu Dezena, Palpite 5086 no 6º Prêmio!",
+      "12h - BA - Resultado do dia 14/04/2025 (Segunda-feira)\nDeu Centena, Palpite 3986 no 6º Prêmio!",
+      "12h - BA - Resultado do dia 14/04/2025 (Segunda-feira)\nDeu Dezena, Palpite 3986 no 6º Prêmio!"
     ]
   },
   "LOTECE": {
@@ -280,6 +283,10 @@ const palpites = {
       "3817",
       "3810"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3010 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3110 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3410 no 1º Prêmio!"
+    ]
   }
 };
