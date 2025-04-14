@@ -32,6 +32,99 @@ const palpites = {
       "4517",
       "4511"
     ],
-    "frases": []
+    "frases": [
+      "12h - MALUCA - BA - Resultado do dia 14/04/2025 (Segunda-feira)\nDeu Dezena, Palpite 1260 no 6º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 14/04/2025 (Segunda-feira)\nDeu Dezena, Palpite 1660 no 6º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 14/04/2025 (Segunda-feira)\nDeu Dezena, Palpite 1860 no 6º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 14/04/2025 (Segunda-feira)\nDeu Dezena, Palpite 1250 no 8º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 14/04/2025 (Segunda-feira)\nDeu Dezena, Palpite 1650 no 8º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 14/04/2025 (Segunda-feira)\nDeu Centena, Palpite 1850 no 8º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 14/04/2025 (Segunda-feira)\nDeu Dezena, Palpite 1850 no 8º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 14/04/2025 (Segunda-feira)\nDeu Dezena, Palpite 2250 no 8º Prêmio!"
+    ]
+  },
+  "BAHIA": {
+    "palpites": [
+      "6071",
+      "6078",
+      "6070",
+      "6051",
+      "6058",
+      "6050",
+      "6001",
+      "6008",
+      "6000",
+      "6471",
+      "6478",
+      "6470",
+      "6451",
+      "6458",
+      "6450",
+      "6401",
+      "6408",
+      "6400",
+      "6971",
+      "6978",
+      "6970",
+      "6951",
+      "6958",
+      "6950",
+      "6901",
+      "6908",
+      "6900",
+      "1071",
+      "1078",
+      "1070"
+    ],
+    "frases": [
+      "10h - BA - Resultado do dia 14/04/2025 (Segunda-feira)\nDeu Dezena, Palpite 3150 no 7º Prêmio!",
+      "10h - BA - Resultado do dia 14/04/2025 (Segunda-feira)\nDeu Dezena, Palpite 3550 no 7º Prêmio!",
+      "10h - BA - Resultado do dia 14/04/2025 (Segunda-feira)\nDeu Dezena, Palpite 3250 no 7º Prêmio!",
+      "12h - BA - Resultado do dia 14/04/2025 (Segunda-feira)\nDeu Centena, Palpite 5986 no 6º Prêmio!",
+      "12h - BA - Resultado do dia 14/04/2025 (Segunda-feira)\nDeu Dezena, Palpite 5986 no 6º Prêmio!",
+      "12h - BA - Resultado do dia 14/04/2025 (Segunda-feira)\nDeu Dezena, Palpite 5286 no 6º Prêmio!",
+      "12h - BA - Resultado do dia 14/04/2025 (Segunda-feira)\nDeu Dezena, Palpite 5086 no 6º Prêmio!",
+      "12h - BA - Resultado do dia 14/04/2025 (Segunda-feira)\nDeu Centena, Palpite 3986 no 6º Prêmio!",
+      "12h - BA - Resultado do dia 14/04/2025 (Segunda-feira)\nDeu Dezena, Palpite 3986 no 6º Prêmio!"
+    ]
+  },
+  "LOTECE": {
+    "palpites": [
+      "0620",
+      "0624",
+      "0626",
+      "0640",
+      "0644",
+      "0646",
+      "0650",
+      "0654",
+      "0656",
+      "0320",
+      "0324",
+      "0326",
+      "0340",
+      "0344",
+      "0346",
+      "0350",
+      "0354",
+      "0356",
+      "0020",
+      "0024",
+      "0026",
+      "0040",
+      "0044",
+      "0046",
+      "0050",
+      "0054",
+      "0056",
+      "6620",
+      "6624",
+      "6626"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 5724 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 5824 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 5024 no 7º Prêmio!"
+    ]
   }
 };
