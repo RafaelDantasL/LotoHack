@@ -1,4 +1,39 @@
 const palpites = {
+  "LOOK/GOIAS": {
+    "palpites": [
+      "2004",
+      "2008",
+      "2009",
+      "2014",
+      "2018",
+      "2019",
+      "2094",
+      "2098",
+      "2099",
+      "2704",
+      "2708",
+      "2709",
+      "2714",
+      "2718",
+      "2719",
+      "2794",
+      "2798",
+      "2799",
+      "2804",
+      "2808",
+      "2809",
+      "2814",
+      "2818",
+      "2819",
+      "2894",
+      "2898",
+      "2899",
+      "1004",
+      "1008",
+      "1009"
+    ],
+    "frases": []
+  },
   "BAHIA MALUCA": {
     "palpites": [
       "4386",
@@ -69,45 +104,75 @@ const palpites = {
     ],
     "frases": []
   },
-  "LOOK/GOIAS": {
+  "LOTECE": {
     "palpites": [
-      "1132",
-      "1139",
-      "1130",
-      "1112",
-      "1119",
-      "1110",
-      "1122",
-      "1129",
-      "1120",
-      "1532",
-      "1539",
-      "1530",
-      "1512",
-      "1519",
-      "1510",
-      "1522",
-      "1529",
-      "1520",
-      "1932",
-      "1939",
-      "1930",
-      "1912",
-      "1919",
-      "1910",
-      "1922",
-      "1929",
-      "1920",
-      "3132",
-      "3139",
-      "3130"
+      "1893",
+      "1894",
+      "1898",
+      "1833",
+      "1834",
+      "1838",
+      "1803",
+      "1804",
+      "1808",
+      "1093",
+      "1094",
+      "1098",
+      "1033",
+      "1034",
+      "1038",
+      "1003",
+      "1004",
+      "1008",
+      "1193",
+      "1194",
+      "1198",
+      "1133",
+      "1134",
+      "1138",
+      "1103",
+      "1104",
+      "1108",
+      "3893",
+      "3894",
+      "3898"
     ],
-    "frases": [
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 11h, 1º ao 10º\nDeu Dezena, Palpite 4330 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 11h, 1º ao 10º\nDeu Dezena, Palpite 4530 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 11h, 1º ao 10º\nDeu Dezena, Palpite 4030 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 11h, 1º ao 10º\nDeu Dezena, Palpite 5330 no 10º Prêmio!"
-    ]
+    "frases": []
+  },
+  "LOTEP": {
+    "palpites": [
+      "4639",
+      "4634",
+      "4632",
+      "4649",
+      "4644",
+      "4642",
+      "4679",
+      "4674",
+      "4672",
+      "4739",
+      "4734",
+      "4732",
+      "4749",
+      "4744",
+      "4742",
+      "4779",
+      "4774",
+      "4772",
+      "4039",
+      "4034",
+      "4032",
+      "4049",
+      "4044",
+      "4042",
+      "4079",
+      "4074",
+      "4072",
+      "7639",
+      "7634",
+      "7632"
+    ],
+    "frases": []
   },
   "PT RIO": {
     "palpites": [
@@ -181,6 +246,13 @@ const palpites = {
       "2087",
       "2080"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 4967 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 4467 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 4767 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 4960 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 4460 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 4760 no 8º Prêmio!"
+    ]
   }
 };
