@@ -219,6 +219,85 @@ const palpites = {
       "0059",
       "0051"
     ],
+    "frases": [
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 0169 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 0469 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 0069 no 3º Prêmio!"
+    ]
+  },
+  "PT SP": {
+    "palpites": [
+      "2459",
+      "2452",
+      "2454",
+      "2469",
+      "2462",
+      "2464",
+      "2499",
+      "2492",
+      "2494",
+      "2759",
+      "2752",
+      "2754",
+      "2769",
+      "2762",
+      "2764",
+      "2799",
+      "2792",
+      "2794",
+      "2859",
+      "2852",
+      "2854",
+      "2869",
+      "2862",
+      "2864",
+      "2899",
+      "2892",
+      "2894",
+      "4459",
+      "4452",
+      "4454"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 1709 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 1909 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 1209 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 3709 no 2º Prêmio!"
+    ]
+  },
+  "LOTECE": {
+    "palpites": [
+      "1262",
+      "1260",
+      "1261",
+      "1202",
+      "1200",
+      "1201",
+      "1212",
+      "1210",
+      "1211",
+      "1462",
+      "1460",
+      "1461",
+      "1402",
+      "1400",
+      "1401",
+      "1412",
+      "1410",
+      "1411",
+      "1562",
+      "1560",
+      "1561",
+      "1502",
+      "1500",
+      "1501",
+      "1512",
+      "1510",
+      "1511",
+      "2262",
+      "2260",
+      "2261"
+    ],
     "frases": []
   }
 };
