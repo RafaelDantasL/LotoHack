@@ -227,10 +227,87 @@ const palpites = {
       "6485"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 0169 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 0469 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 0069 no 3º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 16:00, PTV, 1º ao 10º\nDeu Dezena, Palpite 5051 no 9º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 16:00, PTV, 1º ao 10º\nDeu Dezena, Palpite 5151 no 9º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 16:00, PTV, 1º ao 10º\nDeu Dezena, Palpite 5351 no 9º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 16:00, PTV, 1º ao 10º\nDeu Dezena, Palpite 0051 no 9º Prêmio!"
     ]
+  },
+  "PT SP": {
+    "palpites": [
+      "1909",
+      "1905",
+      "1900",
+      "1969",
+      "1965",
+      "1960",
+      "1999",
+      "1995",
+      "1990",
+      "1209",
+      "1205",
+      "1200",
+      "1269",
+      "1265",
+      "1260",
+      "1299",
+      "1295",
+      "1290",
+      "1609",
+      "1605",
+      "1600",
+      "1669",
+      "1665",
+      "1660",
+      "1699",
+      "1695",
+      "1690",
+      "3909",
+      "3905",
+      "3900"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2469 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2769 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2869 no 2º Prêmio!"
+    ]
+  },
+  "LOTECE": {
+    "palpites": [
+      "1262",
+      "1260",
+      "1261",
+      "1202",
+      "1200",
+      "1201",
+      "1212",
+      "1210",
+      "1211",
+      "1462",
+      "1460",
+      "1461",
+      "1402",
+      "1400",
+      "1401",
+      "1412",
+      "1410",
+      "1411",
+      "1562",
+      "1560",
+      "1561",
+      "1502",
+      "1500",
+      "1501",
+      "1512",
+      "1510",
+      "1511",
+      "2262",
+      "2260",
+      "2261"
+    ],
+    "frases": []
   }
 };
