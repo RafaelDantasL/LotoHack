@@ -109,6 +109,81 @@ const palpites = {
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 6588 no 2º Prêmio!"
     ]
   },
+  "LOTEP": {
+    "palpites": [
+      "4001",
+      "4004",
+      "4006",
+      "4071",
+      "4074",
+      "4076",
+      "4011",
+      "4014",
+      "4016",
+      "4401",
+      "4404",
+      "4406",
+      "4471",
+      "4474",
+      "4476",
+      "4411",
+      "4414",
+      "4416",
+      "4901",
+      "4904",
+      "4906",
+      "4971",
+      "4974",
+      "4976",
+      "4911",
+      "4914",
+      "4916",
+      "7001",
+      "7004",
+      "7006"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 2021 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 2521 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 2621 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0021 no 6º Prêmio!"
+    ]
+  },
+  "LOTECE": {
+    "palpites": [
+      "1262",
+      "1260",
+      "1261",
+      "1202",
+      "1200",
+      "1201",
+      "1212",
+      "1210",
+      "1211",
+      "1462",
+      "1460",
+      "1461",
+      "1402",
+      "1400",
+      "1401",
+      "1412",
+      "1410",
+      "1411",
+      "1562",
+      "1560",
+      "1561",
+      "1502",
+      "1500",
+      "1501",
+      "1512",
+      "1510",
+      "1511",
+      "2262",
+      "2260",
+      "2261"
+    ],
+    "frases": []
+  },
   "PT RIO": {
     "palpites": [
       "9162",
@@ -147,5 +222,40 @@ const palpites = {
       "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 0469 no 3º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 0069 no 3º Prêmio!"
     ]
+  },
+  "PT SP": {
+    "palpites": [
+      "3425",
+      "3429",
+      "3421",
+      "3435",
+      "3439",
+      "3431",
+      "3495",
+      "3499",
+      "3491",
+      "3625",
+      "3629",
+      "3621",
+      "3635",
+      "3639",
+      "3631",
+      "3695",
+      "3699",
+      "3691",
+      "3025",
+      "3029",
+      "3021",
+      "3035",
+      "3039",
+      "3031",
+      "3095",
+      "3099",
+      "3091",
+      "5425",
+      "5429",
+      "5421"
+    ],
+    "frases": []
   }
 };
