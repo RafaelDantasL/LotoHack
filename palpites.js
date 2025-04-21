@@ -1,44 +1,44 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "0149",
-      "0140",
-      "0141",
-      "0169",
-      "0160",
-      "0161",
-      "0199",
-      "0190",
-      "0191",
-      "0949",
-      "0940",
-      "0941",
-      "0969",
-      "0960",
-      "0961",
-      "0999",
-      "0990",
-      "0991",
-      "0549",
-      "0540",
-      "0541",
-      "0569",
-      "0560",
-      "0561",
-      "0599",
-      "0590",
-      "0591",
-      "5149",
-      "5140",
-      "5141"
+      "3108",
+      "3107",
+      "3100",
+      "3118",
+      "3117",
+      "3110",
+      "3148",
+      "3147",
+      "3140",
+      "3408",
+      "3407",
+      "3400",
+      "3418",
+      "3417",
+      "3410",
+      "3448",
+      "3447",
+      "3440",
+      "3908",
+      "3907",
+      "3900",
+      "3918",
+      "3917",
+      "3910",
+      "3948",
+      "3947",
+      "3940",
+      "8108",
+      "8107",
+      "8100"
     ],
     "frases": [
-      "10h - MALUCA - Resultado do dia 21/04/2025 (Segunda-feira)\nDeu Dezena, Palpite 1082 no 5º Prêmio!",
-      "10h - MALUCA - Resultado do dia 21/04/2025 (Segunda-feira)\nDeu Dezena, Palpite 1182 no 5º Prêmio!",
-      "10h - MALUCA - Resultado do dia 21/04/2025 (Segunda-feira)\nDeu Dezena, Palpite 1282 no 5º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 21/04/2025 (Segunda-feira)\nDeu Dezena, Palpite 0741 no 4º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 21/04/2025 (Segunda-feira)\nDeu Dezena, Palpite 0341 no 4º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 21/04/2025 (Segunda-feira)\nDeu Dezena, Palpite 0441 no 4º Prêmio!"
+      "15h - MALUCA - BA - Resultado do dia 21/04/2025 (Segunda-feira)\nDeu Centena, Palpite 0140 no 4º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 21/04/2025 (Segunda-feira)\nDeu Dezena, Palpite 0140 no 4º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 21/04/2025 (Segunda-feira)\nDeu Dezena, Palpite 0940 no 4º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 21/04/2025 (Segunda-feira)\nDeu Dezena, Palpite 0540 no 4º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 21/04/2025 (Segunda-feira)\nDeu Centena, Palpite 5140 no 4º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 21/04/2025 (Segunda-feira)\nDeu Dezena, Palpite 5140 no 4º Prêmio!"
     ]
   },
   "BAHIA": {
@@ -74,7 +74,11 @@ const palpites = {
       "4099",
       "4090"
     ],
-    "frases": []
+    "frases": [
+      "10h - BA - Resultado do dia 21/04/2025 (Segunda-feira)\nDeu Dezena, Palpite 3184 no 1º Prêmio!",
+      "10h - BA - Resultado do dia 21/04/2025 (Segunda-feira)\nDeu Dezena, Palpite 3284 no 1º Prêmio!",
+      "10h - BA - Resultado do dia 21/04/2025 (Segunda-feira)\nDeu Dezena, Palpite 3684 no 1º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
