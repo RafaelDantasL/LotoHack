@@ -1,41 +1,41 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "0711",
-      "0717",
-      "0714",
-      "0741",
-      "0747",
-      "0744",
-      "0771",
-      "0777",
-      "0774",
-      "0311",
-      "0317",
-      "0314",
-      "0341",
-      "0347",
-      "0344",
-      "0371",
-      "0377",
-      "0374",
-      "0411",
-      "0417",
-      "0414",
-      "0441",
-      "0447",
-      "0444",
-      "0471",
-      "0477",
-      "0474",
-      "8711",
-      "8717",
-      "8714"
+      "0149",
+      "0140",
+      "0141",
+      "0169",
+      "0160",
+      "0161",
+      "0199",
+      "0190",
+      "0191",
+      "0949",
+      "0940",
+      "0941",
+      "0969",
+      "0960",
+      "0961",
+      "0999",
+      "0990",
+      "0991",
+      "0549",
+      "0540",
+      "0541",
+      "0569",
+      "0560",
+      "0561",
+      "0599",
+      "0590",
+      "0591",
+      "5149",
+      "5140",
+      "5141"
     ],
     "frases": [
-      "10h - MALUCA - Resultado do dia 21/04/2025 (Segunda-feira)\nDeu Dezena, Palpite 1082 no 5º Prêmio!",
-      "10h - MALUCA - Resultado do dia 21/04/2025 (Segunda-feira)\nDeu Dezena, Palpite 1182 no 5º Prêmio!",
-      "10h - MALUCA - Resultado do dia 21/04/2025 (Segunda-feira)\nDeu Dezena, Palpite 1282 no 5º Prêmio!"
+      "12h - MALUCA - BA - Resultado do dia 21/04/2025 (Segunda-feira)\nDeu Dezena, Palpite 0741 no 4º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 21/04/2025 (Segunda-feira)\nDeu Dezena, Palpite 0341 no 4º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 21/04/2025 (Segunda-feira)\nDeu Dezena, Palpite 0441 no 4º Prêmio!"
     ]
   },
   "BAHIA": {
@@ -71,7 +71,11 @@ const palpites = {
       "9910",
       "9911"
     ],
-    "frases": []
+    "frases": [
+      "10h - BA - Resultado do dia 21/04/2025 (Segunda-feira)\nDeu Dezena, Palpite 3184 no 1º Prêmio!",
+      "10h - BA - Resultado do dia 21/04/2025 (Segunda-feira)\nDeu Dezena, Palpite 3284 no 1º Prêmio!",
+      "10h - BA - Resultado do dia 21/04/2025 (Segunda-feira)\nDeu Dezena, Palpite 3684 no 1º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
