@@ -43,42 +43,38 @@ const palpites = {
   },
   "BAHIA": {
     "palpites": [
-      "5916",
-      "5910",
-      "5911",
-      "5996",
-      "5990",
-      "5991",
-      "5906",
-      "5900",
-      "5901",
-      "5016",
-      "5010",
-      "5011",
-      "5096",
-      "5090",
-      "5091",
-      "5006",
-      "5000",
-      "5001",
-      "5316",
-      "5310",
-      "5311",
-      "5396",
-      "5390",
-      "5391",
-      "5306",
-      "5300",
-      "5301",
-      "9916",
-      "9910",
-      "9911"
+      "1098",
+      "1099",
+      "1090",
+      "1038",
+      "1039",
+      "1030",
+      "1078",
+      "1079",
+      "1070",
+      "1298",
+      "1299",
+      "1290",
+      "1238",
+      "1239",
+      "1230",
+      "1278",
+      "1279",
+      "1270",
+      "1498",
+      "1499",
+      "1490",
+      "1438",
+      "1439",
+      "1430",
+      "1478",
+      "1479",
+      "1470",
+      "4098",
+      "4099",
+      "4090"
     ],
-    "frases": [
-      "10h - BA - Resultado do dia 21/04/2025 (Segunda-feira)\nDeu Dezena, Palpite 3184 no 1º Prêmio!",
-      "10h - BA - Resultado do dia 21/04/2025 (Segunda-feira)\nDeu Dezena, Palpite 3284 no 1º Prêmio!",
-      "10h - BA - Resultado do dia 21/04/2025 (Segunda-feira)\nDeu Dezena, Palpite 3684 no 1º Prêmio!"
-    ]
+    "frases": []
   },
   "LOTECE": {
     "palpites": [
@@ -314,6 +310,13 @@ const palpites = {
       "3088",
       "3080"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1160 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1360 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1260 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 0739 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 0339 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 0139 no 2º Prêmio!"
+    ]
   }
 };
