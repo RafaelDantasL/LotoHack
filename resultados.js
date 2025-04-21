@@ -807,7 +807,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho LOTEP - PB, 10:45",
+      "titulo": "Resultado do Jogo do Bicho PB, Paratodos 10:45",
       "conteudo": [
         [
           "Prêmio",
@@ -878,7 +878,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho LOTEP - PB, 12:45",
+      "titulo": "Resultado do Jogo do Bicho PB, Paratodos 12:45",
       "conteudo": [
         [
           "Prêmio",
