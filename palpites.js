@@ -1,47 +1,38 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "2210",
-      "2216",
-      "2217",
-      "2220",
-      "2226",
-      "2227",
-      "2240",
-      "2246",
-      "2247",
-      "2410",
-      "2416",
-      "2417",
-      "2420",
-      "2426",
-      "2427",
-      "2440",
-      "2446",
-      "2447",
-      "2610",
-      "2616",
-      "2617",
-      "2620",
-      "2626",
-      "2627",
-      "2640",
-      "2646",
-      "2647",
-      "1210",
-      "1216",
-      "1217"
+      "1139",
+      "1131",
+      "1135",
+      "1109",
+      "1101",
+      "1105",
+      "1159",
+      "1151",
+      "1155",
+      "1439",
+      "1431",
+      "1435",
+      "1409",
+      "1401",
+      "1405",
+      "1459",
+      "1451",
+      "1455",
+      "1539",
+      "1531",
+      "1535",
+      "1509",
+      "1501",
+      "1505",
+      "1559",
+      "1551",
+      "1555",
+      "2139",
+      "2131",
+      "2135"
     ],
-    "frases": [
-      "10h - MALUCA - Resultado do dia 22/04/2025 (Terça-feira)\nDeu Dezena, Palpite 8633 no 10º Prêmio!",
-      "10h - MALUCA - Resultado do dia 22/04/2025 (Terça-feira)\nDeu Dezena, Palpite 8833 no 10º Prêmio!",
-      "10h - MALUCA - Resultado do dia 22/04/2025 (Terça-feira)\nDeu Dezena, Palpite 8933 no 10º Prêmio!",
-      "10h - MALUCA - Resultado do dia 22/04/2025 (Terça-feira)\nDeu Dezena, Palpite 9633 no 10º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 22/04/2025 (Terça-feira)\nDeu Dezena, Palpite 2316 no 2º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 22/04/2025 (Terça-feira)\nDeu Centena, Palpite 2616 no 2º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 22/04/2025 (Terça-feira)\nDeu Dezena, Palpite 2616 no 2º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 22/04/2025 (Terça-feira)\nDeu Dezena, Palpite 2816 no 2º Prêmio!"
-    ]
+    "frases": []
   },
   "BAHIA": {
     "palpites": [
@@ -76,7 +67,16 @@ const palpites = {
       "4112",
       "4118"
     ],
-    "frases": []
+    "frases": [
+      "12h - BA - Resultado do dia 22/04/2025 (Terça-feira)\nDeu Dezena, Palpite 5922 no 6º Prêmio!",
+      "12h - BA - Resultado do dia 22/04/2025 (Terça-feira)\nDeu Centena, Palpite 5522 no 6º Prêmio!",
+      "12h - BA - Resultado do dia 22/04/2025 (Terça-feira)\nDeu Dezena, Palpite 5522 no 6º Prêmio!",
+      "12h - BA - Resultado do dia 22/04/2025 (Terça-feira)\nDeu Dezena, Palpite 5222 no 6º Prêmio!",
+      "12h - BA - Resultado do dia 22/04/2025 (Terça-feira)\nDeu Dezena, Palpite 6922 no 6º Prêmio!",
+      "15h - BA - Resultado do dia 22/04/2025 (Terça-feira)\nDeu Dezena, Palpite 0728 no 6º Prêmio!",
+      "15h - BA - Resultado do dia 22/04/2025 (Terça-feira)\nDeu Dezena, Palpite 0028 no 6º Prêmio!",
+      "15h - BA - Resultado do dia 22/04/2025 (Terça-feira)\nDeu Dezena, Palpite 0628 no 6º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
