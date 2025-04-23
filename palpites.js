@@ -36,45 +36,41 @@ const palpites = {
   },
   "BAHIA": {
     "palpites": [
-      "3451",
-      "3450",
-      "3453",
-      "3431",
-      "3430",
-      "3433",
-      "3441",
-      "3440",
-      "3443",
-      "3651",
-      "3650",
-      "3653",
-      "3631",
-      "3630",
-      "3633",
-      "3641",
-      "3640",
-      "3643",
-      "3051",
-      "3050",
-      "3053",
-      "3031",
-      "3030",
-      "3033",
-      "3041",
-      "3040",
-      "3043",
-      "4451",
-      "4450",
-      "4453"
+      "1737",
+      "1730",
+      "1731",
+      "1727",
+      "1720",
+      "1721",
+      "1787",
+      "1780",
+      "1781",
+      "1037",
+      "1030",
+      "1031",
+      "1027",
+      "1020",
+      "1021",
+      "1087",
+      "1080",
+      "1081",
+      "1137",
+      "1130",
+      "1131",
+      "1127",
+      "1120",
+      "1121",
+      "1187",
+      "1180",
+      "1181",
+      "2737",
+      "2730",
+      "2731"
     ],
     "frases": [
-      "12h - BA - Resultado do dia 23/04/2025 (Quarta-feira)\nDeu Dezena, Palpite 3133 no 2º Prêmio!",
-      "12h - BA - Resultado do dia 23/04/2025 (Quarta-feira)\nDeu Dezena, Palpite 3733 no 2º Prêmio!",
-      "12h - BA - Resultado do dia 23/04/2025 (Quarta-feira)\nDeu Dezena, Palpite 3833 no 2º Prêmio!",
-      "12h - BA - Resultado do dia 23/04/2025 (Quarta-feira)\nDeu Dezena, Palpite 2133 no 2º Prêmio!",
-      "12h - BA - Resultado do dia 23/04/2025 (Quarta-feira)\nDeu Dezena, Palpite 3115 no 3º Prêmio!",
-      "12h - BA - Resultado do dia 23/04/2025 (Quarta-feira)\nDeu Dezena, Palpite 3715 no 3º Prêmio!",
-      "12h - BA - Resultado do dia 23/04/2025 (Quarta-feira)\nDeu Dezena, Palpite 3815 no 3º Prêmio!"
+      "15h - BA - Resultado do dia 23/04/2025 (Quarta-feira)\nDeu Dezena, Palpite 3433 no 3º Prêmio!",
+      "15h - BA - Resultado do dia 23/04/2025 (Quarta-feira)\nDeu Dezena, Palpite 3633 no 3º Prêmio!",
+      "15h - BA - Resultado do dia 23/04/2025 (Quarta-feira)\nDeu Dezena, Palpite 3033 no 3º Prêmio!"
     ]
   },
   "LOTECE": {
@@ -281,6 +277,10 @@ const palpites = {
       "6912",
       "6918"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 7646 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Milhar, Palpite 7746 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 7146 no 3º Prêmio!"
+    ]
   }
 };
