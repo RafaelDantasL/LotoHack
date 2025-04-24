@@ -33,6 +33,14 @@ const palpites = {
       "0372"
     ],
     "frases": [
+      "10h - MALUCA - Resultado do dia 24/04/2025 (Quinta-feira)\nDeu Dezena, Palpite 4548 no 10º Prêmio!",
+      "10h - MALUCA - Resultado do dia 24/04/2025 (Quinta-feira)\nDeu Dezena, Palpite 4448 no 10º Prêmio!",
+      "10h - MALUCA - Resultado do dia 24/04/2025 (Quinta-feira)\nDeu Dezena, Palpite 4848 no 10º Prêmio!",
+      "10h - MALUCA - Resultado do dia 24/04/2025 (Quinta-feira)\nDeu Dezena, Palpite 3548 no 10º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 24/04/2025 (Quinta-feira)\nDeu Dezena, Palpite 1514 no 9º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 24/04/2025 (Quinta-feira)\nDeu Dezena, Palpite 1614 no 9º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 24/04/2025 (Quinta-feira)\nDeu Dezena, Palpite 1014 no 9º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 24/04/2025 (Quinta-feira)\nDeu Dezena, Palpite 0514 no 9º Prêmio!",
       "19h - MALUCA - BA - Resultado do dia 24/04/2025 (Quinta-feira)\nDeu Dezena, Palpite 2815 no 2º Prêmio!",
       "19h - MALUCA - BA - Resultado do dia 24/04/2025 (Quinta-feira)\nDeu Centena, Palpite 2115 no 2º Prêmio!",
       "19h - MALUCA - BA - Resultado do dia 24/04/2025 (Quinta-feira)\nDeu Dezena, Palpite 2115 no 2º Prêmio!",
@@ -73,41 +81,52 @@ const palpites = {
       "5555",
       "5550"
     ],
-    "frases": []
+    "frases": [
+      "12h - BA - Resultado do dia 24/04/2025 (Quinta-feira)\nDeu Dezena, Palpite 6511 no 6º Prêmio!",
+      "12h - BA - Resultado do dia 24/04/2025 (Quinta-feira)\nDeu Dezena, Palpite 6811 no 6º Prêmio!",
+      "12h - BA - Resultado do dia 24/04/2025 (Quinta-feira)\nDeu Dezena, Palpite 6911 no 6º Prêmio!",
+      "12h - BA - Resultado do dia 24/04/2025 (Quinta-feira)\nDeu Dezena, Palpite 3511 no 6º Prêmio!"
+    ]
   },
-  "PT SP": {
+  "LOTECE": {
     "palpites": [
-      "4129",
-      "4121",
-      "4122",
-      "4139",
-      "4131",
-      "4132",
-      "4189",
-      "4181",
-      "4182",
-      "4329",
-      "4321",
-      "4322",
-      "4339",
-      "4331",
-      "4332",
-      "4389",
-      "4381",
-      "4382",
-      "4829",
-      "4821",
-      "4822",
-      "4839",
-      "4831",
-      "4832",
-      "4889",
-      "4881",
-      "4882",
-      "3129",
-      "3121",
-      "3122"
+      "1056",
+      "1058",
+      "1050",
+      "1006",
+      "1008",
+      "1000",
+      "1016",
+      "1018",
+      "1010",
+      "1856",
+      "1858",
+      "1850",
+      "1806",
+      "1808",
+      "1800",
+      "1816",
+      "1818",
+      "1810",
+      "1256",
+      "1258",
+      "1250",
+      "1206",
+      "1208",
+      "1200",
+      "1216",
+      "1218",
+      "1210",
+      "5056",
+      "5058",
+      "5050"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)\nDeu Centena, Palpite 5698 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)\nDeu Dezena, Palpite 5698 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)\nDeu Dezena, Palpite 5898 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)\nDeu Dezena, Palpite 5798 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)\nDeu Milhar, Palpite 7698 no 10º Prêmio!"
+    ]
   }
 };
