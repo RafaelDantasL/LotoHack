@@ -1,46 +1,43 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "2815",
-      "2818",
-      "2810",
-      "2865",
-      "2868",
-      "2860",
-      "2895",
-      "2898",
-      "2890",
-      "2115",
-      "2118",
-      "2110",
-      "2165",
-      "2168",
-      "2160",
-      "2195",
-      "2198",
-      "2190",
-      "2915",
-      "2918",
-      "2910",
-      "2965",
-      "2968",
-      "2960",
-      "2995",
-      "2998",
-      "2990",
-      "6815",
-      "6818",
-      "6810"
+      "5375",
+      "5371",
+      "5372",
+      "5355",
+      "5351",
+      "5352",
+      "5315",
+      "5311",
+      "5312",
+      "5075",
+      "5071",
+      "5072",
+      "5055",
+      "5051",
+      "5052",
+      "5015",
+      "5011",
+      "5012",
+      "5275",
+      "5271",
+      "5272",
+      "5255",
+      "5251",
+      "5252",
+      "5215",
+      "5211",
+      "5212",
+      "0375",
+      "0371",
+      "0372"
     ],
     "frases": [
-      "10h - MALUCA - Resultado do dia 24/04/2025 (Quinta-feira)\nDeu Dezena, Palpite 4548 no 10º Prêmio!",
-      "10h - MALUCA - Resultado do dia 24/04/2025 (Quinta-feira)\nDeu Dezena, Palpite 4448 no 10º Prêmio!",
-      "10h - MALUCA - Resultado do dia 24/04/2025 (Quinta-feira)\nDeu Dezena, Palpite 4848 no 10º Prêmio!",
-      "10h - MALUCA - Resultado do dia 24/04/2025 (Quinta-feira)\nDeu Dezena, Palpite 3548 no 10º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 24/04/2025 (Quinta-feira)\nDeu Dezena, Palpite 1514 no 9º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 24/04/2025 (Quinta-feira)\nDeu Dezena, Palpite 1614 no 9º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 24/04/2025 (Quinta-feira)\nDeu Dezena, Palpite 1014 no 9º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 24/04/2025 (Quinta-feira)\nDeu Dezena, Palpite 0514 no 9º Prêmio!"
+      "19h - MALUCA - BA - Resultado do dia 24/04/2025 (Quinta-feira)\nDeu Dezena, Palpite 2815 no 2º Prêmio!",
+      "19h - MALUCA - BA - Resultado do dia 24/04/2025 (Quinta-feira)\nDeu Centena, Palpite 2115 no 2º Prêmio!",
+      "19h - MALUCA - BA - Resultado do dia 24/04/2025 (Quinta-feira)\nDeu Dezena, Palpite 2115 no 2º Prêmio!",
+      "19h - MALUCA - BA - Resultado do dia 24/04/2025 (Quinta-feira)\nDeu Dezena, Palpite 2915 no 2º Prêmio!",
+      "19h - MALUCA - BA - Resultado do dia 24/04/2025 (Quinta-feira)\nDeu Dezena, Palpite 6815 no 2º Prêmio!"
     ]
   },
   "BAHIA": {
@@ -76,7 +73,12 @@ const palpites = {
       "5555",
       "5550"
     ],
-    "frases": []
+    "frases": [
+      "12h - BA - Resultado do dia 24/04/2025 (Quinta-feira)\nDeu Dezena, Palpite 6511 no 6º Prêmio!",
+      "12h - BA - Resultado do dia 24/04/2025 (Quinta-feira)\nDeu Dezena, Palpite 6811 no 6º Prêmio!",
+      "12h - BA - Resultado do dia 24/04/2025 (Quinta-feira)\nDeu Dezena, Palpite 6911 no 6º Prêmio!",
+      "12h - BA - Resultado do dia 24/04/2025 (Quinta-feira)\nDeu Dezena, Palpite 3511 no 6º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
