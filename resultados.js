@@ -3379,6 +3379,130 @@ const resultado = {
           "Cachorro"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "8915",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "2º",
+          "8027",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "3º",
+          "9518",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "4º",
+          "1553",
+          "14",
+          "Gato"
+        ],
+        [
+          "5º",
+          "0536",
+          "09",
+          "Cobra"
+        ],
+        [
+          "6º [soma]",
+          "8549",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "560",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "8915",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "2º",
+          "8027",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "3º",
+          "9518",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "4º",
+          "1553",
+          "14",
+          "Gato"
+        ],
+        [
+          "5º",
+          "0536",
+          "09",
+          "Cobra"
+        ],
+        [
+          "6º",
+          "8891",
+          "23",
+          "Urso"
+        ],
+        [
+          "7º",
+          "9055",
+          "14",
+          "Gato"
+        ],
+        [
+          "8º",
+          "1215",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "9º",
+          "5783",
+          "21",
+          "Touro"
+        ],
+        [
+          "10º",
+          "3493",
+          "24",
+          "Veado"
+        ]
+      ]
     }
   ]
 };
