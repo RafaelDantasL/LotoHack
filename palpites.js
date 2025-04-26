@@ -32,6 +32,94 @@ const palpites = {
       "2103",
       "2105"
     ],
-    "frases": []
+    "frases": [
+      "10h - MALUCA - Resultado do dia 26/04/2025 (Sábado)\nDeu Dezena, Palpite 8395 no 8º Prêmio!",
+      "10h - MALUCA - Resultado do dia 26/04/2025 (Sábado)\nDeu Dezena, Palpite 8695 no 8º Prêmio!",
+      "10h - MALUCA - Resultado do dia 26/04/2025 (Sábado)\nDeu Centena, Palpite 8995 no 8º Prêmio!",
+      "10h - MALUCA - Resultado do dia 26/04/2025 (Sábado)\nDeu Dezena, Palpite 8995 no 8º Prêmio!",
+      "10h - MALUCA - Resultado do dia 26/04/2025 (Sábado)\nDeu Dezena, Palpite 8335 no 9º Prêmio!",
+      "10h - MALUCA - Resultado do dia 26/04/2025 (Sábado)\nDeu Dezena, Palpite 8635 no 9º Prêmio!",
+      "10h - MALUCA - Resultado do dia 26/04/2025 (Sábado)\nDeu Dezena, Palpite 8935 no 9º Prêmio!"
+    ]
+  },
+  "BAHIA": {
+    "palpites": [
+      "2180",
+      "2181",
+      "2183",
+      "2120",
+      "2121",
+      "2123",
+      "2160",
+      "2161",
+      "2163",
+      "2580",
+      "2581",
+      "2583",
+      "2520",
+      "2521",
+      "2523",
+      "2560",
+      "2561",
+      "2563",
+      "2980",
+      "2981",
+      "2983",
+      "2920",
+      "2921",
+      "2923",
+      "2960",
+      "2961",
+      "2963",
+      "6180",
+      "6181",
+      "6183"
+    ],
+    "frases": [
+      "12h - BA - Resultado do dia 26/04/2025 (Sábado)\nDeu Dezena, Palpite 1353 no 5º Prêmio!",
+      "12h - BA - Resultado do dia 26/04/2025 (Sábado)\nDeu Dezena, Palpite 1553 no 5º Prêmio!",
+      "12h - BA - Resultado do dia 26/04/2025 (Sábado)\nDeu Dezena, Palpite 1953 no 5º Prêmio!",
+      "12h - BA - Resultado do dia 26/04/2025 (Sábado)\nDeu Dezena, Palpite 6353 no 5º Prêmio!"
+    ]
+  },
+  "LOTECE": {
+    "palpites": [
+      "5326",
+      "5328",
+      "5320",
+      "5396",
+      "5398",
+      "5390",
+      "5346",
+      "5348",
+      "5340",
+      "5426",
+      "5428",
+      "5420",
+      "5496",
+      "5498",
+      "5490",
+      "5446",
+      "5448",
+      "5440",
+      "5026",
+      "5028",
+      "5020",
+      "5096",
+      "5098",
+      "5090",
+      "5046",
+      "5048",
+      "5040",
+      "7326",
+      "7328",
+      "7320"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 0126 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Centena, Palpite 0226 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 0226 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 0426 no 10º Prêmio!"
+    ]
   }
 };
