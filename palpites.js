@@ -1,46 +1,38 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "3587",
-      "3582",
-      "3580",
-      "3567",
-      "3562",
-      "3560",
-      "3517",
-      "3512",
-      "3510",
-      "3387",
-      "3382",
-      "3380",
-      "3367",
-      "3362",
-      "3360",
-      "3317",
-      "3312",
-      "3310",
-      "3487",
-      "3482",
-      "3480",
-      "3467",
-      "3462",
-      "3460",
-      "3417",
-      "3412",
-      "3410",
-      "0587",
-      "0582",
-      "0580"
+      "6101",
+      "6103",
+      "6105",
+      "6181",
+      "6183",
+      "6185",
+      "6191",
+      "6193",
+      "6195",
+      "6401",
+      "6403",
+      "6405",
+      "6481",
+      "6483",
+      "6485",
+      "6491",
+      "6493",
+      "6495",
+      "6801",
+      "6803",
+      "6805",
+      "6881",
+      "6883",
+      "6885",
+      "6891",
+      "6893",
+      "6895",
+      "2101",
+      "2103",
+      "2105"
     ],
-    "frases": [
-      "10h - MALUCA - Resultado do dia 26/04/2025 (Sábado)\nDeu Dezena, Palpite 8395 no 8º Prêmio!",
-      "10h - MALUCA - Resultado do dia 26/04/2025 (Sábado)\nDeu Dezena, Palpite 8695 no 8º Prêmio!",
-      "10h - MALUCA - Resultado do dia 26/04/2025 (Sábado)\nDeu Centena, Palpite 8995 no 8º Prêmio!",
-      "10h - MALUCA - Resultado do dia 26/04/2025 (Sábado)\nDeu Dezena, Palpite 8995 no 8º Prêmio!",
-      "10h - MALUCA - Resultado do dia 26/04/2025 (Sábado)\nDeu Dezena, Palpite 8335 no 9º Prêmio!",
-      "10h - MALUCA - Resultado do dia 26/04/2025 (Sábado)\nDeu Dezena, Palpite 8635 no 9º Prêmio!",
-      "10h - MALUCA - Resultado do dia 26/04/2025 (Sábado)\nDeu Dezena, Palpite 8935 no 9º Prêmio!"
-    ]
+    "frases": []
   },
   "BAHIA": {
     "palpites": [
@@ -75,7 +67,12 @@ const palpites = {
       "6181",
       "6183"
     ],
-    "frases": []
+    "frases": [
+      "12h - BA - Resultado do dia 26/04/2025 (Sábado)\nDeu Dezena, Palpite 1353 no 5º Prêmio!",
+      "12h - BA - Resultado do dia 26/04/2025 (Sábado)\nDeu Dezena, Palpite 1553 no 5º Prêmio!",
+      "12h - BA - Resultado do dia 26/04/2025 (Sábado)\nDeu Dezena, Palpite 1953 no 5º Prêmio!",
+      "12h - BA - Resultado do dia 26/04/2025 (Sábado)\nDeu Dezena, Palpite 6353 no 5º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
