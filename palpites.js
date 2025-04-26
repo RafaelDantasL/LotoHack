@@ -1,45 +1,42 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "6101",
-      "6103",
-      "6105",
-      "6181",
-      "6183",
-      "6185",
-      "6191",
-      "6193",
-      "6195",
-      "6401",
-      "6403",
-      "6405",
-      "6481",
-      "6483",
-      "6485",
-      "6491",
-      "6493",
-      "6495",
-      "6801",
-      "6803",
-      "6805",
-      "6881",
-      "6883",
-      "6885",
-      "6891",
-      "6893",
-      "6895",
-      "2101",
-      "2103",
-      "2105"
+      "6104",
+      "6107",
+      "6109",
+      "6134",
+      "6137",
+      "6139",
+      "6154",
+      "6157",
+      "6159",
+      "6204",
+      "6207",
+      "6209",
+      "6234",
+      "6237",
+      "6239",
+      "6254",
+      "6257",
+      "6259",
+      "6304",
+      "6307",
+      "6309",
+      "6334",
+      "6337",
+      "6339",
+      "6354",
+      "6357",
+      "6359",
+      "8104",
+      "8107",
+      "8109"
     ],
     "frases": [
-      "10h - MALUCA - Resultado do dia 26/04/2025 (Sábado)\nDeu Dezena, Palpite 8395 no 8º Prêmio!",
-      "10h - MALUCA - Resultado do dia 26/04/2025 (Sábado)\nDeu Dezena, Palpite 8695 no 8º Prêmio!",
-      "10h - MALUCA - Resultado do dia 26/04/2025 (Sábado)\nDeu Centena, Palpite 8995 no 8º Prêmio!",
-      "10h - MALUCA - Resultado do dia 26/04/2025 (Sábado)\nDeu Dezena, Palpite 8995 no 8º Prêmio!",
-      "10h - MALUCA - Resultado do dia 26/04/2025 (Sábado)\nDeu Dezena, Palpite 8335 no 9º Prêmio!",
-      "10h - MALUCA - Resultado do dia 26/04/2025 (Sábado)\nDeu Dezena, Palpite 8635 no 9º Prêmio!",
-      "10h - MALUCA - Resultado do dia 26/04/2025 (Sábado)\nDeu Dezena, Palpite 8935 no 9º Prêmio!"
+      "19h FEDERAL - MALUCA - BA - Resultado do dia 26/04/2025 (Sábado)\nDeu Dezena, Palpite 6103 no 7º Prêmio!",
+      "19h FEDERAL - MALUCA - BA - Resultado do dia 26/04/2025 (Sábado)\nDeu Dezena, Palpite 6403 no 7º Prêmio!",
+      "19h FEDERAL - MALUCA - BA - Resultado do dia 26/04/2025 (Sábado)\nDeu Dezena, Palpite 6803 no 7º Prêmio!",
+      "19h FEDERAL - MALUCA - BA - Resultado do dia 26/04/2025 (Sábado)\nDeu Dezena, Palpite 2103 no 7º Prêmio!"
     ]
   },
   "BAHIA": {
@@ -75,7 +72,12 @@ const palpites = {
       "5530",
       "5532"
     ],
-    "frases": []
+    "frases": [
+      "12h - BA - Resultado do dia 26/04/2025 (Sábado)\nDeu Dezena, Palpite 1353 no 5º Prêmio!",
+      "12h - BA - Resultado do dia 26/04/2025 (Sábado)\nDeu Dezena, Palpite 1553 no 5º Prêmio!",
+      "12h - BA - Resultado do dia 26/04/2025 (Sábado)\nDeu Dezena, Palpite 1953 no 5º Prêmio!",
+      "12h - BA - Resultado do dia 26/04/2025 (Sábado)\nDeu Dezena, Palpite 6353 no 5º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
