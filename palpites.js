@@ -84,42 +84,38 @@ const palpites = {
   },
   "LOTECE": {
     "palpites": [
-      "4010",
-      "4013",
-      "4014",
-      "4030",
-      "4033",
-      "4034",
-      "4080",
-      "4083",
-      "4084",
-      "4110",
-      "4113",
-      "4114",
-      "4130",
-      "4133",
-      "4134",
-      "4180",
-      "4183",
-      "4184",
-      "4910",
-      "4913",
-      "4914",
-      "4930",
-      "4933",
-      "4934",
-      "4980",
-      "4983",
-      "4984",
-      "6010",
-      "6013",
-      "6014"
+      "0106",
+      "0100",
+      "0107",
+      "0126",
+      "0120",
+      "0127",
+      "0116",
+      "0110",
+      "0117",
+      "0206",
+      "0200",
+      "0207",
+      "0226",
+      "0220",
+      "0227",
+      "0216",
+      "0210",
+      "0217",
+      "0406",
+      "0400",
+      "0407",
+      "0426",
+      "0420",
+      "0427",
+      "0416",
+      "0410",
+      "0417",
+      "3106",
+      "3100",
+      "3107"
     ],
-    "frases": [
-      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 0340 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 0040 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 0740 no 8º Prêmio!"
-    ]
+    "frases": []
   },
   "LOOK/GOIAS": {
     "palpites": [
@@ -301,6 +297,13 @@ const palpites = {
       "8880",
       "8881"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 8591 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 8091 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 8291 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 6835 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 6135 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 6935 no 2º Prêmio!"
+    ]
   }
 };
