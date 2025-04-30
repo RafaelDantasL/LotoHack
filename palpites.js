@@ -192,6 +192,95 @@ const palpites = {
       "0648",
       "0641"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 5732 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 5032 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Centena, Palpite 5232 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 5232 no 7º Prêmio!"
+    ]
+  },
+  "PT RIO": {
+    "palpites": [
+      "7444",
+      "7442",
+      "7441",
+      "7434",
+      "7432",
+      "7431",
+      "7414",
+      "7412",
+      "7411",
+      "7144",
+      "7142",
+      "7141",
+      "7134",
+      "7132",
+      "7131",
+      "7114",
+      "7112",
+      "7111",
+      "7344",
+      "7342",
+      "7341",
+      "7334",
+      "7332",
+      "7331",
+      "7314",
+      "7312",
+      "7311",
+      "4444",
+      "4442",
+      "4441"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 3336 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 3236 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Centena, Palpite 3436 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 3436 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 5431 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 5031 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Milhar, Palpite 5131 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 1431 no 10º Prêmio!"
+    ]
+  },
+  "PT SP": {
+    "palpites": [
+      "5141",
+      "5142",
+      "5144",
+      "5191",
+      "5192",
+      "5194",
+      "5101",
+      "5102",
+      "5104",
+      "5241",
+      "5242",
+      "5244",
+      "5291",
+      "5292",
+      "5294",
+      "5201",
+      "5202",
+      "5204",
+      "5541",
+      "5542",
+      "5544",
+      "5591",
+      "5592",
+      "5594",
+      "5501",
+      "5502",
+      "5504",
+      "0141",
+      "0142",
+      "0144"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 4641 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Centena, Palpite 4241 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 4241 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 4741 no 4º Prêmio!"
+    ]
   }
 };
