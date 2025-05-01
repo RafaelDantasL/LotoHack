@@ -212,6 +212,12 @@ const palpites = {
       "8540"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 5018 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 5318 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 5718 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 5018 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 5318 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 5718 no 8º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 0687 no 1º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 0187 no 1º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 0487 no 1º Prêmio!",
@@ -220,5 +226,79 @@ const palpites = {
       "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 0417 no 4º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 3617 no 4º Prêmio!"
     ]
+  },
+  "PT SP": {
+    "palpites": [
+      "8606",
+      "8601",
+      "8605",
+      "8616",
+      "8611",
+      "8615",
+      "8636",
+      "8631",
+      "8635",
+      "8706",
+      "8701",
+      "8705",
+      "8716",
+      "8711",
+      "8715",
+      "8736",
+      "8731",
+      "8735",
+      "8106",
+      "8101",
+      "8105",
+      "8116",
+      "8111",
+      "8115",
+      "8136",
+      "8131",
+      "8135",
+      "3606",
+      "3601",
+      "3605"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 8608 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 8208 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 8508 no 5º Prêmio!"
+    ]
+  },
+  "LOTECE": {
+    "palpites": [
+      "0004",
+      "0007",
+      "0002",
+      "0074",
+      "0077",
+      "0072",
+      "0054",
+      "0057",
+      "0052",
+      "0104",
+      "0107",
+      "0102",
+      "0174",
+      "0177",
+      "0172",
+      "0154",
+      "0157",
+      "0152",
+      "0804",
+      "0807",
+      "0802",
+      "0874",
+      "0877",
+      "0872",
+      "0854",
+      "0857",
+      "0852",
+      "6004",
+      "6007",
+      "6002"
+    ],
+    "frases": []
   }
 };
