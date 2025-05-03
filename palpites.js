@@ -1,38 +1,45 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "0231",
-      "0234",
-      "0236",
-      "0201",
-      "0204",
-      "0206",
-      "0211",
-      "0214",
-      "0216",
-      "0431",
-      "0434",
-      "0436",
-      "0401",
-      "0404",
-      "0406",
-      "0411",
-      "0414",
-      "0416",
-      "0531",
-      "0534",
-      "0536",
-      "0501",
-      "0504",
-      "0506",
-      "0511",
-      "0514",
-      "0516",
-      "4231",
-      "4234",
-      "4236"
+      "7208",
+      "7201",
+      "7200",
+      "7268",
+      "7261",
+      "7260",
+      "7298",
+      "7291",
+      "7290",
+      "7908",
+      "7901",
+      "7900",
+      "7968",
+      "7961",
+      "7960",
+      "7998",
+      "7991",
+      "7990",
+      "7308",
+      "7301",
+      "7300",
+      "7368",
+      "7361",
+      "7360",
+      "7398",
+      "7391",
+      "7390",
+      "1208",
+      "1201",
+      "1200"
     ],
-    "frases": []
+    "frases": [
+      "15h - MALUCA - BA - Resultado do dia 03/05/2025 (Sábado)\nDeu Dezena, Palpite 0206 no 3º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 03/05/2025 (Sábado)\nDeu Dezena, Palpite 0406 no 3º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 03/05/2025 (Sábado)\nDeu Dezena, Palpite 0506 no 3º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 03/05/2025 (Sábado)\nDeu Dezena, Palpite 0211 no 5º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 03/05/2025 (Sábado)\nDeu Dezena, Palpite 0411 no 5º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 03/05/2025 (Sábado)\nDeu Dezena, Palpite 0511 no 5º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -67,7 +74,14 @@ const palpites = {
       "0681",
       "0682"
     ],
-    "frases": []
+    "frases": [
+      "10h - BA - Resultado do dia 03/05/2025 (Sábado)\nDeu Dezena, Palpite 3518 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 03/05/2025 (Sábado)\nDeu Dezena, Palpite 3818 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 03/05/2025 (Sábado)\nDeu Dezena, Palpite 3218 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 03/05/2025 (Sábado)\nDeu Dezena, Palpite 3515 no 9º Prêmio!",
+      "10h - BA - Resultado do dia 03/05/2025 (Sábado)\nDeu Dezena, Palpite 3815 no 9º Prêmio!",
+      "10h - BA - Resultado do dia 03/05/2025 (Sábado)\nDeu Dezena, Palpite 3215 no 9º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
