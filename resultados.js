@@ -2652,6 +2652,130 @@ const resultado = {
           "Camelo"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "7528",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "2º",
+          "3817",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "3º",
+          "0329",
+          "08",
+          "Camelo"
+        ],
+        [
+          "4º",
+          "4281",
+          "21",
+          "Touro"
+        ],
+        [
+          "5º",
+          "9426",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "6º [soma]",
+          "5381",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "734",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "7528",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "2º",
+          "3817",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "3º",
+          "0329",
+          "08",
+          "Camelo"
+        ],
+        [
+          "4º",
+          "4281",
+          "21",
+          "Touro"
+        ],
+        [
+          "5º",
+          "9426",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "6º",
+          "7304",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "7º",
+          "5832",
+          "08",
+          "Camelo"
+        ],
+        [
+          "8º",
+          "2128",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "9º",
+          "8791",
+          "23",
+          "Urso"
+        ],
+        [
+          "10º",
+          "9436",
+          "09",
+          "Cobra"
+        ]
+      ]
     }
   ]
 };
