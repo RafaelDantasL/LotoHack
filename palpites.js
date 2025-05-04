@@ -1,49 +1,38 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "1340",
-      "1344",
-      "1345",
-      "1350",
-      "1354",
-      "1355",
-      "1380",
-      "1384",
-      "1385",
-      "1940",
-      "1944",
-      "1945",
-      "1950",
-      "1954",
-      "1955",
-      "1980",
-      "1984",
-      "1985",
-      "1040",
-      "1044",
-      "1045",
-      "1050",
-      "1054",
-      "1055",
-      "1080",
-      "1084",
-      "1085",
-      "3340",
-      "3344",
-      "3345"
+      "6163",
+      "6161",
+      "6160",
+      "6123",
+      "6121",
+      "6120",
+      "6113",
+      "6111",
+      "6110",
+      "6063",
+      "6061",
+      "6060",
+      "6023",
+      "6021",
+      "6020",
+      "6013",
+      "6011",
+      "6010",
+      "6663",
+      "6661",
+      "6660",
+      "6623",
+      "6621",
+      "6620",
+      "6613",
+      "6611",
+      "6610",
+      "0163",
+      "0161",
+      "0160"
     ],
-    "frases": [
-      "15h - MALUCA - BA - Resultado do dia 03/05/2025 (Sábado)\nDeu Dezena, Palpite 0206 no 3º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 03/05/2025 (Sábado)\nDeu Dezena, Palpite 0406 no 3º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 03/05/2025 (Sábado)\nDeu Dezena, Palpite 0506 no 3º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 03/05/2025 (Sábado)\nDeu Dezena, Palpite 0211 no 5º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 03/05/2025 (Sábado)\nDeu Dezena, Palpite 0411 no 5º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 03/05/2025 (Sábado)\nDeu Dezena, Palpite 0511 no 5º Prêmio!",
-      "19h FEDERAL - MALUCA - BA - Resultado do dia 03/05/2025 (Sábado)\nDeu Dezena, Palpite 7260 no 9º Prêmio!",
-      "19h FEDERAL - MALUCA - BA - Resultado do dia 03/05/2025 (Sábado)\nDeu Centena, Palpite 7960 no 9º Prêmio!",
-      "19h FEDERAL - MALUCA - BA - Resultado do dia 03/05/2025 (Sábado)\nDeu Dezena, Palpite 7960 no 9º Prêmio!",
-      "19h FEDERAL - MALUCA - BA - Resultado do dia 03/05/2025 (Sábado)\nDeu Dezena, Palpite 7360 no 9º Prêmio!"
-    ]
+    "frases": []
   },
   "BAHIA": {
     "palpites": [
@@ -78,7 +67,21 @@ const palpites = {
       "6065",
       "6060"
     ],
-    "frases": []
+    "frases": [
+      "10h - BA - Resultado do dia 03/05/2025 (Sábado)\nDeu Dezena, Palpite 3518 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 03/05/2025 (Sábado)\nDeu Dezena, Palpite 3818 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 03/05/2025 (Sábado)\nDeu Dezena, Palpite 3218 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 03/05/2025 (Sábado)\nDeu Dezena, Palpite 3515 no 9º Prêmio!",
+      "10h - BA - Resultado do dia 03/05/2025 (Sábado)\nDeu Dezena, Palpite 3815 no 9º Prêmio!",
+      "10h - BA - Resultado do dia 03/05/2025 (Sábado)\nDeu Dezena, Palpite 3215 no 9º Prêmio!",
+      "19h FEDERAL - BA - Resultado do dia 03/05/2025 (Sábado)\nDeu Dezena, Palpite 6631 no 5º Prêmio!",
+      "19h FEDERAL - BA - Resultado do dia 03/05/2025 (Sábado)\nDeu Dezena, Palpite 6731 no 5º Prêmio!",
+      "19h FEDERAL - BA - Resultado do dia 03/05/2025 (Sábado)\nDeu Dezena, Palpite 6931 no 5º Prêmio!",
+      "19h FEDERAL - BA - Resultado do dia 03/05/2025 (Sábado)\nDeu Dezena, Palpite 6631 no 7º Prêmio!",
+      "19h FEDERAL - BA - Resultado do dia 03/05/2025 (Sábado)\nDeu Centena, Palpite 6731 no 7º Prêmio!",
+      "19h FEDERAL - BA - Resultado do dia 03/05/2025 (Sábado)\nDeu Dezena, Palpite 6731 no 7º Prêmio!",
+      "19h FEDERAL - BA - Resultado do dia 03/05/2025 (Sábado)\nDeu Dezena, Palpite 6931 no 7º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
