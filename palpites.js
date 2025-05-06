@@ -241,9 +241,57 @@ const palpites = {
       "3567"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 7903 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 7303 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 7403 no 4º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 7350 no 1º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 7650 no 1º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 7050 no 1º Prêmio!"
+    ]
+  },
+  "PT SP": {
+    "palpites": [
+      "8660",
+      "8664",
+      "8665",
+      "8650",
+      "8654",
+      "8655",
+      "8670",
+      "8674",
+      "8675",
+      "8060",
+      "8064",
+      "8065",
+      "8050",
+      "8054",
+      "8055",
+      "8070",
+      "8074",
+      "8075",
+      "8160",
+      "8164",
+      "8165",
+      "8150",
+      "8154",
+      "8155",
+      "8170",
+      "8174",
+      "8175",
+      "0660",
+      "0664",
+      "0665"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 4065 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 4565 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 4665 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Centena, Palpite 4059 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 4059 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 4559 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 4659 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Centena, Palpite 5059 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 5059 no 5º Prêmio!"
     ]
   }
 };
