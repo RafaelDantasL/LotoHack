@@ -1922,6 +1922,77 @@ const resultado = {
           "Veado"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho PB - FEDERAL",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "6984",
+          "21",
+          "Touro"
+        ],
+        [
+          "2º",
+          "0768",
+          "17",
+          "Macaco"
+        ],
+        [
+          "3º",
+          "1921",
+          "06",
+          "Cabra"
+        ],
+        [
+          "4º",
+          "5494",
+          "24",
+          "Veado"
+        ],
+        [
+          "5º",
+          "3194",
+          "24",
+          "Veado"
+        ],
+        [
+          "6º",
+          "6015",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "7º",
+          "9794",
+          "24",
+          "Veado"
+        ],
+        [
+          "8º",
+          "8629",
+          "08",
+          "Camelo"
+        ],
+        [
+          "9º",
+          "4814",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "10º",
+          "7613",
+          "04",
+          "Borboleta"
+        ]
+      ]
     }
   ],
   "PT RIO": [
