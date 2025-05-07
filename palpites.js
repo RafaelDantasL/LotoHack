@@ -1,49 +1,41 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "0918",
-      "0919",
-      "0910",
-      "0988",
-      "0989",
-      "0980",
-      "0998",
-      "0999",
-      "0990",
-      "0218",
-      "0219",
-      "0210",
-      "0288",
-      "0289",
-      "0280",
-      "0298",
-      "0299",
-      "0290",
-      "0318",
-      "0319",
-      "0310",
-      "0388",
-      "0389",
-      "0380",
-      "0398",
-      "0399",
-      "0390",
-      "4918",
-      "4919",
-      "4910"
+      "4614",
+      "4612",
+      "4619",
+      "4674",
+      "4672",
+      "4679",
+      "4694",
+      "4692",
+      "4699",
+      "4714",
+      "4712",
+      "4719",
+      "4774",
+      "4772",
+      "4779",
+      "4794",
+      "4792",
+      "4799",
+      "4814",
+      "4812",
+      "4819",
+      "4874",
+      "4872",
+      "4879",
+      "4894",
+      "4892",
+      "4899",
+      "3614",
+      "3612",
+      "3619"
     ],
     "frases": [
-      "12h - MALUCA - BA - Resultado do dia 07/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 1548 no 5º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 07/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 1648 no 5º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 07/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 1948 no 5º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 07/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 9065 no 6º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 07/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 9565 no 6º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 07/05/2025 (Quarta-feira)\nDeu Centena, Palpite 9965 no 6º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 07/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 9965 no 6º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 07/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 9046 no 7º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 07/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 9546 no 7º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 07/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 9946 no 7º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 07/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 1046 no 7º Prêmio!"
+      "19h FEDERAL - MALUCA - BA - Resultado do dia 07/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 0980 no 7º Prêmio!",
+      "19h FEDERAL - MALUCA - BA - Resultado do dia 07/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 0280 no 7º Prêmio!",
+      "19h FEDERAL - MALUCA - BA - Resultado do dia 07/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 0380 no 7º Prêmio!"
     ]
   },
   "BAHIA": {
@@ -79,7 +71,14 @@ const palpites = {
       "0961",
       "0963"
     ],
-    "frases": []
+    "frases": [
+      "15h - BA - Resultado do dia 07/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 0193 no 3º Prêmio!",
+      "15h - BA - Resultado do dia 07/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 0493 no 3º Prêmio!",
+      "15h - BA - Resultado do dia 07/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 0593 no 3º Prêmio!",
+      "15h - BA - Resultado do dia 07/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 0193 no 6º Prêmio!",
+      "15h - BA - Resultado do dia 07/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 0493 no 6º Prêmio!",
+      "15h - BA - Resultado do dia 07/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 0593 no 6º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
