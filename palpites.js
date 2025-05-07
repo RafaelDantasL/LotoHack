@@ -290,58 +290,5 @@ const palpites = {
       "0613"
     ],
     "frases": []
-  },
-  "LOTEP": {
-    "palpites": [
-      "7100",
-      "7101",
-      "7104",
-      "7150",
-      "7151",
-      "7154",
-      "7190",
-      "7191",
-      "7194",
-      "7000",
-      "7001",
-      "7004",
-      "7050",
-      "7051",
-      "7054",
-      "7090",
-      "7091",
-      "7094",
-      "7400",
-      "7401",
-      "7404",
-      "7450",
-      "7451",
-      "7454",
-      "7490",
-      "7491",
-      "7494",
-      "8100",
-      "8101",
-      "8104"
-    ],
-    "frases": [
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 1841 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 1041 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 1141 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 15:45h\nDeu Dezena, Palpite 2680 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 15:45h\nDeu Dezena, Palpite 2080 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 15:45h\nDeu Dezena, Palpite 2180 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 18h\nDeu Dezena, Palpite 6790 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 18h\nDeu Dezena, Palpite 6890 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 18h\nDeu Centena, Palpite 6090 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 18h\nDeu Dezena, Palpite 6090 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 18h\nDeu Dezena, Palpite 6740 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 18h\nDeu Dezena, Palpite 6840 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 18h\nDeu Dezena, Palpite 6040 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 18h\nDeu Dezena, Palpite 0740 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 18h\nDeu Dezena, Palpite 6794 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 18h\nDeu Dezena, Palpite 6894 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 18h\nDeu Dezena, Palpite 6094 no 10º Prêmio!"
-    ]
   }
 };
