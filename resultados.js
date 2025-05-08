@@ -860,6 +860,130 @@ const resultado = {
           "Carneiro"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "9875",
+          "19",
+          "Pavão"
+        ],
+        [
+          "2º",
+          "7920",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "3º",
+          "8801",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "4º",
+          "5048",
+          "12",
+          "Elefante"
+        ],
+        [
+          "5º",
+          "9220",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "6º [soma]",
+          "0864",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "210",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "9875",
+          "19",
+          "Pavão"
+        ],
+        [
+          "2º",
+          "7920",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "3º",
+          "8801",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "4º",
+          "5048",
+          "12",
+          "Elefante"
+        ],
+        [
+          "5º",
+          "9220",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "6º",
+          "9785",
+          "22",
+          "Tigre"
+        ],
+        [
+          "7º",
+          "8980",
+          "20",
+          "Peru"
+        ],
+        [
+          "8º",
+          "7204",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "9º",
+          "5018",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "10º",
+          "1851",
+          "13",
+          "Galo"
+        ]
+      ]
     }
   ],
   "PT SP": [
