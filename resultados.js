@@ -1550,6 +1550,77 @@ const resultado = {
           "Jacaré"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho LOTEP - PB, 18h",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "0134",
+          "09",
+          "Cobra"
+        ],
+        [
+          "2º",
+          "5473",
+          "19",
+          "Pavão"
+        ],
+        [
+          "3º",
+          "1311",
+          "03",
+          "Burro"
+        ],
+        [
+          "4º",
+          "5743",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "5º",
+          "0925",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "6º",
+          "0515",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "7º",
+          "1437",
+          "10",
+          "Coelho"
+        ],
+        [
+          "8º",
+          "3714",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "9º",
+          "4313",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "10º",
+          "3565",
+          "17",
+          "Macaco"
+        ]
+      ]
     }
   ],
   "PT RIO": [
