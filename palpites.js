@@ -180,42 +180,38 @@ const palpites = {
   },
   "LOTEP": {
     "palpites": [
-      "0008",
-      "0006",
-      "0009",
-      "0028",
-      "0026",
-      "0029",
-      "0018",
-      "0016",
-      "0019",
-      "0808",
-      "0806",
-      "0809",
-      "0828",
-      "0826",
-      "0829",
-      "0818",
-      "0816",
-      "0819",
-      "0208",
-      "0206",
-      "0209",
-      "0228",
-      "0226",
-      "0229",
-      "0218",
-      "0216",
-      "0219",
-      "6008",
-      "6006",
-      "6009"
+      "0313",
+      "0315",
+      "0314",
+      "0333",
+      "0335",
+      "0334",
+      "0323",
+      "0325",
+      "0324",
+      "0413",
+      "0415",
+      "0414",
+      "0433",
+      "0435",
+      "0434",
+      "0423",
+      "0425",
+      "0424",
+      "0513",
+      "0515",
+      "0514",
+      "0533",
+      "0535",
+      "0534",
+      "0523",
+      "0525",
+      "0524",
+      "1313",
+      "1315",
+      "1314"
     ],
-    "frases": [
-      "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 0290 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 0090 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 0190 no 3º Prêmio!"
-    ]
+    "frases": []
   },
   "PT RIO": {
     "palpites": [
@@ -308,6 +304,10 @@ const palpites = {
       "5349",
       "5341"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 8186 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 8386 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 8086 no 10º Prêmio!"
+    ]
   }
 };
