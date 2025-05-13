@@ -1,4 +1,43 @@
 const palpites = {
+  "BAHIA MALUCA": {
+    "palpites": [
+      "1793",
+      "1795",
+      "1796",
+      "1723",
+      "1725",
+      "1726",
+      "1703",
+      "1705",
+      "1706",
+      "1893",
+      "1895",
+      "1896",
+      "1823",
+      "1825",
+      "1826",
+      "1803",
+      "1805",
+      "1806",
+      "1093",
+      "1095",
+      "1096",
+      "1023",
+      "1025",
+      "1026",
+      "1003",
+      "1005",
+      "1006",
+      "3793",
+      "3795",
+      "3796"
+    ],
+    "frases": [
+      "10h - MALUCA - Resultado do dia 13/05/2025 (Terça-feira)\nDeu Dezena, Palpite 2227 no 9º Prêmio!",
+      "10h - MALUCA - Resultado do dia 13/05/2025 (Terça-feira)\nDeu Dezena, Palpite 2027 no 9º Prêmio!",
+      "10h - MALUCA - Resultado do dia 13/05/2025 (Terça-feira)\nDeu Dezena, Palpite 2427 no 9º Prêmio!"
+    ]
+  },
   "BAHIA": {
     "palpites": [
       "3301",
@@ -40,41 +79,6 @@ const palpites = {
       "10h - BA - Resultado do dia 13/05/2025 (Terça-feira)\nDeu Dezena, Palpite 8202 no 9º Prêmio!",
       "10h - BA - Resultado do dia 13/05/2025 (Terça-feira)\nDeu Dezena, Palpite 8002 no 9º Prêmio!"
     ]
-  },
-  "BAHIA MALUCA": {
-    "palpites": [
-      "2201",
-      "2207",
-      "2209",
-      "2221",
-      "2227",
-      "2229",
-      "2281",
-      "2287",
-      "2289",
-      "2001",
-      "2007",
-      "2009",
-      "2021",
-      "2027",
-      "2029",
-      "2081",
-      "2087",
-      "2089",
-      "2401",
-      "2407",
-      "2409",
-      "2421",
-      "2427",
-      "2429",
-      "2481",
-      "2487",
-      "2489",
-      "9201",
-      "9207",
-      "9209"
-    ],
-    "frases": []
   },
   "LOTECE": {
     "palpites": [
