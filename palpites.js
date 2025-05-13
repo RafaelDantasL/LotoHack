@@ -32,7 +32,18 @@ const palpites = {
       "2115",
       "2118"
     ],
-    "frases": []
+    "frases": [
+      "10h - MALUCA - Resultado do dia 13/05/2025 (Terça-feira)\nDeu Dezena, Palpite 2227 no 9º Prêmio!",
+      "10h - MALUCA - Resultado do dia 13/05/2025 (Terça-feira)\nDeu Dezena, Palpite 2027 no 9º Prêmio!",
+      "10h - MALUCA - Resultado do dia 13/05/2025 (Terça-feira)\nDeu Dezena, Palpite 2427 no 9º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 13/05/2025 (Terça-feira)\nDeu Dezena, Palpite 1795 no 8º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 13/05/2025 (Terça-feira)\nDeu Dezena, Palpite 1895 no 8º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 13/05/2025 (Terça-feira)\nDeu Dezena, Palpite 1095 no 8º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 13/05/2025 (Terça-feira)\nDeu Dezena, Palpite 3795 no 8º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 13/05/2025 (Terça-feira)\nDeu Dezena, Palpite 1726 no 9º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 13/05/2025 (Terça-feira)\nDeu Dezena, Palpite 1826 no 9º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 13/05/2025 (Terça-feira)\nDeu Dezena, Palpite 1026 no 9º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -68,10 +79,60 @@ const palpites = {
       "1110"
     ],
     "frases": [
+      "10h - BA - Resultado do dia 13/05/2025 (Terça-feira)\nDeu Dezena, Palpite 8101 no 1º Prêmio!",
+      "10h - BA - Resultado do dia 13/05/2025 (Terça-feira)\nDeu Dezena, Palpite 8201 no 1º Prêmio!",
+      "10h - BA - Resultado do dia 13/05/2025 (Terça-feira)\nDeu Dezena, Palpite 8001 no 1º Prêmio!",
+      "10h - BA - Resultado do dia 13/05/2025 (Terça-feira)\nDeu Dezena, Palpite 8102 no 9º Prêmio!",
+      "10h - BA - Resultado do dia 13/05/2025 (Terça-feira)\nDeu Dezena, Palpite 8202 no 9º Prêmio!",
+      "10h - BA - Resultado do dia 13/05/2025 (Terça-feira)\nDeu Dezena, Palpite 8002 no 9º Prêmio!",
+      "12h - BA - Resultado do dia 13/05/2025 (Terça-feira)\nDeu Dezena, Palpite 3321 no 6º Prêmio!",
+      "12h - BA - Resultado do dia 13/05/2025 (Terça-feira)\nDeu Dezena, Palpite 3721 no 6º Prêmio!",
+      "12h - BA - Resultado do dia 13/05/2025 (Terça-feira)\nDeu Centena, Palpite 3021 no 6º Prêmio!",
+      "12h - BA - Resultado do dia 13/05/2025 (Terça-feira)\nDeu Dezena, Palpite 3021 no 6º Prêmio!",
       "15h - BA - Resultado do dia 13/05/2025 (Terça-feira)\nDeu Dezena, Palpite 2126 no 6º Prêmio!",
       "15h - BA - Resultado do dia 13/05/2025 (Terça-feira)\nDeu Dezena, Palpite 2526 no 6º Prêmio!",
       "15h - BA - Resultado do dia 13/05/2025 (Terça-feira)\nDeu Dezena, Palpite 2626 no 6º Prêmio!",
       "15h - BA - Resultado do dia 13/05/2025 (Terça-feira)\nDeu Dezena, Palpite 4126 no 6º Prêmio!"
+    ]
+  },
+  "LOTECE": {
+    "palpites": [
+      "3508",
+      "3509",
+      "3500",
+      "3518",
+      "3519",
+      "3510",
+      "3528",
+      "3529",
+      "3520",
+      "3308",
+      "3309",
+      "3300",
+      "3318",
+      "3319",
+      "3310",
+      "3328",
+      "3329",
+      "3320",
+      "3608",
+      "3609",
+      "3600",
+      "3618",
+      "3619",
+      "3610",
+      "3628",
+      "3629",
+      "3620",
+      "5508",
+      "5509",
+      "5500"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 1282 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 1582 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 1682 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 0282 no 7º Prêmio!"
     ]
   }
 };
