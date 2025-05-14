@@ -1,38 +1,48 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "1910",
-      "1911",
-      "1912",
-      "1970",
-      "1971",
-      "1972",
-      "1900",
-      "1901",
-      "1902",
-      "1610",
-      "1611",
-      "1612",
-      "1670",
-      "1671",
-      "1672",
+      "1505",
+      "1504",
+      "1500",
+      "1515",
+      "1514",
+      "1510",
+      "1535",
+      "1534",
+      "1530",
+      "1605",
+      "1604",
       "1600",
-      "1601",
-      "1602",
-      "1110",
-      "1111",
-      "1112",
-      "1170",
-      "1171",
-      "1172",
-      "1100",
-      "1101",
-      "1102",
-      "2910",
-      "2911",
-      "2912"
+      "1615",
+      "1614",
+      "1610",
+      "1635",
+      "1634",
+      "1630",
+      "1005",
+      "1004",
+      "1000",
+      "1015",
+      "1014",
+      "1010",
+      "1035",
+      "1034",
+      "1030",
+      "3505",
+      "3504",
+      "3500"
     ],
-    "frases": []
+    "frases": [
+      "19h FEDERAL - MALUCA - BA - Resultado do dia 14/05/2025 (Quarta-feira)\nDeu Centena, Palpite 1911 no 3º Prêmio!",
+      "19h FEDERAL - MALUCA - BA - Resultado do dia 14/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 1911 no 3º Prêmio!",
+      "19h FEDERAL - MALUCA - BA - Resultado do dia 14/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 1611 no 3º Prêmio!",
+      "19h FEDERAL - MALUCA - BA - Resultado do dia 14/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 1111 no 3º Prêmio!",
+      "19h FEDERAL - MALUCA - BA - Resultado do dia 14/05/2025 (Quarta-feira)\nDeu Centena, Palpite 2911 no 3º Prêmio!",
+      "19h FEDERAL - MALUCA - BA - Resultado do dia 14/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 2911 no 3º Prêmio!",
+      "19h FEDERAL - MALUCA - BA - Resultado do dia 14/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 1900 no 9º Prêmio!",
+      "19h FEDERAL - MALUCA - BA - Resultado do dia 14/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 1600 no 9º Prêmio!",
+      "19h FEDERAL - MALUCA - BA - Resultado do dia 14/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 1100 no 9º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -67,7 +77,18 @@ const palpites = {
       "5338",
       "5333"
     ],
-    "frases": []
+    "frases": [
+      "10h - BA - Resultado do dia 14/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 0411 no 9º Prêmio!",
+      "10h - BA - Resultado do dia 14/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 0511 no 9º Prêmio!",
+      "10h - BA - Resultado do dia 14/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 0111 no 9º Prêmio!",
+      "12h - BA - Resultado do dia 14/05/2025 (Quarta-feira)\nDeu Centena, Palpite 1386 no 2º Prêmio!",
+      "12h - BA - Resultado do dia 14/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 1386 no 2º Prêmio!",
+      "12h - BA - Resultado do dia 14/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 1486 no 2º Prêmio!",
+      "12h - BA - Resultado do dia 14/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 1086 no 2º Prêmio!",
+      "15h - BA - Resultado do dia 14/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 3316 no 6º Prêmio!",
+      "15h - BA - Resultado do dia 14/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 3716 no 6º Prêmio!",
+      "15h - BA - Resultado do dia 14/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 3016 no 6º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
