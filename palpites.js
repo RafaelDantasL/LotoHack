@@ -32,7 +32,12 @@ const palpites = {
       "3868",
       "3861"
     ],
-    "frases": []
+    "frases": [
+      "15h - MALUCA - BA - Resultado do dia 16/05/2025 (Sexta-feira)\nDeu Centena, Palpite 5189 no 2º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 16/05/2025 (Sexta-feira)\nDeu Dezena, Palpite 5189 no 2º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 16/05/2025 (Sexta-feira)\nDeu Dezena, Palpite 5289 no 2º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 16/05/2025 (Sexta-feira)\nDeu Dezena, Palpite 5689 no 2º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -68,6 +73,22 @@ const palpites = {
       "6231"
     ],
     "frases": [
+      "10h - BA - Resultado do dia 16/05/2025 (Sexta-feira)\nDeu Dezena, Palpite 2303 no 1º Prêmio!",
+      "10h - BA - Resultado do dia 16/05/2025 (Sexta-feira)\nDeu Dezena, Palpite 2703 no 1º Prêmio!",
+      "10h - BA - Resultado do dia 16/05/2025 (Sexta-feira)\nDeu Dezena, Palpite 2003 no 1º Prêmio!",
+      "10h - BA - Resultado do dia 16/05/2025 (Sexta-feira)\nDeu Dezena, Palpite 2303 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 16/05/2025 (Sexta-feira)\nDeu Dezena, Palpite 2703 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 16/05/2025 (Sexta-feira)\nDeu Dezena, Palpite 2003 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 16/05/2025 (Sexta-feira)\nDeu Dezena, Palpite 2365 no 6º Prêmio!",
+      "10h - BA - Resultado do dia 16/05/2025 (Sexta-feira)\nDeu Dezena, Palpite 2765 no 6º Prêmio!",
+      "10h - BA - Resultado do dia 16/05/2025 (Sexta-feira)\nDeu Dezena, Palpite 2065 no 6º Prêmio!",
+      "15h - BA - Resultado do dia 16/05/2025 (Sexta-feira)\nDeu Dezena, Palpite 0529 no 1º Prêmio!",
+      "15h - BA - Resultado do dia 16/05/2025 (Sexta-feira)\nDeu Dezena, Palpite 0929 no 1º Prêmio!",
+      "15h - BA - Resultado do dia 16/05/2025 (Sexta-feira)\nDeu Dezena, Palpite 0329 no 1º Prêmio!",
+      "15h - BA - Resultado do dia 16/05/2025 (Sexta-feira)\nDeu Dezena, Palpite 0519 no 2º Prêmio!",
+      "15h - BA - Resultado do dia 16/05/2025 (Sexta-feira)\nDeu Dezena, Palpite 0919 no 2º Prêmio!",
+      "15h - BA - Resultado do dia 16/05/2025 (Sexta-feira)\nDeu Dezena, Palpite 0319 no 2º Prêmio!",
+      "15h - BA - Resultado do dia 16/05/2025 (Sexta-feira)\nDeu Dezena, Palpite 1519 no 2º Prêmio!",
       "19h - BA - Resultado do dia 16/05/2025 (Sexta-feira)\nDeu Dezena, Palpite 0181 no 5º Prêmio!",
       "19h - BA - Resultado do dia 16/05/2025 (Sexta-feira)\nDeu Centena, Palpite 0281 no 5º Prêmio!",
       "19h - BA - Resultado do dia 16/05/2025 (Sexta-feira)\nDeu Dezena, Palpite 0281 no 5º Prêmio!",
@@ -76,5 +97,40 @@ const palpites = {
       "19h - BA - Resultado do dia 16/05/2025 (Sexta-feira)\nDeu Dezena, Palpite 0209 no 9º Prêmio!",
       "19h - BA - Resultado do dia 16/05/2025 (Sexta-feira)\nDeu Dezena, Palpite 0809 no 9º Prêmio!"
     ]
+  },
+  "LOTECE": {
+    "palpites": [
+      "6532",
+      "6534",
+      "6531",
+      "6562",
+      "6564",
+      "6561",
+      "6592",
+      "6594",
+      "6591",
+      "6732",
+      "6734",
+      "6731",
+      "6762",
+      "6764",
+      "6761",
+      "6792",
+      "6794",
+      "6791",
+      "6832",
+      "6834",
+      "6831",
+      "6862",
+      "6864",
+      "6861",
+      "6892",
+      "6894",
+      "6891",
+      "0532",
+      "0534",
+      "0531"
+    ],
+    "frases": []
   }
 };
