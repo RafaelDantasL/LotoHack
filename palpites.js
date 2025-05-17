@@ -32,7 +32,23 @@ const palpites = {
       "5422",
       "5425"
     ],
-    "frases": []
+    "frases": [
+      "10h - MALUCA - Resultado do dia 17/05/2025 (Sábado)\nDeu Dezena, Palpite 9730 no 2º Prêmio!",
+      "10h - MALUCA - Resultado do dia 17/05/2025 (Sábado)\nDeu Dezena, Palpite 9930 no 2º Prêmio!",
+      "10h - MALUCA - Resultado do dia 17/05/2025 (Sábado)\nDeu Dezena, Palpite 9330 no 2º Prêmio!",
+      "10h - MALUCA - Resultado do dia 17/05/2025 (Sábado)\nDeu Dezena, Palpite 9713 no 10º Prêmio!",
+      "10h - MALUCA - Resultado do dia 17/05/2025 (Sábado)\nDeu Dezena, Palpite 9913 no 10º Prêmio!",
+      "10h - MALUCA - Resultado do dia 17/05/2025 (Sábado)\nDeu Dezena, Palpite 9313 no 10º Prêmio!",
+      "10h - MALUCA - Resultado do dia 17/05/2025 (Sábado)\nDeu Dezena, Palpite 1713 no 10º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 17/05/2025 (Sábado)\nDeu Dezena, Palpite 2211 no 3º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 17/05/2025 (Sábado)\nDeu Dezena, Palpite 2311 no 3º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 17/05/2025 (Sábado)\nDeu Dezena, Palpite 2411 no 3º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 17/05/2025 (Sábado)\nDeu Dezena, Palpite 3211 no 3º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 17/05/2025 (Sábado)\nDeu Dezena, Palpite 2511 no 10º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 17/05/2025 (Sábado)\nDeu Dezena, Palpite 2611 no 10º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 17/05/2025 (Sábado)\nDeu Dezena, Palpite 2711 no 10º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 17/05/2025 (Sábado)\nDeu Dezena, Palpite 8511 no 10º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -336,42 +352,37 @@ const palpites = {
   },
   "PT SP": {
     "palpites": [
-      "1100",
-      "1102",
-      "1101",
-      "1120",
-      "1122",
-      "1121",
-      "1130",
-      "1132",
-      "1131",
-      "1500",
-      "1502",
-      "1501",
-      "1520",
-      "1522",
-      "1521",
-      "1530",
-      "1532",
-      "1531",
-      "1800",
-      "1802",
-      "1801",
-      "1820",
-      "1822",
-      "1821",
-      "1830",
-      "1832",
-      "1831",
-      "5100",
-      "5102",
-      "5101"
+      "1612",
+      "1611",
+      "1614",
+      "1642",
+      "1641",
+      "1644",
+      "1652",
+      "1651",
+      "1654",
+      "1212",
+      "1211",
+      "1214",
+      "1242",
+      "1241",
+      "1244",
+      "1252",
+      "1251",
+      "1254",
+      "1712",
+      "1711",
+      "1714",
+      "1742",
+      "1741",
+      "1744",
+      "1752",
+      "1751",
+      "1754",
+      "4612",
+      "4611",
+      "4614"
     ],
-    "frases": [
-      "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 9055 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 9355 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 10º\nDeu Centena, Palpite 9155 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 9155 no 5º Prêmio!"
-    ]
+    "frases": []
   }
 };
