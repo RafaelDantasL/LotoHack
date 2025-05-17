@@ -283,6 +283,77 @@ const resultado = {
           "Cavalo"
         ]
       ]
+    },
+    {
+      "titulo": "21h - MALUCA - BA - Resultado do dia 16/05/2025 (Sexta-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "9485",
+          "22",
+          "Tigre"
+        ],
+        [
+          "2º",
+          "9725",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "3º",
+          "9618",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "4º",
+          "0397",
+          "25",
+          "Vaca"
+        ],
+        [
+          "5º",
+          "4713",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "6º",
+          "6960",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "7º",
+          "4740",
+          "10",
+          "Coelho"
+        ],
+        [
+          "8º",
+          "1713",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "9º",
+          "1938",
+          "10",
+          "Coelho"
+        ],
+        [
+          "10º",
+          "8528",
+          "07",
+          "Carneiro"
+        ]
+      ]
     }
   ],
   "BAHIA": [
