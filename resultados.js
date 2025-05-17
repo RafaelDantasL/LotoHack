@@ -860,6 +860,130 @@ const resultado = {
           "Borboleta"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "8715",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "2º",
+          "6799",
+          "25",
+          "Vaca"
+        ],
+        [
+          "3º",
+          "6412",
+          "03",
+          "Burro"
+        ],
+        [
+          "4º",
+          "6045",
+          "12",
+          "Elefante"
+        ],
+        [
+          "5º",
+          "0727",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "6º [soma]",
+          "8698",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "253",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "8715",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "2º",
+          "6799",
+          "25",
+          "Vaca"
+        ],
+        [
+          "3º",
+          "6412",
+          "03",
+          "Burro"
+        ],
+        [
+          "4º",
+          "6045",
+          "12",
+          "Elefante"
+        ],
+        [
+          "5º",
+          "0727",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "6º",
+          "8666",
+          "17",
+          "Macaco"
+        ],
+        [
+          "7º",
+          "7740",
+          "10",
+          "Coelho"
+        ],
+        [
+          "8º",
+          "1914",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "9º",
+          "5925",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "10º",
+          "2943",
+          "11",
+          "Cavalo"
+        ]
+      ]
     }
   ],
   "PT SP": [
