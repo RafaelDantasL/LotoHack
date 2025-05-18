@@ -1,41 +1,44 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "1061",
-      "1067",
-      "1060",
-      "1021",
-      "1027",
-      "1020",
-      "1011",
-      "1017",
-      "1010",
-      "1361",
-      "1367",
-      "1360",
-      "1321",
-      "1327",
-      "1320",
-      "1311",
-      "1317",
-      "1310",
-      "1761",
-      "1767",
-      "1760",
-      "1721",
-      "1727",
-      "1720",
-      "1711",
-      "1717",
-      "1710",
-      "5061",
-      "5067",
-      "5060"
+      "1111",
+      "1113",
+      "1115",
+      "1101",
+      "1103",
+      "1105",
+      "1121",
+      "1123",
+      "1125",
+      "1211",
+      "1213",
+      "1215",
+      "1201",
+      "1203",
+      "1205",
+      "1221",
+      "1223",
+      "1225",
+      "1811",
+      "1813",
+      "1815",
+      "1801",
+      "1803",
+      "1805",
+      "1821",
+      "1823",
+      "1825",
+      "3111",
+      "3113",
+      "3115"
     ],
     "frases": [
-      "10h - MALUCA - Resultado do dia 18/05/2025 (Domingo)\nDeu Dezena, Palpite 2222 no 7º Prêmio!",
-      "10h - MALUCA - Resultado do dia 18/05/2025 (Domingo)\nDeu Dezena, Palpite 2322 no 7º Prêmio!",
-      "10h - MALUCA - Resultado do dia 18/05/2025 (Domingo)\nDeu Milhar, Palpite 2522 no 7º Prêmio!"
+      "15h - MALUCA - BA - Resultado do dia 18/05/2025 (Domingo)\nDeu Dezena, Palpite 1027 no 3º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 18/05/2025 (Domingo)\nDeu Dezena, Palpite 1327 no 3º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 18/05/2025 (Domingo)\nDeu Dezena, Palpite 1727 no 3º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 18/05/2025 (Domingo)\nDeu Dezena, Palpite 1011 no 6º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 18/05/2025 (Domingo)\nDeu Dezena, Palpite 1311 no 6º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 18/05/2025 (Domingo)\nDeu Dezena, Palpite 1711 no 6º Prêmio!"
     ]
   },
   "BAHIA": {
@@ -71,7 +74,12 @@ const palpites = {
       "6635",
       "6638"
     ],
-    "frases": []
+    "frases": [
+      "12h - BA - Resultado do dia 18/05/2025 (Domingo)\nDeu Dezena, Palpite 5020 no 5º Prêmio!",
+      "12h - BA - Resultado do dia 18/05/2025 (Domingo)\nDeu Dezena, Palpite 5220 no 5º Prêmio!",
+      "12h - BA - Resultado do dia 18/05/2025 (Domingo)\nDeu Dezena, Palpite 5520 no 5º Prêmio!",
+      "12h - BA - Resultado do dia 18/05/2025 (Domingo)\nDeu Dezena, Palpite 8020 no 5º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
