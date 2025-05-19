@@ -1,4 +1,43 @@
 const palpites = {
+  "BAHIA MALUCA": {
+    "palpites": [
+      "5242",
+      "5248",
+      "5240",
+      "5212",
+      "5218",
+      "5210",
+      "5252",
+      "5258",
+      "5250",
+      "5642",
+      "5648",
+      "5640",
+      "5612",
+      "5618",
+      "5610",
+      "5652",
+      "5658",
+      "5650",
+      "5842",
+      "5848",
+      "5840",
+      "5812",
+      "5818",
+      "5810",
+      "5852",
+      "5858",
+      "5850",
+      "6242",
+      "6248",
+      "6240"
+    ],
+    "frases": [
+      "10h - MALUCA - Resultado do dia 19/05/2025 (Segunda-feira)\nDeu Dezena, Palpite 1125 no 5º Prêmio!",
+      "10h - MALUCA - Resultado do dia 19/05/2025 (Segunda-feira)\nDeu Dezena, Palpite 1225 no 5º Prêmio!",
+      "10h - MALUCA - Resultado do dia 19/05/2025 (Segunda-feira)\nDeu Dezena, Palpite 1825 no 5º Prêmio!"
+    ]
+  },
   "BAHIA": {
     "palpites": [
       "1415",
@@ -43,41 +82,6 @@ const palpites = {
       "10h - BA - Resultado do dia 19/05/2025 (Segunda-feira)\nDeu Dezena, Palpite 1118 no 7º Prêmio!",
       "10h - BA - Resultado do dia 19/05/2025 (Segunda-feira)\nDeu Dezena, Palpite 1218 no 7º Prêmio!"
     ]
-  },
-  "BAHIA MALUCA": {
-    "palpites": [
-      "1111",
-      "1113",
-      "1115",
-      "1101",
-      "1103",
-      "1105",
-      "1121",
-      "1123",
-      "1125",
-      "1211",
-      "1213",
-      "1215",
-      "1201",
-      "1203",
-      "1205",
-      "1221",
-      "1223",
-      "1225",
-      "1811",
-      "1813",
-      "1815",
-      "1801",
-      "1803",
-      "1805",
-      "1821",
-      "1823",
-      "1825",
-      "3111",
-      "3113",
-      "3115"
-    ],
-    "frases": []
   },
   "LOTECE": {
     "palpites": [
