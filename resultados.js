@@ -70,6 +70,77 @@ const resultado = {
           "Carneiro"
         ]
       ]
+    },
+    {
+      "titulo": "12h - MALUCA - BA - Resultado do dia 20/05/2025 (Terça-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "6546",
+          "12",
+          "Elefante"
+        ],
+        [
+          "2º",
+          "5748",
+          "12",
+          "Elefante"
+        ],
+        [
+          "3º",
+          "2414",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "4º",
+          "0428",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "5º",
+          "9016",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "6º",
+          "5960",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "7º",
+          "0935",
+          "09",
+          "Cobra"
+        ],
+        [
+          "8º",
+          "3541",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "9º",
+          "8919",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "10º",
+          "3533",
+          "09",
+          "Cobra"
+        ]
+      ]
     }
   ],
   "BAHIA": [
@@ -1303,6 +1374,59 @@ const resultado = {
           "3994",
           "24",
           "Veado"
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 12:00 - PTSP",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "2807",
+          "02",
+          "Águia"
+        ],
+        [
+          "2º",
+          "2145",
+          "12",
+          "Elefante"
+        ],
+        [
+          "3º",
+          "0699",
+          "25",
+          "Vaca"
+        ],
+        [
+          "4º",
+          "9501",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "5º",
+          "6690",
+          "23",
+          "Urso"
+        ],
+        [
+          "6º [soma]",
+          "1842",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "021",
+          "",
+          ""
         ]
       ]
     }
