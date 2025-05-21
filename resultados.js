@@ -1749,6 +1749,59 @@ const resultado = {
   ],
   "PT RIO": [
     {
+      "titulo": "Resultado do Jogo do Bicho A FEDERAL DO BRASIL - RJ",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "6002",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "2º",
+          "9654",
+          "14",
+          "Gato"
+        ],
+        [
+          "3º",
+          "8057",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "4º",
+          "2187",
+          "22",
+          "Tigre"
+        ],
+        [
+          "5º",
+          "6499",
+          "25",
+          "Vaca"
+        ],
+        [
+          "6º [soma]",
+          "2399",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "623",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
       "titulo": "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 5º",
       "conteudo": [
         [
@@ -2916,6 +2969,130 @@ const resultado = {
           "9186",
           "22",
           "Tigre"
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 19hs - PT FEDERAL, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "6002",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "2º",
+          "9654",
+          "14",
+          "Gato"
+        ],
+        [
+          "3º",
+          "8057",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "4º",
+          "2187",
+          "22",
+          "Tigre"
+        ],
+        [
+          "5º",
+          "6499",
+          "25",
+          "Vaca"
+        ],
+        [
+          "6º [soma]",
+          "2399",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "623",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 19hs - PT FEDERAL, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "6002",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "2º",
+          "9654",
+          "14",
+          "Gato"
+        ],
+        [
+          "3º",
+          "8057",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "4º",
+          "2187",
+          "22",
+          "Tigre"
+        ],
+        [
+          "5º",
+          "6499",
+          "25",
+          "Vaca"
+        ],
+        [
+          "6º",
+          "6982",
+          "21",
+          "Touro"
+        ],
+        [
+          "7º",
+          "0601",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "8º",
+          "0558",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "9º",
+          "2477",
+          "20",
+          "Peru"
+        ],
+        [
+          "10º",
+          "3017",
+          "05",
+          "Cachorro"
         ]
       ]
     }
