@@ -1,38 +1,46 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "0309",
-      "0308",
-      "0300",
-      "0319",
-      "0318",
-      "0310",
-      "0329",
-      "0328",
-      "0320",
-      "0009",
-      "0008",
-      "0000",
-      "0019",
-      "0018",
-      "0010",
-      "0029",
-      "0028",
-      "0020",
-      "0109",
-      "0108",
-      "0100",
-      "0119",
-      "0118",
-      "0110",
-      "0129",
-      "0128",
-      "0120",
-      "3309",
-      "3308",
-      "3300"
+      "2212",
+      "2213",
+      "2218",
+      "2262",
+      "2263",
+      "2268",
+      "2222",
+      "2223",
+      "2228",
+      "2112",
+      "2113",
+      "2118",
+      "2162",
+      "2163",
+      "2168",
+      "2122",
+      "2123",
+      "2128",
+      "2412",
+      "2413",
+      "2418",
+      "2462",
+      "2463",
+      "2468",
+      "2422",
+      "2423",
+      "2428",
+      "4212",
+      "4213",
+      "4218"
     ],
-    "frases": []
+    "frases": [
+      "12h - MALUCA - BA - Resultado do dia 23/05/2025 (Sexta-feira)\nDeu Dezena, Palpite 0318 no 1º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 23/05/2025 (Sexta-feira)\nDeu Dezena, Palpite 0018 no 1º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 23/05/2025 (Sexta-feira)\nDeu Dezena, Palpite 0118 no 1º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 23/05/2025 (Sexta-feira)\nDeu Dezena, Palpite 0320 no 4º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 23/05/2025 (Sexta-feira)\nDeu Dezena, Palpite 0020 no 4º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 23/05/2025 (Sexta-feira)\nDeu Centena, Palpite 0120 no 4º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 23/05/2025 (Sexta-feira)\nDeu Dezena, Palpite 0120 no 4º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -67,7 +75,12 @@ const palpites = {
       "2621",
       "2628"
     ],
-    "frases": []
+    "frases": [
+      "10h - BA - Resultado do dia 23/05/2025 (Sexta-feira)\nDeu Dezena, Palpite 0430 no 1º Prêmio!",
+      "10h - BA - Resultado do dia 23/05/2025 (Sexta-feira)\nDeu Dezena, Palpite 0530 no 1º Prêmio!",
+      "10h - BA - Resultado do dia 23/05/2025 (Sexta-feira)\nDeu Dezena, Palpite 0930 no 1º Prêmio!",
+      "10h - BA - Resultado do dia 23/05/2025 (Sexta-feira)\nDeu Dezena, Palpite 4430 no 1º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
