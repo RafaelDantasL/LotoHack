@@ -116,5 +116,45 @@ const palpites = {
       "4297"
     ],
     "frases": []
+  },
+  "LOOK/GOIAS": {
+    "palpites": [
+      "9042",
+      "9044",
+      "9040",
+      "9032",
+      "9034",
+      "9030",
+      "9002",
+      "9004",
+      "9000",
+      "9542",
+      "9544",
+      "9540",
+      "9532",
+      "9534",
+      "9530",
+      "9502",
+      "9504",
+      "9500",
+      "9742",
+      "9744",
+      "9740",
+      "9732",
+      "9734",
+      "9730",
+      "9702",
+      "9704",
+      "9700",
+      "8042",
+      "8044",
+      "8040"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 14h, 1º ao 10º\nDeu Dezena, Palpite 7358 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 14h, 1º ao 10º\nDeu Dezena, Palpite 7658 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 14h, 1º ao 10º\nDeu Dezena, Palpite 7758 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 14h, 1º ao 10º\nDeu Dezena, Palpite 2358 no 1º Prêmio!"
+    ]
   }
 };
