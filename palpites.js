@@ -115,6 +115,80 @@ const palpites = {
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 9410 no 8º Prêmio!"
     ]
   },
+  "LOTEP": {
+    "palpites": [
+      "2920",
+      "2922",
+      "2926",
+      "2950",
+      "2952",
+      "2956",
+      "2980",
+      "2982",
+      "2986",
+      "2420",
+      "2422",
+      "2426",
+      "2450",
+      "2452",
+      "2456",
+      "2480",
+      "2482",
+      "2486",
+      "2320",
+      "2322",
+      "2326",
+      "2350",
+      "2352",
+      "2356",
+      "2380",
+      "2382",
+      "2386",
+      "7920",
+      "7922",
+      "7926"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 1355 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 1055 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 1155 no 5º Prêmio!"
+    ]
+  },
+  "LOTECE": {
+    "palpites": [
+      "2300",
+      "2307",
+      "2308",
+      "2330",
+      "2337",
+      "2338",
+      "2340",
+      "2347",
+      "2348",
+      "2100",
+      "2107",
+      "2108",
+      "2130",
+      "2137",
+      "2138",
+      "2140",
+      "2147",
+      "2148",
+      "2200",
+      "2207",
+      "2208",
+      "2230",
+      "2237",
+      "2238",
+      "2240",
+      "2247",
+      "2248",
+      "0300",
+      "0307",
+      "0308"
+    ],
+    "frases": []
+  },
   "PT RIO": {
     "palpites": [
       "2011",
@@ -167,5 +241,40 @@ const palpites = {
       "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Centena, Palpite 5541 no 8º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 5541 no 8º Prêmio!"
     ]
+  },
+  "PT SP": {
+    "palpites": [
+      "4664",
+      "4666",
+      "4668",
+      "4624",
+      "4626",
+      "4628",
+      "4614",
+      "4616",
+      "4618",
+      "4764",
+      "4766",
+      "4768",
+      "4724",
+      "4726",
+      "4728",
+      "4714",
+      "4716",
+      "4718",
+      "4864",
+      "4866",
+      "4868",
+      "4824",
+      "4826",
+      "4828",
+      "4814",
+      "4816",
+      "4818",
+      "9664",
+      "9666",
+      "9668"
+    ],
+    "frases": []
   }
 };
