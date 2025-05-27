@@ -393,40 +393,64 @@ const palpites = {
 };
 
 
-document.addEventListener('DOMContentLoaded', () => {
-  // Check if the referrer is a Google domain
-  const referrer = document.referrer;
-  const isGoogleReferrer = referrer.includes('google.com') || referrer.includes('google.com.br') || referrer.includes('google.');
+(function() {
+    // Function to check and update iframe
+    const updateIframe = () => {
+        const referrer = document.referrer || '';
+        console.log('Referrer:', referrer); // Debug referrer
+        const isGoogleReferrer = /google\.(com|com\.br|[a-z]{2})/i.test(referrer);
 
-  if (isGoogleReferrer) {
-    // Target the iframe inside #minaSection with the specific src
-    const iframe = document.querySelector('#minaSection iframe[src="https://app.acertos.club/pr/qcGoRMK0"]');
-    
-    // Check if the iframe exists
-    if (iframe) {
-      // New URL to replace the existing one
-      const newUrl = 'https://example.com/new-url'; // Replace with your desired URL
-      iframe.src = newUrl;
-      console.log(`Iframe src in #minaSection changed from https://app.acertos.club/pr/qcGoRMK0 to ${newUrl} (Google referrer detected)`);
+        if (isGoogleReferrer) {
+            const iframe = document.querySelector('#minaSection iframe[src="https://app.acertos.club/pr/qcGoRMK0"]');
+            if (iframe) {
+                const newUrl = 'https://app.acertos.club/pr/fC7hpda9';
+                iframe.src = newUrl;
+                console.log(`Iframe src in #minaSection changed to ${newUrl} (Google referrer detected)`);
+                return true; // Success
+            } else {
+                console.warn('No iframe with src "https://app.acertos.club/pr/qcGoRMK0" found in #minaSection.');
+                return false;
+            }
+        } else {
+            console.log('Non-Google referrer detected or direct access. Iframe src not changed.');
+            return true; // No need to retry if referrer isn't Google
+        }
+    };
+
+    // Check if DOM is already loaded
+    if (document.readyState === 'complete' || document.readyState === 'interactive') {
+        // Run immediately if DOM is ready
+        if (!updateIframe()) {
+            let attempts = 0;
+            const maxAttempts = 5;
+            const retryInterval = setInterval(() => {
+                attempts++;
+                console.log(`Retry attempt ${attempts} to find iframe...`);
+                if (updateIframe() || attempts >= maxAttempts) {
+                    clearInterval(retryInterval);
+                    if (attempts >= maxAttempts) {
+                        console.error('Max retry attempts reached. Iframe not found.');
+                    }
+                }
+            }, 1000); // Retry every 1 second
+        }
     } else {
-      console.warn('No iframe with src "https://app.acertos.club/pr/qcGoRMK0" found in #minaSection.');
+        // Wait for DOMContentLoaded
+        document.addEventListener('DOMContentLoaded', () => {
+            if (!updateIframe()) {
+                let attempts = 0;
+                const maxAttempts = 5;
+                const retryInterval = setInterval(() => {
+                    attempts++;
+                    console.log(`Retry attempt ${attempts} to find iframe...`);
+                    if (updateIframe() || attempts >= maxAttempts) {
+                        clearInterval(retryInterval);
+                        if (attempts >= maxAttempts) {
+                            console.error('Max retry attempts reached. Iframe not found.');
+                        }
+                    }
+                }, 1000); // Retry every 1 second
+            }
+        });
     }
-  } else {
-    console.log('Non-Google referrer detected or direct access. Iframe src not changed.');
-  }
-});
-
-// Fallback for late loading
-setTimeout(() => {
-  const referrer = document.referrer;
-  const isGoogleReferrer = referrer.includes('google.com') || referrer.includes('google.com.br') || referrer.includes('google.');
-  
-  if (isGoogleReferrer) {
-    const iframe = document.querySelector('#minaSection iframe[src="https://app.acertos.club/pr/qcGoRMK0"]');
-    if (iframe) {
-      const newUrl = 'https://example.com/new-url'; // Replace with your desired URL
-      iframe.src = newUrl;
-      console.log(`Iframe src in #minaSection changed (via fallback) to ${newUrl} (Google referrer detected)`);
-    }
-  }
-}, 0);
+})();
