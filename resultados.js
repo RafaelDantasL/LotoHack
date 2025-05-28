@@ -212,6 +212,77 @@ const resultado = {
           "Avestruz"
         ]
       ]
+    },
+    {
+      "titulo": "19h FEDERAL - MALUCA - BA - Resultado do dia 28/05/2025 (Quarta-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "6940",
+          "10",
+          "Coelho"
+        ],
+        [
+          "2º",
+          "3223",
+          "06",
+          "Cabra"
+        ],
+        [
+          "3º",
+          "8958",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "4º",
+          "5211",
+          "03",
+          "Burro"
+        ],
+        [
+          "5º",
+          "3684",
+          "21",
+          "Touro"
+        ],
+        [
+          "6º",
+          "9493",
+          "24",
+          "Veado"
+        ],
+        [
+          "7º",
+          "1245",
+          "12",
+          "Elefante"
+        ],
+        [
+          "8º",
+          "0857",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "9º",
+          "8740",
+          "10",
+          "Coelho"
+        ],
+        [
+          "10º",
+          "0917",
+          "05",
+          "Cachorro"
+        ]
+      ]
     }
   ],
   "BAHIA": [
