@@ -86,7 +86,14 @@ const palpites = {
       "10h - BA - Resultado do dia 28/05/2025 (Quarta-feira)\nDeu Centena, Palpite 8013 no 8º Prêmio!",
       "10h - BA - Resultado do dia 28/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 8013 no 8º Prêmio!",
       "10h - BA - Resultado do dia 28/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 8213 no 8º Prêmio!",
-      "10h - BA - Resultado do dia 28/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 2113 no 8º Prêmio!"
+      "10h - BA - Resultado do dia 28/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 2113 no 8º Prêmio!",
+      "10h - BA - Resultado do dia 28/05/2025 (Quarta-feira)\nDeu Centena, Palpite 1157 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 28/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 1157 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 28/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 1257 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 28/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 1557 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 28/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 1157 no 5º Prêmio!",
+      "10h - BA - Resultado do dia 28/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 1257 no 5º Prêmio!",
+      "10h - BA - Resultado do dia 28/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 1557 no 5º Prêmio!"
     ]
   },
   "LOTECE": {
@@ -248,5 +255,40 @@ const palpites = {
       "Resultado do Jogo do Bicho RJ, 14:20, PT, 1º ao 10º\nDeu Dezena, Palpite 2095 no 5º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 14:20, PT, 1º ao 10º\nDeu Dezena, Palpite 2195 no 5º Prêmio!"
     ]
+  },
+  "PT SP": {
+    "palpites": [
+      "7055",
+      "7053",
+      "7052",
+      "7015",
+      "7013",
+      "7012",
+      "7095",
+      "7093",
+      "7092",
+      "7755",
+      "7753",
+      "7752",
+      "7715",
+      "7713",
+      "7712",
+      "7795",
+      "7793",
+      "7792",
+      "7255",
+      "7253",
+      "7252",
+      "7215",
+      "7213",
+      "7212",
+      "7295",
+      "7293",
+      "7292",
+      "5055",
+      "5053",
+      "5052"
+    ],
+    "frases": []
   }
 };
