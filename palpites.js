@@ -86,14 +86,7 @@ const palpites = {
       "10h - BA - Resultado do dia 28/05/2025 (Quarta-feira)\nDeu Centena, Palpite 8013 no 8º Prêmio!",
       "10h - BA - Resultado do dia 28/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 8013 no 8º Prêmio!",
       "10h - BA - Resultado do dia 28/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 8213 no 8º Prêmio!",
-      "10h - BA - Resultado do dia 28/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 2113 no 8º Prêmio!",
-      "10h - BA - Resultado do dia 28/05/2025 (Quarta-feira)\nDeu Centena, Palpite 1157 no 2º Prêmio!",
-      "10h - BA - Resultado do dia 28/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 1157 no 2º Prêmio!",
-      "10h - BA - Resultado do dia 28/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 1257 no 2º Prêmio!",
-      "10h - BA - Resultado do dia 28/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 1557 no 2º Prêmio!",
-      "10h - BA - Resultado do dia 28/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 1157 no 5º Prêmio!",
-      "10h - BA - Resultado do dia 28/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 1257 no 5º Prêmio!",
-      "10h - BA - Resultado do dia 28/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 1557 no 5º Prêmio!"
+      "10h - BA - Resultado do dia 28/05/2025 (Quarta-feira)\nDeu Dezena, Palpite 2113 no 8º Prêmio!"
     ]
   },
   "LOTECE": {
