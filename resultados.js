@@ -285,6 +285,77 @@ const resultado = {
           "Porco"
         ]
       ]
+    },
+    {
+      "titulo": "15h - BA - Resultado do dia 28/05/2025 (Quarta-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "5427",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "2º",
+          "2037",
+          "10",
+          "Coelho"
+        ],
+        [
+          "3º",
+          "5335",
+          "09",
+          "Cobra"
+        ],
+        [
+          "4º",
+          "4916",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "5º",
+          "9502",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "6º",
+          "1888",
+          "22",
+          "Tigre"
+        ],
+        [
+          "7º",
+          "6047",
+          "12",
+          "Elefante"
+        ],
+        [
+          "8º",
+          "5619",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "9º",
+          "9351",
+          "13",
+          "Galo"
+        ],
+        [
+          "10º",
+          "4014",
+          "04",
+          "Borboleta"
+        ]
+      ]
     }
   ],
   "LOTECE": [
@@ -1941,6 +2012,130 @@ const resultado = {
           "4745",
           "12",
           "Elefante"
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "9067",
+          "17",
+          "Macaco"
+        ],
+        [
+          "2º",
+          "7025",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "3º",
+          "5315",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "4º",
+          "5693",
+          "24",
+          "Veado"
+        ],
+        [
+          "5º",
+          "7792",
+          "23",
+          "Urso"
+        ],
+        [
+          "6º [soma]",
+          "4892",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "695",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "9067",
+          "17",
+          "Macaco"
+        ],
+        [
+          "2º",
+          "7025",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "3º",
+          "5315",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "4º",
+          "5693",
+          "24",
+          "Veado"
+        ],
+        [
+          "5º",
+          "7792",
+          "23",
+          "Urso"
+        ],
+        [
+          "6º",
+          "9755",
+          "14",
+          "Gato"
+        ],
+        [
+          "7º",
+          "0036",
+          "09",
+          "Cobra"
+        ],
+        [
+          "8º",
+          "6219",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "9º",
+          "7553",
+          "14",
+          "Gato"
+        ],
+        [
+          "10º",
+          "8455",
+          "14",
+          "Gato"
         ]
       ]
     }
