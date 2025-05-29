@@ -69,41 +69,6 @@ const palpites = {
     ],
     "frases": []
   },
-  "LOTECE": {
-    "palpites": [
-      "5765",
-      "5769",
-      "5762",
-      "5755",
-      "5759",
-      "5752",
-      "5705",
-      "5709",
-      "5702",
-      "5365",
-      "5369",
-      "5362",
-      "5355",
-      "5359",
-      "5352",
-      "5305",
-      "5309",
-      "5302",
-      "5065",
-      "5069",
-      "5062",
-      "5055",
-      "5059",
-      "5052",
-      "5005",
-      "5009",
-      "5002",
-      "2765",
-      "2769",
-      "2762"
-    ],
-    "frases": []
-  },
   "LOOK/GOIAS": {
     "palpites": [
       "6614",
@@ -149,6 +114,47 @@ const palpites = {
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 2411 no 8º Prêmio!",
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 2611 no 8º Prêmio!",
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 2211 no 8º Prêmio!"
+    ]
+  },
+  "PT SP": {
+    "palpites": [
+      "1713",
+      "1717",
+      "1711",
+      "1783",
+      "1787",
+      "1781",
+      "1723",
+      "1727",
+      "1721",
+      "1213",
+      "1217",
+      "1211",
+      "1283",
+      "1287",
+      "1281",
+      "1223",
+      "1227",
+      "1221",
+      "1013",
+      "1017",
+      "1011",
+      "1083",
+      "1087",
+      "1081",
+      "1023",
+      "1027",
+      "1021",
+      "0713",
+      "0717",
+      "0711"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 4082 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Centena, Palpite 4682 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 4682 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 4182 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 6082 no 8º Prêmio!"
     ]
   }
 };
