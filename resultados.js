@@ -2243,6 +2243,130 @@ const resultado = {
           "Macaco"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 18:20, PTN, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "7542",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "2º",
+          "4230",
+          "08",
+          "Camelo"
+        ],
+        [
+          "3º",
+          "1416",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "4º",
+          "7546",
+          "12",
+          "Elefante"
+        ],
+        [
+          "5º",
+          "8247",
+          "12",
+          "Elefante"
+        ],
+        [
+          "6º [soma]",
+          "8981",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "902",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 18:20, PTN, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "7542",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "2º",
+          "4230",
+          "08",
+          "Camelo"
+        ],
+        [
+          "3º",
+          "1416",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "4º",
+          "7546",
+          "12",
+          "Elefante"
+        ],
+        [
+          "5º",
+          "8247",
+          "12",
+          "Elefante"
+        ],
+        [
+          "6º",
+          "7417",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "7º",
+          "5245",
+          "12",
+          "Elefante"
+        ],
+        [
+          "8º",
+          "4314",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "9º",
+          "2066",
+          "17",
+          "Macaco"
+        ],
+        [
+          "10º",
+          "8023",
+          "06",
+          "Cabra"
+        ]
+      ]
     }
   ],
   "PT SP": [
