@@ -1,46 +1,38 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "2412",
-      "2417",
-      "2410",
-      "2442",
-      "2447",
-      "2440",
-      "2462",
-      "2467",
-      "2460",
-      "2812",
-      "2817",
-      "2810",
-      "2842",
-      "2847",
-      "2840",
-      "2862",
-      "2867",
-      "2860",
-      "2012",
-      "2017",
-      "2010",
-      "2042",
-      "2047",
-      "2040",
-      "2062",
-      "2067",
-      "2060",
-      "6412",
-      "6417",
-      "6410"
+      "6254",
+      "6257",
+      "6251",
+      "6224",
+      "6227",
+      "6221",
+      "6204",
+      "6207",
+      "6201",
+      "6754",
+      "6757",
+      "6751",
+      "6724",
+      "6727",
+      "6721",
+      "6704",
+      "6707",
+      "6701",
+      "6954",
+      "6957",
+      "6951",
+      "6924",
+      "6927",
+      "6921",
+      "6904",
+      "6907",
+      "6901",
+      "0254",
+      "0257",
+      "0251"
     ],
-    "frases": [
-      "12h - MALUCA - BA - Resultado do dia 29/05/2025 (Quinta-feira)\nDeu Dezena, Palpite 2297 no 5º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 29/05/2025 (Quinta-feira)\nDeu Centena, Palpite 2497 no 5º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 29/05/2025 (Quinta-feira)\nDeu Dezena, Palpite 2497 no 5º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 29/05/2025 (Quinta-feira)\nDeu Dezena, Palpite 2997 no 5º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 29/05/2025 (Quinta-feira)\nDeu Dezena, Palpite 2213 no 7º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 29/05/2025 (Quinta-feira)\nDeu Dezena, Palpite 2413 no 7º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 29/05/2025 (Quinta-feira)\nDeu Dezena, Palpite 2913 no 7º Prêmio!"
-    ]
+    "frases": []
   },
   "BAHIA": {
     "palpites": [
@@ -75,7 +67,18 @@ const palpites = {
       "5513",
       "5516"
     ],
-    "frases": []
+    "frases": [
+      "10h - BA - Resultado do dia 29/05/2025 (Quinta-feira)\nDeu Dezena, Palpite 5569 no 3º Prêmio!",
+      "10h - BA - Resultado do dia 29/05/2025 (Quinta-feira)\nDeu Dezena, Palpite 5369 no 3º Prêmio!",
+      "10h - BA - Resultado do dia 29/05/2025 (Quinta-feira)\nDeu Dezena, Palpite 5669 no 3º Prêmio!",
+      "12h - BA - Resultado do dia 29/05/2025 (Quinta-feira)\nDeu Dezena, Palpite 2038 no 2º Prêmio!",
+      "12h - BA - Resultado do dia 29/05/2025 (Quinta-feira)\nDeu Dezena, Palpite 2138 no 2º Prêmio!",
+      "12h - BA - Resultado do dia 29/05/2025 (Quinta-feira)\nDeu Dezena, Palpite 2738 no 2º Prêmio!",
+      "12h - BA - Resultado do dia 29/05/2025 (Quinta-feira)\nDeu Dezena, Palpite 2038 no 9º Prêmio!",
+      "12h - BA - Resultado do dia 29/05/2025 (Quinta-feira)\nDeu Dezena, Palpite 2138 no 9º Prêmio!",
+      "12h - BA - Resultado do dia 29/05/2025 (Quinta-feira)\nDeu Centena, Palpite 2738 no 9º Prêmio!",
+      "12h - BA - Resultado do dia 29/05/2025 (Quinta-feira)\nDeu Dezena, Palpite 2738 no 9º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
