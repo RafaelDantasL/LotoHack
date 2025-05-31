@@ -204,6 +204,89 @@ const palpites = {
       "3119",
       "3111"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0443 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0843 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0143 no 9º Prêmio!"
+    ]
+  },
+  "PT RIO": {
+    "palpites": [
+      "6823",
+      "6827",
+      "6829",
+      "6873",
+      "6877",
+      "6879",
+      "6803",
+      "6807",
+      "6809",
+      "6623",
+      "6627",
+      "6629",
+      "6673",
+      "6677",
+      "6679",
+      "6603",
+      "6607",
+      "6609",
+      "6723",
+      "6727",
+      "6729",
+      "6773",
+      "6777",
+      "6779",
+      "6703",
+      "6707",
+      "6709",
+      "5823",
+      "5827",
+      "5829"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 4949 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 4049 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 4249 no 1º Prêmio!"
+    ]
+  },
+  "PT SP": {
+    "palpites": [
+      "7435",
+      "7431",
+      "7432",
+      "7405",
+      "7401",
+      "7402",
+      "7425",
+      "7421",
+      "7422",
+      "7035",
+      "7031",
+      "7032",
+      "7005",
+      "7001",
+      "7002",
+      "7025",
+      "7021",
+      "7022",
+      "7235",
+      "7231",
+      "7232",
+      "7205",
+      "7201",
+      "7202",
+      "7225",
+      "7221",
+      "7222",
+      "3435",
+      "3431",
+      "3432"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Centena, Palpite 0045 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0045 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0445 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0545 no 9º Prêmio!"
+    ]
   }
 };
