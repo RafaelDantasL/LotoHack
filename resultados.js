@@ -3148,6 +3148,130 @@ const resultado = {
           "Camelo"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "1517",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "2º",
+          "0601",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "3º",
+          "1226",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "4º",
+          "0603",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "5º",
+          "9745",
+          "12",
+          "Elefante"
+        ],
+        [
+          "6º [soma]",
+          "3692",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "911",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "1517",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "2º",
+          "0601",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "3º",
+          "1226",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "4º",
+          "0603",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "5º",
+          "9745",
+          "12",
+          "Elefante"
+        ],
+        [
+          "6º",
+          "1010",
+          "03",
+          "Burro"
+        ],
+        [
+          "7º",
+          "5626",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "8º",
+          "1020",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "9º",
+          "7163",
+          "16",
+          "Leão"
+        ],
+        [
+          "10º",
+          "8511",
+          "03",
+          "Burro"
+        ]
+      ]
     }
   ]
 };
