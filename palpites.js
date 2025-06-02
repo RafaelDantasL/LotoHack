@@ -32,7 +32,12 @@ const palpites = {
       "1292",
       "1296"
     ],
-    "frases": []
+    "frases": [
+      "10h - MALUCA - Resultado do dia 02/06/2025 (Segunda-feira)\nDeu Dezena, Palpite 1242 no 9º Prêmio!",
+      "10h - MALUCA - Resultado do dia 02/06/2025 (Segunda-feira)\nDeu Dezena, Palpite 1542 no 9º Prêmio!",
+      "10h - MALUCA - Resultado do dia 02/06/2025 (Segunda-feira)\nDeu Dezena, Palpite 1042 no 9º Prêmio!",
+      "10h - MALUCA - Resultado do dia 02/06/2025 (Segunda-feira)\nDeu Dezena, Palpite 3242 no 9º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -68,43 +73,50 @@ const palpites = {
       "3379"
     ],
     "frases": [
+      "10h - BA - Resultado do dia 02/06/2025 (Segunda-feira)\nDeu Dezena, Palpite 4157 no 7º Prêmio!",
+      "10h - BA - Resultado do dia 02/06/2025 (Segunda-feira)\nDeu Dezena, Palpite 4557 no 7º Prêmio!",
+      "10h - BA - Resultado do dia 02/06/2025 (Segunda-feira)\nDeu Dezena, Palpite 4257 no 7º Prêmio!",
+      "12h - BA - Resultado do dia 02/06/2025 (Segunda-feira)\nDeu Dezena, Palpite 6010 no 7º Prêmio!",
+      "12h - BA - Resultado do dia 02/06/2025 (Segunda-feira)\nDeu Dezena, Palpite 6110 no 7º Prêmio!",
+      "12h - BA - Resultado do dia 02/06/2025 (Segunda-feira)\nDeu Dezena, Palpite 6510 no 7º Prêmio!",
+      "12h - BA - Resultado do dia 02/06/2025 (Segunda-feira)\nDeu Dezena, Palpite 1010 no 7º Prêmio!",
       "19h - BA - Resultado do dia 02/06/2025 (Segunda-feira)\nDeu Dezena, Palpite 0428 no 7º Prêmio!",
       "19h - BA - Resultado do dia 02/06/2025 (Segunda-feira)\nDeu Dezena, Palpite 0828 no 7º Prêmio!",
       "19h - BA - Resultado do dia 02/06/2025 (Segunda-feira)\nDeu Dezena, Palpite 0128 no 7º Prêmio!"
     ]
   },
-  "PT SP": {
+  "LOTECE": {
     "palpites": [
-      "0305",
-      "0303",
-      "0306",
-      "0355",
-      "0353",
-      "0356",
-      "0315",
-      "0313",
-      "0316",
-      "0005",
-      "0003",
-      "0006",
-      "0055",
-      "0053",
-      "0056",
-      "0015",
-      "0013",
-      "0016",
-      "0505",
-      "0503",
-      "0506",
-      "0555",
-      "0553",
-      "0556",
-      "0515",
-      "0513",
-      "0516",
-      "3305",
-      "3303",
-      "3306"
+      "3003",
+      "3007",
+      "3001",
+      "3043",
+      "3047",
+      "3041",
+      "3093",
+      "3097",
+      "3091",
+      "3803",
+      "3807",
+      "3801",
+      "3843",
+      "3847",
+      "3841",
+      "3893",
+      "3897",
+      "3891",
+      "3903",
+      "3907",
+      "3901",
+      "3943",
+      "3947",
+      "3941",
+      "3993",
+      "3997",
+      "3991",
+      "7003",
+      "7007",
+      "7001"
     ],
     "frases": []
   }
