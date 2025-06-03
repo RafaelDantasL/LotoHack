@@ -73,6 +73,45 @@ const palpites = {
     ],
     "frases": []
   },
+  "LOTECE": {
+    "palpites": [
+      "7584",
+      "7588",
+      "7589",
+      "7594",
+      "7598",
+      "7599",
+      "7504",
+      "7508",
+      "7509",
+      "7984",
+      "7988",
+      "7989",
+      "7994",
+      "7998",
+      "7999",
+      "7904",
+      "7908",
+      "7909",
+      "7084",
+      "7088",
+      "7089",
+      "7094",
+      "7098",
+      "7099",
+      "7004",
+      "7008",
+      "7009",
+      "5584",
+      "5588",
+      "5589"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 3097 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 3897 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 3997 no 1º Prêmio!"
+    ]
+  },
   "LOOK/GOIAS": {
     "palpites": [
       "4284",
@@ -156,46 +195,21 @@ const palpites = {
       "1016"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0050 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Centena, Palpite 0950 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0950 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0150 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 5050 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Centena, Palpite 0055 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0055 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0955 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0155 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Milhar, Palpite 5055 no 5º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 5505 no 7º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 5705 no 7º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Centena, Palpite 5005 no 7º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 5005 no 7º Prêmio!"
     ]
-  },
-  "LOTECE": {
-    "palpites": [
-      "3003",
-      "3007",
-      "3001",
-      "3043",
-      "3047",
-      "3041",
-      "3093",
-      "3097",
-      "3091",
-      "3803",
-      "3807",
-      "3801",
-      "3843",
-      "3847",
-      "3841",
-      "3893",
-      "3897",
-      "3891",
-      "3903",
-      "3907",
-      "3901",
-      "3943",
-      "3947",
-      "3941",
-      "3993",
-      "3997",
-      "3991",
-      "7003",
-      "7007",
-      "7001"
-    ],
-    "frases": []
   },
   "PT RIO": {
     "palpites": [
