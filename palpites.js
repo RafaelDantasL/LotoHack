@@ -1,4 +1,44 @@
 const palpites = {
+  "BAHIA MALUCA": {
+    "palpites": [
+      "1375",
+      "1370",
+      "1371",
+      "1385",
+      "1380",
+      "1381",
+      "1395",
+      "1390",
+      "1391",
+      "1875",
+      "1870",
+      "1871",
+      "1885",
+      "1880",
+      "1881",
+      "1895",
+      "1890",
+      "1891",
+      "1275",
+      "1270",
+      "1271",
+      "1285",
+      "1280",
+      "1281",
+      "1295",
+      "1290",
+      "1291",
+      "3375",
+      "3370",
+      "3371"
+    ],
+    "frases": [
+      "10h - MALUCA - Resultado do dia 06/06/2025 (Sexta-feira)\nDeu Dezena, Palpite 7195 no 2º Prêmio!",
+      "10h - MALUCA - Resultado do dia 06/06/2025 (Sexta-feira)\nDeu Dezena, Palpite 7295 no 2º Prêmio!",
+      "10h - MALUCA - Resultado do dia 06/06/2025 (Sexta-feira)\nDeu Dezena, Palpite 7595 no 2º Prêmio!",
+      "10h - MALUCA - Resultado do dia 06/06/2025 (Sexta-feira)\nDeu Dezena, Palpite 4195 no 2º Prêmio!"
+    ]
+  },
   "BAHIA": {
     "palpites": [
       "8031",
@@ -38,41 +78,6 @@ const palpites = {
       "10h - BA - Resultado do dia 06/06/2025 (Sexta-feira)\nDeu Dezena, Palpite 6855 no 4º Prêmio!",
       "10h - BA - Resultado do dia 06/06/2025 (Sexta-feira)\nDeu Dezena, Palpite 7155 no 4º Prêmio!"
     ]
-  },
-  "BAHIA MALUCA": {
-    "palpites": [
-      "7196",
-      "7195",
-      "7197",
-      "7146",
-      "7145",
-      "7147",
-      "7166",
-      "7165",
-      "7167",
-      "7296",
-      "7295",
-      "7297",
-      "7246",
-      "7245",
-      "7247",
-      "7266",
-      "7265",
-      "7267",
-      "7596",
-      "7595",
-      "7597",
-      "7546",
-      "7545",
-      "7547",
-      "7566",
-      "7565",
-      "7567",
-      "4196",
-      "4195",
-      "4197"
-    ],
-    "frases": []
   },
   "LOTECE": {
     "palpites": [
