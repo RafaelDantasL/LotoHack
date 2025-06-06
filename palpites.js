@@ -1,43 +1,38 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "1375",
-      "1370",
-      "1371",
-      "1385",
-      "1380",
-      "1381",
-      "1395",
-      "1390",
-      "1391",
-      "1875",
-      "1870",
-      "1871",
-      "1885",
-      "1880",
-      "1881",
-      "1895",
-      "1890",
-      "1891",
-      "1275",
-      "1270",
-      "1271",
-      "1285",
-      "1280",
-      "1281",
-      "1295",
-      "1290",
-      "1291",
-      "3375",
-      "3370",
-      "3371"
+      "9922",
+      "9927",
+      "9929",
+      "9902",
+      "9907",
+      "9909",
+      "9932",
+      "9937",
+      "9939",
+      "9222",
+      "9227",
+      "9229",
+      "9202",
+      "9207",
+      "9209",
+      "9232",
+      "9237",
+      "9239",
+      "9122",
+      "9127",
+      "9129",
+      "9102",
+      "9107",
+      "9109",
+      "9132",
+      "9137",
+      "9139",
+      "0922",
+      "0927",
+      "0929"
     ],
-    "frases": [
-      "10h - MALUCA - Resultado do dia 06/06/2025 (Sexta-feira)\nDeu Dezena, Palpite 7195 no 2º Prêmio!",
-      "10h - MALUCA - Resultado do dia 06/06/2025 (Sexta-feira)\nDeu Dezena, Palpite 7295 no 2º Prêmio!",
-      "10h - MALUCA - Resultado do dia 06/06/2025 (Sexta-feira)\nDeu Dezena, Palpite 7595 no 2º Prêmio!",
-      "10h - MALUCA - Resultado do dia 06/06/2025 (Sexta-feira)\nDeu Dezena, Palpite 4195 no 2º Prêmio!"
-    ]
+    "frases": []
   },
   "BAHIA": {
     "palpites": [
@@ -72,7 +67,12 @@ const palpites = {
       "8229",
       "8222"
     ],
-    "frases": []
+    "frases": [
+      "10h - BA - Resultado do dia 06/06/2025 (Sexta-feira)\nDeu Dezena, Palpite 6155 no 4º Prêmio!",
+      "10h - BA - Resultado do dia 06/06/2025 (Sexta-feira)\nDeu Dezena, Palpite 6455 no 4º Prêmio!",
+      "10h - BA - Resultado do dia 06/06/2025 (Sexta-feira)\nDeu Dezena, Palpite 6855 no 4º Prêmio!",
+      "10h - BA - Resultado do dia 06/06/2025 (Sexta-feira)\nDeu Dezena, Palpite 7155 no 4º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
