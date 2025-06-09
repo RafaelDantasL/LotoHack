@@ -258,56 +258,5 @@ const palpites = {
       "3933"
     ],
     "frases": []
-  },
-  "PT SP": {
-    "palpites": [
-      "6436",
-      "6439",
-      "6432",
-      "6456",
-      "6459",
-      "6452",
-      "6496",
-      "6499",
-      "6492",
-      "6036",
-      "6039",
-      "6032",
-      "6056",
-      "6059",
-      "6052",
-      "6096",
-      "6099",
-      "6092",
-      "6236",
-      "6239",
-      "6232",
-      "6256",
-      "6259",
-      "6252",
-      "6296",
-      "6299",
-      "6292",
-      "5436",
-      "5439",
-      "5432"
-    ],
-    "frases": [
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 5330 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 5530 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 5830 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0330 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 1399 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 1099 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 1299 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 1369 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 1069 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 1269 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 2369 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 7369 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Centena, Palpite 7969 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 7969 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 7469 no 5º Prêmio!"
-    ]
   }
 };
