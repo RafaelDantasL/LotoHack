@@ -32,7 +32,12 @@ const palpites = {
       "7676",
       "7679"
     ],
-    "frases": []
+    "frases": [
+      "12h - MALUCA - BA - Resultado do dia 10/06/2025 (Terça-feira)\nDeu Dezena, Palpite 9454 no 8º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 10/06/2025 (Terça-feira)\nDeu Dezena, Palpite 9554 no 8º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 10/06/2025 (Terça-feira)\nDeu Dezena, Palpite 9654 no 8º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 10/06/2025 (Terça-feira)\nDeu Dezena, Palpite 2454 no 8º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -93,44 +98,38 @@ const palpites = {
   },
   "LOTECE": {
     "palpites": [
-      "4421",
-      "4428",
-      "4424",
-      "4431",
-      "4438",
-      "4434",
-      "4451",
-      "4458",
-      "4454",
-      "4721",
-      "4728",
-      "4724",
-      "4731",
-      "4738",
-      "4734",
-      "4751",
-      "4758",
-      "4754",
-      "4221",
-      "4228",
-      "4224",
-      "4231",
-      "4238",
-      "4234",
-      "4251",
-      "4258",
-      "4254",
-      "5421",
-      "5428",
-      "5424"
+      "0490",
+      "0492",
+      "0493",
+      "0400",
+      "0402",
+      "0403",
+      "0470",
+      "0472",
+      "0473",
+      "0690",
+      "0692",
+      "0693",
+      "0600",
+      "0602",
+      "0603",
+      "0670",
+      "0672",
+      "0673",
+      "0990",
+      "0992",
+      "0993",
+      "0900",
+      "0902",
+      "0903",
+      "0970",
+      "0972",
+      "0973",
+      "5490",
+      "5492",
+      "5493"
     ],
-    "frases": [
-      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 2625 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Centena, Palpite 2025 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 2025 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 2125 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 3625 no 6º Prêmio!"
-    ]
+    "frases": []
   },
   "LOOK/GOIAS": {
     "palpites": [
