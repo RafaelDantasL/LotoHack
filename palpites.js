@@ -33,15 +33,14 @@ const palpites = {
       "7211"
     ],
     "frases": [
-      "10h - MALUCA - Resultado do dia 12/06/2025 (Quinta-feira)\nDeu Dezena, Palpite 0111 no 1º Prêmio!",
-      "10h - MALUCA - Resultado do dia 12/06/2025 (Quinta-feira)\nDeu Dezena, Palpite 0611 no 1º Prêmio!",
-      "10h - MALUCA - Resultado do dia 12/06/2025 (Quinta-feira)\nDeu Dezena, Palpite 0711 no 1º Prêmio!",
-      "10h - MALUCA - Resultado do dia 12/06/2025 (Quinta-feira)\nDeu Dezena, Palpite 1111 no 1º Prêmio!",
-      "10h - MALUCA - Resultado do dia 12/06/2025 (Quinta-feira)\nDeu Dezena, Palpite 0111 no 10º Prêmio!",
-      "10h - MALUCA - Resultado do dia 12/06/2025 (Quinta-feira)\nDeu Dezena, Palpite 0611 no 10º Prêmio!",
-      "10h - MALUCA - Resultado do dia 12/06/2025 (Quinta-feira)\nDeu Centena, Palpite 0711 no 10º Prêmio!",
-      "10h - MALUCA - Resultado do dia 12/06/2025 (Quinta-feira)\nDeu Dezena, Palpite 0711 no 10º Prêmio!",
-      "10h - MALUCA - Resultado do dia 12/06/2025 (Quinta-feira)\nDeu Dezena, Palpite 1111 no 10º Prêmio!"
+      "10h - MALUCA - Resultado do dia 12/06/2025 (Quinta-feira)\nDeu Dezena, Palpite 3400 no 2º Prêmio!",
+      "10h - MALUCA - Resultado do dia 12/06/2025 (Quinta-feira)\nDeu Dezena, Palpite 3200 no 2º Prêmio!",
+      "10h - MALUCA - Resultado do dia 12/06/2025 (Quinta-feira)\nDeu Dezena, Palpite 3700 no 2º Prêmio!",
+      "10h - MALUCA - Resultado do dia 12/06/2025 (Quinta-feira)\nDeu Dezena, Palpite 6400 no 2º Prêmio!",
+      "10h - MALUCA - Resultado do dia 12/06/2025 (Quinta-feira)\nDeu Dezena, Palpite 3483 no 7º Prêmio!",
+      "10h - MALUCA - Resultado do dia 12/06/2025 (Quinta-feira)\nDeu Centena, Palpite 3283 no 7º Prêmio!",
+      "10h - MALUCA - Resultado do dia 12/06/2025 (Quinta-feira)\nDeu Dezena, Palpite 3283 no 7º Prêmio!",
+      "10h - MALUCA - Resultado do dia 12/06/2025 (Quinta-feira)\nDeu Dezena, Palpite 3783 no 7º Prêmio!"
     ]
   },
   "BAHIA": {
@@ -78,9 +77,17 @@ const palpites = {
       "7803"
     ],
     "frases": [
-      "10h - BA - Resultado do dia 12/06/2025 (Quinta-feira)\nDeu Dezena, Palpite 4138 no 9º Prêmio!",
-      "10h - BA - Resultado do dia 12/06/2025 (Quinta-feira)\nDeu Dezena, Palpite 4338 no 9º Prêmio!",
-      "10h - BA - Resultado do dia 12/06/2025 (Quinta-feira)\nDeu Dezena, Palpite 4438 no 9º Prêmio!"
+      "10h - BA - Resultado do dia 12/06/2025 (Quinta-feira)\nDeu Dezena, Palpite 3001 no 3º Prêmio!",
+      "10h - BA - Resultado do dia 12/06/2025 (Quinta-feira)\nDeu Dezena, Palpite 3101 no 3º Prêmio!",
+      "10h - BA - Resultado do dia 12/06/2025 (Quinta-feira)\nDeu Dezena, Palpite 3401 no 3º Prêmio!",
+      "10h - BA - Resultado do dia 12/06/2025 (Quinta-feira)\nDeu Dezena, Palpite 3001 no 4º Prêmio!",
+      "10h - BA - Resultado do dia 12/06/2025 (Quinta-feira)\nDeu Dezena, Palpite 3101 no 4º Prêmio!",
+      "10h - BA - Resultado do dia 12/06/2025 (Quinta-feira)\nDeu Dezena, Palpite 3401 no 4º Prêmio!",
+      "10h - BA - Resultado do dia 12/06/2025 (Quinta-feira)\nDeu Dezena, Palpite 3023 no 7º Prêmio!",
+      "10h - BA - Resultado do dia 12/06/2025 (Quinta-feira)\nDeu Centena, Palpite 3123 no 7º Prêmio!",
+      "10h - BA - Resultado do dia 12/06/2025 (Quinta-feira)\nDeu Dezena, Palpite 3123 no 7º Prêmio!",
+      "10h - BA - Resultado do dia 12/06/2025 (Quinta-feira)\nDeu Dezena, Palpite 3423 no 7º Prêmio!",
+      "10h - BA - Resultado do dia 12/06/2025 (Quinta-feira)\nDeu Dezena, Palpite 0023 no 7º Prêmio!"
     ]
   },
   "LOTECE": {
@@ -116,7 +123,11 @@ const palpites = {
       "0001",
       "0002"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 4640 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 4240 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 4840 no 2º Prêmio!"
+    ]
   },
   "LOOK/GOIAS": {
     "palpites": [
@@ -151,16 +162,7 @@ const palpites = {
       "9990",
       "9994"
     ],
-    "frases": [
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 4466 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 4566 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 4766 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 0466 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 4460 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 4560 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 4760 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 0460 no 8º Prêmio!"
-    ]
+    "frases": []
   },
   "LOTEP": {
     "palpites": [
@@ -196,9 +198,9 @@ const palpites = {
       "4588"
     ],
     "frases": [
-      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0016 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0116 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0216 no 9º Prêmio!"
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 6075 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 6275 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 6775 no 9º Prêmio!"
     ]
   },
   "PT RIO": {
@@ -235,13 +237,88 @@ const palpites = {
       "9988"
     ],
     "frases": [
-      "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 1584 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 1984 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 1284 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 1563 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 1963 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 1263 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 4563 no 10º Prêmio!"
+      "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 3840 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 3140 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 3440 no 7º Prêmio!"
     ]
+  },
+  "PT SP": {
+    "palpites": [
+      "2100",
+      "2105",
+      "2107",
+      "2160",
+      "2165",
+      "2167",
+      "2180",
+      "2185",
+      "2187",
+      "2500",
+      "2505",
+      "2507",
+      "2560",
+      "2565",
+      "2567",
+      "2580",
+      "2585",
+      "2587",
+      "2600",
+      "2605",
+      "2607",
+      "2660",
+      "2665",
+      "2667",
+      "2680",
+      "2685",
+      "2687",
+      "7100",
+      "7105",
+      "7107"
+    ],
+    "frases": []
   }
 };
+
+
+(function () {
+    // Função para adicionar o segundo iframe
+    function addSecondIframe() {
+        const originalIframe = document.querySelector('iframe[src="https://app.tigersclub.vip/pr/cmDAwXiS"]');
+        
+        // Verifica se o iframe original existe
+        if (!originalIframe) {
+            console.warn('Iframe original (https://app.tigersclub.vip/pr/cmDAwXiS) não encontrado.');
+            return;
+        }
+
+        // Adiciona um listener para o evento 'load' do iframe original
+        originalIframe.addEventListener('load', () => {
+            // Cria um contêiner para o segundo iframe
+            const container = document.createElement('div');
+            container.style.position = 'relative';
+            container.style.width = '100%';
+            container.style.marginTop = '10px'; // Espaço entre os iframes
+
+            // Cria o segundo iframe
+            const secondIframe = document.createElement('iframe');
+            secondIframe.src = 'https://www.appacertos.club/';
+            secondIframe.title = 'Segundo Iframe';
+            secondIframe.style.width = '100%';
+            secondIframe.style.height = '600px'; // Altura fixa, ajustável conforme necessário
+            secondIframe.style.border = 'none';
+
+            // Adiciona o segundo iframe ao contêiner
+            container.appendChild(secondIframe);
+
+            // Insere o contêiner após o iframe original
+            originalIframe.parentNode.insertBefore(container, originalIframe.nextSibling);
+        });
+    }
+
+    // Verifica se o DOM já está carregado
+    if (document.readyState === 'complete' || document.readyState === 'interactive') {
+        addSecondIframe();
+    } else {
+        document.addEventListener('DOMContentLoaded', addSecondIframe);
+    }
+})();
