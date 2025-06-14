@@ -193,6 +193,85 @@ const palpites = {
       "2460",
       "2461"
     ],
+    "frases": [
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 5322 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 5722 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 5922 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 3322 no 2º Prêmio!"
+    ]
+  },
+  "PT RIO": {
+    "palpites": [
+      "3124",
+      "3125",
+      "3129",
+      "3164",
+      "3165",
+      "3169",
+      "3104",
+      "3105",
+      "3109",
+      "3724",
+      "3725",
+      "3729",
+      "3764",
+      "3765",
+      "3769",
+      "3704",
+      "3705",
+      "3709",
+      "3024",
+      "3025",
+      "3029",
+      "3064",
+      "3065",
+      "3069",
+      "3004",
+      "3005",
+      "3009",
+      "4124",
+      "4125",
+      "4129"
+    ],
     "frases": []
+  },
+  "PT SP": {
+    "palpites": [
+      "7091",
+      "7092",
+      "7098",
+      "7011",
+      "7012",
+      "7018",
+      "7061",
+      "7062",
+      "7068",
+      "7191",
+      "7192",
+      "7198",
+      "7111",
+      "7112",
+      "7118",
+      "7161",
+      "7162",
+      "7168",
+      "7591",
+      "7592",
+      "7598",
+      "7511",
+      "7512",
+      "7518",
+      "7561",
+      "7562",
+      "7568",
+      "8091",
+      "8092",
+      "8098"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1340 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1240 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1440 no 10º Prêmio!"
+    ]
   }
 };
