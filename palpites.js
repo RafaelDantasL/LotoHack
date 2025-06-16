@@ -83,6 +83,41 @@ const palpites = {
       "10h - BA - Resultado do dia 16/06/2025 (Segunda-feira)\nDeu Dezena, Palpite 2078 no 9º Prêmio!"
     ]
   },
+  "LOTECE": {
+    "palpites": [
+      "6028",
+      "6029",
+      "6023",
+      "6048",
+      "6049",
+      "6043",
+      "6058",
+      "6059",
+      "6053",
+      "6328",
+      "6329",
+      "6323",
+      "6348",
+      "6349",
+      "6343",
+      "6358",
+      "6359",
+      "6353",
+      "6828",
+      "6829",
+      "6823",
+      "6848",
+      "6849",
+      "6843",
+      "6858",
+      "6859",
+      "6853",
+      "4028",
+      "4029",
+      "4023"
+    ],
+    "frases": []
+  },
   "LOOK/GOIAS": {
     "palpites": [
       "9086",
@@ -151,42 +186,11 @@ const palpites = {
       "9123",
       "9129"
     ],
-    "frases": []
-  },
-  "LOTECE": {
-    "palpites": [
-      "8003",
-      "8000",
-      "8005",
-      "8043",
-      "8040",
-      "8045",
-      "8053",
-      "8050",
-      "8055",
-      "8403",
-      "8400",
-      "8405",
-      "8443",
-      "8440",
-      "8445",
-      "8453",
-      "8450",
-      "8455",
-      "8503",
-      "8500",
-      "8505",
-      "8543",
-      "8540",
-      "8545",
-      "8553",
-      "8550",
-      "8555",
-      "5003",
-      "5000",
-      "5005"
-    ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 1769 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 1669 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 1869 no 10º Prêmio!"
+    ]
   },
   "PT RIO": {
     "palpites": [
