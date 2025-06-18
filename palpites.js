@@ -196,6 +196,49 @@ const palpites = {
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 18h, 1º ao 10º\nDeu Dezena, Palpite 0196 no 9º Prêmio!"
     ]
   },
+  "LOTEP": {
+    "palpites": [
+      "9907",
+      "9901",
+      "9905",
+      "9957",
+      "9951",
+      "9955",
+      "9987",
+      "9981",
+      "9985",
+      "9407",
+      "9401",
+      "9405",
+      "9457",
+      "9451",
+      "9455",
+      "9487",
+      "9481",
+      "9485",
+      "9507",
+      "9501",
+      "9505",
+      "9557",
+      "9551",
+      "9555",
+      "9587",
+      "9581",
+      "9585",
+      "3907",
+      "3901",
+      "3905"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho PB - FEDERAL\nDeu Dezena, Palpite 3555 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho PB - FEDERAL\nDeu Dezena, Palpite 3355 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho PB - FEDERAL\nDeu Dezena, Palpite 3055 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho PB - FEDERAL\nDeu Dezena, Palpite 5555 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho PB - FEDERAL\nDeu Dezena, Palpite 3505 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho PB - FEDERAL\nDeu Dezena, Palpite 3305 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho PB - FEDERAL\nDeu Dezena, Palpite 3005 no 3º Prêmio!"
+    ]
+  },
   "PT RIO": {
     "palpites": [
       "2850",
@@ -289,45 +332,6 @@ const palpites = {
       "Resultado do Jogo do Bicho SP, 19hs - PT FEDERAL, 1º ao 10º\nDeu Centena, Palpite 4671 no 10º Prêmio!",
       "Resultado do Jogo do Bicho SP, 19hs - PT FEDERAL, 1º ao 10º\nDeu Dezena, Palpite 4671 no 10º Prêmio!",
       "Resultado do Jogo do Bicho SP, 19hs - PT FEDERAL, 1º ao 10º\nDeu Dezena, Palpite 4871 no 10º Prêmio!"
-    ]
-  },
-  "LOTEP": {
-    "palpites": [
-      "3555",
-      "3550",
-      "3551",
-      "3505",
-      "3500",
-      "3501",
-      "3525",
-      "3520",
-      "3521",
-      "3355",
-      "3350",
-      "3351",
-      "3305",
-      "3300",
-      "3301",
-      "3325",
-      "3320",
-      "3321",
-      "3055",
-      "3050",
-      "3051",
-      "3005",
-      "3000",
-      "3001",
-      "3025",
-      "3020",
-      "3021",
-      "5555",
-      "5550",
-      "5551"
-    ],
-    "frases": [
-      "Resultado do Jogo do Bicho LOTEP - PB, 18h\nDeu Dezena, Palpite 2331 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 18h\nDeu Dezena, Palpite 2431 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 18h\nDeu Dezena, Palpite 2731 no 7º Prêmio!"
     ]
   }
 };
