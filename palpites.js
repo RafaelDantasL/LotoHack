@@ -33,6 +33,9 @@ const palpites = {
       "7200"
     ],
     "frases": [
+      "10h - MALUCA - Resultado do dia 18/06/2025 (Quarta-feira)\nDeu Dezena, Palpite 3242 no 8º Prêmio!",
+      "10h - MALUCA - Resultado do dia 18/06/2025 (Quarta-feira)\nDeu Dezena, Palpite 3942 no 8º Prêmio!",
+      "10h - MALUCA - Resultado do dia 18/06/2025 (Quarta-feira)\nDeu Dezena, Palpite 3842 no 8º Prêmio!",
       "12h - MALUCA - BA - Resultado do dia 18/06/2025 (Quarta-feira)\nDeu Dezena, Palpite 7411 no 2º Prêmio!",
       "12h - MALUCA - BA - Resultado do dia 18/06/2025 (Quarta-feira)\nDeu Dezena, Palpite 7511 no 2º Prêmio!",
       "12h - MALUCA - BA - Resultado do dia 18/06/2025 (Quarta-feira)\nDeu Dezena, Palpite 7011 no 2º Prêmio!",
@@ -40,41 +43,6 @@ const palpites = {
       "12h - MALUCA - BA - Resultado do dia 18/06/2025 (Quarta-feira)\nDeu Dezena, Palpite 7502 no 6º Prêmio!",
       "12h - MALUCA - BA - Resultado do dia 18/06/2025 (Quarta-feira)\nDeu Dezena, Palpite 7002 no 6º Prêmio!"
     ]
-  },
-  "PT SP": {
-    "palpites": [
-      "0503",
-      "0504",
-      "0506",
-      "0533",
-      "0534",
-      "0536",
-      "0523",
-      "0524",
-      "0526",
-      "0203",
-      "0204",
-      "0206",
-      "0233",
-      "0234",
-      "0236",
-      "0223",
-      "0224",
-      "0226",
-      "0403",
-      "0404",
-      "0406",
-      "0433",
-      "0434",
-      "0436",
-      "0423",
-      "0424",
-      "0426",
-      "1503",
-      "1504",
-      "1506"
-    ],
-    "frases": []
   },
   "BAHIA": {
     "palpites": [
@@ -261,5 +229,40 @@ const palpites = {
       "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 7283 no 2º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 2483 no 2º Prêmio!"
     ]
+  },
+  "PT SP": {
+    "palpites": [
+      "0503",
+      "0504",
+      "0506",
+      "0533",
+      "0534",
+      "0536",
+      "0523",
+      "0524",
+      "0526",
+      "0203",
+      "0204",
+      "0206",
+      "0233",
+      "0234",
+      "0236",
+      "0223",
+      "0224",
+      "0226",
+      "0403",
+      "0404",
+      "0406",
+      "0433",
+      "0434",
+      "0436",
+      "0423",
+      "0424",
+      "0426",
+      "1503",
+      "1504",
+      "1506"
+    ],
+    "frases": []
   }
 };
