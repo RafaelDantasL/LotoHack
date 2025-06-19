@@ -141,6 +141,77 @@ const resultado = {
           "Elefante"
         ]
       ]
+    },
+    {
+      "titulo": "15h - MALUCA - BA - Resultado do dia 19/06/2025 (Quinta-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "2242",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "2º",
+          "7052",
+          "13",
+          "Galo"
+        ],
+        [
+          "3º",
+          "1594",
+          "24",
+          "Veado"
+        ],
+        [
+          "4º",
+          "2982",
+          "21",
+          "Touro"
+        ],
+        [
+          "5º",
+          "8668",
+          "17",
+          "Macaco"
+        ],
+        [
+          "6º",
+          "5915",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "7º",
+          "1409",
+          "03",
+          "Burro"
+        ],
+        [
+          "8º",
+          "3615",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "9º",
+          "3004",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "10º",
+          "4831",
+          "08",
+          "Camelo"
+        ]
+      ]
     }
   ],
   "BAHIA": [
