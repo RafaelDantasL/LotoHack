@@ -147,7 +147,7 @@ const resultado = {
   ],
   "LOTECE": [
     {
-      "titulo": "Resultado do Jogo do Bicho A FEDERAL DO BRASIL CE - Ceará Federal",
+      "titulo": "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)",
       "conteudo": [
         [
           "Prêmio",
@@ -157,329 +157,63 @@ const resultado = {
         ],
         [
           "1º",
-          "7232",
-          "08",
-          "Camelo"
+          "1805",
+          "02",
+          "Águia"
         ],
         [
           "2º",
-          "3315",
-          "04",
-          "Borboleta"
-        ],
-        [
-          "3º",
-          "1114",
-          "04",
-          "Borboleta"
-        ],
-        [
-          "4º",
-          "9824",
-          "06",
-          "Cabra"
-        ],
-        [
-          "5º",
-          "4203",
-          "01",
-          "Avestruz"
-        ],
-        [
-          "6º [soma]",
-          "5688",
-          "",
-          ""
-        ],
-        [
-          "7º [mult]",
-          "724",
-          "",
-          ""
-        ]
-      ]
-    },
-    {
-      "titulo": "Resultado do Jogo do Bicho LOTECE - CE, 12:00 (manhã)",
-      "conteudo": [
-        [
-          "Prêmio",
-          "Milhar",
-          "Grupo",
-          "Bicho"
-        ],
-        [
-          "1º",
-          "3418",
-          "05",
-          "Cachorro"
-        ],
-        [
-          "2º",
-          "9919",
-          "05",
-          "Cachorro"
-        ],
-        [
-          "3º",
-          "3440",
+          "9737",
           "10",
           "Coelho"
         ],
         [
-          "4º",
-          "4281",
-          "21",
-          "Touro"
-        ],
-        [
-          "5º",
-          "6852",
-          "13",
-          "Galo"
-        ],
-        [
-          "6º",
-          "7338",
-          "10",
-          "Coelho"
-        ],
-        [
-          "7º",
-          "8615",
-          "04",
-          "Borboleta"
-        ],
-        [
-          "8º",
-          "3817",
-          "05",
-          "Cachorro"
-        ],
-        [
-          "9º",
-          "7659",
-          "15",
-          "Jacaré"
-        ],
-        [
-          "10º",
-          "6981",
-          "21",
-          "Touro"
-        ]
-      ]
-    },
-    {
-      "titulo": "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)",
-      "conteudo": [
-        [
-          "Prêmio",
-          "Milhar",
-          "Grupo",
-          "Bicho"
-        ],
-        [
-          "1º",
-          "5544",
-          "11",
-          "Cavalo"
-        ],
-        [
-          "2º",
-          "6321",
-          "06",
-          "Cabra"
-        ],
-        [
           "3º",
-          "9501",
-          "01",
-          "Avestruz"
-        ],
-        [
-          "4º",
-          "5135",
-          "09",
-          "Cobra"
-        ],
-        [
-          "5º",
-          "1840",
-          "10",
-          "Coelho"
-        ],
-        [
-          "6º",
-          "7814",
-          "04",
-          "Borboleta"
-        ],
-        [
-          "7º",
-          "1049",
-          "13",
-          "Galo"
-        ],
-        [
-          "8º",
-          "5336",
-          "09",
-          "Cobra"
-        ],
-        [
-          "9º",
-          "0768",
-          "17",
-          "Macaco"
-        ],
-        [
-          "10º",
-          "7098",
-          "25",
-          "Vaca"
-        ]
-      ]
-    },
-    {
-      "titulo": "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)",
-      "conteudo": [
-        [
-          "Prêmio",
-          "Milhar",
-          "Grupo",
-          "Bicho"
-        ],
-        [
-          "1º",
-          "5156",
+          "9555",
           "14",
           "Gato"
         ],
         [
-          "2º",
-          "9345",
-          "12",
-          "Elefante"
-        ],
-        [
-          "3º",
-          "1116",
-          "04",
-          "Borboleta"
-        ],
-        [
           "4º",
-          "3103",
-          "01",
-          "Avestruz"
+          "2973",
+          "19",
+          "Pavão"
         ],
         [
           "5º",
-          "5133",
-          "09",
-          "Cobra"
+          "1880",
+          "20",
+          "Peru"
         ],
         [
           "6º",
-          "5012",
-          "03",
-          "Burro"
+          "3096",
+          "24",
+          "Veado"
         ],
         [
           "7º",
-          "8451",
-          "13",
-          "Galo"
+          "6465",
+          "17",
+          "Macaco"
         ],
         [
           "8º",
-          "6989",
-          "23",
-          "Urso"
+          "7331",
+          "08",
+          "Camelo"
         ],
         [
           "9º",
-          "4322",
+          "9922",
           "06",
           "Cabra"
         ],
         [
           "10º",
-          "9924",
-          "06",
-          "Cabra"
-        ]
-      ]
-    },
-    {
-      "titulo": "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)",
-      "conteudo": [
-        [
-          "Prêmio",
-          "Milhar",
-          "Grupo",
-          "Bicho"
-        ],
-        [
-          "1º",
-          "2588",
-          "22",
-          "Tigre"
-        ],
-        [
-          "2º",
-          "3033",
-          "09",
-          "Cobra"
-        ],
-        [
-          "3º",
-          "1746",
-          "12",
-          "Elefante"
-        ],
-        [
-          "4º",
-          "3915",
-          "04",
-          "Borboleta"
-        ],
-        [
-          "5º",
-          "2292",
-          "23",
-          "Urso"
-        ],
-        [
-          "6º",
-          "2715",
-          "04",
-          "Borboleta"
-        ],
-        [
-          "7º",
-          "5816",
-          "04",
-          "Borboleta"
-        ],
-        [
-          "8º",
-          "7225",
-          "07",
-          "Carneiro"
-        ],
-        [
-          "9º",
-          "4324",
-          "06",
-          "Cabra"
-        ],
-        [
-          "10º",
-          "8871",
-          "18",
-          "Porco"
+          "9606",
+          "02",
+          "Águia"
         ]
       ]
     }
