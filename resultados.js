@@ -1355,6 +1355,77 @@ const resultado = {
           "Camelo"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho LOTEP - PB, 15:45h",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "6646",
+          "12",
+          "Elefante"
+        ],
+        [
+          "2º",
+          "5013",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "3º",
+          "8419",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "4º",
+          "6746",
+          "12",
+          "Elefante"
+        ],
+        [
+          "5º",
+          "3910",
+          "03",
+          "Burro"
+        ],
+        [
+          "6º",
+          "6586",
+          "22",
+          "Tigre"
+        ],
+        [
+          "7º",
+          "6047",
+          "12",
+          "Elefante"
+        ],
+        [
+          "8º",
+          "4114",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "9º",
+          "6396",
+          "24",
+          "Veado"
+        ],
+        [
+          "10º",
+          "3877",
+          "20",
+          "Peru"
+        ]
+      ]
     }
   ],
   "PT RIO": [
