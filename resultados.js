@@ -1234,6 +1234,59 @@ const resultado = {
           "Jacaré"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 12:00 - PTSP",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "0844",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "2º",
+          "2702",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "3º",
+          "9813",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "4º",
+          "2210",
+          "03",
+          "Burro"
+        ],
+        [
+          "5º",
+          "3962",
+          "16",
+          "Leão"
+        ],
+        [
+          "6º [soma]",
+          "9531",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "280",
+          "",
+          ""
+        ]
+      ]
     }
   ]
 };
