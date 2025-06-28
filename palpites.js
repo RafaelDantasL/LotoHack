@@ -32,7 +32,19 @@ const palpites = {
       "1019",
       "1017"
     ],
-    "frases": []
+    "frases": [
+      "10h - MALUCA - Resultado do dia 28/06/2025 (Sábado)\nDeu Dezena, Palpite 7973 no 10º Prêmio!",
+      "10h - MALUCA - Resultado do dia 28/06/2025 (Sábado)\nDeu Dezena, Palpite 7073 no 10º Prêmio!",
+      "10h - MALUCA - Resultado do dia 28/06/2025 (Sábado)\nDeu Centena, Palpite 7373 no 10º Prêmio!",
+      "10h - MALUCA - Resultado do dia 28/06/2025 (Sábado)\nDeu Dezena, Palpite 7373 no 10º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 28/06/2025 (Sábado)\nDeu Centena, Palpite 3003 no 5º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 28/06/2025 (Sábado)\nDeu Dezena, Palpite 3003 no 5º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 28/06/2025 (Sábado)\nDeu Dezena, Palpite 3303 no 5º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 28/06/2025 (Sábado)\nDeu Dezena, Palpite 3103 no 5º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 28/06/2025 (Sábado)\nDeu Dezena, Palpite 0064 no 1º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 28/06/2025 (Sábado)\nDeu Dezena, Palpite 0364 no 1º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 28/06/2025 (Sábado)\nDeu Dezena, Palpite 0264 no 1º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -68,6 +80,13 @@ const palpites = {
       "1108"
     ],
     "frases": [
+      "10h - BA - Resultado do dia 28/06/2025 (Sábado)\nDeu Dezena, Palpite 9671 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 28/06/2025 (Sábado)\nDeu Dezena, Palpite 9871 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 28/06/2025 (Sábado)\nDeu Dezena, Palpite 9371 no 2º Prêmio!",
+      "12h - BA - Resultado do dia 28/06/2025 (Sábado)\nDeu Dezena, Palpite 3038 no 2º Prêmio!",
+      "12h - BA - Resultado do dia 28/06/2025 (Sábado)\nDeu Centena, Palpite 3338 no 2º Prêmio!",
+      "12h - BA - Resultado do dia 28/06/2025 (Sábado)\nDeu Dezena, Palpite 3338 no 2º Prêmio!",
+      "12h - BA - Resultado do dia 28/06/2025 (Sábado)\nDeu Dezena, Palpite 3938 no 2º Prêmio!",
       "19h FEDERAL - BA - Resultado do dia 28/06/2025 (Sábado)\nDeu Dezena, Palpite 0305 no 2º Prêmio!",
       "19h FEDERAL - BA - Resultado do dia 28/06/2025 (Sábado)\nDeu Dezena, Palpite 0605 no 2º Prêmio!",
       "19h FEDERAL - BA - Resultado do dia 28/06/2025 (Sábado)\nDeu Centena, Palpite 0005 no 2º Prêmio!",
@@ -76,5 +95,40 @@ const palpites = {
       "19h FEDERAL - BA - Resultado do dia 28/06/2025 (Sábado)\nDeu Dezena, Palpite 0635 no 7º Prêmio!",
       "19h FEDERAL - BA - Resultado do dia 28/06/2025 (Sábado)\nDeu Dezena, Palpite 0035 no 7º Prêmio!"
     ]
+  },
+  "LOTECE": {
+    "palpites": [
+      "0230",
+      "0231",
+      "0238",
+      "0250",
+      "0251",
+      "0258",
+      "0260",
+      "0261",
+      "0268",
+      "0530",
+      "0531",
+      "0538",
+      "0550",
+      "0551",
+      "0558",
+      "0560",
+      "0561",
+      "0568",
+      "0830",
+      "0831",
+      "0838",
+      "0850",
+      "0851",
+      "0858",
+      "0860",
+      "0861",
+      "0868",
+      "6230",
+      "6231",
+      "6238"
+    ],
+    "frases": []
   }
 };
