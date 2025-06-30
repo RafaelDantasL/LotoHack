@@ -860,6 +860,130 @@ const resultado = {
           "Borboleta"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "7920",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "2º",
+          "9017",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "3º",
+          "4218",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "4º",
+          "7473",
+          "19",
+          "Pavão"
+        ],
+        [
+          "5º",
+          "0417",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "6º [soma]",
+          "9045",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "414",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "7920",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "2º",
+          "9017",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "3º",
+          "4218",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "4º",
+          "7473",
+          "19",
+          "Pavão"
+        ],
+        [
+          "5º",
+          "0417",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "6º",
+          "7947",
+          "12",
+          "Elefante"
+        ],
+        [
+          "7º",
+          "9024",
+          "06",
+          "Cabra"
+        ],
+        [
+          "8º",
+          "2117",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "9º",
+          "0783",
+          "21",
+          "Touro"
+        ],
+        [
+          "10º",
+          "8916",
+          "04",
+          "Borboleta"
+        ]
+      ]
     }
   ],
   "PT SP": [
