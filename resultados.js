@@ -3379,6 +3379,130 @@ const resultado = {
           "Gato"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "9629",
+          "08",
+          "Camelo"
+        ],
+        [
+          "2º",
+          "8228",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "3º",
+          "6515",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "4º",
+          "6568",
+          "17",
+          "Macaco"
+        ],
+        [
+          "5º",
+          "7239",
+          "10",
+          "Coelho"
+        ],
+        [
+          "6º [soma]",
+          "8179",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "227",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "9629",
+          "08",
+          "Camelo"
+        ],
+        [
+          "2º",
+          "8228",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "3º",
+          "6515",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "4º",
+          "6568",
+          "17",
+          "Macaco"
+        ],
+        [
+          "5º",
+          "7239",
+          "10",
+          "Coelho"
+        ],
+        [
+          "6º",
+          "9866",
+          "17",
+          "Macaco"
+        ],
+        [
+          "7º",
+          "6255",
+          "14",
+          "Gato"
+        ],
+        [
+          "8º",
+          "2216",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "9º",
+          "9858",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "10º",
+          "6374",
+          "19",
+          "Pavão"
+        ]
+      ]
     }
   ]
 };
