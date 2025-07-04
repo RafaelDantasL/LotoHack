@@ -326,54 +326,5 @@ const palpites = {
       "Resultado do Jogo do Bicho RJ, 21:20, CORUJA, 1º ao 10º\nDeu Dezena, Palpite 3112 no 7º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 21:20, CORUJA, 1º ao 10º\nDeu Dezena, Palpite 3012 no 7º Prêmio!"
     ]
-  },
-  "PT SP": {
-    "palpites": [
-      "2521",
-      "2522",
-      "2524",
-      "2501",
-      "2502",
-      "2504",
-      "2511",
-      "2512",
-      "2514",
-      "2821",
-      "2822",
-      "2824",
-      "2801",
-      "2802",
-      "2804",
-      "2811",
-      "2812",
-      "2814",
-      "2121",
-      "2122",
-      "2124",
-      "2101",
-      "2102",
-      "2104",
-      "2111",
-      "2112",
-      "2114",
-      "8521",
-      "8522",
-      "8524"
-    ],
-    "frases": [
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Centena, Palpite 8600 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 8600 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 8800 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 8000 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Milhar, Palpite 0600 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Centena, Palpite 2219 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 2219 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 2619 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 2419 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Milhar, Palpite 1219 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 10º\nDeu Dezena, Palpite 9714 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 10º\nDeu Dezena, Palpite 9414 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 10º\nDeu Dezena, Palpite 9614 no 10º Prêmio!"
-    ]
   }
 };
