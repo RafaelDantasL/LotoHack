@@ -1924,6 +1924,130 @@ const resultado = {
           "Carneiro"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 16:00, PTV, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "2115",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "2º",
+          "8547",
+          "12",
+          "Elefante"
+        ],
+        [
+          "3º",
+          "0129",
+          "08",
+          "Camelo"
+        ],
+        [
+          "4º",
+          "6576",
+          "19",
+          "Pavão"
+        ],
+        [
+          "5º",
+          "4617",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "6º [soma]",
+          "1984",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "076",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 16:00, PTV, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "2115",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "2º",
+          "8547",
+          "12",
+          "Elefante"
+        ],
+        [
+          "3º",
+          "0129",
+          "08",
+          "Camelo"
+        ],
+        [
+          "4º",
+          "6576",
+          "19",
+          "Pavão"
+        ],
+        [
+          "5º",
+          "4617",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "6º",
+          "2806",
+          "02",
+          "Águia"
+        ],
+        [
+          "7º",
+          "1515",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "8º",
+          "1427",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "9º",
+          "5796",
+          "24",
+          "Veado"
+        ],
+        [
+          "10º",
+          "3528",
+          "07",
+          "Carneiro"
+        ]
+      ]
     }
   ],
   "PT SP": [
