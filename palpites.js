@@ -73,6 +73,47 @@ const palpites = {
       "10h - BA - Resultado do dia 05/07/2025 (Sábado)\nDeu Dezena, Palpite 3594 no 4º Prêmio!"
     ]
   },
+  "LOTECE": {
+    "palpites": [
+      "6281",
+      "6282",
+      "6284",
+      "6271",
+      "6272",
+      "6274",
+      "6211",
+      "6212",
+      "6214",
+      "6481",
+      "6482",
+      "6484",
+      "6471",
+      "6472",
+      "6474",
+      "6411",
+      "6412",
+      "6414",
+      "6781",
+      "6782",
+      "6784",
+      "6771",
+      "6772",
+      "6774",
+      "6711",
+      "6712",
+      "6714",
+      "0281",
+      "0282",
+      "0284"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOTECE - CE, 12:00 (manhã)\nDeu Dezena, Palpite 0010 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 12:00 (manhã)\nDeu Dezena, Palpite 0210 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 12:00 (manhã)\nDeu Centena, Palpite 0110 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 12:00 (manhã)\nDeu Dezena, Palpite 0110 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 12:00 (manhã)\nDeu Dezena, Palpite 8010 no 5º Prêmio!"
+    ]
+  },
   "LOOK/GOIAS": {
     "palpites": [
       "2102",
@@ -196,6 +237,41 @@ const palpites = {
       "5675",
       "5677",
       "5678"
+    ],
+    "frases": []
+  },
+  "PT SP": {
+    "palpites": [
+      "5823",
+      "5828",
+      "5829",
+      "5843",
+      "5848",
+      "5849",
+      "5813",
+      "5818",
+      "5819",
+      "5423",
+      "5428",
+      "5429",
+      "5443",
+      "5448",
+      "5449",
+      "5413",
+      "5418",
+      "5419",
+      "5123",
+      "5128",
+      "5129",
+      "5143",
+      "5148",
+      "5149",
+      "5113",
+      "5118",
+      "5119",
+      "3823",
+      "3828",
+      "3829"
     ],
     "frases": []
   }
