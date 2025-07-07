@@ -32,7 +32,15 @@ const palpites = {
       "3070",
       "3071"
     ],
-    "frases": []
+    "frases": [
+      "10h - MALUCA - Resultado do dia 07/07/2025 (Segunda-feira)\nDeu Dezena, Palpite 3533 no 4º Prêmio!",
+      "10h - MALUCA - Resultado do dia 07/07/2025 (Segunda-feira)\nDeu Dezena, Palpite 3033 no 4º Prêmio!",
+      "10h - MALUCA - Resultado do dia 07/07/2025 (Segunda-feira)\nDeu Dezena, Palpite 3233 no 4º Prêmio!",
+      "10h - MALUCA - Resultado do dia 07/07/2025 (Segunda-feira)\nDeu Dezena, Palpite 1533 no 4º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 07/07/2025 (Segunda-feira)\nDeu Dezena, Palpite 5301 no 1º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 07/07/2025 (Segunda-feira)\nDeu Dezena, Palpite 5601 no 1º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 07/07/2025 (Segunda-feira)\nDeu Dezena, Palpite 5001 no 1º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -67,47 +75,68 @@ const palpites = {
       "5735",
       "5736"
     ],
-    "frases": []
+    "frases": [
+      "10h - BA - Resultado do dia 07/07/2025 (Segunda-feira)\nDeu Dezena, Palpite 2260 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 07/07/2025 (Segunda-feira)\nDeu Dezena, Palpite 2760 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 07/07/2025 (Segunda-feira)\nDeu Dezena, Palpite 2860 no 2º Prêmio!",
+      "12h - BA - Resultado do dia 07/07/2025 (Segunda-feira)\nDeu Dezena, Palpite 3550 no 3º Prêmio!",
+      "12h - BA - Resultado do dia 07/07/2025 (Segunda-feira)\nDeu Dezena, Palpite 3350 no 3º Prêmio!",
+      "12h - BA - Resultado do dia 07/07/2025 (Segunda-feira)\nDeu Dezena, Palpite 3850 no 3º Prêmio!",
+      "12h - BA - Resultado do dia 07/07/2025 (Segunda-feira)\nDeu Dezena, Palpite 4550 no 3º Prêmio!",
+      "15h - BA - Resultado do dia 07/07/2025 (Segunda-feira)\nDeu Centena, Palpite 3201 no 2º Prêmio!",
+      "15h - BA - Resultado do dia 07/07/2025 (Segunda-feira)\nDeu Dezena, Palpite 3201 no 2º Prêmio!",
+      "15h - BA - Resultado do dia 07/07/2025 (Segunda-feira)\nDeu Dezena, Palpite 3501 no 2º Prêmio!",
+      "15h - BA - Resultado do dia 07/07/2025 (Segunda-feira)\nDeu Dezena, Palpite 3001 no 2º Prêmio!",
+      "15h - BA - Resultado do dia 07/07/2025 (Segunda-feira)\nDeu Dezena, Palpite 3262 no 3º Prêmio!",
+      "15h - BA - Resultado do dia 07/07/2025 (Segunda-feira)\nDeu Dezena, Palpite 3562 no 3º Prêmio!",
+      "15h - BA - Resultado do dia 07/07/2025 (Segunda-feira)\nDeu Dezena, Palpite 3062 no 3º Prêmio!",
+      "15h - BA - Resultado do dia 07/07/2025 (Segunda-feira)\nDeu Dezena, Palpite 3265 no 7º Prêmio!",
+      "15h - BA - Resultado do dia 07/07/2025 (Segunda-feira)\nDeu Dezena, Palpite 3565 no 7º Prêmio!",
+      "15h - BA - Resultado do dia 07/07/2025 (Segunda-feira)\nDeu Centena, Palpite 3065 no 7º Prêmio!",
+      "15h - BA - Resultado do dia 07/07/2025 (Segunda-feira)\nDeu Dezena, Palpite 3065 no 7º Prêmio!"
+    ]
   },
-  "PT SP": {
+  "LOTECE": {
     "palpites": [
-      "2570",
-      "2575",
-      "2576",
-      "2510",
-      "2515",
-      "2516",
-      "2530",
-      "2535",
-      "2536",
-      "2670",
-      "2675",
-      "2676",
-      "2610",
-      "2615",
-      "2616",
-      "2630",
-      "2635",
-      "2636",
-      "2170",
-      "2175",
-      "2176",
-      "2110",
-      "2115",
-      "2116",
-      "2130",
-      "2135",
-      "2136",
-      "3570",
-      "3575",
-      "3576"
+      "8271",
+      "8270",
+      "8272",
+      "8291",
+      "8290",
+      "8292",
+      "8201",
+      "8200",
+      "8202",
+      "8371",
+      "8370",
+      "8372",
+      "8391",
+      "8390",
+      "8392",
+      "8301",
+      "8300",
+      "8302",
+      "8471",
+      "8470",
+      "8472",
+      "8491",
+      "8490",
+      "8492",
+      "8401",
+      "8400",
+      "8402",
+      "2271",
+      "2270",
+      "2272"
     ],
     "frases": [
-      "Resultado do Jogo do Bicho SP, 19hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 9231 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 19hs - PTSP, 1º ao 10º\nDeu Centena, Palpite 9331 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 19hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 9331 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 19hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 9931 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 19hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1231 no 1º Prêmio!"
+      "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)\nDeu Dezena, Palpite 4090 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)\nDeu Dezena, Palpite 4290 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)\nDeu Dezena, Palpite 4890 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)\nDeu Dezena, Palpite 4017 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)\nDeu Centena, Palpite 4217 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)\nDeu Dezena, Palpite 4217 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)\nDeu Dezena, Palpite 4817 no 5º Prêmio!"
     ]
   }
 };
