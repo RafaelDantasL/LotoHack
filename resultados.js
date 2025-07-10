@@ -1924,6 +1924,130 @@ const resultado = {
           "Águia"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 16:00, PTV, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "8417",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "2º",
+          "3731",
+          "08",
+          "Camelo"
+        ],
+        [
+          "3º",
+          "7401",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "4º",
+          "6318",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "5º",
+          "0740",
+          "10",
+          "Coelho"
+        ],
+        [
+          "6º [soma]",
+          "6607",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "403",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 16:00, PTV, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "8417",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "2º",
+          "3731",
+          "08",
+          "Camelo"
+        ],
+        [
+          "3º",
+          "7401",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "4º",
+          "6318",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "5º",
+          "0740",
+          "10",
+          "Coelho"
+        ],
+        [
+          "6º",
+          "8376",
+          "19",
+          "Pavão"
+        ],
+        [
+          "7º",
+          "4743",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "8º",
+          "1301",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "9º",
+          "7118",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "10º",
+          "8145",
+          "12",
+          "Elefante"
+        ]
+      ]
     }
   ],
   "PT SP": [
