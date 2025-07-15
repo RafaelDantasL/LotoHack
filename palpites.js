@@ -33,6 +33,10 @@ const palpites = {
       "1000"
     ],
     "frases": [
+      "10h - MALUCA - Resultado do dia 15/07/2025 (Terça-feira)\nDeu Dezena, Palpite 8101 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 15/07/2025 (Terça-feira)\nDeu Dezena, Palpite 8501 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 15/07/2025 (Terça-feira)\nDeu Dezena, Palpite 8601 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 15/07/2025 (Terça-feira)\nDeu Dezena, Palpite 4101 no 1º Prêmio!",
       "12h - MALUCA - BA - Resultado do dia 15/07/2025 (Terça-feira)\nDeu Dezena, Palpite 2201 no 3º Prêmio!",
       "12h - MALUCA - BA - Resultado do dia 15/07/2025 (Terça-feira)\nDeu Dezena, Palpite 2301 no 3º Prêmio!",
       "12h - MALUCA - BA - Resultado do dia 15/07/2025 (Terça-feira)\nDeu Centena, Palpite 2501 no 3º Prêmio!",
@@ -41,41 +45,6 @@ const palpites = {
       "12h - MALUCA - BA - Resultado do dia 15/07/2025 (Terça-feira)\nDeu Dezena, Palpite 2301 no 7º Prêmio!",
       "12h - MALUCA - BA - Resultado do dia 15/07/2025 (Terça-feira)\nDeu Dezena, Palpite 2501 no 7º Prêmio!"
     ]
-  },
-  "PT SP": {
-    "palpites": [
-      "8410",
-      "8416",
-      "8412",
-      "8420",
-      "8426",
-      "8422",
-      "8440",
-      "8446",
-      "8442",
-      "8110",
-      "8116",
-      "8112",
-      "8120",
-      "8126",
-      "8122",
-      "8140",
-      "8146",
-      "8142",
-      "8210",
-      "8216",
-      "8212",
-      "8220",
-      "8226",
-      "8222",
-      "8240",
-      "8246",
-      "8242",
-      "0410",
-      "0416",
-      "0412"
-    ],
-    "frases": []
   },
   "BAHIA": {
     "palpites": [
@@ -291,5 +260,40 @@ const palpites = {
       "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 3018 no 10º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 3418 no 10º Prêmio!"
     ]
+  },
+  "PT SP": {
+    "palpites": [
+      "8410",
+      "8416",
+      "8412",
+      "8420",
+      "8426",
+      "8422",
+      "8440",
+      "8446",
+      "8442",
+      "8110",
+      "8116",
+      "8112",
+      "8120",
+      "8126",
+      "8122",
+      "8140",
+      "8146",
+      "8142",
+      "8210",
+      "8216",
+      "8212",
+      "8220",
+      "8226",
+      "8222",
+      "8240",
+      "8246",
+      "8242",
+      "0410",
+      "0416",
+      "0412"
+    ],
+    "frases": []
   }
 };
