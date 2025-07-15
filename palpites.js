@@ -166,49 +166,38 @@ const palpites = {
   },
   "LOTEP": {
     "palpites": [
-      "1912",
-      "1914",
-      "1911",
-      "1932",
-      "1934",
-      "1931",
-      "1942",
-      "1944",
-      "1941",
-      "1612",
-      "1614",
-      "1611",
-      "1632",
-      "1634",
-      "1631",
-      "1642",
-      "1644",
-      "1641",
-      "1112",
-      "1114",
-      "1111",
-      "1132",
-      "1134",
-      "1131",
-      "1142",
-      "1144",
-      "1141",
-      "7912",
-      "7914",
-      "7911"
+      "6756",
+      "6759",
+      "6757",
+      "6776",
+      "6779",
+      "6777",
+      "6796",
+      "6799",
+      "6797",
+      "6856",
+      "6859",
+      "6857",
+      "6876",
+      "6879",
+      "6877",
+      "6896",
+      "6899",
+      "6897",
+      "6956",
+      "6959",
+      "6957",
+      "6976",
+      "6979",
+      "6977",
+      "6996",
+      "6999",
+      "6997",
+      "4756",
+      "4759",
+      "4757"
     ],
-    "frases": [
-      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 9983 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 9383 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 9283 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 9978 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 9378 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 9278 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Centena, Palpite 9973 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 9973 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 9373 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 9273 no 9º Prêmio!"
-    ]
+    "frases": []
   },
   "PT RIO": {
     "palpites": [
@@ -294,6 +283,10 @@ const palpites = {
       "0416",
       "0412"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1819 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1119 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1319 no 6º Prêmio!"
+    ]
   }
 };
