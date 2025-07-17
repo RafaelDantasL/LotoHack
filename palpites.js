@@ -94,38 +94,51 @@ const palpites = {
   },
   "LOTECE": {
     "palpites": [
-      "4013",
-      "4014",
-      "4019",
-      "4043",
-      "4044",
-      "4049",
-      "4093",
-      "4094",
-      "4099",
-      "4613",
-      "4614",
-      "4619",
-      "4643",
-      "4644",
-      "4649",
-      "4693",
-      "4694",
-      "4699",
-      "4113",
-      "4114",
-      "4119",
-      "4143",
-      "4144",
-      "4149",
-      "4193",
-      "4194",
-      "4199",
-      "6013",
-      "6014",
-      "6019"
+      "6343",
+      "6347",
+      "6344",
+      "6333",
+      "6337",
+      "6334",
+      "6313",
+      "6317",
+      "6314",
+      "6543",
+      "6547",
+      "6544",
+      "6533",
+      "6537",
+      "6534",
+      "6513",
+      "6517",
+      "6514",
+      "6643",
+      "6647",
+      "6644",
+      "6633",
+      "6637",
+      "6634",
+      "6613",
+      "6617",
+      "6614",
+      "2343",
+      "2347",
+      "2344"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)\nDeu Centena, Palpite 4013 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)\nDeu Dezena, Palpite 4013 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)\nDeu Dezena, Palpite 4613 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)\nDeu Dezena, Palpite 4113 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)\nDeu Centena, Palpite 6013 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)\nDeu Dezena, Palpite 6013 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)\nDeu Dezena, Palpite 4044 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)\nDeu Dezena, Palpite 4644 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)\nDeu Dezena, Palpite 4144 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)\nDeu Dezena, Palpite 4044 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)\nDeu Dezena, Palpite 4644 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)\nDeu Dezena, Palpite 4144 no 5º Prêmio!"
+    ]
   },
   "LOOK/GOIAS": {
     "palpites": [
@@ -297,6 +310,10 @@ const palpites = {
       "2984",
       "2987"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Milhar, Palpite 6453 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 6753 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 6053 no 1º Prêmio!"
+    ]
   }
 };
