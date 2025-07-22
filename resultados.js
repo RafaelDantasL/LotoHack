@@ -2917,6 +2917,130 @@ const resultado = {
           "Cachorro"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 21:20, CORUJA, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "4986",
+          "22",
+          "Tigre"
+        ],
+        [
+          "2º",
+          "8628",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "3º",
+          "7545",
+          "12",
+          "Elefante"
+        ],
+        [
+          "4º",
+          "8514",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "5º",
+          "8437",
+          "10",
+          "Coelho"
+        ],
+        [
+          "6º [soma]",
+          "8110",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "019",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 21:20, CORUJA, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "4986",
+          "22",
+          "Tigre"
+        ],
+        [
+          "2º",
+          "8628",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "3º",
+          "7545",
+          "12",
+          "Elefante"
+        ],
+        [
+          "4º",
+          "8514",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "5º",
+          "8437",
+          "10",
+          "Coelho"
+        ],
+        [
+          "6º",
+          "4878",
+          "20",
+          "Peru"
+        ],
+        [
+          "7º",
+          "9655",
+          "14",
+          "Gato"
+        ],
+        [
+          "8º",
+          "8241",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "9º",
+          "6854",
+          "14",
+          "Gato"
+        ],
+        [
+          "10º",
+          "7738",
+          "10",
+          "Coelho"
+        ]
+      ]
     }
   ],
   "PT SP": [
