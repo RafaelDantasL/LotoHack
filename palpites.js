@@ -33,6 +33,25 @@ const palpites = {
       "6317"
     ],
     "frases": [
+      "10h - MALUCA - Resultado do dia 23/07/2025 (Quarta-feira)\nDeu Dezena, Palpite 3708 no 2º Prêmio!",
+      "10h - MALUCA - Resultado do dia 23/07/2025 (Quarta-feira)\nDeu Dezena, Palpite 3108 no 2º Prêmio!",
+      "10h - MALUCA - Resultado do dia 23/07/2025 (Quarta-feira)\nDeu Dezena, Palpite 3008 no 2º Prêmio!",
+      "10h - MALUCA - Resultado do dia 23/07/2025 (Quarta-feira)\nDeu Dezena, Palpite 3728 no 6º Prêmio!",
+      "10h - MALUCA - Resultado do dia 23/07/2025 (Quarta-feira)\nDeu Dezena, Palpite 3128 no 6º Prêmio!",
+      "10h - MALUCA - Resultado do dia 23/07/2025 (Quarta-feira)\nDeu Dezena, Palpite 3028 no 6º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 23/07/2025 (Quarta-feira)\nDeu Centena, Palpite 9288 no 5º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 23/07/2025 (Quarta-feira)\nDeu Dezena, Palpite 9288 no 5º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 23/07/2025 (Quarta-feira)\nDeu Dezena, Palpite 9588 no 5º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 23/07/2025 (Quarta-feira)\nDeu Dezena, Palpite 9888 no 5º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 23/07/2025 (Quarta-feira)\nDeu Dezena, Palpite 9286 no 8º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 23/07/2025 (Quarta-feira)\nDeu Dezena, Palpite 9586 no 8º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 23/07/2025 (Quarta-feira)\nDeu Dezena, Palpite 9886 no 8º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 23/07/2025 (Quarta-feira)\nDeu Dezena, Palpite 9288 no 10º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 23/07/2025 (Quarta-feira)\nDeu Dezena, Palpite 9588 no 10º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 23/07/2025 (Quarta-feira)\nDeu Dezena, Palpite 9888 no 10º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 23/07/2025 (Quarta-feira)\nDeu Dezena, Palpite 3097 no 2º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 23/07/2025 (Quarta-feira)\nDeu Dezena, Palpite 3197 no 2º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 23/07/2025 (Quarta-feira)\nDeu Dezena, Palpite 3297 no 2º Prêmio!",
       "19h FEDERAL - MALUCA - BA - Resultado do dia 23/07/2025 (Quarta-feira)\nDeu Dezena, Palpite 1991 no 7º Prêmio!",
       "19h FEDERAL - MALUCA - BA - Resultado do dia 23/07/2025 (Quarta-feira)\nDeu Dezena, Palpite 1291 no 7º Prêmio!",
       "19h FEDERAL - MALUCA - BA - Resultado do dia 23/07/2025 (Quarta-feira)\nDeu Dezena, Palpite 1591 no 7º Prêmio!"
@@ -72,6 +91,9 @@ const palpites = {
       "7118"
     ],
     "frases": [
+      "10h - BA - Resultado do dia 23/07/2025 (Quarta-feira)\nDeu Dezena, Palpite 1632 no 8º Prêmio!",
+      "10h - BA - Resultado do dia 23/07/2025 (Quarta-feira)\nDeu Dezena, Palpite 1732 no 8º Prêmio!",
+      "10h - BA - Resultado do dia 23/07/2025 (Quarta-feira)\nDeu Dezena, Palpite 1332 no 8º Prêmio!",
       "19h FEDERAL - BA - Resultado do dia 23/07/2025 (Quarta-feira)\nDeu Centena, Palpite 4899 no 5º Prêmio!",
       "19h FEDERAL - BA - Resultado do dia 23/07/2025 (Quarta-feira)\nDeu Dezena, Palpite 4899 no 5º Prêmio!",
       "19h FEDERAL - BA - Resultado do dia 23/07/2025 (Quarta-feira)\nDeu Dezena, Palpite 4299 no 5º Prêmio!",
@@ -86,5 +108,40 @@ const palpites = {
       "19h FEDERAL - BA - Resultado do dia 23/07/2025 (Quarta-feira)\nDeu Centena, Palpite 4110 no 9º Prêmio!",
       "19h FEDERAL - BA - Resultado do dia 23/07/2025 (Quarta-feira)\nDeu Dezena, Palpite 4110 no 9º Prêmio!"
     ]
+  },
+  "LOTECE": {
+    "palpites": [
+      "0611",
+      "0613",
+      "0614",
+      "0681",
+      "0683",
+      "0684",
+      "0641",
+      "0643",
+      "0644",
+      "0711",
+      "0713",
+      "0714",
+      "0781",
+      "0783",
+      "0784",
+      "0741",
+      "0743",
+      "0744",
+      "0011",
+      "0013",
+      "0014",
+      "0081",
+      "0083",
+      "0084",
+      "0041",
+      "0043",
+      "0044",
+      "1611",
+      "1613",
+      "1614"
+    ],
+    "frases": []
   }
 };
