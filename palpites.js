@@ -77,5 +77,86 @@ const palpites = {
       "10h - BA - Resultado do dia 24/07/2025 (Quinta-feira)\nDeu Dezena, Palpite 1564 no 8º Prêmio!",
       "10h - BA - Resultado do dia 24/07/2025 (Quinta-feira)\nDeu Dezena, Palpite 1664 no 8º Prêmio!"
     ]
+  },
+  "LOOK/GOIAS": {
+    "palpites": [
+      "0467",
+      "0469",
+      "0460",
+      "0477",
+      "0479",
+      "0470",
+      "0497",
+      "0499",
+      "0490",
+      "0167",
+      "0169",
+      "0160",
+      "0177",
+      "0179",
+      "0170",
+      "0197",
+      "0199",
+      "0190",
+      "0567",
+      "0569",
+      "0560",
+      "0577",
+      "0579",
+      "0570",
+      "0597",
+      "0599",
+      "0590",
+      "2467",
+      "2469",
+      "2460"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 2577 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Centena, Palpite 2177 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 2177 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 2677 no 9º Prêmio!"
+    ]
+  },
+  "LOTEP": {
+    "palpites": [
+      "0522",
+      "0524",
+      "0520",
+      "0532",
+      "0534",
+      "0530",
+      "0542",
+      "0544",
+      "0540",
+      "0322",
+      "0324",
+      "0320",
+      "0332",
+      "0334",
+      "0330",
+      "0342",
+      "0344",
+      "0340",
+      "0422",
+      "0424",
+      "0420",
+      "0432",
+      "0434",
+      "0430",
+      "0442",
+      "0444",
+      "0440",
+      "3522",
+      "3524",
+      "3520"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 7124 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 7624 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Centena, Palpite 7224 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 7224 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 8124 no 9º Prêmio!"
+    ]
   }
 };
