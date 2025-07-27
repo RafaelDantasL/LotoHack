@@ -2280,6 +2280,130 @@ const resultado = {
           "Elefante"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "1817",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "2º",
+          "8290",
+          "23",
+          "Urso"
+        ],
+        [
+          "3º",
+          "3620",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "4º",
+          "5788",
+          "22",
+          "Tigre"
+        ],
+        [
+          "5º",
+          "8975",
+          "19",
+          "Pavão"
+        ],
+        [
+          "6º [soma]",
+          "8490",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "062",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "1817",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "2º",
+          "8290",
+          "23",
+          "Urso"
+        ],
+        [
+          "3º",
+          "3620",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "4º",
+          "5788",
+          "22",
+          "Tigre"
+        ],
+        [
+          "5º",
+          "8975",
+          "19",
+          "Pavão"
+        ],
+        [
+          "6º",
+          "1835",
+          "09",
+          "Cobra"
+        ],
+        [
+          "7º",
+          "8267",
+          "17",
+          "Macaco"
+        ],
+        [
+          "8º",
+          "1928",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "9º",
+          "7008",
+          "02",
+          "Águia"
+        ],
+        [
+          "10º",
+          "7528",
+          "07",
+          "Carneiro"
+        ]
+      ]
     }
   ]
 };
