@@ -286,40 +286,5 @@ const palpites = {
       "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 5575 no 5º Prêmio!",
       "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 5075 no 5º Prêmio!"
     ]
-  },
-  "LOTECE": {
-    "palpites": [
-      "8710",
-      "8711",
-      "8713",
-      "8740",
-      "8741",
-      "8743",
-      "8720",
-      "8721",
-      "8723",
-      "8410",
-      "8411",
-      "8413",
-      "8440",
-      "8441",
-      "8443",
-      "8420",
-      "8421",
-      "8423",
-      "8910",
-      "8911",
-      "8913",
-      "8940",
-      "8941",
-      "8943",
-      "8920",
-      "8921",
-      "8923",
-      "2710",
-      "2711",
-      "2713"
-    ],
-    "frases": []
   }
 };
