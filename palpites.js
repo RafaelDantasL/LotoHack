@@ -33,6 +33,13 @@ const palpites = {
       "9000"
     ],
     "frases": [
+      "12h - MALUCA - BA - Resultado do dia 03/08/2025 (Domingo)\nDeu Dezena, Palpite 3860 no 2º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 03/08/2025 (Domingo)\nDeu Dezena, Palpite 3760 no 2º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 03/08/2025 (Domingo)\nDeu Dezena, Palpite 3960 no 2º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 03/08/2025 (Domingo)\nDeu Dezena, Palpite 5860 no 2º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 03/08/2025 (Domingo)\nDeu Dezena, Palpite 3891 no 5º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 03/08/2025 (Domingo)\nDeu Dezena, Palpite 3791 no 5º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 03/08/2025 (Domingo)\nDeu Dezena, Palpite 3991 no 5º Prêmio!",
       "15h - MALUCA - BA - Resultado do dia 03/08/2025 (Domingo)\nDeu Dezena, Palpite 6030 no 3º Prêmio!",
       "15h - MALUCA - BA - Resultado do dia 03/08/2025 (Domingo)\nDeu Dezena, Palpite 6530 no 3º Prêmio!",
       "15h - MALUCA - BA - Resultado do dia 03/08/2025 (Domingo)\nDeu Dezena, Palpite 6130 no 3º Prêmio!"
@@ -81,6 +88,41 @@ const palpites = {
       "15h - BA - Resultado do dia 03/08/2025 (Domingo)\nDeu Dezena, Palpite 3906 no 8º Prêmio!"
     ]
   },
+  "LOOK/GOIAS": {
+    "palpites": [
+      "2691",
+      "2696",
+      "2699",
+      "2641",
+      "2646",
+      "2649",
+      "2621",
+      "2626",
+      "2629",
+      "2491",
+      "2496",
+      "2499",
+      "2441",
+      "2446",
+      "2449",
+      "2421",
+      "2426",
+      "2429",
+      "2591",
+      "2596",
+      "2599",
+      "2541",
+      "2546",
+      "2549",
+      "2521",
+      "2526",
+      "2529",
+      "6691",
+      "6696",
+      "6699"
+    ],
+    "frases": []
+  },
   "LOTECE": {
     "palpites": [
       "2000",
@@ -115,61 +157,6 @@ const palpites = {
       "3006"
     ],
     "frases": []
-  },
-  "LOOK/GOIAS": {
-    "palpites": [
-      "1203",
-      "1200",
-      "1209",
-      "1223",
-      "1220",
-      "1229",
-      "1233",
-      "1230",
-      "1239",
-      "1303",
-      "1300",
-      "1309",
-      "1323",
-      "1320",
-      "1329",
-      "1333",
-      "1330",
-      "1339",
-      "1403",
-      "1400",
-      "1409",
-      "1423",
-      "1420",
-      "1429",
-      "1433",
-      "1430",
-      "1439",
-      "3203",
-      "3200",
-      "3209"
-    ],
-    "frases": [
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 9193 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 9493 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 9093 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 7893 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 7093 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 7993 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 11h, 1º ao 10º\nDeu Dezena, Palpite 3199 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 11h, 1º ao 10º\nDeu Dezena, Palpite 3699 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 11h, 1º ao 10º\nDeu Dezena, Palpite 3799 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 11h, 1º ao 10º\nDeu Dezena, Palpite 9199 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 11h, 1º ao 10º\nDeu Dezena, Palpite 3103 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 11h, 1º ao 10º\nDeu Dezena, Palpite 3603 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 11h, 1º ao 10º\nDeu Dezena, Palpite 3703 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 14h, 1º ao 10º\nDeu Dezena, Palpite 5108 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 14h, 1º ao 10º\nDeu Dezena, Palpite 5708 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 14h, 1º ao 10º\nDeu Dezena, Palpite 5908 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 14h, 1º ao 10º\nDeu Dezena, Palpite 5139 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 14h, 1º ao 10º\nDeu Dezena, Palpite 5739 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 14h, 1º ao 10º\nDeu Dezena, Palpite 5939 no 6º Prêmio!"
-    ]
   },
   "LOTEP": {
     "palpites": [
