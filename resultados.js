@@ -70,6 +70,77 @@ const resultado = {
           "Cabra"
         ]
       ]
+    },
+    {
+      "titulo": "12h - MALUCA - BA - Resultado do dia 04/08/2025 (Segunda-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "9211",
+          "03",
+          "Burro"
+        ],
+        [
+          "2º",
+          "5527",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "3º",
+          "8838",
+          "10",
+          "Coelho"
+        ],
+        [
+          "4º",
+          "5527",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "5º",
+          "8116",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "6º",
+          "6504",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "7º",
+          "2357",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "8º",
+          "1267",
+          "17",
+          "Macaco"
+        ],
+        [
+          "9º",
+          "9525",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "10º",
+          "1368",
+          "17",
+          "Macaco"
+        ]
+      ]
     }
   ],
   "BAHIA": [
