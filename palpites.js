@@ -216,40 +216,5 @@ const palpites = {
       "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 7528 no 6º Prêmio!",
       "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 7728 no 6º Prêmio!"
     ]
-  },
-  "LOTECE": {
-    "palpites": [
-      "3453",
-      "3457",
-      "3450",
-      "3413",
-      "3417",
-      "3410",
-      "3443",
-      "3447",
-      "3440",
-      "3253",
-      "3257",
-      "3250",
-      "3213",
-      "3217",
-      "3210",
-      "3243",
-      "3247",
-      "3240",
-      "3853",
-      "3857",
-      "3850",
-      "3813",
-      "3817",
-      "3810",
-      "3843",
-      "3847",
-      "3840",
-      "0453",
-      "0457",
-      "0450"
-    ],
-    "frases": []
   }
 };
