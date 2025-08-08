@@ -33,45 +33,18 @@ const palpites = {
       "4487"
     ],
     "frases": [
+      "12h - MALUCA - BA - Resultado do dia 08/08/2025 (Sexta-feira)\nDeu Centena, Palpite 5541 no 6º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 08/08/2025 (Sexta-feira)\nDeu Dezena, Palpite 5541 no 6º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 08/08/2025 (Sexta-feira)\nDeu Dezena, Palpite 5741 no 6º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 08/08/2025 (Sexta-feira)\nDeu Dezena, Palpite 5041 no 6º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 08/08/2025 (Sexta-feira)\nDeu Milhar, Palpite 8541 no 6º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 08/08/2025 (Sexta-feira)\nDeu Dezena, Palpite 5575 no 8º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 08/08/2025 (Sexta-feira)\nDeu Dezena, Palpite 5775 no 8º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 08/08/2025 (Sexta-feira)\nDeu Dezena, Palpite 5075 no 8º Prêmio!",
       "15h - MALUCA - BA - Resultado do dia 08/08/2025 (Sexta-feira)\nDeu Dezena, Palpite 7171 no 5º Prêmio!",
       "15h - MALUCA - BA - Resultado do dia 08/08/2025 (Sexta-feira)\nDeu Dezena, Palpite 7371 no 5º Prêmio!",
       "15h - MALUCA - BA - Resultado do dia 08/08/2025 (Sexta-feira)\nDeu Dezena, Palpite 7071 no 5º Prêmio!"
     ]
-  },
-  "PT SP": {
-    "palpites": [
-      "0515",
-      "0510",
-      "0516",
-      "0595",
-      "0590",
-      "0596",
-      "0505",
-      "0500",
-      "0506",
-      "0615",
-      "0610",
-      "0616",
-      "0695",
-      "0690",
-      "0696",
-      "0605",
-      "0600",
-      "0606",
-      "0815",
-      "0810",
-      "0816",
-      "0895",
-      "0890",
-      "0896",
-      "0805",
-      "0800",
-      "0806",
-      "1515",
-      "1510",
-      "1516"
-    ],
-    "frases": []
   },
   "BAHIA": {
     "palpites": [
@@ -288,5 +261,40 @@ const palpites = {
       "Resultado do Jogo do Bicho RJ, 14:20, PT, 1º ao 10º\nDeu Dezena, Palpite 3940 no 1º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 14:20, PT, 1º ao 10º\nDeu Dezena, Palpite 3040 no 1º Prêmio!"
     ]
+  },
+  "PT SP": {
+    "palpites": [
+      "0515",
+      "0510",
+      "0516",
+      "0595",
+      "0590",
+      "0596",
+      "0505",
+      "0500",
+      "0506",
+      "0615",
+      "0610",
+      "0616",
+      "0695",
+      "0690",
+      "0696",
+      "0605",
+      "0600",
+      "0606",
+      "0815",
+      "0810",
+      "0816",
+      "0895",
+      "0890",
+      "0896",
+      "0805",
+      "0800",
+      "0806",
+      "1515",
+      "1510",
+      "1516"
+    ],
+    "frases": []
   }
 };
