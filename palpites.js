@@ -102,7 +102,15 @@ const palpites = {
       "0746",
       "0740"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 6037 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 6737 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 6837 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 6009 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 6709 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 6809 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 0009 no 9º Prêmio!"
+    ]
   },
   "PT RIO": {
     "palpites": [
@@ -158,5 +166,110 @@ const palpites = {
       "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 4505 no 9º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 4705 no 9º Prêmio!"
     ]
+  },
+  "LOTECE": {
+    "palpites": [
+      "5390",
+      "5397",
+      "5391",
+      "5300",
+      "5307",
+      "5301",
+      "5310",
+      "5317",
+      "5311",
+      "5690",
+      "5697",
+      "5691",
+      "5600",
+      "5607",
+      "5601",
+      "5610",
+      "5617",
+      "5611",
+      "5990",
+      "5997",
+      "5991",
+      "5900",
+      "5907",
+      "5901",
+      "5910",
+      "5917",
+      "5911",
+      "2390",
+      "2397",
+      "2391"
+    ],
+    "frases": []
+  },
+  "LOTEP": {
+    "palpites": [
+      "0442",
+      "0445",
+      "0446",
+      "0402",
+      "0405",
+      "0406",
+      "0472",
+      "0475",
+      "0476",
+      "0042",
+      "0045",
+      "0046",
+      "0002",
+      "0005",
+      "0006",
+      "0072",
+      "0075",
+      "0076",
+      "0942",
+      "0945",
+      "0946",
+      "0902",
+      "0905",
+      "0906",
+      "0972",
+      "0975",
+      "0976",
+      "9442",
+      "9445",
+      "9446"
+    ],
+    "frases": []
+  },
+  "PT SP": {
+    "palpites": [
+      "1969",
+      "1961",
+      "1963",
+      "1929",
+      "1921",
+      "1923",
+      "1959",
+      "1951",
+      "1953",
+      "1169",
+      "1161",
+      "1163",
+      "1129",
+      "1121",
+      "1123",
+      "1159",
+      "1151",
+      "1153",
+      "1269",
+      "1261",
+      "1263",
+      "1229",
+      "1221",
+      "1223",
+      "1259",
+      "1251",
+      "1253",
+      "5969",
+      "5961",
+      "5963"
+    ],
+    "frases": []
   }
 };
