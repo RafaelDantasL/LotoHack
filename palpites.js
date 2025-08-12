@@ -109,6 +109,80 @@ const palpites = {
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 0004 no 5º Prêmio!"
     ]
   },
+  "LOTEP": {
+    "palpites": [
+      "1929",
+      "1922",
+      "1921",
+      "1999",
+      "1992",
+      "1991",
+      "1909",
+      "1902",
+      "1901",
+      "1029",
+      "1022",
+      "1021",
+      "1099",
+      "1092",
+      "1091",
+      "1009",
+      "1002",
+      "1001",
+      "1429",
+      "1422",
+      "1421",
+      "1499",
+      "1492",
+      "1491",
+      "1409",
+      "1402",
+      "1401",
+      "2929",
+      "2922",
+      "2921"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 8872 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 8572 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 8072 no 1º Prêmio!"
+    ]
+  },
+  "LOTECE": {
+    "palpites": [
+      "0753",
+      "0758",
+      "0752",
+      "0793",
+      "0798",
+      "0792",
+      "0703",
+      "0708",
+      "0702",
+      "0853",
+      "0858",
+      "0852",
+      "0893",
+      "0898",
+      "0892",
+      "0803",
+      "0808",
+      "0802",
+      "0953",
+      "0958",
+      "0952",
+      "0993",
+      "0998",
+      "0992",
+      "0903",
+      "0908",
+      "0902",
+      "3753",
+      "3758",
+      "3752"
+    ],
+    "frases": []
+  },
   "PT RIO": {
     "palpites": [
       "6911",
@@ -148,5 +222,40 @@ const palpites = {
       "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 3072 no 7º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 6272 no 7º Prêmio!"
     ]
+  },
+  "PT SP": {
+    "palpites": [
+      "0615",
+      "0618",
+      "0610",
+      "0655",
+      "0658",
+      "0650",
+      "0665",
+      "0668",
+      "0660",
+      "0415",
+      "0418",
+      "0410",
+      "0455",
+      "0458",
+      "0450",
+      "0465",
+      "0468",
+      "0460",
+      "0715",
+      "0718",
+      "0710",
+      "0755",
+      "0758",
+      "0750",
+      "0765",
+      "0768",
+      "0760",
+      "3615",
+      "3618",
+      "3610"
+    ],
+    "frases": []
   }
 };
