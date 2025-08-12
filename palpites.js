@@ -198,6 +198,88 @@ const palpites = {
       "3006",
       "3007"
     ],
+    "frases": [
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 8872 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 8572 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 8072 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 1992 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 1092 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 1492 no 4º Prêmio!"
+    ]
+  },
+  "PT RIO": {
+    "palpites": [
+      "6946",
+      "6943",
+      "6949",
+      "6966",
+      "6963",
+      "6969",
+      "6906",
+      "6903",
+      "6909",
+      "6246",
+      "6243",
+      "6249",
+      "6266",
+      "6263",
+      "6269",
+      "6206",
+      "6203",
+      "6209",
+      "6146",
+      "6143",
+      "6149",
+      "6166",
+      "6163",
+      "6169",
+      "6106",
+      "6103",
+      "6109",
+      "1946",
+      "1943",
+      "1949"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 3272 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 3772 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 3072 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 6272 no 7º Prêmio!"
+    ]
+  },
+  "PT SP": {
+    "palpites": [
+      "4103",
+      "4105",
+      "4108",
+      "4153",
+      "4155",
+      "4158",
+      "4163",
+      "4165",
+      "4168",
+      "4203",
+      "4205",
+      "4208",
+      "4253",
+      "4255",
+      "4258",
+      "4263",
+      "4265",
+      "4268",
+      "4003",
+      "4005",
+      "4008",
+      "4053",
+      "4055",
+      "4058",
+      "4063",
+      "4065",
+      "4068",
+      "0103",
+      "0105",
+      "0108"
+    ],
     "frases": []
   }
 };
