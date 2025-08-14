@@ -69,6 +69,47 @@ const palpites = {
     ],
     "frases": []
   },
+  "LOOK/GOIAS": {
+    "palpites": [
+      "1261",
+      "1263",
+      "1264",
+      "1201",
+      "1203",
+      "1204",
+      "1271",
+      "1273",
+      "1274",
+      "1761",
+      "1763",
+      "1764",
+      "1701",
+      "1703",
+      "1704",
+      "1771",
+      "1773",
+      "1774",
+      "1161",
+      "1163",
+      "1164",
+      "1101",
+      "1103",
+      "1104",
+      "1171",
+      "1173",
+      "1174",
+      "0261",
+      "0263",
+      "0264"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 0173 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 0073 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Centena, Palpite 0273 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 0273 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 2173 no 7º Prêmio!"
+    ]
+  },
   "LOTECE": {
     "palpites": [
       "8354",
@@ -103,45 +144,6 @@ const palpites = {
       "4359"
     ],
     "frases": []
-  },
-  "LOOK/GOIAS": {
-    "palpites": [
-      "0177",
-      "0173",
-      "0175",
-      "0157",
-      "0153",
-      "0155",
-      "0117",
-      "0113",
-      "0115",
-      "0077",
-      "0073",
-      "0075",
-      "0057",
-      "0053",
-      "0055",
-      "0017",
-      "0013",
-      "0015",
-      "0277",
-      "0273",
-      "0275",
-      "0257",
-      "0253",
-      "0255",
-      "0217",
-      "0213",
-      "0215",
-      "2177",
-      "2173",
-      "2175"
-    ],
-    "frases": [
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 2557 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 2757 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 2057 no 9º Prêmio!"
-    ]
   },
   "LOTEP": {
     "palpites": [
