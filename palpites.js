@@ -33,6 +33,10 @@ const palpites = {
       "5765"
     ],
     "frases": [
+      "12h - MALUCA - BA - Resultado do dia 16/08/2025 (Sábado)\nDeu Dezena, Palpite 0070 no 5º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 16/08/2025 (Sábado)\nDeu Dezena, Palpite 0770 no 5º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 16/08/2025 (Sábado)\nDeu Dezena, Palpite 0270 no 5º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 16/08/2025 (Sábado)\nDeu Dezena, Palpite 4070 no 5º Prêmio!",
       "15h - MALUCA - BA - Resultado do dia 16/08/2025 (Sábado)\nDeu Dezena, Palpite 7570 no 1º Prêmio!",
       "15h - MALUCA - BA - Resultado do dia 16/08/2025 (Sábado)\nDeu Dezena, Palpite 7670 no 1º Prêmio!",
       "15h - MALUCA - BA - Resultado do dia 16/08/2025 (Sábado)\nDeu Dezena, Palpite 7870 no 1º Prêmio!",
@@ -41,50 +45,6 @@ const palpites = {
       "15h - MALUCA - BA - Resultado do dia 16/08/2025 (Sábado)\nDeu Dezena, Palpite 7670 no 4º Prêmio!",
       "15h - MALUCA - BA - Resultado do dia 16/08/2025 (Sábado)\nDeu Dezena, Palpite 7870 no 4º Prêmio!",
       "15h - MALUCA - BA - Resultado do dia 16/08/2025 (Sábado)\nDeu Dezena, Palpite 0570 no 4º Prêmio!"
-    ]
-  },
-  "PT SP": {
-    "palpites": [
-      "0222",
-      "0225",
-      "0226",
-      "0212",
-      "0215",
-      "0216",
-      "0202",
-      "0205",
-      "0206",
-      "0122",
-      "0125",
-      "0126",
-      "0112",
-      "0115",
-      "0116",
-      "0102",
-      "0105",
-      "0106",
-      "0822",
-      "0825",
-      "0826",
-      "0812",
-      "0815",
-      "0816",
-      "0802",
-      "0805",
-      "0806",
-      "8222",
-      "8225",
-      "8226"
-    ],
-    "frases": [
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 3622 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 3222 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 3322 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 4622 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 3622 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 3222 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 3322 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 4622 no 8º Prêmio!"
     ]
   },
   "BAHIA": {
@@ -314,5 +274,49 @@ const palpites = {
       "8220"
     ],
     "frases": []
+  },
+  "PT SP": {
+    "palpites": [
+      "0222",
+      "0225",
+      "0226",
+      "0212",
+      "0215",
+      "0216",
+      "0202",
+      "0205",
+      "0206",
+      "0122",
+      "0125",
+      "0126",
+      "0112",
+      "0115",
+      "0116",
+      "0102",
+      "0105",
+      "0106",
+      "0822",
+      "0825",
+      "0826",
+      "0812",
+      "0815",
+      "0816",
+      "0802",
+      "0805",
+      "0806",
+      "8222",
+      "8225",
+      "8226"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 3622 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 3222 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 3322 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 4622 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 3622 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 3222 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 3322 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 4622 no 8º Prêmio!"
+    ]
   }
 };
