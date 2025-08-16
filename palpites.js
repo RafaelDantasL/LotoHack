@@ -204,6 +204,46 @@ const palpites = {
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 18h, 1º ao 10º\nDeu Dezena, Palpite 6897 no 9º Prêmio!"
     ]
   },
+  "LOTEP": {
+    "palpites": [
+      "3438",
+      "3431",
+      "3436",
+      "3448",
+      "3441",
+      "3446",
+      "3498",
+      "3491",
+      "3496",
+      "3038",
+      "3031",
+      "3036",
+      "3048",
+      "3041",
+      "3046",
+      "3098",
+      "3091",
+      "3096",
+      "3738",
+      "3731",
+      "3736",
+      "3748",
+      "3741",
+      "3746",
+      "3798",
+      "3791",
+      "3796",
+      "4438",
+      "4431",
+      "4436"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho PB - FEDERAL\nDeu Dezena, Palpite 5588 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho PB - FEDERAL\nDeu Dezena, Palpite 5988 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho PB - FEDERAL\nDeu Dezena, Palpite 5288 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho PB - FEDERAL\nDeu Dezena, Palpite 4588 no 4º Prêmio!"
+    ]
+  },
   "PT RIO": {
     "palpites": [
       "0811",
