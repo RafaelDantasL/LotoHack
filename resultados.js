@@ -3148,6 +3148,130 @@ const resultado = {
           "Borboleta"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "6048",
+          "12",
+          "Elefante"
+        ],
+        [
+          "2º",
+          "8862",
+          "16",
+          "Leão"
+        ],
+        [
+          "3º",
+          "0184",
+          "21",
+          "Touro"
+        ],
+        [
+          "4º",
+          "1785",
+          "22",
+          "Tigre"
+        ],
+        [
+          "5º",
+          "4417",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "6º [soma]",
+          "1296",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "597",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "6048",
+          "12",
+          "Elefante"
+        ],
+        [
+          "2º",
+          "8862",
+          "16",
+          "Leão"
+        ],
+        [
+          "3º",
+          "0184",
+          "21",
+          "Touro"
+        ],
+        [
+          "4º",
+          "1785",
+          "22",
+          "Tigre"
+        ],
+        [
+          "5º",
+          "4417",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "6º",
+          "6801",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "7º",
+          "0817",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "8º",
+          "4688",
+          "22",
+          "Tigre"
+        ],
+        [
+          "9º",
+          "8245",
+          "12",
+          "Elefante"
+        ],
+        [
+          "10º",
+          "1847",
+          "12",
+          "Elefante"
+        ]
+      ]
     }
   ]
 };
