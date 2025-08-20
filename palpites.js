@@ -279,53 +279,5 @@ const palpites = {
       "Resultado do Jogo do Bicho RJ, 21:20, CORUJA, 1º ao 10º\nDeu Dezena, Palpite 5731 no 1º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 21:20, CORUJA, 1º ao 10º\nDeu Dezena, Palpite 1631 no 1º Prêmio!"
     ]
-  },
-  "PT SP": {
-    "palpites": [
-      "3164",
-      "3165",
-      "3167",
-      "3104",
-      "3105",
-      "3107",
-      "3134",
-      "3135",
-      "3137",
-      "3064",
-      "3065",
-      "3067",
-      "3004",
-      "3005",
-      "3007",
-      "3034",
-      "3035",
-      "3037",
-      "3964",
-      "3965",
-      "3967",
-      "3904",
-      "3905",
-      "3907",
-      "3934",
-      "3935",
-      "3937",
-      "7164",
-      "7165",
-      "7167"
-    ],
-    "frases": [
-      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0160 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0760 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0260 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1160 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 10º\nDeu Dezena, Palpite 4463 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 10º\nDeu Dezena, Palpite 4263 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 10º\nDeu Dezena, Palpite 4363 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 10º\nDeu Dezena, Palpite 6463 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 10º\nDeu Dezena, Palpite 4460 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 10º\nDeu Dezena, Palpite 4260 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 10º\nDeu Dezena, Palpite 4360 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 10º\nDeu Dezena, Palpite 6460 no 8º Prêmio!"
-    ]
   }
 };
