@@ -431,6 +431,59 @@ const resultado = {
   ],
   "LOTECE": [
     {
+      "titulo": "Resultado do Jogo do Bicho A FEDERAL DO BRASIL CE - Ceará Federal",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "2023",
+          "06",
+          "Cabra"
+        ],
+        [
+          "2º",
+          "5817",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "3º",
+          "1130",
+          "08",
+          "Camelo"
+        ],
+        [
+          "4º",
+          "4794",
+          "24",
+          "Veado"
+        ],
+        [
+          "5º",
+          "8695",
+          "24",
+          "Veado"
+        ],
+        [
+          "6º [soma]",
+          "2459",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "397",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
       "titulo": "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)",
       "conteudo": [
         [
@@ -1867,6 +1920,77 @@ const resultado = {
           "2432",
           "08",
           "Camelo"
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho PB - FEDERAL",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "2023",
+          "06",
+          "Cabra"
+        ],
+        [
+          "2º",
+          "5817",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "3º",
+          "1130",
+          "08",
+          "Camelo"
+        ],
+        [
+          "4º",
+          "4794",
+          "24",
+          "Veado"
+        ],
+        [
+          "5º",
+          "8695",
+          "24",
+          "Veado"
+        ],
+        [
+          "6º",
+          "2514",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "7º",
+          "0817",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "8º",
+          "2139",
+          "10",
+          "Coelho"
+        ],
+        [
+          "9º",
+          "3704",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "10º",
+          "1633",
+          "09",
+          "Cobra"
         ]
       ]
     }
