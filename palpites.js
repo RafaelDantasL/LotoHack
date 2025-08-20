@@ -94,38 +94,44 @@ const palpites = {
   },
   "LOTECE": {
     "palpites": [
-      "0102",
-      "0100",
-      "0101",
-      "0112",
-      "0110",
-      "0111",
-      "0182",
-      "0180",
-      "0181",
-      "0402",
-      "0400",
-      "0401",
-      "0412",
-      "0410",
-      "0411",
-      "0482",
-      "0480",
-      "0481",
-      "0602",
-      "0600",
-      "0601",
-      "0612",
-      "0610",
-      "0611",
-      "0682",
-      "0680",
-      "0681",
-      "5102",
-      "5100",
-      "5101"
+      "1503",
+      "1507",
+      "1500",
+      "1543",
+      "1547",
+      "1540",
+      "1553",
+      "1557",
+      "1550",
+      "1203",
+      "1207",
+      "1200",
+      "1243",
+      "1247",
+      "1240",
+      "1253",
+      "1257",
+      "1250",
+      "1803",
+      "1807",
+      "1800",
+      "1843",
+      "1847",
+      "1840",
+      "1853",
+      "1857",
+      "1850",
+      "3503",
+      "3507",
+      "3500"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)\nDeu Dezena, Palpite 0102 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)\nDeu Centena, Palpite 0402 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)\nDeu Dezena, Palpite 0402 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)\nDeu Dezena, Palpite 0602 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)\nDeu Dezena, Palpite 5102 no 1º Prêmio!"
+    ]
   },
   "LOOK/GOIAS": {
     "palpites": [
@@ -308,6 +314,11 @@ const palpites = {
       "2740",
       "2749"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Centena, Palpite 0278 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0278 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0078 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0378 no 1º Prêmio!"
+    ]
   }
 };
