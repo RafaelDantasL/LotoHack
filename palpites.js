@@ -32,7 +32,15 @@ const palpites = {
       "1647",
       "1649"
     ],
-    "frases": []
+    "frases": [
+      "10h - MALUCA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Dezena, Palpite 0955 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Dezena, Palpite 0255 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Dezena, Palpite 0855 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Dezena, Palpite 0984 no 7º Prêmio!",
+      "10h - MALUCA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Dezena, Palpite 0284 no 7º Prêmio!",
+      "10h - MALUCA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Dezena, Palpite 0884 no 7º Prêmio!",
+      "10h - MALUCA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Dezena, Palpite 2984 no 7º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -68,55 +76,66 @@ const palpites = {
       "5494"
     ],
     "frases": [
+      "10h - BA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Dezena, Palpite 2485 no 3º Prêmio!",
+      "10h - BA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Dezena, Palpite 2885 no 3º Prêmio!",
+      "10h - BA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Dezena, Palpite 2985 no 3º Prêmio!",
+      "10h - BA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Dezena, Palpite 4485 no 3º Prêmio!",
+      "12h - BA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Dezena, Palpite 0245 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Dezena, Palpite 0745 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Centena, Palpite 0845 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Dezena, Palpite 0845 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Dezena, Palpite 0245 no 7º Prêmio!",
+      "12h - BA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Dezena, Palpite 0745 no 7º Prêmio!",
+      "12h - BA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Dezena, Palpite 0845 no 7º Prêmio!",
+      "12h - BA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Dezena, Palpite 0281 no 8º Prêmio!",
+      "12h - BA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Dezena, Palpite 0781 no 8º Prêmio!",
+      "12h - BA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Dezena, Palpite 0881 no 8º Prêmio!",
       "15h - BA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Dezena, Palpite 1017 no 9º Prêmio!",
       "15h - BA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Dezena, Palpite 1517 no 9º Prêmio!",
       "15h - BA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Centena, Palpite 1617 no 9º Prêmio!",
       "15h - BA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Dezena, Palpite 1617 no 9º Prêmio!"
     ]
   },
-  "PT SP": {
+  "LOTECE": {
     "palpites": [
-      "0655",
-      "0657",
-      "0658",
-      "0615",
-      "0617",
-      "0618",
-      "0635",
-      "0637",
-      "0638",
-      "0755",
-      "0757",
-      "0758",
-      "0715",
-      "0717",
-      "0718",
-      "0735",
-      "0737",
-      "0738",
-      "0855",
-      "0857",
-      "0858",
-      "0815",
-      "0817",
-      "0818",
-      "0835",
-      "0837",
-      "0838",
-      "7655",
-      "7657",
-      "7658"
+      "8117",
+      "8113",
+      "8114",
+      "8147",
+      "8143",
+      "8144",
+      "8187",
+      "8183",
+      "8184",
+      "8217",
+      "8213",
+      "8214",
+      "8247",
+      "8243",
+      "8244",
+      "8287",
+      "8283",
+      "8284",
+      "8317",
+      "8313",
+      "8314",
+      "8347",
+      "8343",
+      "8344",
+      "8387",
+      "8383",
+      "8384",
+      "0117",
+      "0113",
+      "0114"
     ],
     "frases": [
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Milhar, Palpite 0749 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 0849 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 0649 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Centena, Palpite 2749 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 2749 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 0756 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Centena, Palpite 0856 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 0856 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 0656 no 8º Prêmio!"
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 1547 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 1247 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 1847 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 1543 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 1243 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 1843 no 9º Prêmio!"
     ]
   }
 };
