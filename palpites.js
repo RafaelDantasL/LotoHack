@@ -44,6 +44,48 @@ const palpites = {
       "10h - MALUCA - Resultado do dia 21/08/2025 (Quinta-feira)\nDeu Dezena, Palpite 0670 no 3º Prêmio!"
     ]
   },
+  "BAHIA": {
+    "palpites": [
+      "5441",
+      "5445",
+      "5447",
+      "5471",
+      "5475",
+      "5477",
+      "5481",
+      "5485",
+      "5487",
+      "5841",
+      "5845",
+      "5847",
+      "5871",
+      "5875",
+      "5877",
+      "5881",
+      "5885",
+      "5887",
+      "5041",
+      "5045",
+      "5047",
+      "5071",
+      "5075",
+      "5077",
+      "5081",
+      "5085",
+      "5087",
+      "2441",
+      "2445",
+      "2447"
+    ],
+    "frases": [
+      "10h - BA - Resultado do dia 21/08/2025 (Quinta-feira)\nDeu Centena, Palpite 5201 no 6º Prêmio!",
+      "10h - BA - Resultado do dia 21/08/2025 (Quinta-feira)\nDeu Dezena, Palpite 5201 no 6º Prêmio!",
+      "10h - BA - Resultado do dia 21/08/2025 (Quinta-feira)\nDeu Dezena, Palpite 5301 no 6º Prêmio!",
+      "10h - BA - Resultado do dia 21/08/2025 (Quinta-feira)\nDeu Dezena, Palpite 5401 no 6º Prêmio!",
+      "10h - BA - Resultado do dia 21/08/2025 (Quinta-feira)\nDeu Centena, Palpite 1201 no 6º Prêmio!",
+      "10h - BA - Resultado do dia 21/08/2025 (Quinta-feira)\nDeu Dezena, Palpite 1201 no 6º Prêmio!"
+    ]
+  },
   "LOTECE": {
     "palpites": [
       "6272",
