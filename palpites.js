@@ -32,15 +32,7 @@ const palpites = {
       "3130",
       "3131"
     ],
-    "frases": [
-      "10h - MALUCA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Dezena, Palpite 0955 no 1º Prêmio!",
-      "10h - MALUCA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Dezena, Palpite 0255 no 1º Prêmio!",
-      "10h - MALUCA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Dezena, Palpite 0855 no 1º Prêmio!",
-      "10h - MALUCA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Dezena, Palpite 0984 no 7º Prêmio!",
-      "10h - MALUCA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Dezena, Palpite 0284 no 7º Prêmio!",
-      "10h - MALUCA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Dezena, Palpite 0884 no 7º Prêmio!",
-      "10h - MALUCA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Dezena, Palpite 2984 no 7º Prêmio!"
-    ]
+    "frases": []
   },
   "BAHIA": {
     "palpites": [
@@ -75,30 +67,7 @@ const palpites = {
       "1203",
       "1201"
     ],
-    "frases": [
-      "10h - BA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Dezena, Palpite 2485 no 3º Prêmio!",
-      "10h - BA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Dezena, Palpite 2885 no 3º Prêmio!",
-      "10h - BA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Dezena, Palpite 2985 no 3º Prêmio!",
-      "10h - BA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Dezena, Palpite 4485 no 3º Prêmio!",
-      "12h - BA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Dezena, Palpite 0245 no 4º Prêmio!",
-      "12h - BA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Dezena, Palpite 0745 no 4º Prêmio!",
-      "12h - BA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Centena, Palpite 0845 no 4º Prêmio!",
-      "12h - BA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Dezena, Palpite 0845 no 4º Prêmio!",
-      "12h - BA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Dezena, Palpite 0245 no 7º Prêmio!",
-      "12h - BA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Dezena, Palpite 0745 no 7º Prêmio!",
-      "12h - BA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Dezena, Palpite 0845 no 7º Prêmio!",
-      "12h - BA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Dezena, Palpite 0281 no 8º Prêmio!",
-      "12h - BA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Dezena, Palpite 0781 no 8º Prêmio!",
-      "12h - BA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Dezena, Palpite 0881 no 8º Prêmio!",
-      "15h - BA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Dezena, Palpite 1017 no 9º Prêmio!",
-      "15h - BA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Dezena, Palpite 1517 no 9º Prêmio!",
-      "15h - BA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Centena, Palpite 1617 no 9º Prêmio!",
-      "15h - BA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Dezena, Palpite 1617 no 9º Prêmio!",
-      "19h FEDERAL - BA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Dezena, Palpite 3494 no 4º Prêmio!",
-      "19h FEDERAL - BA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Dezena, Palpite 3894 no 4º Prêmio!",
-      "19h FEDERAL - BA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Dezena, Palpite 3294 no 4º Prêmio!",
-      "19h FEDERAL - BA - Resultado do dia 20/08/2025 (Quarta-feira)\nDeu Dezena, Palpite 5494 no 4º Prêmio!"
-    ]
+    "frases": []
   },
   "LOTECE": {
     "palpites": [
@@ -133,81 +102,41 @@ const palpites = {
       "2067",
       "2068"
     ],
-    "frases": [
-      "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)\nDeu Dezena, Palpite 0102 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)\nDeu Centena, Palpite 0402 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)\nDeu Dezena, Palpite 0402 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)\nDeu Dezena, Palpite 0602 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)\nDeu Dezena, Palpite 5102 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 1547 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 1247 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 1847 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 1543 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 1243 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 1843 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 8114 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Centena, Palpite 8214 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 8214 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 8314 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 0114 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 8187 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 8287 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Centena, Palpite 8387 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 8387 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 8147 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 8247 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Centena, Palpite 8347 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 8347 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 8187 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 8287 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 8387 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Milhar, Palpite 8143 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 8243 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 8343 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)\nDeu Dezena, Palpite 8117 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)\nDeu Dezena, Palpite 8217 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)\nDeu Dezena, Palpite 8317 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)\nDeu Dezena, Palpite 0117 no 7º Prêmio!"
-    ]
+    "frases": []
   },
   "LOOK/GOIAS": {
     "palpites": [
-      "3254",
-      "3250",
-      "3255",
-      "3274",
-      "3270",
-      "3275",
-      "3294",
-      "3290",
-      "3295",
-      "3954",
-      "3950",
-      "3955",
-      "3974",
-      "3970",
-      "3975",
-      "3994",
-      "3990",
-      "3995",
-      "3054",
-      "3050",
-      "3055",
-      "3074",
-      "3070",
-      "3075",
-      "3094",
-      "3090",
-      "3095",
-      "0254",
-      "0250",
-      "0255"
+      "1773",
+      "1776",
+      "1779",
+      "1733",
+      "1736",
+      "1739",
+      "1763",
+      "1766",
+      "1769",
+      "1373",
+      "1376",
+      "1379",
+      "1333",
+      "1336",
+      "1339",
+      "1363",
+      "1366",
+      "1369",
+      "1173",
+      "1176",
+      "1179",
+      "1133",
+      "1136",
+      "1139",
+      "1163",
+      "1166",
+      "1169",
+      "6773",
+      "6776",
+      "6779"
     ],
-    "frases": [
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 23h, 1º ao 10º\nDeu Dezena, Palpite 1220 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 23h, 1º ao 10º\nDeu Centena, Palpite 1020 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 23h, 1º ao 10º\nDeu Dezena, Palpite 1020 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 23h, 1º ao 10º\nDeu Dezena, Palpite 1920 no 6º Prêmio!"
-    ]
+    "frases": []
   }
 };
