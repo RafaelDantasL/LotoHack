@@ -2917,6 +2917,130 @@ const resultado = {
           "Avestruz"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 21:20, CORUJA, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "0294",
+          "24",
+          "Veado"
+        ],
+        [
+          "2º",
+          "9503",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "3º",
+          "5204",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "4º",
+          "8072",
+          "18",
+          "Porco"
+        ],
+        [
+          "5º",
+          "3345",
+          "12",
+          "Elefante"
+        ],
+        [
+          "6º [soma]",
+          "6418",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "793",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 21:20, CORUJA, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "0294",
+          "24",
+          "Veado"
+        ],
+        [
+          "2º",
+          "9503",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "3º",
+          "5204",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "4º",
+          "8072",
+          "18",
+          "Porco"
+        ],
+        [
+          "5º",
+          "3345",
+          "12",
+          "Elefante"
+        ],
+        [
+          "6º",
+          "0958",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "7º",
+          "2520",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "8º",
+          "9007",
+          "02",
+          "Águia"
+        ],
+        [
+          "9º",
+          "4342",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "10º",
+          "3245",
+          "12",
+          "Elefante"
+        ]
+      ]
     }
   ],
   "PT SP": [
