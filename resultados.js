@@ -2599,6 +2599,130 @@ const resultado = {
           "Jacaré"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "4701",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "2º",
+          "4932",
+          "08",
+          "Camelo"
+        ],
+        [
+          "3º",
+          "0071",
+          "18",
+          "Porco"
+        ],
+        [
+          "4º",
+          "1103",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "5º",
+          "5237",
+          "10",
+          "Coelho"
+        ],
+        [
+          "6º [soma]",
+          "6044",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "185",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "4701",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "2º",
+          "4932",
+          "08",
+          "Camelo"
+        ],
+        [
+          "3º",
+          "0071",
+          "18",
+          "Porco"
+        ],
+        [
+          "4º",
+          "1103",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "5º",
+          "5237",
+          "10",
+          "Coelho"
+        ],
+        [
+          "6º",
+          "4401",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "7º",
+          "7901",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "8º",
+          "0370",
+          "18",
+          "Porco"
+        ],
+        [
+          "9º",
+          "1213",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "10º",
+          "9929",
+          "08",
+          "Camelo"
+        ]
+      ]
     }
   ]
 };
