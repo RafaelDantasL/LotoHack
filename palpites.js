@@ -32,7 +32,12 @@ const palpites = {
       "0188",
       "0182"
     ],
-    "frases": []
+    "frases": [
+      "10h - MALUCA - Resultado do dia 25/08/2025 (Segunda-feira)\nDeu Dezena, Palpite 9088 no 7º Prêmio!",
+      "10h - MALUCA - Resultado do dia 25/08/2025 (Segunda-feira)\nDeu Milhar, Palpite 9188 no 7º Prêmio!",
+      "10h - MALUCA - Resultado do dia 25/08/2025 (Segunda-feira)\nDeu Dezena, Palpite 9788 no 7º Prêmio!",
+      "10h - MALUCA - Resultado do dia 25/08/2025 (Segunda-feira)\nDeu Dezena, Palpite 4088 no 7º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -68,6 +73,13 @@ const palpites = {
       "3188"
     ],
     "frases": [
+      "10h - BA - Resultado do dia 25/08/2025 (Segunda-feira)\nDeu Dezena, Palpite 7545 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 25/08/2025 (Segunda-feira)\nDeu Dezena, Palpite 7045 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 25/08/2025 (Segunda-feira)\nDeu Dezena, Palpite 7145 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 25/08/2025 (Segunda-feira)\nDeu Dezena, Palpite 7545 no 3º Prêmio!",
+      "10h - BA - Resultado do dia 25/08/2025 (Segunda-feira)\nDeu Dezena, Palpite 7045 no 3º Prêmio!",
+      "10h - BA - Resultado do dia 25/08/2025 (Segunda-feira)\nDeu Centena, Palpite 7145 no 3º Prêmio!",
+      "10h - BA - Resultado do dia 25/08/2025 (Segunda-feira)\nDeu Dezena, Palpite 7145 no 3º Prêmio!",
       "12h - BA - Resultado do dia 25/08/2025 (Segunda-feira)\nDeu Dezena, Palpite 1048 no 6º Prêmio!",
       "12h - BA - Resultado do dia 25/08/2025 (Segunda-feira)\nDeu Centena, Palpite 1248 no 6º Prêmio!",
       "12h - BA - Resultado do dia 25/08/2025 (Segunda-feira)\nDeu Dezena, Palpite 1248 no 6º Prêmio!",
@@ -178,46 +190,38 @@ const palpites = {
   },
   "LOTEP": {
     "palpites": [
-      "6104",
-      "6100",
-      "6101",
-      "6134",
-      "6130",
-      "6131",
-      "6144",
-      "6140",
-      "6141",
-      "6604",
-      "6600",
-      "6601",
-      "6634",
-      "6630",
-      "6631",
-      "6644",
-      "6640",
-      "6641",
-      "6304",
-      "6300",
-      "6301",
-      "6334",
-      "6330",
-      "6331",
-      "6344",
-      "6340",
-      "6341",
-      "4104",
-      "4100",
-      "4101"
+      "9598",
+      "9599",
+      "9593",
+      "9518",
+      "9519",
+      "9513",
+      "9558",
+      "9559",
+      "9553",
+      "9898",
+      "9899",
+      "9893",
+      "9818",
+      "9819",
+      "9813",
+      "9858",
+      "9859",
+      "9853",
+      "9098",
+      "9099",
+      "9093",
+      "9018",
+      "9019",
+      "9013",
+      "9058",
+      "9059",
+      "9053",
+      "3598",
+      "3599",
+      "3593"
     ],
-    "frases": [
-      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Centena, Palpite 2002 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 2002 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 2202 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 2602 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 9100 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 9500 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 9000 no 3º Prêmio!"
-    ]
+    "frases": []
   },
   "PT RIO": {
     "palpites": [
