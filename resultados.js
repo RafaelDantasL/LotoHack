@@ -3379,6 +3379,130 @@ const resultado = {
           "Avestruz"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "3125",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "2º",
+          "3548",
+          "12",
+          "Elefante"
+        ],
+        [
+          "3º",
+          "7528",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "4º",
+          "2184",
+          "21",
+          "Touro"
+        ],
+        [
+          "5º",
+          "9788",
+          "22",
+          "Tigre"
+        ],
+        [
+          "6º [soma]",
+          "6173",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "087",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "3125",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "2º",
+          "3548",
+          "12",
+          "Elefante"
+        ],
+        [
+          "3º",
+          "7528",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "4º",
+          "2184",
+          "21",
+          "Touro"
+        ],
+        [
+          "5º",
+          "9788",
+          "22",
+          "Tigre"
+        ],
+        [
+          "6º",
+          "3372",
+          "18",
+          "Porco"
+        ],
+        [
+          "7º",
+          "1551",
+          "13",
+          "Galo"
+        ],
+        [
+          "8º",
+          "2428",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "9º",
+          "5884",
+          "21",
+          "Touro"
+        ],
+        [
+          "10º",
+          "9408",
+          "02",
+          "Águia"
+        ]
+      ]
     }
   ]
 };
