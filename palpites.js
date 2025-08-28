@@ -191,9 +191,88 @@ const palpites = {
       "4488"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 5240 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 5940 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 5040 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 8240 no 10º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 0487 no 3º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 0587 no 3º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 0987 no 3º Prêmio!"
     ]
+  },
+  "PT RIO": {
+    "palpites": [
+      "8217",
+      "8210",
+      "8213",
+      "8237",
+      "8230",
+      "8233",
+      "8247",
+      "8240",
+      "8243",
+      "8317",
+      "8310",
+      "8313",
+      "8337",
+      "8330",
+      "8333",
+      "8347",
+      "8340",
+      "8343",
+      "8517",
+      "8510",
+      "8513",
+      "8537",
+      "8530",
+      "8533",
+      "8547",
+      "8540",
+      "8543",
+      "2217",
+      "2210",
+      "2213"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 1513 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 1913 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 1113 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 5513 no 8º Prêmio!"
+    ]
+  },
+  "PT SP": {
+    "palpites": [
+      "9932",
+      "9934",
+      "9936",
+      "9942",
+      "9944",
+      "9946",
+      "9952",
+      "9954",
+      "9956",
+      "9132",
+      "9134",
+      "9136",
+      "9142",
+      "9144",
+      "9146",
+      "9152",
+      "9154",
+      "9156",
+      "9432",
+      "9434",
+      "9436",
+      "9442",
+      "9444",
+      "9446",
+      "9452",
+      "9454",
+      "9456",
+      "1932",
+      "1934",
+      "1936"
+    ],
+    "frases": []
   }
 };
