@@ -82,45 +82,38 @@ const palpites = {
   },
   "LOTECE": {
     "palpites": [
-      "3003",
-      "3004",
-      "3000",
-      "3013",
-      "3014",
-      "3010",
-      "3023",
-      "3024",
-      "3020",
-      "3103",
-      "3104",
-      "3100",
-      "3113",
-      "3114",
-      "3110",
-      "3123",
-      "3124",
-      "3120",
-      "3303",
-      "3304",
-      "3300",
-      "3313",
-      "3314",
-      "3310",
-      "3323",
-      "3324",
-      "3320",
-      "6003",
-      "6004",
-      "6000"
+      "1218",
+      "1213",
+      "1210",
+      "1248",
+      "1243",
+      "1240",
+      "1258",
+      "1253",
+      "1250",
+      "1418",
+      "1413",
+      "1410",
+      "1448",
+      "1443",
+      "1440",
+      "1458",
+      "1453",
+      "1450",
+      "1118",
+      "1113",
+      "1110",
+      "1148",
+      "1143",
+      "1140",
+      "1158",
+      "1153",
+      "1150",
+      "8218",
+      "8213",
+      "8210"
     ],
-    "frases": [
-      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 3823 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 3123 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 3023 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 3833 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 3133 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 3033 no 5º Prêmio!"
-    ]
+    "frases": []
   },
   "LOOK/GOIAS": {
     "palpites": [
@@ -273,6 +266,10 @@ const palpites = {
       "1934",
       "1936"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 4551 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 4251 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 4351 no 6º Prêmio!"
+    ]
   }
 };
