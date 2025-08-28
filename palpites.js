@@ -73,6 +73,163 @@ const palpites = {
       "12h - BA - Resultado do dia 28/08/2025 (Quinta-feira)\nDeu Dezena, Palpite 3215 no 1º Prêmio!"
     ]
   },
+  "LOTECE": {
+    "palpites": [
+      "3003",
+      "3004",
+      "3000",
+      "3013",
+      "3014",
+      "3010",
+      "3023",
+      "3024",
+      "3020",
+      "3103",
+      "3104",
+      "3100",
+      "3113",
+      "3114",
+      "3110",
+      "3123",
+      "3124",
+      "3120",
+      "3303",
+      "3304",
+      "3300",
+      "3313",
+      "3314",
+      "3310",
+      "3323",
+      "3324",
+      "3320",
+      "6003",
+      "6004",
+      "6000"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 3823 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 3123 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 3023 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 3833 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 3133 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 3033 no 5º Prêmio!"
+    ]
+  },
+  "LOOK/GOIAS": {
+    "palpites": [
+      "2421",
+      "2423",
+      "2424",
+      "2431",
+      "2433",
+      "2434",
+      "2491",
+      "2493",
+      "2494",
+      "2721",
+      "2723",
+      "2724",
+      "2731",
+      "2733",
+      "2734",
+      "2791",
+      "2793",
+      "2794",
+      "2021",
+      "2023",
+      "2024",
+      "2031",
+      "2033",
+      "2034",
+      "2091",
+      "2093",
+      "2094",
+      "1421",
+      "1423",
+      "1424"
+    ],
+    "frases": []
+  },
+  "LOTEP": {
+    "palpites": [
+      "0441",
+      "0447",
+      "0443",
+      "0481",
+      "0487",
+      "0483",
+      "0401",
+      "0407",
+      "0403",
+      "0541",
+      "0547",
+      "0543",
+      "0581",
+      "0587",
+      "0583",
+      "0501",
+      "0507",
+      "0503",
+      "0941",
+      "0947",
+      "0943",
+      "0981",
+      "0987",
+      "0983",
+      "0901",
+      "0907",
+      "0903",
+      "5441",
+      "5447",
+      "5443"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 5240 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 5940 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 5040 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 8240 no 10º Prêmio!"
+    ]
+  },
+  "PT RIO": {
+    "palpites": [
+      "8217",
+      "8210",
+      "8213",
+      "8237",
+      "8230",
+      "8233",
+      "8247",
+      "8240",
+      "8243",
+      "8317",
+      "8310",
+      "8313",
+      "8337",
+      "8330",
+      "8333",
+      "8347",
+      "8340",
+      "8343",
+      "8517",
+      "8510",
+      "8513",
+      "8537",
+      "8530",
+      "8533",
+      "8547",
+      "8540",
+      "8543",
+      "2217",
+      "2210",
+      "2213"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 1513 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 1913 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 1113 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 5513 no 8º Prêmio!"
+    ]
+  },
   "PT SP": {
     "palpites": [
       "6605",
@@ -106,6 +263,10 @@ const palpites = {
       "0600",
       "0601"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 4551 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 4251 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 4351 no 6º Prêmio!"
+    ]
   }
 };
