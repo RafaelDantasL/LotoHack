@@ -92,38 +92,42 @@ const palpites = {
   },
   "LOTECE": {
     "palpites": [
-      "7325",
-      "7327",
-      "7329",
-      "7305",
-      "7307",
-      "7309",
-      "7335",
-      "7337",
-      "7339",
-      "7025",
-      "7027",
-      "7029",
-      "7005",
-      "7007",
-      "7009",
-      "7035",
-      "7037",
-      "7039",
-      "7425",
-      "7427",
-      "7429",
-      "7405",
-      "7407",
-      "7409",
-      "7435",
-      "7437",
-      "7439",
-      "1325",
-      "1327",
-      "1329"
+      "2201",
+      "2206",
+      "2207",
+      "2231",
+      "2236",
+      "2237",
+      "2251",
+      "2256",
+      "2257",
+      "2401",
+      "2406",
+      "2407",
+      "2431",
+      "2436",
+      "2437",
+      "2451",
+      "2456",
+      "2457",
+      "2101",
+      "2106",
+      "2107",
+      "2131",
+      "2136",
+      "2137",
+      "2151",
+      "2156",
+      "2157",
+      "9201",
+      "9206",
+      "9207"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)\nDeu Dezena, Palpite 7339 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)\nDeu Dezena, Palpite 7039 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)\nDeu Dezena, Palpite 7439 no 5º Prêmio!"
+    ]
   },
   "LOOK/GOIAS": {
     "palpites": [
@@ -278,6 +282,14 @@ const palpites = {
       "3570",
       "3572"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 5501 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 5201 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 5001 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 0132 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 0032 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Centena, Palpite 0332 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 0332 no 2º Prêmio!"
+    ]
   }
 };
