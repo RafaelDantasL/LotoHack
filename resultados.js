@@ -2917,6 +2917,130 @@ const resultado = {
           "Cavalo"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 21:20, CORUJA, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "0017",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "2º",
+          "7017",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "3º",
+          "4150",
+          "13",
+          "Galo"
+        ],
+        [
+          "4º",
+          "8574",
+          "19",
+          "Pavão"
+        ],
+        [
+          "5º",
+          "3414",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "6º [soma]",
+          "3172",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "119",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 21:20, CORUJA, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "0017",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "2º",
+          "7017",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "3º",
+          "4150",
+          "13",
+          "Galo"
+        ],
+        [
+          "4º",
+          "8574",
+          "19",
+          "Pavão"
+        ],
+        [
+          "5º",
+          "3414",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "6º",
+          "0748",
+          "12",
+          "Elefante"
+        ],
+        [
+          "7º",
+          "0015",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "8º",
+          "1157",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "9º",
+          "7704",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "10º",
+          "2796",
+          "24",
+          "Veado"
+        ]
+      ]
     }
   ],
   "PT SP": [
