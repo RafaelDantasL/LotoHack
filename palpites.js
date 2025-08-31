@@ -194,6 +194,10 @@ const palpites = {
       "9670"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 3840 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 3240 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 3340 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 4840 no 6º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 0001 no 5º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 0101 no 5º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Centena, Palpite 0701 no 5º Prêmio!",
@@ -206,5 +210,79 @@ const palpites = {
       "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 0722 no 10º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 2022 no 10º Prêmio!"
     ]
+  },
+  "PT SP": {
+    "palpites": [
+      "5294",
+      "5298",
+      "5293",
+      "5244",
+      "5248",
+      "5243",
+      "5254",
+      "5258",
+      "5253",
+      "5394",
+      "5398",
+      "5393",
+      "5344",
+      "5348",
+      "5343",
+      "5354",
+      "5358",
+      "5353",
+      "5694",
+      "5698",
+      "5693",
+      "5644",
+      "5648",
+      "5643",
+      "5654",
+      "5658",
+      "5653",
+      "1294",
+      "1298",
+      "1293"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 2499 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 2399 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 2199 no 2º Prêmio!"
+    ]
+  },
+  "LOTECE": {
+    "palpites": [
+      "2081",
+      "2084",
+      "2080",
+      "2001",
+      "2004",
+      "2000",
+      "2011",
+      "2014",
+      "2010",
+      "2581",
+      "2584",
+      "2580",
+      "2501",
+      "2504",
+      "2500",
+      "2511",
+      "2514",
+      "2510",
+      "2681",
+      "2684",
+      "2680",
+      "2601",
+      "2604",
+      "2600",
+      "2611",
+      "2614",
+      "2610",
+      "3081",
+      "3084",
+      "3080"
+    ],
+    "frases": []
   }
 };
