@@ -1,4 +1,121 @@
 const palpites = {
+  "BAHIA MALUCA": {
+    "palpites": [
+      "6622",
+      "6625",
+      "6620",
+      "6692",
+      "6695",
+      "6690",
+      "6612",
+      "6615",
+      "6610",
+      "6422",
+      "6425",
+      "6420",
+      "6492",
+      "6495",
+      "6490",
+      "6412",
+      "6415",
+      "6410",
+      "6822",
+      "6825",
+      "6820",
+      "6892",
+      "6895",
+      "6890",
+      "6812",
+      "6815",
+      "6810",
+      "1622",
+      "1625",
+      "1620"
+    ],
+    "frases": [
+      "10h - MALUCA - Resultado do dia 04/09/2025 (Quinta-feira)\nDeu Dezena, Palpite 1337 no 5º Prêmio!",
+      "10h - MALUCA - Resultado do dia 04/09/2025 (Quinta-feira)\nDeu Dezena, Palpite 1437 no 5º Prêmio!",
+      "10h - MALUCA - Resultado do dia 04/09/2025 (Quinta-feira)\nDeu Dezena, Palpite 1537 no 5º Prêmio!",
+      "10h - MALUCA - Resultado do dia 04/09/2025 (Quinta-feira)\nDeu Dezena, Palpite 1322 no 10º Prêmio!",
+      "10h - MALUCA - Resultado do dia 04/09/2025 (Quinta-feira)\nDeu Dezena, Palpite 1422 no 10º Prêmio!",
+      "10h - MALUCA - Resultado do dia 04/09/2025 (Quinta-feira)\nDeu Dezena, Palpite 1522 no 10º Prêmio!",
+      "10h - MALUCA - Resultado do dia 04/09/2025 (Quinta-feira)\nDeu Dezena, Palpite 9322 no 10º Prêmio!"
+    ]
+  },
+  "BAHIA": {
+    "palpites": [
+      "8216",
+      "8210",
+      "8212",
+      "8296",
+      "8290",
+      "8292",
+      "8246",
+      "8240",
+      "8242",
+      "8416",
+      "8410",
+      "8412",
+      "8496",
+      "8490",
+      "8492",
+      "8446",
+      "8440",
+      "8442",
+      "8616",
+      "8610",
+      "8612",
+      "8696",
+      "8690",
+      "8692",
+      "8646",
+      "8640",
+      "8642",
+      "1216",
+      "1210",
+      "1212"
+    ],
+    "frases": [
+      "10h - BA - Resultado do dia 04/09/2025 (Quinta-feira)\nDeu Dezena, Palpite 7302 no 9º Prêmio!",
+      "10h - BA - Resultado do dia 04/09/2025 (Quinta-feira)\nDeu Dezena, Palpite 7202 no 9º Prêmio!",
+      "10h - BA - Resultado do dia 04/09/2025 (Quinta-feira)\nDeu Dezena, Palpite 7002 no 9º Prêmio!"
+    ]
+  },
+  "LOTECE": {
+    "palpites": [
+      "8072",
+      "8075",
+      "8076",
+      "8032",
+      "8035",
+      "8036",
+      "8002",
+      "8005",
+      "8006",
+      "8372",
+      "8375",
+      "8376",
+      "8332",
+      "8335",
+      "8336",
+      "8302",
+      "8305",
+      "8306",
+      "8572",
+      "8575",
+      "8576",
+      "8532",
+      "8535",
+      "8536",
+      "8502",
+      "8505",
+      "8506",
+      "0072",
+      "0075",
+      "0076"
+    ],
+    "frases": []
+  },
   "LOOK/GOIAS": {
     "palpites": [
       "9100",
@@ -169,6 +286,11 @@ const palpites = {
       "5033",
       "5031"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2247 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2047 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2147 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 6247 no 9º Prêmio!"
+    ]
   }
 };
