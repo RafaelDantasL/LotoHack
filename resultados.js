@@ -1002,6 +1002,130 @@ const resultado = {
           "Jacaré"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "9986",
+          "22",
+          "Tigre"
+        ],
+        [
+          "2º",
+          "8501",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "3º",
+          "6119",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "4º",
+          "9644",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "5º",
+          "0515",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "6º [soma]",
+          "4765",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "890",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "9986",
+          "22",
+          "Tigre"
+        ],
+        [
+          "2º",
+          "8501",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "3º",
+          "6119",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "4º",
+          "9644",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "5º",
+          "0515",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "6º",
+          "9869",
+          "18",
+          "Porco"
+        ],
+        [
+          "7º",
+          "9516",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "8º",
+          "8014",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "9º",
+          "6194",
+          "24",
+          "Veado"
+        ],
+        [
+          "10º",
+          "8358",
+          "15",
+          "Jacaré"
+        ]
+      ]
     }
   ],
   "PT SP": [
