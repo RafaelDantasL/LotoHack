@@ -1251,7 +1251,7 @@ const resultado = {
   ],
   "LOTEP": [
     {
-      "titulo": "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:30",
+      "titulo": "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45",
       "conteudo": [
         [
           "Prêmio",
