@@ -219,10 +219,7 @@ const palpites = {
       "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0810 no 6º Prêmio!",
       "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Centena, Palpite 0010 no 6º Prêmio!",
       "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0010 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0110 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 0928 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 0028 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 0228 no 2º Prêmio!"
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0110 no 6º Prêmio!"
     ]
   },
   "PT RIO": {
@@ -267,40 +264,5 @@ const palpites = {
       "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 2802 no 4º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 0102 no 4º Prêmio!"
     ]
-  },
-  "PT SP": {
-    "palpites": [
-      "1726",
-      "1728",
-      "1729",
-      "1716",
-      "1718",
-      "1719",
-      "1706",
-      "1708",
-      "1709",
-      "1926",
-      "1928",
-      "1929",
-      "1916",
-      "1918",
-      "1919",
-      "1906",
-      "1908",
-      "1909",
-      "1026",
-      "1028",
-      "1029",
-      "1016",
-      "1018",
-      "1019",
-      "1006",
-      "1008",
-      "1009",
-      "9726",
-      "9728",
-      "9729"
-    ],
-    "frases": []
   }
 };
