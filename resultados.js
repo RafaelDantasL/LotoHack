@@ -1834,6 +1834,77 @@ const resultado = {
           "Avestruz"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 18:05",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "3398",
+          "25",
+          "Vaca"
+        ],
+        [
+          "2º",
+          "1553",
+          "14",
+          "Gato"
+        ],
+        [
+          "3º",
+          "8227",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "4º",
+          "7502",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "5º",
+          "4283",
+          "21",
+          "Touro"
+        ],
+        [
+          "6º",
+          "3187",
+          "22",
+          "Tigre"
+        ],
+        [
+          "7º",
+          "3525",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "8º",
+          "9520",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "9º",
+          "8372",
+          "18",
+          "Porco"
+        ],
+        [
+          "10º",
+          "9567",
+          "17",
+          "Macaco"
+        ]
+      ]
     }
   ],
   "PT RIO": [
