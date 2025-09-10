@@ -73,6 +73,45 @@ const palpites = {
       "10h - BA - Resultado do dia 10/09/2025 (Quarta-feira)\nDeu Dezena, Palpite 0777 no 1º Prêmio!"
     ]
   },
+  "LOTECE": {
+    "palpites": [
+      "6470",
+      "6472",
+      "6473",
+      "6490",
+      "6492",
+      "6493",
+      "6400",
+      "6402",
+      "6403",
+      "6770",
+      "6772",
+      "6773",
+      "6790",
+      "6792",
+      "6793",
+      "6700",
+      "6702",
+      "6703",
+      "6070",
+      "6072",
+      "6073",
+      "6090",
+      "6092",
+      "6093",
+      "6000",
+      "6002",
+      "6003",
+      "1470",
+      "1472",
+      "1473"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 1507 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 1807 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 1007 no 6º Prêmio!"
+    ]
+  },
   "LOOK/GOIAS": {
     "palpites": [
       "0812",
@@ -148,42 +187,28 @@ const palpites = {
       "1823",
       "1826"
     ],
-    "frases": []
-  },
-  "LOTECE": {
-    "palpites": [
-      "1577",
-      "1579",
-      "1572",
-      "1507",
-      "1509",
-      "1502",
-      "1527",
-      "1529",
-      "1522",
-      "1877",
-      "1879",
-      "1872",
-      "1807",
-      "1809",
-      "1802",
-      "1827",
-      "1829",
-      "1822",
-      "1077",
-      "1079",
-      "1072",
-      "1007",
-      "1009",
-      "1002",
-      "1027",
-      "1029",
-      "1022",
-      "4577",
-      "4579",
-      "4572"
-    ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Centena, Palpite 3290 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 3290 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 3390 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 3590 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 3250 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 3350 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 3550 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 1250 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 3290 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 3390 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 3590 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 9049 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 9649 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Centena, Palpite 9749 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 9749 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 8049 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 9142 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 9342 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 9642 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 2142 no 2º Prêmio!"
+    ]
   },
   "PT RIO": {
     "palpites": [
