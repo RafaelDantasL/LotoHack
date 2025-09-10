@@ -288,10 +288,6 @@ const palpites = {
       "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Centena, Palpite 9749 no 8º Prêmio!",
       "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 9749 no 8º Prêmio!",
       "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 8049 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 9142 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 9342 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 9642 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 2142 no 2º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 15:45h\nDeu Dezena, Palpite 6735 no 6º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 15:45h\nDeu Centena, Palpite 6235 no 6º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 15:45h\nDeu Dezena, Palpite 6235 no 6º Prêmio!",
@@ -322,7 +318,19 @@ const palpites = {
       "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 18:05\nDeu Dezena, Palpite 0185 no 8º Prêmio!",
       "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 18:05\nDeu Centena, Palpite 0385 no 8º Prêmio!",
       "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 18:05\nDeu Dezena, Palpite 0385 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 18:05\nDeu Dezena, Palpite 3685 no 8º Prêmio!"
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 18:05\nDeu Dezena, Palpite 3685 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho PB - FEDERAL\nDeu Dezena, Palpite 0313 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho PB - FEDERAL\nDeu Dezena, Palpite 0513 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho PB - FEDERAL\nDeu Centena, Palpite 0613 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho PB - FEDERAL\nDeu Dezena, Palpite 0613 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho PB - FEDERAL\nDeu Dezena, Palpite 0332 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho PB - FEDERAL\nDeu Dezena, Palpite 0532 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho PB - FEDERAL\nDeu Dezena, Palpite 0632 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho PB - FEDERAL\nDeu Centena, Palpite 0386 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho PB - FEDERAL\nDeu Dezena, Palpite 0386 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho PB - FEDERAL\nDeu Dezena, Palpite 0586 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho PB - FEDERAL\nDeu Dezena, Palpite 0686 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho PB - FEDERAL\nDeu Milhar, Palpite 1386 no 4º Prêmio!"
     ]
   },
   "PT RIO": {
