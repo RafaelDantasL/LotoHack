@@ -1373,6 +1373,77 @@ const resultado = {
           "Peru"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho PB, Paratodos 09:45",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "4234",
+          "09",
+          "Cobra"
+        ],
+        [
+          "2º",
+          "9219",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "3º",
+          "7115",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "4º",
+          "4878",
+          "20",
+          "Peru"
+        ],
+        [
+          "5º",
+          "7614",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "6º",
+          "4974",
+          "19",
+          "Pavão"
+        ],
+        [
+          "7º",
+          "2218",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "8º",
+          "3117",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "9º",
+          "4958",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "10º",
+          "8327",
+          "07",
+          "Carneiro"
+        ]
+      ]
     }
   ],
   "PT RIO": [
