@@ -571,6 +571,77 @@ const resultado = {
           "Veado"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "6404",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "2º",
+          "4317",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "3º",
+          "2302",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "4º",
+          "0288",
+          "22",
+          "Tigre"
+        ],
+        [
+          "5º",
+          "4020",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "6º",
+          "6543",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "7º",
+          "6098",
+          "25",
+          "Vaca"
+        ],
+        [
+          "8º",
+          "8047",
+          "12",
+          "Elefante"
+        ],
+        [
+          "9º",
+          "4310",
+          "03",
+          "Burro"
+        ],
+        [
+          "10º",
+          "7215",
+          "04",
+          "Borboleta"
+        ]
+      ]
     }
   ],
   "LOOK/GOIAS": [
@@ -1495,6 +1566,77 @@ const resultado = {
           "2998",
           "25",
           "Vaca"
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 15:45",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "8397",
+          "25",
+          "Vaca"
+        ],
+        [
+          "2º",
+          "1603",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "3º",
+          "5280",
+          "20",
+          "Peru"
+        ],
+        [
+          "4º",
+          "7225",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "5º",
+          "0468",
+          "17",
+          "Macaco"
+        ],
+        [
+          "6º",
+          "8157",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "7º",
+          "3622",
+          "06",
+          "Cabra"
+        ],
+        [
+          "8º",
+          "9082",
+          "21",
+          "Touro"
+        ],
+        [
+          "9º",
+          "7305",
+          "02",
+          "Águia"
+        ],
+        [
+          "10º",
+          "1139",
+          "10",
+          "Coelho"
         ]
       ]
     }
