@@ -33,6 +33,9 @@ const palpites = {
       "8770"
     ],
     "frases": [
+      "12h - MALUCA - BA - Resultado do dia 13/09/2025 (Sábado)\nDeu Dezena, Palpite 9222 no 3º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 13/09/2025 (Sábado)\nDeu Dezena, Palpite 9422 no 3º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 13/09/2025 (Sábado)\nDeu Dezena, Palpite 9122 no 3º Prêmio!",
       "19h FEDERAL - MALUCA - BA - Resultado do dia 13/09/2025 (Sábado)\nDeu Dezena, Palpite 0198 no 9º Prêmio!",
       "19h FEDERAL - MALUCA - BA - Resultado do dia 13/09/2025 (Sábado)\nDeu Dezena, Palpite 0398 no 9º Prêmio!",
       "19h FEDERAL - MALUCA - BA - Resultado do dia 13/09/2025 (Sábado)\nDeu Centena, Palpite 0798 no 9º Prêmio!",
@@ -73,10 +76,61 @@ const palpites = {
       "2930"
     ],
     "frases": [
+      "10h - BA - Resultado do dia 13/09/2025 (Sábado)\nDeu Dezena, Palpite 4312 no 5º Prêmio!",
+      "10h - BA - Resultado do dia 13/09/2025 (Sábado)\nDeu Dezena, Palpite 4012 no 5º Prêmio!",
+      "10h - BA - Resultado do dia 13/09/2025 (Sábado)\nDeu Dezena, Palpite 4112 no 5º Prêmio!",
+      "15h - BA - Resultado do dia 13/09/2025 (Sábado)\nDeu Dezena, Palpite 3380 no 8º Prêmio!",
+      "15h - BA - Resultado do dia 13/09/2025 (Sábado)\nDeu Dezena, Palpite 3180 no 8º Prêmio!",
+      "15h - BA - Resultado do dia 13/09/2025 (Sábado)\nDeu Centena, Palpite 3280 no 8º Prêmio!",
+      "15h - BA - Resultado do dia 13/09/2025 (Sábado)\nDeu Dezena, Palpite 3280 no 8º Prêmio!",
       "19h FEDERAL - BA - Resultado do dia 13/09/2025 (Sábado)\nDeu Dezena, Palpite 3987 no 3º Prêmio!",
       "19h FEDERAL - BA - Resultado do dia 13/09/2025 (Sábado)\nDeu Centena, Palpite 3187 no 3º Prêmio!",
       "19h FEDERAL - BA - Resultado do dia 13/09/2025 (Sábado)\nDeu Dezena, Palpite 3187 no 3º Prêmio!",
       "19h FEDERAL - BA - Resultado do dia 13/09/2025 (Sábado)\nDeu Dezena, Palpite 3287 no 3º Prêmio!"
+    ]
+  },
+  "LOTECE": {
+    "palpites": [
+      "0422",
+      "0420",
+      "0423",
+      "0432",
+      "0430",
+      "0433",
+      "0462",
+      "0460",
+      "0463",
+      "0222",
+      "0220",
+      "0223",
+      "0232",
+      "0230",
+      "0233",
+      "0262",
+      "0260",
+      "0263",
+      "0022",
+      "0020",
+      "0023",
+      "0032",
+      "0030",
+      "0033",
+      "0062",
+      "0060",
+      "0063",
+      "6422",
+      "6420",
+      "6423"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)\nDeu Dezena, Palpite 4630 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)\nDeu Centena, Palpite 4830 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)\nDeu Dezena, Palpite 4830 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)\nDeu Dezena, Palpite 4930 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)\nDeu Dezena, Palpite 4610 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)\nDeu Dezena, Palpite 4810 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)\nDeu Dezena, Palpite 4910 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)\nDeu Dezena, Palpite 0610 no 8º Prêmio!"
     ]
   }
 };
