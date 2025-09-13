@@ -431,6 +431,59 @@ const resultado = {
   ],
   "LOTECE": [
     {
+      "titulo": "Resultado do Jogo do Bicho A FEDERAL DO BRASIL CE - Ceará Federal",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "8602",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "2º",
+          "1927",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "3º",
+          "2187",
+          "22",
+          "Tigre"
+        ],
+        [
+          "4º",
+          "4246",
+          "12",
+          "Elefante"
+        ],
+        [
+          "5º",
+          "8744",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "6º [soma]",
+          "5706",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "656",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
       "titulo": "Resultado do Jogo do Bicho LOTECE - CE, 12:00 (manhã)",
       "conteudo": [
         [
@@ -645,6 +698,130 @@ const resultado = {
     }
   ],
   "LOOK/GOIAS": [
+    {
+      "titulo": "Resultado do Jogo do Bicho FEDERAL, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "8602",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "2º",
+          "1927",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "3º",
+          "2187",
+          "22",
+          "Tigre"
+        ],
+        [
+          "4º",
+          "4246",
+          "12",
+          "Elefante"
+        ],
+        [
+          "5º",
+          "8744",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "6º [soma]",
+          "5706",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "656",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho FEDERAL, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "8602",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "2º",
+          "1927",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "3º",
+          "2187",
+          "22",
+          "Tigre"
+        ],
+        [
+          "4º",
+          "4246",
+          "12",
+          "Elefante"
+        ],
+        [
+          "5º",
+          "8744",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "6º",
+          "8124",
+          "06",
+          "Cabra"
+        ],
+        [
+          "7º",
+          "6912",
+          "03",
+          "Burro"
+        ],
+        [
+          "8º",
+          "0284",
+          "21",
+          "Touro"
+        ],
+        [
+          "9º",
+          "2776",
+          "19",
+          "Pavão"
+        ],
+        [
+          "10º",
+          "3802",
+          "01",
+          "Avestruz"
+        ]
+      ]
+    },
     {
       "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 5º",
       "conteudo": [
@@ -2100,9 +2277,186 @@ const resultado = {
           "Burro"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho CAMPI GRANDE PB - FEDERAL",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "8602",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "2º",
+          "1927",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "3º",
+          "2187",
+          "22",
+          "Tigre"
+        ],
+        [
+          "4º",
+          "4246",
+          "12",
+          "Elefante"
+        ],
+        [
+          "5º",
+          "8744",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "6º [soma]",
+          "5706",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "656",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho PB - FEDERAL",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "8602",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "2º",
+          "1927",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "3º",
+          "2187",
+          "22",
+          "Tigre"
+        ],
+        [
+          "4º",
+          "4246",
+          "12",
+          "Elefante"
+        ],
+        [
+          "5º",
+          "8744",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "6º",
+          "8124",
+          "06",
+          "Cabra"
+        ],
+        [
+          "7º",
+          "6912",
+          "03",
+          "Burro"
+        ],
+        [
+          "8º",
+          "0284",
+          "21",
+          "Touro"
+        ],
+        [
+          "9º",
+          "2776",
+          "19",
+          "Pavão"
+        ],
+        [
+          "10º",
+          "3802",
+          "01",
+          "Avestruz"
+        ]
+      ]
     }
   ],
   "PT RIO": [
+    {
+      "titulo": "Resultado do Jogo do Bicho A FEDERAL DO BRASIL - RJ",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "8602",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "2º",
+          "1927",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "3º",
+          "2187",
+          "22",
+          "Tigre"
+        ],
+        [
+          "4º",
+          "4246",
+          "12",
+          "Elefante"
+        ],
+        [
+          "5º",
+          "8744",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "6º [soma]",
+          "5706",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "656",
+          "",
+          ""
+        ]
+      ]
+    },
     {
       "titulo": "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 5º",
       "conteudo": [
@@ -3271,6 +3625,130 @@ const resultado = {
           "6786",
           "22",
           "Tigre"
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 19hs - PT FEDERAL, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "8602",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "2º",
+          "1927",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "3º",
+          "2187",
+          "22",
+          "Tigre"
+        ],
+        [
+          "4º",
+          "4246",
+          "12",
+          "Elefante"
+        ],
+        [
+          "5º",
+          "8744",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "6º [soma]",
+          "5706",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "656",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 19hs - PT FEDERAL, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "8602",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "2º",
+          "1927",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "3º",
+          "2187",
+          "22",
+          "Tigre"
+        ],
+        [
+          "4º",
+          "4246",
+          "12",
+          "Elefante"
+        ],
+        [
+          "5º",
+          "8744",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "6º",
+          "8124",
+          "06",
+          "Cabra"
+        ],
+        [
+          "7º",
+          "6912",
+          "03",
+          "Burro"
+        ],
+        [
+          "8º",
+          "0284",
+          "21",
+          "Touro"
+        ],
+        [
+          "9º",
+          "2776",
+          "19",
+          "Pavão"
+        ],
+        [
+          "10º",
+          "3802",
+          "01",
+          "Avestruz"
         ]
       ]
     }
