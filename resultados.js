@@ -3964,6 +3964,130 @@ const resultado = {
           "Avestruz"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "1267",
+          "17",
+          "Macaco"
+        ],
+        [
+          "2º",
+          "7411",
+          "03",
+          "Burro"
+        ],
+        [
+          "3º",
+          "5126",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "4º",
+          "7216",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "5º",
+          "6719",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "6º [soma]",
+          "7739",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "389",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "1267",
+          "17",
+          "Macaco"
+        ],
+        [
+          "2º",
+          "7411",
+          "03",
+          "Burro"
+        ],
+        [
+          "3º",
+          "5126",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "4º",
+          "7216",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "5º",
+          "6719",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "6º",
+          "1757",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "7º",
+          "2412",
+          "03",
+          "Burro"
+        ],
+        [
+          "8º",
+          "6121",
+          "06",
+          "Cabra"
+        ],
+        [
+          "9º",
+          "7166",
+          "17",
+          "Macaco"
+        ],
+        [
+          "10º",
+          "5195",
+          "24",
+          "Veado"
+        ]
+      ]
     }
   ]
 };
