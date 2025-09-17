@@ -192,15 +192,9 @@ const palpites = {
       "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 9262 no 4º Prêmio!",
       "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 9562 no 4º Prêmio!",
       "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 9662 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Centena, Palpite 7025 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 7025 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 7225 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 7325 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Milhar, Palpite 0025 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 7022 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 7222 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 7322 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 0022 no 10º Prêmio!"
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 6414 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 6114 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 6614 no 7º Prêmio!"
     ]
   },
   "PT RIO": {
@@ -235,6 +229,45 @@ const palpites = {
       "4286",
       "4287",
       "4289"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 9063 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 9363 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 9863 no 9º Prêmio!"
+    ]
+  },
+  "PT SP": {
+    "palpites": [
+      "0267",
+      "0261",
+      "0262",
+      "0227",
+      "0221",
+      "0222",
+      "0237",
+      "0231",
+      "0232",
+      "0367",
+      "0361",
+      "0362",
+      "0327",
+      "0321",
+      "0322",
+      "0337",
+      "0331",
+      "0332",
+      "0467",
+      "0461",
+      "0462",
+      "0427",
+      "0421",
+      "0422",
+      "0437",
+      "0431",
+      "0432",
+      "1267",
+      "1261",
+      "1262"
     ],
     "frases": []
   }
