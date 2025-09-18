@@ -190,7 +190,11 @@ const palpites = {
       "1413",
       "1410"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 2703 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 2203 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 2003 no 4º Prêmio!"
+    ]
   },
   "PT RIO": {
     "palpites": [
@@ -237,5 +241,40 @@ const palpites = {
       "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 1663 no 10º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 1763 no 10º Prêmio!"
     ]
+  },
+  "PT SP": {
+    "palpites": [
+      "7496",
+      "7497",
+      "7491",
+      "7416",
+      "7417",
+      "7411",
+      "7436",
+      "7437",
+      "7431",
+      "7596",
+      "7597",
+      "7591",
+      "7516",
+      "7517",
+      "7511",
+      "7536",
+      "7537",
+      "7531",
+      "7696",
+      "7697",
+      "7691",
+      "7616",
+      "7617",
+      "7611",
+      "7636",
+      "7637",
+      "7631",
+      "0496",
+      "0497",
+      "0491"
+    ],
+    "frases": []
   }
 };
