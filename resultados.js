@@ -2883,6 +2883,130 @@ const resultado = {
           "Borboleta"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "1738",
+          "10",
+          "Coelho"
+        ],
+        [
+          "2º",
+          "8530",
+          "08",
+          "Camelo"
+        ],
+        [
+          "3º",
+          "4214",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "4º",
+          "2803",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "5º",
+          "6614",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "6º [soma]",
+          "3899",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "825",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "1738",
+          "10",
+          "Coelho"
+        ],
+        [
+          "2º",
+          "8530",
+          "08",
+          "Camelo"
+        ],
+        [
+          "3º",
+          "4214",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "4º",
+          "2803",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "5º",
+          "6614",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "6º",
+          "1842",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "7º",
+          "7528",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "8º",
+          "3310",
+          "03",
+          "Burro"
+        ],
+        [
+          "9º",
+          "8043",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "10º",
+          "4622",
+          "06",
+          "Cabra"
+        ]
+      ]
     }
   ]
 };
