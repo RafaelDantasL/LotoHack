@@ -32,7 +32,12 @@ const palpites = {
       "5058",
       "5050"
     ],
-    "frases": []
+    "frases": [
+      "10h - MALUCA - Resultado do dia 20/09/2025 (Sábado)\nDeu Dezena, Palpite 2229 no 10º Prêmio!",
+      "10h - MALUCA - Resultado do dia 20/09/2025 (Sábado)\nDeu Dezena, Palpite 2429 no 10º Prêmio!",
+      "10h - MALUCA - Resultado do dia 20/09/2025 (Sábado)\nDeu Dezena, Palpite 2729 no 10º Prêmio!",
+      "10h - MALUCA - Resultado do dia 20/09/2025 (Sábado)\nDeu Dezena, Palpite 4229 no 10º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -166,44 +171,38 @@ const palpites = {
   },
   "LOTEP": {
     "palpites": [
-      "0761",
-      "0766",
-      "0768",
-      "0731",
-      "0736",
-      "0738",
-      "0701",
-      "0706",
-      "0708",
-      "0261",
-      "0266",
-      "0268",
-      "0231",
-      "0236",
-      "0238",
-      "0201",
-      "0206",
-      "0208",
-      "0361",
-      "0366",
-      "0368",
-      "0331",
-      "0336",
-      "0338",
-      "0301",
-      "0306",
-      "0308",
-      "3761",
-      "3766",
-      "3768"
+      "8597",
+      "8596",
+      "8590",
+      "8577",
+      "8576",
+      "8570",
+      "8507",
+      "8506",
+      "8500",
+      "8797",
+      "8796",
+      "8790",
+      "8777",
+      "8776",
+      "8770",
+      "8707",
+      "8706",
+      "8700",
+      "8997",
+      "8996",
+      "8990",
+      "8977",
+      "8976",
+      "8970",
+      "8907",
+      "8906",
+      "8900",
+      "7597",
+      "7596",
+      "7590"
     ],
-    "frases": [
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 2380 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Centena, Palpite 2280 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 2280 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 2780 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 6380 no 1º Prêmio!"
-    ]
+    "frases": []
   },
   "PT RIO": {
     "palpites": [
