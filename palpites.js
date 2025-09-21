@@ -112,6 +112,81 @@ const palpites = {
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 8828 no 8º Prêmio!"
     ]
   },
+  "LOTEP": {
+    "palpites": [
+      "6217",
+      "6214",
+      "6210",
+      "6227",
+      "6224",
+      "6220",
+      "6247",
+      "6244",
+      "6240",
+      "6317",
+      "6314",
+      "6310",
+      "6327",
+      "6324",
+      "6320",
+      "6347",
+      "6344",
+      "6340",
+      "6417",
+      "6414",
+      "6410",
+      "6427",
+      "6424",
+      "6420",
+      "6447",
+      "6444",
+      "6440",
+      "1217",
+      "1214",
+      "1210"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 5216 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 5516 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 5016 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 0216 no 1º Prêmio!"
+    ]
+  },
+  "LOTECE": {
+    "palpites": [
+      "0708",
+      "0702",
+      "0706",
+      "0768",
+      "0762",
+      "0766",
+      "0738",
+      "0732",
+      "0736",
+      "0808",
+      "0802",
+      "0806",
+      "0868",
+      "0862",
+      "0866",
+      "0838",
+      "0832",
+      "0836",
+      "0108",
+      "0102",
+      "0106",
+      "0168",
+      "0162",
+      "0166",
+      "0138",
+      "0132",
+      "0136",
+      "7708",
+      "7702",
+      "7706"
+    ],
+    "frases": []
+  },
   "PT RIO": {
     "palpites": [
       "8240",
@@ -151,5 +226,40 @@ const palpites = {
       "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 0600 no 9º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 3300 no 9º Prêmio!"
     ]
+  },
+  "PT SP": {
+    "palpites": [
+      "6944",
+      "6946",
+      "6947",
+      "6954",
+      "6956",
+      "6957",
+      "6984",
+      "6986",
+      "6987",
+      "6644",
+      "6646",
+      "6647",
+      "6654",
+      "6656",
+      "6657",
+      "6684",
+      "6686",
+      "6687",
+      "6044",
+      "6046",
+      "6047",
+      "6054",
+      "6056",
+      "6057",
+      "6084",
+      "6086",
+      "6087",
+      "9944",
+      "9946",
+      "9947"
+    ],
+    "frases": []
   }
 };
