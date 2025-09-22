@@ -80,6 +80,46 @@ const palpites = {
       "10h - BA - Resultado do dia 22/09/2025 (Segunda-feira)\nDeu Dezena, Palpite 8404 no 2º Prêmio!"
     ]
   },
+  "LOTECE": {
+    "palpites": [
+      "0188",
+      "0185",
+      "0180",
+      "0138",
+      "0135",
+      "0130",
+      "0108",
+      "0105",
+      "0100",
+      "0988",
+      "0985",
+      "0980",
+      "0938",
+      "0935",
+      "0930",
+      "0908",
+      "0905",
+      "0900",
+      "0088",
+      "0085",
+      "0080",
+      "0038",
+      "0035",
+      "0030",
+      "0008",
+      "0005",
+      "0000",
+      "8188",
+      "8185",
+      "8180"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Centena, Palpite 0768 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 0768 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 0868 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 0168 no 1º Prêmio!"
+    ]
+  },
   "LOOK/GOIAS": {
     "palpites": [
       "0032",
@@ -158,6 +198,16 @@ const palpites = {
       "3368"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0150 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0350 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0450 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 8150 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Milhar, Palpite 0130 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0330 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0430 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 0231 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 0331 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 0931 no 10º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 1560 no 1º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 1260 no 1º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 1160 no 1º Prêmio!",
@@ -167,5 +217,80 @@ const palpites = {
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 1167 no 4º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 2567 no 4º Prêmio!"
     ]
+  },
+  "PT RIO": {
+    "palpites": [
+      "1697",
+      "1696",
+      "1699",
+      "1667",
+      "1666",
+      "1669",
+      "1627",
+      "1626",
+      "1629",
+      "1797",
+      "1796",
+      "1799",
+      "1767",
+      "1766",
+      "1769",
+      "1727",
+      "1726",
+      "1729",
+      "1997",
+      "1996",
+      "1999",
+      "1967",
+      "1966",
+      "1969",
+      "1927",
+      "1926",
+      "1929",
+      "2697",
+      "2696",
+      "2699"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Centena, Palpite 0160 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 0160 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 0360 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 0060 no 1º Prêmio!"
+    ]
+  },
+  "PT SP": {
+    "palpites": [
+      "9332",
+      "9333",
+      "9334",
+      "9362",
+      "9363",
+      "9364",
+      "9372",
+      "9373",
+      "9374",
+      "9232",
+      "9233",
+      "9234",
+      "9262",
+      "9263",
+      "9264",
+      "9272",
+      "9273",
+      "9274",
+      "9032",
+      "9033",
+      "9034",
+      "9062",
+      "9063",
+      "9064",
+      "9072",
+      "9073",
+      "9074",
+      "5332",
+      "5333",
+      "5334"
+    ],
+    "frases": []
   }
 };
