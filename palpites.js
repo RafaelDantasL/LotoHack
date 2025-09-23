@@ -83,6 +83,45 @@ const palpites = {
       "10h - BA - Resultado do dia 23/09/2025 (Terça-feira)\nDeu Dezena, Palpite 4293 no 9º Prêmio!"
     ]
   },
+  "LOTECE": {
+    "palpites": [
+      "0485",
+      "0483",
+      "0487",
+      "0495",
+      "0493",
+      "0497",
+      "0425",
+      "0423",
+      "0427",
+      "0585",
+      "0583",
+      "0587",
+      "0595",
+      "0593",
+      "0597",
+      "0525",
+      "0523",
+      "0527",
+      "0885",
+      "0883",
+      "0887",
+      "0895",
+      "0893",
+      "0897",
+      "0825",
+      "0823",
+      "0827",
+      "2485",
+      "2483",
+      "2487"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 3135 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 3335 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 3235 no 5º Prêmio!"
+    ]
+  },
   "LOOK/GOIAS": {
     "palpites": [
       "5759",
@@ -167,41 +206,6 @@ const palpites = {
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 9423 no 2º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 9523 no 2º Prêmio!"
     ]
-  },
-  "LOTECE": {
-    "palpites": [
-      "3104",
-      "3105",
-      "3107",
-      "3134",
-      "3135",
-      "3137",
-      "3154",
-      "3155",
-      "3157",
-      "3304",
-      "3305",
-      "3307",
-      "3334",
-      "3335",
-      "3337",
-      "3354",
-      "3355",
-      "3357",
-      "3204",
-      "3205",
-      "3207",
-      "3234",
-      "3235",
-      "3237",
-      "3254",
-      "3255",
-      "3257",
-      "5104",
-      "5105",
-      "5107"
-    ],
-    "frases": []
   },
   "PT RIO": {
     "palpites": [
