@@ -46,10 +46,16 @@ const palpites = {
       "15h - MALUCA - BA - Resultado do dia 23/09/2025 (Terça-feira)\nDeu Dezena, Palpite 0120 no 6º Prêmio!",
       "15h - MALUCA - BA - Resultado do dia 23/09/2025 (Terça-feira)\nDeu Dezena, Palpite 0220 no 6º Prêmio!",
       "15h - MALUCA - BA - Resultado do dia 23/09/2025 (Terça-feira)\nDeu Milhar, Palpite 7020 no 6º Prêmio!",
-      "19h - MALUCA - BA - Resultado do dia 23/09/2025 (Terça-feira)\nDeu Dezena, Palpite 9815 no 4º Prêmio!",
-      "19h - MALUCA - BA - Resultado do dia 23/09/2025 (Terça-feira)\nDeu Centena, Palpite 9015 no 4º Prêmio!",
-      "19h - MALUCA - BA - Resultado do dia 23/09/2025 (Terça-feira)\nDeu Dezena, Palpite 9015 no 4º Prêmio!",
-      "19h - MALUCA - BA - Resultado do dia 23/09/2025 (Terça-feira)\nDeu Dezena, Palpite 9115 no 4º Prêmio!"
+      "19h - MALUCA - BA - Resultado do dia 23/09/2025 (Terça-feira)\nDeu Dezena, Palpite 9878 no 1º Prêmio!",
+      "19h - MALUCA - BA - Resultado do dia 23/09/2025 (Terça-feira)\nDeu Dezena, Palpite 9078 no 1º Prêmio!",
+      "19h - MALUCA - BA - Resultado do dia 23/09/2025 (Terça-feira)\nDeu Dezena, Palpite 9178 no 1º Prêmio!",
+      "19h - MALUCA - BA - Resultado do dia 23/09/2025 (Terça-feira)\nDeu Dezena, Palpite 3878 no 1º Prêmio!",
+      "19h - MALUCA - BA - Resultado do dia 23/09/2025 (Terça-feira)\nDeu Dezena, Palpite 9823 no 4º Prêmio!",
+      "19h - MALUCA - BA - Resultado do dia 23/09/2025 (Terça-feira)\nDeu Dezena, Palpite 9023 no 4º Prêmio!",
+      "19h - MALUCA - BA - Resultado do dia 23/09/2025 (Terça-feira)\nDeu Dezena, Palpite 9123 no 4º Prêmio!",
+      "19h - MALUCA - BA - Resultado do dia 23/09/2025 (Terça-feira)\nDeu Dezena, Palpite 9828 no 6º Prêmio!",
+      "19h - MALUCA - BA - Resultado do dia 23/09/2025 (Terça-feira)\nDeu Dezena, Palpite 9028 no 6º Prêmio!",
+      "19h - MALUCA - BA - Resultado do dia 23/09/2025 (Terça-feira)\nDeu Dezena, Palpite 9128 no 6º Prêmio!"
     ]
   },
   "BAHIA": {
@@ -105,6 +111,20 @@ const palpites = {
       "12h - BA - Resultado do dia 23/09/2025 (Terça-feira)\nDeu Dezena, Palpite 7200 no 10º Prêmio!",
       "12h - BA - Resultado do dia 23/09/2025 (Terça-feira)\nDeu Dezena, Palpite 7500 no 10º Prêmio!",
       "12h - BA - Resultado do dia 23/09/2025 (Terça-feira)\nDeu Dezena, Palpite 3400 no 10º Prêmio!",
+      "19h - BA - Resultado do dia 23/09/2025 (Terça-feira)\nDeu Dezena, Palpite 0880 no 7º Prêmio!",
+      "19h - BA - Resultado do dia 23/09/2025 (Terça-feira)\nDeu Centena, Palpite 0280 no 7º Prêmio!",
+      "19h - BA - Resultado do dia 23/09/2025 (Terça-feira)\nDeu Dezena, Palpite 0280 no 7º Prêmio!",
+      "19h - BA - Resultado do dia 23/09/2025 (Terça-feira)\nDeu Dezena, Palpite 0180 no 7º Prêmio!",
+      "19h - BA - Resultado do dia 23/09/2025 (Terça-feira)\nDeu Dezena, Palpite 5880 no 7º Prêmio!",
+      "19h - BA - Resultado do dia 23/09/2025 (Terça-feira)\nDeu Dezena, Palpite 0893 no 8º Prêmio!",
+      "19h - BA - Resultado do dia 23/09/2025 (Terça-feira)\nDeu Dezena, Palpite 0293 no 8º Prêmio!",
+      "19h - BA - Resultado do dia 23/09/2025 (Terça-feira)\nDeu Dezena, Palpite 0193 no 8º Prêmio!",
+      "15h - BA - Resultado do dia 23/09/2025 (Terça-feira)\nDeu Dezena, Palpite 0040 no 7º Prêmio!",
+      "15h - BA - Resultado do dia 23/09/2025 (Terça-feira)\nDeu Dezena, Palpite 0140 no 7º Prêmio!",
+      "15h - BA - Resultado do dia 23/09/2025 (Terça-feira)\nDeu Dezena, Palpite 0240 no 7º Prêmio!",
+      "15h - BA - Resultado do dia 23/09/2025 (Terça-feira)\nDeu Dezena, Palpite 0030 no 9º Prêmio!",
+      "15h - BA - Resultado do dia 23/09/2025 (Terça-feira)\nDeu Dezena, Palpite 0130 no 9º Prêmio!",
+      "15h - BA - Resultado do dia 23/09/2025 (Terça-feira)\nDeu Dezena, Palpite 0230 no 9º Prêmio!",
       "19h - BA - Resultado do dia 23/09/2025 (Terça-feira)\nDeu Dezena, Palpite 0892 no 8º Prêmio!",
       "19h - BA - Resultado do dia 23/09/2025 (Terça-feira)\nDeu Dezena, Palpite 0292 no 8º Prêmio!",
       "19h - BA - Resultado do dia 23/09/2025 (Terça-feira)\nDeu Dezena, Palpite 0192 no 8º Prêmio!"
@@ -253,9 +273,6 @@ const palpites = {
       "2955"
     ],
     "frases": [
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 9323 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 9423 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 9523 no 2º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 0335 no 2º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 0635 no 2º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 0035 no 2º Prêmio!",
