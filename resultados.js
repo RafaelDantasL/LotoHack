@@ -1018,6 +1018,77 @@ const resultado = {
           "Veado"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 12:45",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "3125",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "2º",
+          "9968",
+          "17",
+          "Macaco"
+        ],
+        [
+          "3º",
+          "3748",
+          "12",
+          "Elefante"
+        ],
+        [
+          "4º",
+          "0477",
+          "20",
+          "Peru"
+        ],
+        [
+          "5º",
+          "4211",
+          "03",
+          "Burro"
+        ],
+        [
+          "6º",
+          "3930",
+          "08",
+          "Camelo"
+        ],
+        [
+          "7º",
+          "1974",
+          "19",
+          "Pavão"
+        ],
+        [
+          "8º",
+          "2647",
+          "12",
+          "Elefante"
+        ],
+        [
+          "9º",
+          "5887",
+          "22",
+          "Tigre"
+        ],
+        [
+          "10º",
+          "5967",
+          "17",
+          "Macaco"
+        ]
+      ]
     }
   ],
   "PT RIO": [
