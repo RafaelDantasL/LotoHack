@@ -3734,6 +3734,130 @@ const resultado = {
           "Avestruz"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "1387",
+          "22",
+          "Tigre"
+        ],
+        [
+          "2º",
+          "7327",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "3º",
+          "2646",
+          "12",
+          "Elefante"
+        ],
+        [
+          "4º",
+          "6866",
+          "17",
+          "Macaco"
+        ],
+        [
+          "5º",
+          "4128",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "6º [soma]",
+          "2354",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "162",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "1387",
+          "22",
+          "Tigre"
+        ],
+        [
+          "2º",
+          "7327",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "3º",
+          "2646",
+          "12",
+          "Elefante"
+        ],
+        [
+          "4º",
+          "6866",
+          "17",
+          "Macaco"
+        ],
+        [
+          "5º",
+          "4128",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "6º",
+          "1726",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "7º",
+          "3368",
+          "17",
+          "Macaco"
+        ],
+        [
+          "8º",
+          "8246",
+          "12",
+          "Elefante"
+        ],
+        [
+          "9º",
+          "7766",
+          "17",
+          "Macaco"
+        ],
+        [
+          "10º",
+          "3460",
+          "15",
+          "Jacaré"
+        ]
+      ]
     }
   ]
 };
