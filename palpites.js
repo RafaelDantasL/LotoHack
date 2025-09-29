@@ -117,6 +117,81 @@ const palpites = {
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 2172 no 9º Prêmio!"
     ]
   },
+  "LOTEP": {
+    "palpites": [
+      "7938",
+      "7930",
+      "7931",
+      "7958",
+      "7950",
+      "7951",
+      "7908",
+      "7900",
+      "7901",
+      "7538",
+      "7530",
+      "7531",
+      "7558",
+      "7550",
+      "7551",
+      "7508",
+      "7500",
+      "7501",
+      "7238",
+      "7230",
+      "7231",
+      "7258",
+      "7250",
+      "7251",
+      "7208",
+      "7200",
+      "7201",
+      "1938",
+      "1930",
+      "1931"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 1908 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 1108 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Centena, Palpite 1308 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 1308 no 4º Prêmio!"
+    ]
+  },
+  "LOTECE": {
+    "palpites": [
+      "0928",
+      "0922",
+      "0925",
+      "0978",
+      "0972",
+      "0975",
+      "0988",
+      "0982",
+      "0985",
+      "0328",
+      "0322",
+      "0325",
+      "0378",
+      "0372",
+      "0375",
+      "0388",
+      "0382",
+      "0385",
+      "0128",
+      "0122",
+      "0125",
+      "0178",
+      "0172",
+      "0175",
+      "0188",
+      "0182",
+      "0185",
+      "1928",
+      "1922",
+      "1925"
+    ],
+    "frases": []
+  },
   "PT RIO": {
     "palpites": [
       "0121",
@@ -156,5 +231,40 @@ const palpites = {
       "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 9427 no 8º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 9327 no 8º Prêmio!"
     ]
+  },
+  "PT SP": {
+    "palpites": [
+      "1588",
+      "1580",
+      "1582",
+      "1598",
+      "1590",
+      "1592",
+      "1508",
+      "1500",
+      "1502",
+      "1188",
+      "1180",
+      "1182",
+      "1198",
+      "1190",
+      "1192",
+      "1108",
+      "1100",
+      "1102",
+      "1088",
+      "1080",
+      "1082",
+      "1098",
+      "1090",
+      "1092",
+      "1008",
+      "1000",
+      "1002",
+      "2588",
+      "2580",
+      "2582"
+    ],
+    "frases": []
   }
 };
