@@ -114,6 +114,80 @@ const palpites = {
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 1490 no 8º Prêmio!"
     ]
   },
+  "LOTEP": {
+    "palpites": [
+      "4107",
+      "4104",
+      "4100",
+      "4197",
+      "4194",
+      "4190",
+      "4187",
+      "4184",
+      "4180",
+      "4707",
+      "4704",
+      "4700",
+      "4797",
+      "4794",
+      "4790",
+      "4787",
+      "4784",
+      "4780",
+      "4907",
+      "4904",
+      "4900",
+      "4997",
+      "4994",
+      "4990",
+      "4987",
+      "4984",
+      "4980",
+      "9107",
+      "9104",
+      "9100"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 3303 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 3203 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 3503 no 6º Prêmio!"
+    ]
+  },
+  "LOTECE": {
+    "palpites": [
+      "9310",
+      "9315",
+      "9319",
+      "9370",
+      "9375",
+      "9379",
+      "9300",
+      "9305",
+      "9309",
+      "9410",
+      "9415",
+      "9419",
+      "9470",
+      "9475",
+      "9479",
+      "9400",
+      "9405",
+      "9409",
+      "9610",
+      "9615",
+      "9619",
+      "9670",
+      "9675",
+      "9679",
+      "9600",
+      "9605",
+      "9609",
+      "4310",
+      "4315",
+      "4319"
+    ],
+    "frases": []
+  },
   "PT RIO": {
     "palpites": [
       "9489",
@@ -152,5 +226,40 @@ const palpites = {
       "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 3243 no 7º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 3143 no 7º Prêmio!"
     ]
+  },
+  "PT SP": {
+    "palpites": [
+      "1431",
+      "1430",
+      "1433",
+      "1461",
+      "1460",
+      "1463",
+      "1421",
+      "1420",
+      "1423",
+      "1831",
+      "1830",
+      "1833",
+      "1861",
+      "1860",
+      "1863",
+      "1821",
+      "1820",
+      "1823",
+      "1031",
+      "1030",
+      "1033",
+      "1061",
+      "1060",
+      "1063",
+      "1021",
+      "1020",
+      "1023",
+      "5431",
+      "5430",
+      "5433"
+    ],
+    "frases": []
   }
 };
