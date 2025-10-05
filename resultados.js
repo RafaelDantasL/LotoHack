@@ -1428,6 +1428,77 @@ const resultado = {
   ],
   "LOTEP": [
     {
+      "titulo": "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "8827",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "2º",
+          "8730",
+          "08",
+          "Camelo"
+        ],
+        [
+          "3º",
+          "6311",
+          "03",
+          "Burro"
+        ],
+        [
+          "4º",
+          "1935",
+          "09",
+          "Cobra"
+        ],
+        [
+          "5º",
+          "8749",
+          "13",
+          "Galo"
+        ],
+        [
+          "6º",
+          "8861",
+          "16",
+          "Leão"
+        ],
+        [
+          "7º",
+          "8739",
+          "10",
+          "Coelho"
+        ],
+        [
+          "8º",
+          "2313",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "9º",
+          "7015",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "10º",
+          "1480",
+          "20",
+          "Peru"
+        ]
+      ]
+    },
+    {
       "titulo": "Resultado do Jogo do Bicho PB, Paratodos 09:45",
       "conteudo": [
         [
@@ -1566,6 +1637,77 @@ const resultado = {
           "9414",
           "04",
           "Borboleta"
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho LOTEP - PB, 12:45",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "4832",
+          "08",
+          "Camelo"
+        ],
+        [
+          "2º",
+          "4352",
+          "13",
+          "Galo"
+        ],
+        [
+          "3º",
+          "0684",
+          "21",
+          "Touro"
+        ],
+        [
+          "4º",
+          "3116",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "5º",
+          "6711",
+          "03",
+          "Burro"
+        ],
+        [
+          "6º",
+          "4403",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "7º",
+          "8361",
+          "16",
+          "Leão"
+        ],
+        [
+          "8º",
+          "3581",
+          "21",
+          "Touro"
+        ],
+        [
+          "9º",
+          "2246",
+          "12",
+          "Elefante"
+        ],
+        [
+          "10º",
+          "8286",
+          "22",
+          "Tigre"
         ]
       ]
     }
