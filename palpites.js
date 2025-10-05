@@ -76,10 +76,13 @@ const palpites = {
       "7354"
     ],
     "frases": [
-      "12h - BA - Resultado do dia 05/10/2025 (Domingo)\nDeu Dezena, Palpite 9294 no 2º Prêmio!",
-      "12h - BA - Resultado do dia 05/10/2025 (Domingo)\nDeu Dezena, Palpite 9694 no 2º Prêmio!",
-      "12h - BA - Resultado do dia 05/10/2025 (Domingo)\nDeu Dezena, Palpite 9094 no 2º Prêmio!",
-      "12h - BA - Resultado do dia 05/10/2025 (Domingo)\nDeu Dezena, Palpite 0294 no 2º Prêmio!"
+      "10h - BA - Resultado do dia 05/10/2025 (Domingo)\nDeu Dezena, Palpite 9278 no 3º Prêmio!",
+      "10h - BA - Resultado do dia 05/10/2025 (Domingo)\nDeu Dezena, Palpite 9678 no 3º Prêmio!",
+      "10h - BA - Resultado do dia 05/10/2025 (Domingo)\nDeu Dezena, Palpite 9078 no 3º Prêmio!",
+      "12h - BA - Resultado do dia 05/10/2025 (Domingo)\nDeu Dezena, Palpite 1511 no 5º Prêmio!",
+      "12h - BA - Resultado do dia 05/10/2025 (Domingo)\nDeu Dezena, Palpite 1611 no 5º Prêmio!",
+      "12h - BA - Resultado do dia 05/10/2025 (Domingo)\nDeu Centena, Palpite 1911 no 5º Prêmio!",
+      "12h - BA - Resultado do dia 05/10/2025 (Domingo)\nDeu Dezena, Palpite 1911 no 5º Prêmio!"
     ]
   },
   "LOOK/GOIAS": {
@@ -245,5 +248,75 @@ const palpites = {
       "Resultado do Jogo do Bicho RJ, 16:00, PTV, 1º ao 10º\nDeu Centena, Palpite 6949 no 10º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 16:00, PTV, 1º ao 10º\nDeu Dezena, Palpite 6949 no 10º Prêmio!"
     ]
+  },
+  "PT SP": {
+    "palpites": [
+      "0014",
+      "0018",
+      "0010",
+      "0084",
+      "0088",
+      "0080",
+      "0004",
+      "0008",
+      "0000",
+      "0514",
+      "0518",
+      "0510",
+      "0584",
+      "0588",
+      "0580",
+      "0504",
+      "0508",
+      "0500",
+      "0814",
+      "0818",
+      "0810",
+      "0884",
+      "0888",
+      "0880",
+      "0804",
+      "0808",
+      "0800",
+      "4014",
+      "4018",
+      "4010"
+    ],
+    "frases": []
+  },
+  "LOTECE": {
+    "palpites": [
+      "1052",
+      "1053",
+      "1054",
+      "1062",
+      "1063",
+      "1064",
+      "1032",
+      "1033",
+      "1034",
+      "1852",
+      "1853",
+      "1854",
+      "1862",
+      "1863",
+      "1864",
+      "1832",
+      "1833",
+      "1834",
+      "1952",
+      "1953",
+      "1954",
+      "1962",
+      "1963",
+      "1964",
+      "1932",
+      "1933",
+      "1934",
+      "9052",
+      "9053",
+      "9054"
+    ],
+    "frases": []
   }
 };
