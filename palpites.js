@@ -68,13 +68,10 @@ const palpites = {
       "1891"
     ],
     "frases": [
-      "10h - BA - Resultado do dia 05/10/2025 (Domingo)\nDeu Dezena, Palpite 9278 no 3º Prêmio!",
-      "10h - BA - Resultado do dia 05/10/2025 (Domingo)\nDeu Dezena, Palpite 9678 no 3º Prêmio!",
-      "10h - BA - Resultado do dia 05/10/2025 (Domingo)\nDeu Dezena, Palpite 9078 no 3º Prêmio!",
-      "12h - BA - Resultado do dia 05/10/2025 (Domingo)\nDeu Dezena, Palpite 1511 no 5º Prêmio!",
-      "12h - BA - Resultado do dia 05/10/2025 (Domingo)\nDeu Dezena, Palpite 1611 no 5º Prêmio!",
-      "12h - BA - Resultado do dia 05/10/2025 (Domingo)\nDeu Centena, Palpite 1911 no 5º Prêmio!",
-      "12h - BA - Resultado do dia 05/10/2025 (Domingo)\nDeu Dezena, Palpite 1911 no 5º Prêmio!"
+      "12h - BA - Resultado do dia 05/10/2025 (Domingo)\nDeu Dezena, Palpite 9294 no 2º Prêmio!",
+      "12h - BA - Resultado do dia 05/10/2025 (Domingo)\nDeu Dezena, Palpite 9694 no 2º Prêmio!",
+      "12h - BA - Resultado do dia 05/10/2025 (Domingo)\nDeu Dezena, Palpite 9094 no 2º Prêmio!",
+      "12h - BA - Resultado do dia 05/10/2025 (Domingo)\nDeu Dezena, Palpite 0294 no 2º Prêmio!"
     ]
   },
   "LOOK/GOIAS": {
@@ -226,83 +223,5 @@ const palpites = {
       "6943"
     ],
     "frases": []
-  },
-  "LOTECE": {
-    "palpites": [
-      "1052",
-      "1053",
-      "1054",
-      "1062",
-      "1063",
-      "1064",
-      "1032",
-      "1033",
-      "1034",
-      "1852",
-      "1853",
-      "1854",
-      "1862",
-      "1863",
-      "1864",
-      "1832",
-      "1833",
-      "1834",
-      "1952",
-      "1953",
-      "1954",
-      "1962",
-      "1963",
-      "1964",
-      "1932",
-      "1933",
-      "1934",
-      "9052",
-      "9053",
-      "9054"
-    ],
-    "frases": []
-  },
-  "PT SP": {
-    "palpites": [
-      "1127",
-      "1122",
-      "1121",
-      "1157",
-      "1152",
-      "1151",
-      "1177",
-      "1172",
-      "1171",
-      "1427",
-      "1422",
-      "1421",
-      "1457",
-      "1452",
-      "1451",
-      "1477",
-      "1472",
-      "1471",
-      "1727",
-      "1722",
-      "1721",
-      "1757",
-      "1752",
-      "1751",
-      "1777",
-      "1772",
-      "1771",
-      "5127",
-      "5122",
-      "5121"
-    ],
-    "frases": [
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0704 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0304 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0504 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2157 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2757 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2057 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1157 no 3º Prêmio!"
-    ]
   }
 };
