@@ -76,13 +76,10 @@ const palpites = {
       "7354"
     ],
     "frases": [
-      "10h - BA - Resultado do dia 05/10/2025 (Domingo)\nDeu Dezena, Palpite 9278 no 3º Prêmio!",
-      "10h - BA - Resultado do dia 05/10/2025 (Domingo)\nDeu Dezena, Palpite 9678 no 3º Prêmio!",
-      "10h - BA - Resultado do dia 05/10/2025 (Domingo)\nDeu Dezena, Palpite 9078 no 3º Prêmio!",
-      "12h - BA - Resultado do dia 05/10/2025 (Domingo)\nDeu Dezena, Palpite 1511 no 5º Prêmio!",
-      "12h - BA - Resultado do dia 05/10/2025 (Domingo)\nDeu Dezena, Palpite 1611 no 5º Prêmio!",
-      "12h - BA - Resultado do dia 05/10/2025 (Domingo)\nDeu Centena, Palpite 1911 no 5º Prêmio!",
-      "12h - BA - Resultado do dia 05/10/2025 (Domingo)\nDeu Dezena, Palpite 1911 no 5º Prêmio!"
+      "12h - BA - Resultado do dia 05/10/2025 (Domingo)\nDeu Dezena, Palpite 9294 no 2º Prêmio!",
+      "12h - BA - Resultado do dia 05/10/2025 (Domingo)\nDeu Dezena, Palpite 9694 no 2º Prêmio!",
+      "12h - BA - Resultado do dia 05/10/2025 (Domingo)\nDeu Dezena, Palpite 9094 no 2º Prêmio!",
+      "12h - BA - Resultado do dia 05/10/2025 (Domingo)\nDeu Dezena, Palpite 0294 no 2º Prêmio!"
     ]
   },
   "LOOK/GOIAS": {
@@ -300,40 +297,5 @@ const palpites = {
       "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 10º\nDeu Dezena, Palpite 4106 no 10º Prêmio!",
       "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 10º\nDeu Dezena, Palpite 5406 no 10º Prêmio!"
     ]
-  },
-  "LOTECE": {
-    "palpites": [
-      "1052",
-      "1053",
-      "1054",
-      "1062",
-      "1063",
-      "1064",
-      "1032",
-      "1033",
-      "1034",
-      "1852",
-      "1853",
-      "1854",
-      "1862",
-      "1863",
-      "1864",
-      "1832",
-      "1833",
-      "1834",
-      "1952",
-      "1953",
-      "1954",
-      "1962",
-      "1963",
-      "1964",
-      "1932",
-      "1933",
-      "1934",
-      "9052",
-      "9053",
-      "9054"
-    ],
-    "frases": []
   }
 };
