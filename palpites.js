@@ -256,49 +256,5 @@ const palpites = {
       "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 1700 no 9º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 1100 no 9º Prêmio!"
     ]
-  },
-  "PT SP": {
-    "palpites": [
-      "0570",
-      "0578",
-      "0577",
-      "0550",
-      "0558",
-      "0557",
-      "0580",
-      "0588",
-      "0587",
-      "0670",
-      "0678",
-      "0677",
-      "0650",
-      "0658",
-      "0657",
-      "0680",
-      "0688",
-      "0687",
-      "0070",
-      "0078",
-      "0077",
-      "0050",
-      "0058",
-      "0057",
-      "0080",
-      "0088",
-      "0087",
-      "4570",
-      "4578",
-      "4577"
-    ],
-    "frases": [
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 5386 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 5186 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 5486 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 6386 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2230 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Centena, Palpite 2530 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2530 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2630 no 6º Prêmio!"
-    ]
   }
 };
