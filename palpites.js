@@ -222,10 +222,23 @@ const palpites = {
       "6150"
     ],
     "frases": [
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 18:05\nDeu Dezena, Palpite 0458 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 18:05\nDeu Dezena, Palpite 0658 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 18:05\nDeu Dezena, Palpite 0958 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 18:05\nDeu Dezena, Palpite 1458 no 7º Prêmio!"
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 18:05\nDeu Dezena, Palpite 7168 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 18:05\nDeu Milhar, Palpite 7568 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 18:05\nDeu Dezena, Palpite 7468 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 18:05\nDeu Dezena, Palpite 7154 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 18:05\nDeu Dezena, Palpite 7554 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 18:05\nDeu Dezena, Palpite 7454 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 18:05\nDeu Dezena, Palpite 6154 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 18:05\nDeu Centena, Palpite 7158 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 18:05\nDeu Dezena, Palpite 7158 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 18:05\nDeu Dezena, Palpite 7558 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 18:05\nDeu Dezena, Palpite 7458 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 18:05\nDeu Centena, Palpite 6158 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 18:05\nDeu Dezena, Palpite 6158 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 18:05\nDeu Centena, Palpite 7164 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 18:05\nDeu Dezena, Palpite 7164 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 18:05\nDeu Dezena, Palpite 7564 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 18:05\nDeu Dezena, Palpite 7464 no 9º Prêmio!"
     ]
   },
   "PT RIO": {
