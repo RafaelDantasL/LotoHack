@@ -1,38 +1,42 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "4763",
-      "4764",
-      "4765",
-      "4793",
-      "4794",
-      "4795",
-      "4713",
-      "4714",
-      "4715",
-      "4563",
-      "4564",
-      "4565",
-      "4593",
-      "4594",
-      "4595",
-      "4513",
-      "4514",
-      "4515",
-      "4163",
-      "4164",
-      "4165",
-      "4193",
-      "4194",
-      "4195",
-      "4113",
-      "4114",
-      "4115",
-      "5763",
-      "5764",
-      "5765"
+      "6248",
+      "6249",
+      "6240",
+      "6278",
+      "6279",
+      "6270",
+      "6208",
+      "6209",
+      "6200",
+      "6448",
+      "6449",
+      "6440",
+      "6478",
+      "6479",
+      "6470",
+      "6408",
+      "6409",
+      "6400",
+      "6548",
+      "6549",
+      "6540",
+      "6578",
+      "6579",
+      "6570",
+      "6508",
+      "6509",
+      "6500",
+      "2248",
+      "2249",
+      "2240"
     ],
-    "frases": []
+    "frases": [
+      "10h - MALUCA - Resultado do dia 09/10/2025 (Quinta-feira)\nDeu Dezena, Palpite 4795 no 3º Prêmio!",
+      "10h - MALUCA - Resultado do dia 09/10/2025 (Quinta-feira)\nDeu Dezena, Palpite 4595 no 3º Prêmio!",
+      "10h - MALUCA - Resultado do dia 09/10/2025 (Quinta-feira)\nDeu Dezena, Palpite 4195 no 3º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -81,41 +85,6 @@ const palpites = {
       "10h - BA - Resultado do dia 09/10/2025 (Quinta-feira)\nDeu Dezena, Palpite 4879 no 10º Prêmio!",
       "10h - BA - Resultado do dia 09/10/2025 (Quinta-feira)\nDeu Dezena, Palpite 4979 no 10º Prêmio!"
     ]
-  },
-  "PT SP": {
-    "palpites": [
-      "9794",
-      "9797",
-      "9799",
-      "9744",
-      "9747",
-      "9749",
-      "9704",
-      "9707",
-      "9709",
-      "9994",
-      "9997",
-      "9999",
-      "9944",
-      "9947",
-      "9949",
-      "9904",
-      "9907",
-      "9909",
-      "9194",
-      "9197",
-      "9199",
-      "9144",
-      "9147",
-      "9149",
-      "9104",
-      "9107",
-      "9109",
-      "3794",
-      "3797",
-      "3799"
-    ],
-    "frases": []
   },
   "LOTECE": {
     "palpites": [
@@ -273,5 +242,44 @@ const palpites = {
       "9240"
     ],
     "frases": []
+  },
+  "PT SP": {
+    "palpites": [
+      "9794",
+      "9797",
+      "9799",
+      "9744",
+      "9747",
+      "9749",
+      "9704",
+      "9707",
+      "9709",
+      "9994",
+      "9997",
+      "9999",
+      "9944",
+      "9947",
+      "9949",
+      "9904",
+      "9907",
+      "9909",
+      "9194",
+      "9197",
+      "9199",
+      "9144",
+      "9147",
+      "9149",
+      "9104",
+      "9107",
+      "9109",
+      "3794",
+      "3797",
+      "3799"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 5252 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 5352 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 5552 no 9º Prêmio!"
+    ]
   }
 };
