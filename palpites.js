@@ -32,7 +32,24 @@ const palpites = {
       "5483",
       "5488"
     ],
-    "frases": []
+    "frases": [
+      "10h - MALUCA - Resultado do dia 13/10/2025 (Segunda-feira)\nDeu Dezena, Palpite 0079 no 9º Prêmio!",
+      "10h - MALUCA - Resultado do dia 13/10/2025 (Segunda-feira)\nDeu Dezena, Palpite 0879 no 9º Prêmio!",
+      "10h - MALUCA - Resultado do dia 13/10/2025 (Segunda-feira)\nDeu Dezena, Palpite 0179 no 9º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 13/10/2025 (Segunda-feira)\nDeu Dezena, Palpite 7039 no 2º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 13/10/2025 (Segunda-feira)\nDeu Dezena, Palpite 7739 no 2º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 13/10/2025 (Segunda-feira)\nDeu Centena, Palpite 7839 no 2º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 13/10/2025 (Segunda-feira)\nDeu Dezena, Palpite 7839 no 2º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 13/10/2025 (Segunda-feira)\nDeu Dezena, Palpite 5039 no 2º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 13/10/2025 (Segunda-feira)\nDeu Centena, Palpite 7099 no 3º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 13/10/2025 (Segunda-feira)\nDeu Dezena, Palpite 7099 no 3º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 13/10/2025 (Segunda-feira)\nDeu Dezena, Palpite 7799 no 3º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 13/10/2025 (Segunda-feira)\nDeu Dezena, Palpite 7899 no 3º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 13/10/2025 (Segunda-feira)\nDeu Centena, Palpite 7095 no 7º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 13/10/2025 (Segunda-feira)\nDeu Dezena, Palpite 7095 no 7º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 13/10/2025 (Segunda-feira)\nDeu Dezena, Palpite 7795 no 7º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 13/10/2025 (Segunda-feira)\nDeu Dezena, Palpite 7895 no 7º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -68,6 +85,9 @@ const palpites = {
       "9751"
     ],
     "frases": [
+      "12h - BA - Resultado do dia 13/10/2025 (Segunda-feira)\nDeu Dezena, Palpite 0289 no 2º Prêmio!",
+      "12h - BA - Resultado do dia 13/10/2025 (Segunda-feira)\nDeu Dezena, Palpite 0389 no 2º Prêmio!",
+      "12h - BA - Resultado do dia 13/10/2025 (Segunda-feira)\nDeu Dezena, Palpite 0789 no 2º Prêmio!",
       "15h - BA - Resultado do dia 13/10/2025 (Segunda-feira)\nDeu Dezena, Palpite 2059 no 5º Prêmio!",
       "15h - BA - Resultado do dia 13/10/2025 (Segunda-feira)\nDeu Dezena, Palpite 2959 no 5º Prêmio!",
       "15h - BA - Resultado do dia 13/10/2025 (Segunda-feira)\nDeu Milhar, Palpite 2759 no 5º Prêmio!",
@@ -80,43 +100,39 @@ const palpites = {
       "15h - BA - Resultado do dia 13/10/2025 (Segunda-feira)\nDeu Dezena, Palpite 2753 no 8º Prêmio!"
     ]
   },
-  "PT SP": {
+  "LOTECE": {
     "palpites": [
-      "1292",
-      "1298",
-      "1291",
-      "1202",
-      "1208",
-      "1201",
-      "1222",
-      "1228",
-      "1221",
-      "1392",
-      "1398",
-      "1391",
-      "1302",
-      "1308",
-      "1301",
-      "1322",
-      "1328",
-      "1321",
-      "1592",
-      "1598",
-      "1591",
-      "1502",
-      "1508",
-      "1501",
-      "1522",
-      "1528",
-      "1521",
-      "6292",
-      "6298",
-      "6291"
+      "0420",
+      "0423",
+      "0428",
+      "0440",
+      "0443",
+      "0448",
+      "0490",
+      "0493",
+      "0498",
+      "0120",
+      "0123",
+      "0128",
+      "0140",
+      "0143",
+      "0148",
+      "0190",
+      "0193",
+      "0198",
+      "0320",
+      "0323",
+      "0328",
+      "0340",
+      "0343",
+      "0348",
+      "0390",
+      "0393",
+      "0398",
+      "4420",
+      "4423",
+      "4428"
     ],
-    "frases": [
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 3621 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 3121 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 3721 no 5º Prêmio!"
-    ]
+    "frases": []
   }
 };
