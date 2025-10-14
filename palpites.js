@@ -218,6 +218,23 @@ const palpites = {
       "1703",
       "1708"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 18:05\nDeu Milhar, Palpite 0703 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 18:05\nDeu Dezena, Palpite 0503 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 18:05\nDeu Dezena, Palpite 0903 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 18:05\nDeu Centena, Palpite 1703 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 18:05\nDeu Dezena, Palpite 1703 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 18:05\nDeu Dezena, Palpite 0754 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 18:05\nDeu Dezena, Palpite 0554 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 18:05\nDeu Milhar, Palpite 0954 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 18:05\nDeu Dezena, Palpite 0754 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 18:05\nDeu Dezena, Palpite 0554 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 18:05\nDeu Dezena, Palpite 0954 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 18:05\nDeu Dezena, Palpite 0708 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 18:05\nDeu Centena, Palpite 0508 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 18:05\nDeu Dezena, Palpite 0508 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 18:05\nDeu Dezena, Palpite 0908 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 18:05\nDeu Dezena, Palpite 1708 no 10º Prêmio!"
+    ]
   }
 };
