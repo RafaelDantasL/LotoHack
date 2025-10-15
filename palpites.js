@@ -78,6 +78,41 @@ const palpites = {
       "10h - BA - Resultado do dia 15/10/2025 (Quarta-feira)\nDeu Dezena, Palpite 8759 no 8º Prêmio!"
     ]
   },
+  "LOTECE": {
+    "palpites": [
+      "4188",
+      "4186",
+      "4182",
+      "4108",
+      "4106",
+      "4102",
+      "4118",
+      "4116",
+      "4112",
+      "4388",
+      "4386",
+      "4382",
+      "4308",
+      "4306",
+      "4302",
+      "4318",
+      "4316",
+      "4312",
+      "4888",
+      "4886",
+      "4882",
+      "4808",
+      "4806",
+      "4802",
+      "4818",
+      "4816",
+      "4812",
+      "9188",
+      "9186",
+      "9182"
+    ],
+    "frases": []
+  },
   "LOOK/GOIAS": {
     "palpites": [
       "4844",
@@ -147,6 +182,9 @@ const palpites = {
       "1309"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 7535 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 7035 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 7335 no 9º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 4990 no 3º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 4490 no 3º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 4190 no 3º Prêmio!",
@@ -154,6 +192,91 @@ const palpites = {
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 4419 no 5º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 4119 no 5º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 1919 no 5º Prêmio!"
+    ]
+  },
+  "PT RIO": {
+    "palpites": [
+      "0705",
+      "0706",
+      "0707",
+      "0775",
+      "0776",
+      "0777",
+      "0795",
+      "0796",
+      "0797",
+      "0005",
+      "0006",
+      "0007",
+      "0075",
+      "0076",
+      "0077",
+      "0095",
+      "0096",
+      "0097",
+      "0905",
+      "0906",
+      "0907",
+      "0975",
+      "0976",
+      "0977",
+      "0995",
+      "0996",
+      "0997",
+      "7705",
+      "7706",
+      "7707"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 3105 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 3405 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 3505 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 8105 no 4º Prêmio!"
+    ]
+  },
+  "PT SP": {
+    "palpites": [
+      "6429",
+      "6425",
+      "6427",
+      "6449",
+      "6445",
+      "6447",
+      "6499",
+      "6495",
+      "6497",
+      "6729",
+      "6725",
+      "6727",
+      "6749",
+      "6745",
+      "6747",
+      "6799",
+      "6795",
+      "6797",
+      "6029",
+      "6025",
+      "6027",
+      "6049",
+      "6045",
+      "6047",
+      "6099",
+      "6095",
+      "6097",
+      "3429",
+      "3425",
+      "3427"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2792 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2192 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2492 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1792 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 7649 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Centena, Palpite 7749 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 7749 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 7249 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 4649 no 3º Prêmio!"
     ]
   }
 };
