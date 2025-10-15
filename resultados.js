@@ -2614,6 +2614,77 @@ const resultado = {
           "Avestruz"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho PB, Paratodos 20:00",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "4326",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "2º",
+          "1218",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "3º",
+          "9493",
+          "24",
+          "Veado"
+        ],
+        [
+          "4º",
+          "0738",
+          "10",
+          "Coelho"
+        ],
+        [
+          "5º",
+          "7443",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "6º",
+          "4190",
+          "23",
+          "Urso"
+        ],
+        [
+          "7º",
+          "3247",
+          "12",
+          "Elefante"
+        ],
+        [
+          "8º",
+          "2193",
+          "24",
+          "Veado"
+        ],
+        [
+          "9º",
+          "6838",
+          "10",
+          "Coelho"
+        ],
+        [
+          "10º",
+          "9686",
+          "22",
+          "Tigre"
+        ]
+      ]
     }
   ],
   "PT RIO": [
