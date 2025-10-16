@@ -2883,6 +2883,130 @@ const resultado = {
           "Tigre"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "1027",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "2º",
+          "6159",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "3º",
+          "5942",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "4º",
+          "5215",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "5º",
+          "8025",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "6º [soma]",
+          "6368",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "325",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "1027",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "2º",
+          "6159",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "3º",
+          "5942",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "4º",
+          "5215",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "5º",
+          "8025",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "6º",
+          "1655",
+          "14",
+          "Gato"
+        ],
+        [
+          "7º",
+          "0192",
+          "23",
+          "Urso"
+        ],
+        [
+          "8º",
+          "2541",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "9º",
+          "7925",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "10º",
+          "8681",
+          "21",
+          "Touro"
+        ]
+      ]
     }
   ]
 };
