@@ -141,6 +141,77 @@ const resultado = {
           "Elefante"
         ]
       ]
+    },
+    {
+      "titulo": "15h - MALUCA - BA - Resultado do dia 17/10/2025 (Sexta-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "1310",
+          "03",
+          "Burro"
+        ],
+        [
+          "2º",
+          "4990",
+          "23",
+          "Urso"
+        ],
+        [
+          "3º",
+          "1928",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "4º",
+          "1893",
+          "24",
+          "Veado"
+        ],
+        [
+          "5º",
+          "1128",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "6º",
+          "0615",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "7º",
+          "9248",
+          "12",
+          "Elefante"
+        ],
+        [
+          "8º",
+          "5669",
+          "18",
+          "Porco"
+        ],
+        [
+          "9º",
+          "0299",
+          "25",
+          "Vaca"
+        ],
+        [
+          "10º",
+          "4948",
+          "12",
+          "Elefante"
+        ]
+      ]
     }
   ],
   "BAHIA": [
