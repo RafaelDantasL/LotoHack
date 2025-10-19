@@ -2261,6 +2261,130 @@ const resultado = {
           "Coelho"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 16:00, PTV, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "8847",
+          "12",
+          "Elefante"
+        ],
+        [
+          "2º",
+          "4529",
+          "08",
+          "Camelo"
+        ],
+        [
+          "3º",
+          "0603",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "4º",
+          "8528",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "5º",
+          "3645",
+          "12",
+          "Elefante"
+        ],
+        [
+          "6º [soma]",
+          "6152",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "068",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 16:00, PTV, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "8847",
+          "12",
+          "Elefante"
+        ],
+        [
+          "2º",
+          "4529",
+          "08",
+          "Camelo"
+        ],
+        [
+          "3º",
+          "0603",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "4º",
+          "8528",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "5º",
+          "3645",
+          "12",
+          "Elefante"
+        ],
+        [
+          "6º",
+          "8408",
+          "02",
+          "Águia"
+        ],
+        [
+          "7º",
+          "8565",
+          "17",
+          "Macaco"
+        ],
+        [
+          "8º",
+          "4202",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "9º",
+          "7938",
+          "10",
+          "Coelho"
+        ],
+        [
+          "10º",
+          "5265",
+          "17",
+          "Macaco"
+        ]
+      ]
     }
   ],
   "PT SP": [
