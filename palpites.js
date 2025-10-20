@@ -204,7 +204,24 @@ const palpites = {
       "4007",
       "4008"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 9182 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 9382 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 9882 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 8182 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 9182 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 9382 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 9882 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 8182 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 5198 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Centena, Palpite 5698 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 5698 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 5098 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 5189 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Centena, Palpite 5689 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 5689 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 5089 no 10º Prêmio!"
+    ]
   },
   "PT RIO": {
     "palpites": [
@@ -249,5 +266,40 @@ const palpites = {
       "Resultado do Jogo do Bicho RJ, 14:20, PT, 1º ao 10º\nDeu Dezena, Palpite 0502 no 7º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 14:20, PT, 1º ao 10º\nDeu Dezena, Palpite 4002 no 7º Prêmio!"
     ]
+  },
+  "PT SP": {
+    "palpites": [
+      "2104",
+      "2106",
+      "2107",
+      "2124",
+      "2126",
+      "2127",
+      "2184",
+      "2186",
+      "2187",
+      "2504",
+      "2506",
+      "2507",
+      "2524",
+      "2526",
+      "2527",
+      "2584",
+      "2586",
+      "2587",
+      "2404",
+      "2406",
+      "2407",
+      "2424",
+      "2426",
+      "2427",
+      "2484",
+      "2486",
+      "2487",
+      "8104",
+      "8106",
+      "8107"
+    ],
+    "frases": []
   }
 };
