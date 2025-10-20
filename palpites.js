@@ -33,6 +33,9 @@ const palpites = {
       "6031"
     ],
     "frases": [
+      "12h - MALUCA - BA - Resultado do dia 20/10/2025 (Segunda-feira)\nDeu Dezena, Palpite 5753 no 2º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 20/10/2025 (Segunda-feira)\nDeu Dezena, Palpite 5153 no 2º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 20/10/2025 (Segunda-feira)\nDeu Dezena, Palpite 5353 no 2º Prêmio!",
       "15h - MALUCA - BA - Resultado do dia 20/10/2025 (Segunda-feira)\nDeu Dezena, Palpite 3949 no 7º Prêmio!",
       "15h - MALUCA - BA - Resultado do dia 20/10/2025 (Segunda-feira)\nDeu Dezena, Palpite 3349 no 7º Prêmio!",
       "15h - MALUCA - BA - Resultado do dia 20/10/2025 (Segunda-feira)\nDeu Dezena, Palpite 3649 no 7º Prêmio!"
@@ -71,6 +74,51 @@ const palpites = {
       "9607",
       "9609"
     ],
-    "frases": []
+    "frases": [
+      "12h - BA - Resultado do dia 20/10/2025 (Segunda-feira)\nDeu Dezena, Palpite 7323 no 5º Prêmio!",
+      "12h - BA - Resultado do dia 20/10/2025 (Segunda-feira)\nDeu Dezena, Palpite 7523 no 5º Prêmio!",
+      "12h - BA - Resultado do dia 20/10/2025 (Segunda-feira)\nDeu Dezena, Palpite 7723 no 5º Prêmio!"
+    ]
+  },
+  "LOTECE": {
+    "palpites": [
+      "3180",
+      "3182",
+      "3185",
+      "3120",
+      "3122",
+      "3125",
+      "3110",
+      "3112",
+      "3115",
+      "3980",
+      "3982",
+      "3985",
+      "3920",
+      "3922",
+      "3925",
+      "3910",
+      "3912",
+      "3915",
+      "3280",
+      "3282",
+      "3285",
+      "3220",
+      "3222",
+      "3225",
+      "3210",
+      "3212",
+      "3215",
+      "5180",
+      "5182",
+      "5185"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 6678 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Centena, Palpite 6278 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 6278 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 6378 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 1678 no 4º Prêmio!"
+    ]
   }
 };
