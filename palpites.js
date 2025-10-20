@@ -193,7 +193,24 @@ const palpites = {
       "6635",
       "6637"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 9182 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 9382 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 9882 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 8182 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 9182 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 9382 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 9882 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 8182 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 5198 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Centena, Palpite 5698 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 5698 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 5098 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 5189 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Centena, Palpite 5689 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 5689 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 5089 no 10º Prêmio!"
+    ]
   },
   "PT RIO": {
     "palpites": [
@@ -229,5 +246,45 @@ const palpites = {
       "4002"
     ],
     "frases": []
+  },
+  "PT SP": {
+    "palpites": [
+      "2421",
+      "2422",
+      "2424",
+      "2481",
+      "2482",
+      "2484",
+      "2401",
+      "2402",
+      "2404",
+      "2521",
+      "2522",
+      "2524",
+      "2581",
+      "2582",
+      "2584",
+      "2501",
+      "2502",
+      "2504",
+      "2021",
+      "2022",
+      "2024",
+      "2081",
+      "2082",
+      "2084",
+      "2001",
+      "2002",
+      "2004",
+      "3421",
+      "3422",
+      "3424"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 5263 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 5063 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 5963 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 6263 no 8º Prêmio!"
+    ]
   }
 };
