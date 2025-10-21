@@ -201,7 +201,11 @@ const palpites = {
       "3567",
       "3569"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 3054 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 3354 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 3454 no 7º Prêmio!"
+    ]
   },
   "PT RIO": {
     "palpites": [
@@ -248,53 +252,37 @@ const palpites = {
   },
   "PT SP": {
     "palpites": [
-      "9480",
-      "9481",
-      "9482",
-      "9400",
-      "9401",
-      "9402",
-      "9420",
-      "9421",
-      "9422",
-      "9080",
-      "9081",
-      "9082",
-      "9000",
-      "9001",
-      "9002",
-      "9020",
-      "9021",
-      "9022",
-      "9180",
-      "9181",
-      "9182",
-      "9100",
-      "9101",
-      "9102",
-      "9120",
-      "9121",
-      "9122",
-      "1480",
-      "1481",
-      "1482"
+      "3314",
+      "3319",
+      "3311",
+      "3334",
+      "3339",
+      "3331",
+      "3344",
+      "3349",
+      "3341",
+      "3114",
+      "3119",
+      "3111",
+      "3134",
+      "3139",
+      "3131",
+      "3144",
+      "3149",
+      "3141",
+      "3614",
+      "3619",
+      "3611",
+      "3634",
+      "3639",
+      "3631",
+      "3644",
+      "3649",
+      "3641",
+      "9314",
+      "9319",
+      "9311"
     ],
-    "frases": [
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3838 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Centena, Palpite 3038 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3038 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3138 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2838 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 8291 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 8991 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 8091 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1291 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 8270 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 8970 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 8070 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 4380 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 4480 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 4080 no 3º Prêmio!"
-    ]
+    "frases": []
   }
 };
