@@ -569,6 +569,77 @@ const resultado = {
           "Macaco"
         ]
       ]
+    },
+    {
+      "titulo": "21h - BA - Resultado do dia 20/10/2025 (Segunda-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "9393",
+          "24",
+          "Veado"
+        ],
+        [
+          "2º",
+          "3603",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "3º",
+          "2132",
+          "08",
+          "Camelo"
+        ],
+        [
+          "4º",
+          "1727",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "5º",
+          "1311",
+          "03",
+          "Burro"
+        ],
+        [
+          "6º",
+          "4100",
+          "25",
+          "Vaca"
+        ],
+        [
+          "7º",
+          "3418",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "8º",
+          "3503",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "9º",
+          "9919",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "10º",
+          "4320",
+          "05",
+          "Cachorro"
+        ]
+      ]
     }
   ],
   "LOTECE": [
