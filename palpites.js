@@ -73,6 +73,41 @@ const palpites = {
       "10h - BA - Resultado do dia 21/10/2025 (Terça-feira)\nDeu Dezena, Palpite 3413 no 3º Prêmio!"
     ]
   },
+  "LOTECE": {
+    "palpites": [
+      "8525",
+      "8520",
+      "8522",
+      "8555",
+      "8550",
+      "8552",
+      "8505",
+      "8500",
+      "8502",
+      "8925",
+      "8920",
+      "8922",
+      "8955",
+      "8950",
+      "8952",
+      "8905",
+      "8900",
+      "8902",
+      "8025",
+      "8020",
+      "8022",
+      "8055",
+      "8050",
+      "8052",
+      "8005",
+      "8000",
+      "8002",
+      "4525",
+      "4520",
+      "4522"
+    ],
+    "frases": []
+  },
   "LOOK/GOIAS": {
     "palpites": [
       "2076",
@@ -146,6 +181,101 @@ const palpites = {
       "7641",
       "7646"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 3054 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 3354 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 3454 no 7º Prêmio!"
+    ]
+  },
+  "PT RIO": {
+    "palpites": [
+      "2002",
+      "2000",
+      "2007",
+      "2012",
+      "2010",
+      "2017",
+      "2032",
+      "2030",
+      "2037",
+      "2902",
+      "2900",
+      "2907",
+      "2912",
+      "2910",
+      "2917",
+      "2932",
+      "2930",
+      "2937",
+      "2102",
+      "2100",
+      "2107",
+      "2112",
+      "2110",
+      "2117",
+      "2132",
+      "2130",
+      "2137",
+      "7002",
+      "7000",
+      "7007"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 7200 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 7500 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 7800 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 7220 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 7520 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 7820 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 3220 no 7º Prêmio!"
+    ]
+  },
+  "PT SP": {
+    "palpites": [
+      "4390",
+      "4396",
+      "4397",
+      "4380",
+      "4386",
+      "4387",
+      "4320",
+      "4326",
+      "4327",
+      "4490",
+      "4496",
+      "4497",
+      "4480",
+      "4486",
+      "4487",
+      "4420",
+      "4426",
+      "4427",
+      "4090",
+      "4096",
+      "4097",
+      "4080",
+      "4086",
+      "4087",
+      "4020",
+      "4026",
+      "4027",
+      "6390",
+      "6396",
+      "6397"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3838 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Centena, Palpite 3038 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3038 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3138 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2838 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 8291 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 8991 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 8091 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1291 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 8270 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 8970 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 8070 no 9º Prêmio!"
+    ]
   }
 };
