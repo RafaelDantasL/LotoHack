@@ -32,7 +32,11 @@ const palpites = {
       "3032",
       "3037"
     ],
-    "frases": []
+    "frases": [
+      "10h - MALUCA - Resultado do dia 23/10/2025 (Quinta-feira)\nDeu Dezena, Palpite 1415 no 6º Prêmio!",
+      "10h - MALUCA - Resultado do dia 23/10/2025 (Quinta-feira)\nDeu Dezena, Palpite 1215 no 6º Prêmio!",
+      "10h - MALUCA - Resultado do dia 23/10/2025 (Quinta-feira)\nDeu Dezena, Palpite 1015 no 6º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -67,46 +71,59 @@ const palpites = {
       "2335",
       "2336"
     ],
-    "frases": []
+    "frases": [
+      "10h - BA - Resultado do dia 23/10/2025 (Quinta-feira)\nDeu Dezena, Palpite 8416 no 6º Prêmio!",
+      "10h - BA - Resultado do dia 23/10/2025 (Quinta-feira)\nDeu Dezena, Palpite 8316 no 6º Prêmio!",
+      "10h - BA - Resultado do dia 23/10/2025 (Quinta-feira)\nDeu Dezena, Palpite 8016 no 6º Prêmio!",
+      "15h - BA - Resultado do dia 23/10/2025 (Quinta-feira)\nDeu Dezena, Palpite 2206 no 5º Prêmio!",
+      "15h - BA - Resultado do dia 23/10/2025 (Quinta-feira)\nDeu Centena, Palpite 2406 no 5º Prêmio!",
+      "15h - BA - Resultado do dia 23/10/2025 (Quinta-feira)\nDeu Dezena, Palpite 2406 no 5º Prêmio!",
+      "15h - BA - Resultado do dia 23/10/2025 (Quinta-feira)\nDeu Dezena, Palpite 2606 no 5º Prêmio!",
+      "15h - BA - Resultado do dia 23/10/2025 (Quinta-feira)\nDeu Dezena, Palpite 2286 no 6º Prêmio!",
+      "15h - BA - Resultado do dia 23/10/2025 (Quinta-feira)\nDeu Dezena, Palpite 2486 no 6º Prêmio!",
+      "15h - BA - Resultado do dia 23/10/2025 (Quinta-feira)\nDeu Dezena, Palpite 2686 no 6º Prêmio!"
+    ]
   },
-  "PT SP": {
+  "LOTECE": {
     "palpites": [
-      "3300",
-      "3301",
-      "3305",
-      "3320",
-      "3321",
-      "3325",
-      "3330",
-      "3331",
-      "3335",
-      "3500",
-      "3501",
-      "3505",
-      "3520",
-      "3521",
-      "3525",
-      "3530",
-      "3531",
-      "3535",
-      "3600",
-      "3601",
-      "3605",
-      "3620",
-      "3621",
-      "3625",
-      "3630",
-      "3631",
-      "3635",
-      "7300",
-      "7301",
-      "7305"
+      "6141",
+      "6144",
+      "6146",
+      "6151",
+      "6154",
+      "6156",
+      "6121",
+      "6124",
+      "6126",
+      "6341",
+      "6344",
+      "6346",
+      "6351",
+      "6354",
+      "6356",
+      "6321",
+      "6324",
+      "6326",
+      "6041",
+      "6044",
+      "6046",
+      "6051",
+      "6054",
+      "6056",
+      "6021",
+      "6024",
+      "6026",
+      "3141",
+      "3144",
+      "3146"
     ],
     "frases": [
-      "Resultado do Jogo do Bicho SP, 19hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0320 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 19hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0220 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 19hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0620 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 19hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1320 no 4º Prêmio!"
+      "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)\nDeu Centena, Palpite 0225 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)\nDeu Dezena, Palpite 0225 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)\nDeu Dezena, Palpite 0825 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)\nDeu Dezena, Palpite 0025 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)\nDeu Centena, Palpite 4225 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)\nDeu Dezena, Palpite 4225 no 8º Prêmio!"
     ]
   }
 };
