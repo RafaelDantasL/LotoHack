@@ -1836,6 +1836,77 @@ const resultado = {
       ]
     },
     {
+      "titulo": "Resultado do Jogo do Bicho LOTEP - PB, 18h",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "9316",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "2º",
+          "0442",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "3º",
+          "8392",
+          "23",
+          "Urso"
+        ],
+        [
+          "4º",
+          "2933",
+          "09",
+          "Cobra"
+        ],
+        [
+          "5º",
+          "0479",
+          "20",
+          "Peru"
+        ],
+        [
+          "6º",
+          "9082",
+          "21",
+          "Touro"
+        ],
+        [
+          "7º",
+          "3439",
+          "10",
+          "Coelho"
+        ],
+        [
+          "8º",
+          "1493",
+          "24",
+          "Veado"
+        ],
+        [
+          "9º",
+          "6223",
+          "06",
+          "Cabra"
+        ],
+        [
+          "10º",
+          "1799",
+          "25",
+          "Vaca"
+        ]
+      ]
+    },
+    {
       "titulo": "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 18:05",
       "conteudo": [
         [
