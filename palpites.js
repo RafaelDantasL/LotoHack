@@ -77,6 +77,46 @@ const palpites = {
     ],
     "frases": []
   },
+  "LOTECE": {
+    "palpites": [
+      "4095",
+      "4094",
+      "4091",
+      "4045",
+      "4044",
+      "4041",
+      "4025",
+      "4024",
+      "4021",
+      "4495",
+      "4494",
+      "4491",
+      "4445",
+      "4444",
+      "4441",
+      "4425",
+      "4424",
+      "4421",
+      "4595",
+      "4594",
+      "4591",
+      "4545",
+      "4544",
+      "4541",
+      "4525",
+      "4524",
+      "4521",
+      "5095",
+      "5094",
+      "5091"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOTECE - CE, 12:00 (manhã)\nDeu Dezena, Palpite 9075 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 12:00 (manhã)\nDeu Dezena, Palpite 9175 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 12:00 (manhã)\nDeu Dezena, Palpite 9975 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 12:00 (manhã)\nDeu Dezena, Palpite 2075 no 4º Prêmio!"
+    ]
+  },
   "LOOK/GOIAS": {
     "palpites": [
       "5095",
@@ -229,42 +269,15 @@ const palpites = {
       "7762",
       "7763"
     ],
-    "frases": []
-  },
-  "LOTECE": {
-    "palpites": [
-      "9070",
-      "9075",
-      "9078",
-      "9060",
-      "9065",
-      "9068",
-      "9010",
-      "9015",
-      "9018",
-      "9170",
-      "9175",
-      "9178",
-      "9160",
-      "9165",
-      "9168",
-      "9110",
-      "9115",
-      "9118",
-      "9970",
-      "9975",
-      "9978",
-      "9960",
-      "9965",
-      "9968",
-      "9910",
-      "9915",
-      "9918",
-      "2070",
-      "2075",
-      "2078"
-    ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Centena, Palpite 3039 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 3039 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 3339 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 3739 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 3070 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 3370 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 3770 no 7º Prêmio!"
+    ]
   },
   "PT SP": {
     "palpites": [
