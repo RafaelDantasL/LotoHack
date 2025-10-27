@@ -358,6 +358,77 @@ const resultado = {
           "Tigre"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "6184",
+          "21",
+          "Touro"
+        ],
+        [
+          "2º",
+          "3647",
+          "12",
+          "Elefante"
+        ],
+        [
+          "3º",
+          "6440",
+          "10",
+          "Coelho"
+        ],
+        [
+          "4º",
+          "1578",
+          "20",
+          "Peru"
+        ],
+        [
+          "5º",
+          "9841",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "6º",
+          "8327",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "7º",
+          "0678",
+          "20",
+          "Peru"
+        ],
+        [
+          "8º",
+          "8514",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "9º",
+          "6989",
+          "23",
+          "Urso"
+        ],
+        [
+          "10º",
+          "6111",
+          "03",
+          "Burro"
+        ]
+      ]
     }
   ],
   "LOOK/GOIAS": [
