@@ -108,5 +108,40 @@ const palpites = {
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 2809 no 1º Prêmio!",
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 3309 no 1º Prêmio!"
     ]
+  },
+  "PT RIO": {
+    "palpites": [
+      "2135",
+      "2131",
+      "2132",
+      "2175",
+      "2171",
+      "2172",
+      "2125",
+      "2121",
+      "2122",
+      "2335",
+      "2331",
+      "2332",
+      "2375",
+      "2371",
+      "2372",
+      "2325",
+      "2321",
+      "2322",
+      "2535",
+      "2531",
+      "2532",
+      "2575",
+      "2571",
+      "2572",
+      "2525",
+      "2521",
+      "2522",
+      "6135",
+      "6131",
+      "6132"
+    ],
+    "frases": []
   }
 };
