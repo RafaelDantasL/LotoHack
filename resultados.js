@@ -3734,6 +3734,130 @@ const resultado = {
           "Tigre"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "5803",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "2º",
+          "2249",
+          "13",
+          "Galo"
+        ],
+        [
+          "3º",
+          "4494",
+          "24",
+          "Veado"
+        ],
+        [
+          "4º",
+          "0615",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "5º",
+          "2704",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "6º [soma]",
+          "5865",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "050",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "5803",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "2º",
+          "2249",
+          "13",
+          "Galo"
+        ],
+        [
+          "3º",
+          "4494",
+          "24",
+          "Veado"
+        ],
+        [
+          "4º",
+          "0615",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "5º",
+          "2704",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "6º",
+          "5240",
+          "10",
+          "Coelho"
+        ],
+        [
+          "7º",
+          "8246",
+          "12",
+          "Elefante"
+        ],
+        [
+          "8º",
+          "0491",
+          "23",
+          "Urso"
+        ],
+        [
+          "9º",
+          "3945",
+          "12",
+          "Elefante"
+        ],
+        [
+          "10º",
+          "3787",
+          "22",
+          "Tigre"
+        ]
+      ]
     }
   ]
 };
