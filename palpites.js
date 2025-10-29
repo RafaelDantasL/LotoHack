@@ -1,4 +1,43 @@
 const palpites = {
+  "LOOK/GOIAS": {
+    "palpites": [
+      "0704",
+      "0709",
+      "0700",
+      "0784",
+      "0789",
+      "0780",
+      "0714",
+      "0719",
+      "0710",
+      "0004",
+      "0009",
+      "0000",
+      "0084",
+      "0089",
+      "0080",
+      "0014",
+      "0019",
+      "0010",
+      "0104",
+      "0109",
+      "0100",
+      "0184",
+      "0189",
+      "0180",
+      "0114",
+      "0119",
+      "0110",
+      "5704",
+      "5709",
+      "5700"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 4706 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 4206 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 4406 no 5º Prêmio!"
+    ]
+  },
   "BAHIA MALUCA": {
     "palpites": [
       "4011",
@@ -32,20 +71,7 @@ const palpites = {
       "7014",
       "7017"
     ],
-    "frases": [
-      "10h - MALUCA - Resultado do dia 28/10/2025 (Terça-feira)\nDeu Dezena, Palpite 3731 no 3º Prêmio!",
-      "10h - MALUCA - Resultado do dia 28/10/2025 (Terça-feira)\nDeu Dezena, Palpite 3831 no 3º Prêmio!",
-      "10h - MALUCA - Resultado do dia 28/10/2025 (Terça-feira)\nDeu Centena, Palpite 3031 no 3º Prêmio!",
-      "10h - MALUCA - Resultado do dia 28/10/2025 (Terça-feira)\nDeu Dezena, Palpite 3031 no 3º Prêmio!",
-      "10h - MALUCA - Resultado do dia 28/10/2025 (Terça-feira)\nDeu Dezena, Palpite 9731 no 3º Prêmio!",
-      "10h - MALUCA - Resultado do dia 28/10/2025 (Terça-feira)\nDeu Dezena, Palpite 3731 no 6º Prêmio!",
-      "10h - MALUCA - Resultado do dia 28/10/2025 (Terça-feira)\nDeu Dezena, Palpite 3831 no 6º Prêmio!",
-      "10h - MALUCA - Resultado do dia 28/10/2025 (Terça-feira)\nDeu Dezena, Palpite 3031 no 6º Prêmio!",
-      "10h - MALUCA - Resultado do dia 28/10/2025 (Terça-feira)\nDeu Dezena, Palpite 9731 no 6º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 28/10/2025 (Terça-feira)\nDeu Dezena, Palpite 7383 no 2º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 28/10/2025 (Terça-feira)\nDeu Dezena, Palpite 7583 no 2º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 28/10/2025 (Terça-feira)\nDeu Dezena, Palpite 7083 no 2º Prêmio!"
-    ]
+    "frases": []
   },
   "BAHIA": {
     "palpites": [
@@ -80,30 +106,7 @@ const palpites = {
       "0410",
       "0416"
     ],
-    "frases": [
-      "15h - BA - Resultado do dia 28/10/2025 (Terça-feira)\nDeu Dezena, Palpite 3181 no 3º Prêmio!",
-      "15h - BA - Resultado do dia 28/10/2025 (Terça-feira)\nDeu Dezena, Palpite 3481 no 3º Prêmio!",
-      "15h - BA - Resultado do dia 28/10/2025 (Terça-feira)\nDeu Dezena, Palpite 3781 no 3º Prêmio!",
-      "15h - BA - Resultado do dia 28/10/2025 (Terça-feira)\nDeu Dezena, Palpite 3103 no 5º Prêmio!",
-      "15h - BA - Resultado do dia 28/10/2025 (Terça-feira)\nDeu Dezena, Palpite 3403 no 5º Prêmio!",
-      "15h - BA - Resultado do dia 28/10/2025 (Terça-feira)\nDeu Dezena, Palpite 3703 no 5º Prêmio!",
-      "15h - BA - Resultado do dia 28/10/2025 (Terça-feira)\nDeu Dezena, Palpite 4103 no 5º Prêmio!",
-      "15h - BA - Resultado do dia 28/10/2025 (Terça-feira)\nDeu Dezena, Palpite 3173 no 8º Prêmio!",
-      "15h - BA - Resultado do dia 28/10/2025 (Terça-feira)\nDeu Dezena, Palpite 3473 no 8º Prêmio!",
-      "15h - BA - Resultado do dia 28/10/2025 (Terça-feira)\nDeu Dezena, Palpite 3773 no 8º Prêmio!",
-      "15h - BA - Resultado do dia 28/10/2025 (Terça-feira)\nDeu Dezena, Palpite 3181 no 10º Prêmio!",
-      "15h - BA - Resultado do dia 28/10/2025 (Terça-feira)\nDeu Centena, Palpite 3481 no 10º Prêmio!",
-      "15h - BA - Resultado do dia 28/10/2025 (Terça-feira)\nDeu Dezena, Palpite 3481 no 10º Prêmio!",
-      "15h - BA - Resultado do dia 28/10/2025 (Terça-feira)\nDeu Dezena, Palpite 3781 no 10º Prêmio!",
-      "19h - BA - Resultado do dia 28/10/2025 (Terça-feira)\nDeu Dezena, Palpite 3301 no 2º Prêmio!",
-      "19h - BA - Resultado do dia 28/10/2025 (Terça-feira)\nDeu Dezena, Palpite 3401 no 2º Prêmio!",
-      "19h - BA - Resultado do dia 28/10/2025 (Terça-feira)\nDeu Dezena, Palpite 3901 no 2º Prêmio!",
-      "19h - BA - Resultado do dia 28/10/2025 (Terça-feira)\nDeu Dezena, Palpite 4301 no 2º Prêmio!",
-      "21h - BA - Resultado do dia 28/10/2025 (Terça-feira)\nDeu Dezena, Palpite 2430 no 10º Prêmio!",
-      "21h - BA - Resultado do dia 28/10/2025 (Terça-feira)\nDeu Dezena, Palpite 2530 no 10º Prêmio!",
-      "21h - BA - Resultado do dia 28/10/2025 (Terça-feira)\nDeu Dezena, Palpite 2030 no 10º Prêmio!",
-      "21h - BA - Resultado do dia 28/10/2025 (Terça-feira)\nDeu Dezena, Palpite 1430 no 10º Prêmio!"
-    ]
+    "frases": []
   },
   "LOTECE": {
     "palpites": [
@@ -138,53 +141,111 @@ const palpites = {
       "5880",
       "5881"
     ],
-    "frases": [
-      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 2374 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 2174 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 2274 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 6374 no 7º Prêmio!"
-    ]
+    "frases": []
   },
-  "LOOK/GOIAS": {
+  "LOTEP": {
     "palpites": [
-      "4778",
-      "4772",
-      "4776",
-      "4708",
-      "4702",
-      "4706",
-      "4718",
-      "4712",
-      "4716",
-      "4278",
-      "4272",
-      "4276",
-      "4208",
-      "4202",
-      "4206",
-      "4218",
-      "4212",
-      "4216",
-      "4478",
-      "4472",
-      "4476",
-      "4408",
-      "4402",
-      "4406",
-      "4418",
-      "4412",
-      "4416",
-      "1778",
-      "1772",
-      "1776"
+      "5516",
+      "5514",
+      "5515",
+      "5556",
+      "5554",
+      "5555",
+      "5586",
+      "5584",
+      "5585",
+      "5716",
+      "5714",
+      "5715",
+      "5756",
+      "5754",
+      "5755",
+      "5786",
+      "5784",
+      "5785",
+      "5016",
+      "5014",
+      "5015",
+      "5056",
+      "5054",
+      "5055",
+      "5086",
+      "5084",
+      "5085",
+      "9516",
+      "9514",
+      "9515"
     ],
-    "frases": [
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 23h, 1º ao 10º\nDeu Dezena, Palpite 1272 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 23h, 1º ao 10º\nDeu Milhar, Palpite 1772 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 23h, 1º ao 10º\nDeu Dezena, Palpite 1872 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 23h, 1º ao 10º\nDeu Dezena, Palpite 1276 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 23h, 1º ao 10º\nDeu Dezena, Palpite 1776 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 23h, 1º ao 10º\nDeu Dezena, Palpite 1876 no 3º Prêmio!"
-    ]
+    "frases": []
+  },
+  "PT RIO": {
+    "palpites": [
+      "6964",
+      "6962",
+      "6969",
+      "6904",
+      "6902",
+      "6909",
+      "6914",
+      "6912",
+      "6919",
+      "6464",
+      "6462",
+      "6469",
+      "6404",
+      "6402",
+      "6409",
+      "6414",
+      "6412",
+      "6419",
+      "6164",
+      "6162",
+      "6169",
+      "6104",
+      "6102",
+      "6109",
+      "6114",
+      "6112",
+      "6119",
+      "3964",
+      "3962",
+      "3969"
+    ],
+    "frases": []
+  },
+  "PT SP": {
+    "palpites": [
+      "0244",
+      "0245",
+      "0240",
+      "0204",
+      "0205",
+      "0200",
+      "0294",
+      "0295",
+      "0290",
+      "0444",
+      "0445",
+      "0440",
+      "0404",
+      "0405",
+      "0400",
+      "0494",
+      "0495",
+      "0490",
+      "0744",
+      "0745",
+      "0740",
+      "0704",
+      "0705",
+      "0700",
+      "0794",
+      "0795",
+      "0790",
+      "2244",
+      "2245",
+      "2240"
+    ],
+    "frases": []
   }
 };
