@@ -198,6 +198,10 @@ const palpites = {
       "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0181 no 10º Prêmio!",
       "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0481 no 10º Prêmio!",
       "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0581 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 10:45\nDeu Dezena, Palpite 0373 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 10:45\nDeu Dezena, Palpite 0773 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 10:45\nDeu Dezena, Palpite 0173 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 10:45\nDeu Dezena, Palpite 4373 no 6º Prêmio!",
       "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 12:45\nDeu Dezena, Palpite 7033 no 5º Prêmio!",
       "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 12:45\nDeu Dezena, Palpite 7233 no 5º Prêmio!",
       "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 12:45\nDeu Dezena, Palpite 7533 no 5º Prêmio!",
@@ -301,40 +305,5 @@ const palpites = {
       "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 5881 no 7º Prêmio!",
       "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 6081 no 7º Prêmio!"
     ]
-  },
-  "LOTECE": {
-    "palpites": [
-      "2843",
-      "2840",
-      "2841",
-      "2863",
-      "2860",
-      "2861",
-      "2883",
-      "2880",
-      "2881",
-      "2043",
-      "2040",
-      "2041",
-      "2063",
-      "2060",
-      "2061",
-      "2083",
-      "2080",
-      "2081",
-      "2243",
-      "2240",
-      "2241",
-      "2263",
-      "2260",
-      "2261",
-      "2283",
-      "2280",
-      "2281",
-      "3843",
-      "3840",
-      "3841"
-    ],
-    "frases": []
   }
 };
