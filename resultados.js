@@ -2883,6 +2883,130 @@ const resultado = {
           "Cachorro"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "0725",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "2º",
+          "9145",
+          "12",
+          "Elefante"
+        ],
+        [
+          "3º",
+          "0340",
+          "10",
+          "Coelho"
+        ],
+        [
+          "4º",
+          "2504",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "5º",
+          "7720",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "6º [soma]",
+          "0434",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "630",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "0725",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "2º",
+          "9145",
+          "12",
+          "Elefante"
+        ],
+        [
+          "3º",
+          "0340",
+          "10",
+          "Coelho"
+        ],
+        [
+          "4º",
+          "2504",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "5º",
+          "7720",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "6º",
+          "0902",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "7º",
+          "7135",
+          "09",
+          "Cobra"
+        ],
+        [
+          "8º",
+          "2440",
+          "10",
+          "Coelho"
+        ],
+        [
+          "9º",
+          "5504",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "10º",
+          "6415",
+          "04",
+          "Borboleta"
+        ]
+      ]
     }
   ]
 };
