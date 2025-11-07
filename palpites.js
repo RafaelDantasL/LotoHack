@@ -104,6 +104,82 @@ const palpites = {
     ],
     "frases": []
   },
+  "LOTEP": {
+    "palpites": [
+      "2530",
+      "2534",
+      "2536",
+      "2500",
+      "2504",
+      "2506",
+      "2510",
+      "2514",
+      "2516",
+      "2030",
+      "2034",
+      "2036",
+      "2000",
+      "2004",
+      "2006",
+      "2010",
+      "2014",
+      "2016",
+      "2130",
+      "2134",
+      "2136",
+      "2100",
+      "2104",
+      "2106",
+      "2110",
+      "2114",
+      "2116",
+      "5530",
+      "5534",
+      "5536"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 2936 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 2136 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Centena, Palpite 2336 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 2336 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 4936 no 3º Prêmio!"
+    ]
+  },
+  "LOTECE": {
+    "palpites": [
+      "7685",
+      "7681",
+      "7682",
+      "7665",
+      "7661",
+      "7662",
+      "7625",
+      "7621",
+      "7622",
+      "7185",
+      "7181",
+      "7182",
+      "7165",
+      "7161",
+      "7162",
+      "7125",
+      "7121",
+      "7122",
+      "7285",
+      "7281",
+      "7282",
+      "7265",
+      "7261",
+      "7262",
+      "7225",
+      "7221",
+      "7222",
+      "8685",
+      "8681",
+      "8682"
+    ],
+    "frases": []
+  },
   "PT RIO": {
     "palpites": [
       "5540",
@@ -138,5 +214,44 @@ const palpites = {
       "7548"
     ],
     "frases": []
+  },
+  "PT SP": {
+    "palpites": [
+      "8216",
+      "8214",
+      "8219",
+      "8246",
+      "8244",
+      "8249",
+      "8266",
+      "8264",
+      "8269",
+      "8416",
+      "8414",
+      "8419",
+      "8446",
+      "8444",
+      "8449",
+      "8466",
+      "8464",
+      "8469",
+      "8516",
+      "8514",
+      "8519",
+      "8546",
+      "8544",
+      "8549",
+      "8566",
+      "8564",
+      "8569",
+      "0216",
+      "0214",
+      "0219"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2706 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2006 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2106 no 6º Prêmio!"
+    ]
   }
 };
