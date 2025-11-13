@@ -267,49 +267,5 @@ const palpites = {
       "3168"
     ],
     "frases": []
-  },
-  "PT SP": {
-    "palpites": [
-      "3220",
-      "3228",
-      "3229",
-      "3280",
-      "3288",
-      "3289",
-      "3210",
-      "3218",
-      "3219",
-      "3420",
-      "3428",
-      "3429",
-      "3480",
-      "3488",
-      "3489",
-      "3410",
-      "3418",
-      "3419",
-      "3620",
-      "3628",
-      "3629",
-      "3680",
-      "3688",
-      "3689",
-      "3610",
-      "3618",
-      "3619",
-      "9220",
-      "9228",
-      "9229"
-    ],
-    "frases": [
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 5514 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 5114 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 5014 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 4514 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2320 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2020 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Centena, Palpite 2420 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2420 no 7º Prêmio!"
-    ]
   }
 };
