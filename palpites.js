@@ -74,6 +74,41 @@ const palpites = {
       "10h - BA - Resultado do dia 15/11/2025 (Sábado)\nDeu Dezena, Palpite 6902 no 6º Prêmio!"
     ]
   },
+  "LOTECE": {
+    "palpites": [
+      "5194",
+      "5191",
+      "5199",
+      "5144",
+      "5141",
+      "5149",
+      "5104",
+      "5101",
+      "5109",
+      "5294",
+      "5291",
+      "5299",
+      "5244",
+      "5241",
+      "5249",
+      "5204",
+      "5201",
+      "5209",
+      "5094",
+      "5091",
+      "5099",
+      "5044",
+      "5041",
+      "5049",
+      "5004",
+      "5001",
+      "5009",
+      "4194",
+      "4191",
+      "4199"
+    ],
+    "frases": []
+  },
   "LOOK/GOIAS": {
     "palpites": [
       "6160",
@@ -204,42 +239,12 @@ const palpites = {
       "5263",
       "5266"
     ],
-    "frases": []
-  },
-  "LOTECE": {
-    "palpites": [
-      "7318",
-      "7310",
-      "7312",
-      "7338",
-      "7330",
-      "7332",
-      "7398",
-      "7390",
-      "7392",
-      "7118",
-      "7110",
-      "7112",
-      "7138",
-      "7130",
-      "7132",
-      "7198",
-      "7190",
-      "7192",
-      "7018",
-      "7010",
-      "7012",
-      "7038",
-      "7030",
-      "7032",
-      "7098",
-      "7090",
-      "7092",
-      "2318",
-      "2310",
-      "2312"
-    ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 5898 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 5998 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 5098 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 9898 no 5º Prêmio!"
+    ]
   },
   "PT SP": {
     "palpites": [
