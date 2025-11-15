@@ -36,42 +36,41 @@ const palpites = {
   },
   "BAHIA": {
     "palpites": [
-      "1608",
-      "1602",
-      "1605",
-      "1658",
-      "1652",
-      "1655",
-      "1678",
-      "1672",
-      "1675",
-      "1008",
-      "1002",
-      "1005",
-      "1058",
-      "1052",
-      "1055",
-      "1078",
-      "1072",
-      "1075",
-      "1808",
-      "1802",
-      "1805",
-      "1858",
-      "1852",
-      "1855",
-      "1878",
-      "1872",
-      "1875",
-      "2608",
-      "2602",
-      "2605"
+      "4165",
+      "4161",
+      "4163",
+      "4135",
+      "4131",
+      "4133",
+      "4105",
+      "4101",
+      "4103",
+      "4365",
+      "4361",
+      "4363",
+      "4335",
+      "4331",
+      "4333",
+      "4305",
+      "4301",
+      "4303",
+      "4065",
+      "4061",
+      "4063",
+      "4035",
+      "4031",
+      "4033",
+      "4005",
+      "4001",
+      "4003",
+      "7165",
+      "7161",
+      "7163"
     ],
     "frases": [
-      "10h - BA - Resultado do dia 15/11/2025 (Sábado)\nDeu Dezena, Palpite 2902 no 6º Prêmio!",
-      "10h - BA - Resultado do dia 15/11/2025 (Sábado)\nDeu Dezena, Palpite 2002 no 6º Prêmio!",
-      "10h - BA - Resultado do dia 15/11/2025 (Sábado)\nDeu Dezena, Palpite 2102 no 6º Prêmio!",
-      "10h - BA - Resultado do dia 15/11/2025 (Sábado)\nDeu Dezena, Palpite 6902 no 6º Prêmio!"
+      "12h - BA - Resultado do dia 15/11/2025 (Sábado)\nDeu Dezena, Palpite 1678 no 8º Prêmio!",
+      "12h - BA - Resultado do dia 15/11/2025 (Sábado)\nDeu Dezena, Palpite 1078 no 8º Prêmio!",
+      "12h - BA - Resultado do dia 15/11/2025 (Sábado)\nDeu Dezena, Palpite 1878 no 8º Prêmio!"
     ]
   },
   "LOTECE": {
@@ -279,6 +278,10 @@ const palpites = {
       "7230",
       "7235"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 8908 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 8008 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 8108 no 2º Prêmio!"
+    ]
   }
 };
