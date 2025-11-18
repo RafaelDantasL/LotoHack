@@ -32,7 +32,11 @@ const palpites = {
       "7092",
       "7091"
     ],
-    "frases": []
+    "frases": [
+      "10h - MALUCA - Resultado do dia 18/11/2025 (Terça-feira)\nDeu Dezena, Palpite 2090 no 6º Prêmio!",
+      "10h - MALUCA - Resultado do dia 18/11/2025 (Terça-feira)\nDeu Dezena, Palpite 2290 no 6º Prêmio!",
+      "10h - MALUCA - Resultado do dia 18/11/2025 (Terça-feira)\nDeu Dezena, Palpite 2890 no 6º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -66,6 +70,125 @@ const palpites = {
       "9704",
       "9705",
       "9702"
+    ],
+    "frases": [
+      "10h - BA - Resultado do dia 18/11/2025 (Terça-feira)\nDeu Dezena, Palpite 9046 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 18/11/2025 (Terça-feira)\nDeu Dezena, Palpite 9746 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 18/11/2025 (Terça-feira)\nDeu Dezena, Palpite 9846 no 2º Prêmio!"
+    ]
+  },
+  "LOTECE": {
+    "palpites": [
+      "6025",
+      "6027",
+      "6020",
+      "6065",
+      "6067",
+      "6060",
+      "6005",
+      "6007",
+      "6000",
+      "6425",
+      "6427",
+      "6420",
+      "6465",
+      "6467",
+      "6460",
+      "6405",
+      "6407",
+      "6400",
+      "6125",
+      "6127",
+      "6120",
+      "6165",
+      "6167",
+      "6160",
+      "6105",
+      "6107",
+      "6100",
+      "7025",
+      "7027",
+      "7020"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 7485 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 7685 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 7085 no 2º Prêmio!"
+    ]
+  },
+  "LOOK/GOIAS": {
+    "palpites": [
+      "9730",
+      "9738",
+      "9731",
+      "9790",
+      "9798",
+      "9791",
+      "9710",
+      "9718",
+      "9711",
+      "9030",
+      "9038",
+      "9031",
+      "9090",
+      "9098",
+      "9091",
+      "9010",
+      "9018",
+      "9011",
+      "9630",
+      "9638",
+      "9631",
+      "9690",
+      "9698",
+      "9691",
+      "9610",
+      "9618",
+      "9611",
+      "3730",
+      "3738",
+      "3731"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 3482 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 3782 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Centena, Palpite 3082 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 3082 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 4482 no 6º Prêmio!"
+    ]
+  },
+  "LOTEP": {
+    "palpites": [
+      "5503",
+      "5505",
+      "5502",
+      "5513",
+      "5515",
+      "5512",
+      "5533",
+      "5535",
+      "5532",
+      "5003",
+      "5005",
+      "5002",
+      "5013",
+      "5015",
+      "5012",
+      "5033",
+      "5035",
+      "5032",
+      "5103",
+      "5105",
+      "5102",
+      "5113",
+      "5115",
+      "5112",
+      "5133",
+      "5135",
+      "5132",
+      "3503",
+      "3505",
+      "3502"
     ],
     "frases": []
   }
