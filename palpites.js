@@ -33,6 +33,12 @@ const palpites = {
       "3057"
     ],
     "frases": [
+      "12h - MALUCA - BA - Resultado do dia 19/11/2025 (Quarta-feira)\nDeu Dezena, Palpite 0751 no 3º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 19/11/2025 (Quarta-feira)\nDeu Dezena, Palpite 0151 no 3º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 19/11/2025 (Quarta-feira)\nDeu Dezena, Palpite 0551 no 3º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 19/11/2025 (Quarta-feira)\nDeu Dezena, Palpite 0751 no 9º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 19/11/2025 (Quarta-feira)\nDeu Dezena, Palpite 0151 no 9º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 19/11/2025 (Quarta-feira)\nDeu Dezena, Palpite 0551 no 9º Prêmio!",
       "15h - MALUCA - BA - Resultado do dia 19/11/2025 (Quarta-feira)\nDeu Dezena, Palpite 8358 no 2º Prêmio!",
       "15h - MALUCA - BA - Resultado do dia 19/11/2025 (Quarta-feira)\nDeu Dezena, Palpite 8458 no 2º Prêmio!",
       "15h - MALUCA - BA - Resultado do dia 19/11/2025 (Quarta-feira)\nDeu Dezena, Palpite 8658 no 2º Prêmio!"
@@ -78,43 +84,39 @@ const palpites = {
       "15h - BA - Resultado do dia 19/11/2025 (Quarta-feira)\nDeu Dezena, Palpite 0687 no 4º Prêmio!"
     ]
   },
-  "PT SP": {
+  "LOTECE": {
     "palpites": [
-      "0077",
-      "0071",
-      "0079",
-      "0007",
-      "0001",
-      "0009",
-      "0027",
-      "0021",
-      "0029",
-      "0477",
-      "0471",
-      "0479",
-      "0407",
-      "0401",
-      "0409",
-      "0427",
-      "0421",
-      "0429",
-      "0377",
-      "0371",
-      "0379",
-      "0307",
-      "0301",
-      "0309",
-      "0327",
-      "0321",
-      "0329",
-      "7077",
-      "7071",
-      "7079"
+      "5191",
+      "5194",
+      "5195",
+      "5131",
+      "5134",
+      "5135",
+      "5141",
+      "5144",
+      "5145",
+      "5391",
+      "5394",
+      "5395",
+      "5331",
+      "5334",
+      "5335",
+      "5341",
+      "5344",
+      "5345",
+      "5791",
+      "5794",
+      "5795",
+      "5731",
+      "5734",
+      "5735",
+      "5741",
+      "5744",
+      "5745",
+      "7191",
+      "7194",
+      "7195"
     ],
-    "frases": [
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 5389 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 5889 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 5989 no 10º Prêmio!"
-    ]
+    "frases": []
   }
 };
