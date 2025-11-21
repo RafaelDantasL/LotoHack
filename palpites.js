@@ -287,5 +287,44 @@ const palpites = {
       "7810"
     ],
     "frases": []
+  },
+  "PT SP": {
+    "palpites": [
+      "6621",
+      "6625",
+      "6622",
+      "6601",
+      "6605",
+      "6602",
+      "6641",
+      "6645",
+      "6642",
+      "6021",
+      "6025",
+      "6022",
+      "6001",
+      "6005",
+      "6002",
+      "6041",
+      "6045",
+      "6042",
+      "6121",
+      "6125",
+      "6122",
+      "6101",
+      "6105",
+      "6102",
+      "6141",
+      "6145",
+      "6142",
+      "8621",
+      "8625",
+      "8622"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 8422 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 8522 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 8722 no 8º Prêmio!"
+    ]
   }
 };
