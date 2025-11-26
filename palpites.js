@@ -73,6 +73,45 @@ const palpites = {
     ],
     "frases": []
   },
+  "LOTECE": {
+    "palpites": [
+      "1512",
+      "1510",
+      "1513",
+      "1592",
+      "1590",
+      "1593",
+      "1542",
+      "1540",
+      "1543",
+      "1612",
+      "1610",
+      "1613",
+      "1692",
+      "1690",
+      "1693",
+      "1642",
+      "1640",
+      "1643",
+      "1712",
+      "1710",
+      "1713",
+      "1792",
+      "1790",
+      "1793",
+      "1742",
+      "1740",
+      "1743",
+      "9512",
+      "9510",
+      "9513"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 0773 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 0173 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 0873 no 6º Prêmio!"
+    ]
+  },
   "LOOK/GOIAS": {
     "palpites": [
       "9728",
@@ -149,42 +188,14 @@ const palpites = {
       "5412",
       "5411"
     ],
-    "frases": []
-  },
-  "LOTECE": {
-    "palpites": [
-      "0758",
-      "0751",
-      "0753",
-      "0728",
-      "0721",
-      "0723",
-      "0778",
-      "0771",
-      "0773",
-      "0158",
-      "0151",
-      "0153",
-      "0128",
-      "0121",
-      "0123",
-      "0178",
-      "0171",
-      "0173",
-      "0858",
-      "0851",
-      "0853",
-      "0828",
-      "0821",
-      "0823",
-      "0878",
-      "0871",
-      "0873",
-      "6758",
-      "6751",
-      "6753"
-    ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 8890 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Milhar, Palpite 8290 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 8490 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 0710 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 0110 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 0210 no 3º Prêmio!"
+    ]
   },
   "PT RIO": {
     "palpites": [
