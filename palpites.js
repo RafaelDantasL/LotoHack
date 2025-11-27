@@ -33,48 +33,15 @@ const palpites = {
       "3151"
     ],
     "frases": [
+      "10h - MALUCA - Resultado do dia 27/11/2025 (Quinta-feira)\nDeu Dezena, Palpite 0728 no 8º Prêmio!",
+      "10h - MALUCA - Resultado do dia 27/11/2025 (Quinta-feira)\nDeu Dezena, Palpite 0928 no 8º Prêmio!",
+      "10h - MALUCA - Resultado do dia 27/11/2025 (Quinta-feira)\nDeu Dezena, Palpite 0028 no 8º Prêmio!",
+      "10h - MALUCA - Resultado do dia 27/11/2025 (Quinta-feira)\nDeu Dezena, Palpite 0728 no 9º Prêmio!",
+      "10h - MALUCA - Resultado do dia 27/11/2025 (Quinta-feira)\nDeu Dezena, Palpite 0928 no 9º Prêmio!",
+      "10h - MALUCA - Resultado do dia 27/11/2025 (Quinta-feira)\nDeu Dezena, Palpite 0028 no 9º Prêmio!",
       "15h - MALUCA - BA - Resultado do dia 27/11/2025 (Quinta-feira)\nDeu Dezena, Palpite 0283 no 10º Prêmio!",
       "15h - MALUCA - BA - Resultado do dia 27/11/2025 (Quinta-feira)\nDeu Dezena, Palpite 0583 no 10º Prêmio!",
       "15h - MALUCA - BA - Resultado do dia 27/11/2025 (Quinta-feira)\nDeu Dezena, Palpite 0983 no 10º Prêmio!"
-    ]
-  },
-  "PT SP": {
-    "palpites": [
-      "2156",
-      "2150",
-      "2151",
-      "2166",
-      "2160",
-      "2161",
-      "2186",
-      "2180",
-      "2181",
-      "2756",
-      "2750",
-      "2751",
-      "2766",
-      "2760",
-      "2761",
-      "2786",
-      "2780",
-      "2781",
-      "2856",
-      "2850",
-      "2851",
-      "2866",
-      "2860",
-      "2861",
-      "2886",
-      "2880",
-      "2881",
-      "7156",
-      "7150",
-      "7151"
-    ],
-    "frases": [
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 1150 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 1550 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 1250 no 5º Prêmio!"
     ]
   },
   "BAHIA": {
@@ -263,6 +230,13 @@ const palpites = {
       "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 9375 no 7º Prêmio!",
       "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 9175 no 7º Prêmio!",
       "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 9275 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 5113 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 5513 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 5613 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 1113 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 5132 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 5532 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 5632 no 8º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 3383 no 5º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 3483 no 5º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 3083 no 5º Prêmio!",
@@ -311,6 +285,45 @@ const palpites = {
       "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 8403 no 4º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 8603 no 4º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 8103 no 4º Prêmio!"
+    ]
+  },
+  "PT SP": {
+    "palpites": [
+      "2156",
+      "2150",
+      "2151",
+      "2166",
+      "2160",
+      "2161",
+      "2186",
+      "2180",
+      "2181",
+      "2756",
+      "2750",
+      "2751",
+      "2766",
+      "2760",
+      "2761",
+      "2786",
+      "2780",
+      "2781",
+      "2856",
+      "2850",
+      "2851",
+      "2866",
+      "2860",
+      "2861",
+      "2886",
+      "2880",
+      "2881",
+      "7156",
+      "7150",
+      "7151"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 1150 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 1550 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 1250 no 5º Prêmio!"
     ]
   }
 };
