@@ -1284,6 +1284,77 @@ const resultado = {
           "Carneiro"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 12:45",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "1159",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "2º",
+          "6372",
+          "18",
+          "Porco"
+        ],
+        [
+          "3º",
+          "2019",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "4º",
+          "7425",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "5º",
+          "7100",
+          "25",
+          "Vaca"
+        ],
+        [
+          "6º",
+          "1627",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "7º",
+          "1304",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "8º",
+          "5712",
+          "03",
+          "Burro"
+        ],
+        [
+          "9º",
+          "9295",
+          "24",
+          "Veado"
+        ],
+        [
+          "10º",
+          "2013",
+          "04",
+          "Borboleta"
+        ]
+      ]
     }
   ],
   "PT RIO": [
