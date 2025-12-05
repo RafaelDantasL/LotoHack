@@ -33,6 +33,18 @@ const palpites = {
       "3910"
     ],
     "frases": [
+      "10h - MALUCA - Resultado do dia 05/12/2025 (Sexta-feira)\nDeu Dezena, Palpite 6631 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 05/12/2025 (Sexta-feira)\nDeu Dezena, Palpite 6331 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 05/12/2025 (Sexta-feira)\nDeu Dezena, Palpite 6531 no 1º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 05/12/2025 (Sexta-feira)\nDeu Dezena, Palpite 8187 no 9º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 05/12/2025 (Sexta-feira)\nDeu Dezena, Palpite 8487 no 9º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 05/12/2025 (Sexta-feira)\nDeu Centena, Palpite 8987 no 9º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 05/12/2025 (Sexta-feira)\nDeu Dezena, Palpite 8987 no 9º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 05/12/2025 (Sexta-feira)\nDeu Dezena, Palpite 5187 no 9º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 05/12/2025 (Sexta-feira)\nDeu Dezena, Palpite 1685 no 1º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 05/12/2025 (Sexta-feira)\nDeu Dezena, Palpite 1985 no 1º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 05/12/2025 (Sexta-feira)\nDeu Dezena, Palpite 1185 no 1º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 05/12/2025 (Sexta-feira)\nDeu Dezena, Palpite 3685 no 1º Prêmio!",
       "19h - MALUCA - BA - Resultado do dia 05/12/2025 (Sexta-feira)\nDeu Dezena, Palpite 1573 no 1º Prêmio!",
       "19h - MALUCA - BA - Resultado do dia 05/12/2025 (Sexta-feira)\nDeu Dezena, Palpite 1273 no 1º Prêmio!",
       "19h - MALUCA - BA - Resultado do dia 05/12/2025 (Sexta-feira)\nDeu Dezena, Palpite 1073 no 1º Prêmio!"
@@ -72,9 +84,53 @@ const palpites = {
       "9110"
     ],
     "frases": [
+      "12h - BA - Resultado do dia 05/12/2025 (Sexta-feira)\nDeu Dezena, Palpite 1152 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 05/12/2025 (Sexta-feira)\nDeu Dezena, Palpite 1352 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 05/12/2025 (Sexta-feira)\nDeu Dezena, Palpite 1752 no 4º Prêmio!",
+      "15h - BA - Resultado do dia 05/12/2025 (Sexta-feira)\nDeu Dezena, Palpite 0911 no 1º Prêmio!",
+      "15h - BA - Resultado do dia 05/12/2025 (Sexta-feira)\nDeu Dezena, Palpite 0211 no 1º Prêmio!",
+      "15h - BA - Resultado do dia 05/12/2025 (Sexta-feira)\nDeu Dezena, Palpite 0811 no 1º Prêmio!",
+      "15h - BA - Resultado do dia 05/12/2025 (Sexta-feira)\nDeu Dezena, Palpite 0915 no 8º Prêmio!",
+      "15h - BA - Resultado do dia 05/12/2025 (Sexta-feira)\nDeu Dezena, Palpite 0215 no 8º Prêmio!",
+      "15h - BA - Resultado do dia 05/12/2025 (Sexta-feira)\nDeu Dezena, Palpite 0815 no 8º Prêmio!",
       "19h - BA - Resultado do dia 05/12/2025 (Sexta-feira)\nDeu Dezena, Palpite 3031 no 5º Prêmio!",
       "19h - BA - Resultado do dia 05/12/2025 (Sexta-feira)\nDeu Dezena, Palpite 3231 no 5º Prêmio!",
       "19h - BA - Resultado do dia 05/12/2025 (Sexta-feira)\nDeu Dezena, Palpite 3331 no 5º Prêmio!"
     ]
+  },
+  "LOTECE": {
+    "palpites": [
+      "4391",
+      "4392",
+      "4393",
+      "4311",
+      "4312",
+      "4313",
+      "4331",
+      "4332",
+      "4333",
+      "4491",
+      "4492",
+      "4493",
+      "4411",
+      "4412",
+      "4413",
+      "4431",
+      "4432",
+      "4433",
+      "4691",
+      "4692",
+      "4693",
+      "4611",
+      "4612",
+      "4613",
+      "4631",
+      "4632",
+      "4633",
+      "1391",
+      "1392",
+      "1393"
+    ],
+    "frases": []
   }
 };
