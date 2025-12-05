@@ -3397,6 +3397,130 @@ const resultado = {
           "Carneiro"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 19hs - PTSP, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "8445",
+          "12",
+          "Elefante"
+        ],
+        [
+          "2º",
+          "7816",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "3º",
+          "0827",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "4º",
+          "1178",
+          "20",
+          "Peru"
+        ],
+        [
+          "5º",
+          "8537",
+          "10",
+          "Coelho"
+        ],
+        [
+          "6º [soma]",
+          "6803",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "006",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 19hs - PTSP, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "8445",
+          "12",
+          "Elefante"
+        ],
+        [
+          "2º",
+          "7816",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "3º",
+          "0827",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "4º",
+          "1178",
+          "20",
+          "Peru"
+        ],
+        [
+          "5º",
+          "8537",
+          "10",
+          "Coelho"
+        ],
+        [
+          "6º",
+          "8701",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "7º",
+          "4881",
+          "21",
+          "Touro"
+        ],
+        [
+          "8º",
+          "4127",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "9º",
+          "5678",
+          "20",
+          "Peru"
+        ],
+        [
+          "10º",
+          "0190",
+          "23",
+          "Urso"
+        ]
+      ]
     }
   ]
 };
