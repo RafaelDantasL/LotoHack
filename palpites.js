@@ -32,7 +32,11 @@ const palpites = {
       "7208",
       "7209"
     ],
-    "frases": []
+    "frases": [
+      "10h - MALUCA - Resultado do dia 07/12/2025 (Domingo)\nDeu Dezena, Palpite 1964 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 07/12/2025 (Domingo)\nDeu Dezena, Palpite 1064 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 07/12/2025 (Domingo)\nDeu Dezena, Palpite 1164 no 1º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -66,6 +70,129 @@ const palpites = {
       "8301",
       "8305",
       "8300"
+    ],
+    "frases": [
+      "10h - BA - Resultado do dia 07/12/2025 (Domingo)\nDeu Dezena, Palpite 1095 no 10º Prêmio!",
+      "10h - BA - Resultado do dia 07/12/2025 (Domingo)\nDeu Dezena, Palpite 1195 no 10º Prêmio!",
+      "10h - BA - Resultado do dia 07/12/2025 (Domingo)\nDeu Centena, Palpite 1495 no 10º Prêmio!",
+      "10h - BA - Resultado do dia 07/12/2025 (Domingo)\nDeu Dezena, Palpite 1495 no 10º Prêmio!",
+      "10h - BA - Resultado do dia 07/12/2025 (Domingo)\nDeu Dezena, Palpite 2095 no 10º Prêmio!"
+    ]
+  },
+  "LOOK/GOIAS": {
+    "palpites": [
+      "5054",
+      "5051",
+      "5052",
+      "5084",
+      "5081",
+      "5082",
+      "5014",
+      "5011",
+      "5012",
+      "5454",
+      "5451",
+      "5452",
+      "5484",
+      "5481",
+      "5482",
+      "5414",
+      "5411",
+      "5412",
+      "5154",
+      "5151",
+      "5152",
+      "5184",
+      "5181",
+      "5182",
+      "5114",
+      "5111",
+      "5112",
+      "1054",
+      "1051",
+      "1052"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 1205 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 1505 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 1805 no 4º Prêmio!"
+    ]
+  },
+  "LOTEP": {
+    "palpites": [
+      "0707",
+      "0702",
+      "0704",
+      "0777",
+      "0772",
+      "0774",
+      "0717",
+      "0712",
+      "0714",
+      "0007",
+      "0002",
+      "0004",
+      "0077",
+      "0072",
+      "0074",
+      "0017",
+      "0012",
+      "0014",
+      "0407",
+      "0402",
+      "0404",
+      "0477",
+      "0472",
+      "0474",
+      "0417",
+      "0412",
+      "0414",
+      "3707",
+      "3702",
+      "3704"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 1950 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 1050 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 1150 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 6295 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 6895 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 6095 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 2295 no 9º Prêmio!"
+    ]
+  },
+  "PT RIO": {
+    "palpites": [
+      "1700",
+      "1701",
+      "1703",
+      "1730",
+      "1731",
+      "1733",
+      "1770",
+      "1771",
+      "1773",
+      "1100",
+      "1101",
+      "1103",
+      "1130",
+      "1131",
+      "1133",
+      "1170",
+      "1171",
+      "1173",
+      "1800",
+      "1801",
+      "1803",
+      "1830",
+      "1831",
+      "1833",
+      "1870",
+      "1871",
+      "1873",
+      "0700",
+      "0701",
+      "0703"
     ],
     "frases": []
   },
@@ -101,6 +228,41 @@ const palpites = {
       "6682",
       "6686",
       "6687"
+    ],
+    "frases": []
+  },
+  "LOTECE": {
+    "palpites": [
+      "7488",
+      "7489",
+      "7485",
+      "7468",
+      "7469",
+      "7465",
+      "7478",
+      "7479",
+      "7475",
+      "7388",
+      "7389",
+      "7385",
+      "7368",
+      "7369",
+      "7365",
+      "7378",
+      "7379",
+      "7375",
+      "7088",
+      "7089",
+      "7085",
+      "7068",
+      "7069",
+      "7065",
+      "7078",
+      "7079",
+      "7075",
+      "4488",
+      "4489",
+      "4485"
     ],
     "frases": []
   }
