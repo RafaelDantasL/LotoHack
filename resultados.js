@@ -571,6 +571,77 @@ const resultado = {
           "Avestruz"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "0228",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "2º",
+          "4172",
+          "18",
+          "Porco"
+        ],
+        [
+          "3º",
+          "6021",
+          "06",
+          "Cabra"
+        ],
+        [
+          "4º",
+          "4658",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "5º",
+          "2000",
+          "25",
+          "Vaca"
+        ],
+        [
+          "6º",
+          "4977",
+          "20",
+          "Peru"
+        ],
+        [
+          "7º",
+          "1215",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "8º",
+          "0424",
+          "06",
+          "Cabra"
+        ],
+        [
+          "9º",
+          "4385",
+          "22",
+          "Tigre"
+        ],
+        [
+          "10º",
+          "6592",
+          "23",
+          "Urso"
+        ]
+      ]
     }
   ],
   "LOOK/GOIAS": [
