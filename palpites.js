@@ -270,45 +270,5 @@ const palpites = {
       "0008"
     ],
     "frases": []
-  },
-  "PT SP": {
-    "palpites": [
-      "1991",
-      "1998",
-      "1999",
-      "1911",
-      "1918",
-      "1919",
-      "1981",
-      "1988",
-      "1989",
-      "1191",
-      "1198",
-      "1199",
-      "1111",
-      "1118",
-      "1119",
-      "1181",
-      "1188",
-      "1189",
-      "1291",
-      "1298",
-      "1299",
-      "1211",
-      "1218",
-      "1219",
-      "1281",
-      "1288",
-      "1289",
-      "8991",
-      "8998",
-      "8999"
-    ],
-    "frases": [
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3663 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Milhar, Palpite 3063 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3263 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0663 no 1º Prêmio!"
-    ]
   }
 };
