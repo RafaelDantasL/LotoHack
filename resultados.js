@@ -3734,6 +3734,130 @@ const resultado = {
           "Burro"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "4681",
+          "21",
+          "Touro"
+        ],
+        [
+          "2º",
+          "6127",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "3º",
+          "2336",
+          "09",
+          "Cobra"
+        ],
+        [
+          "4º",
+          "3318",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "5º",
+          "4348",
+          "12",
+          "Elefante"
+        ],
+        [
+          "6º [soma]",
+          "0810",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "680",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "4681",
+          "21",
+          "Touro"
+        ],
+        [
+          "2º",
+          "6127",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "3º",
+          "2336",
+          "09",
+          "Cobra"
+        ],
+        [
+          "4º",
+          "3318",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "5º",
+          "4348",
+          "12",
+          "Elefante"
+        ],
+        [
+          "6º",
+          "4623",
+          "06",
+          "Cabra"
+        ],
+        [
+          "7º",
+          "6133",
+          "09",
+          "Cobra"
+        ],
+        [
+          "8º",
+          "8231",
+          "08",
+          "Camelo"
+        ],
+        [
+          "9º",
+          "1768",
+          "17",
+          "Macaco"
+        ],
+        [
+          "10º",
+          "1565",
+          "17",
+          "Macaco"
+        ]
+      ]
     }
   ]
 };
