@@ -3502,6 +3502,130 @@ const resultado = {
           "Tigre"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 21:20, CORUJA, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "6416",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "2º",
+          "5225",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "3º",
+          "1258",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "4º",
+          "5702",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "5º",
+          "5073",
+          "19",
+          "Pavão"
+        ],
+        [
+          "6º [soma]",
+          "3674",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "523",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 21:20, CORUJA, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "6416",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "2º",
+          "5225",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "3º",
+          "1258",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "4º",
+          "5702",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "5º",
+          "5073",
+          "19",
+          "Pavão"
+        ],
+        [
+          "6º",
+          "6515",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "7º",
+          "4227",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "8º",
+          "1250",
+          "13",
+          "Galo"
+        ],
+        [
+          "9º",
+          "6582",
+          "21",
+          "Touro"
+        ],
+        [
+          "10º",
+          "2248",
+          "12",
+          "Elefante"
+        ]
+      ]
     }
   ],
   "PT SP": [
