@@ -32,7 +32,11 @@ const palpites = {
       "0114",
       "0110"
     ],
-    "frases": []
+    "frases": [
+      "12h - MALUCA - BA - Resultado do dia 11/12/2025 (Quinta-feira)\nDeu Dezena, Palpite 0075 no 1º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 11/12/2025 (Quinta-feira)\nDeu Dezena, Palpite 0275 no 1º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 11/12/2025 (Quinta-feira)\nDeu Dezena, Palpite 0375 no 1º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -81,45 +85,38 @@ const palpites = {
   },
   "LOTECE": {
     "palpites": [
-      "6245",
-      "6240",
-      "6241",
-      "6255",
-      "6250",
-      "6251",
-      "6215",
-      "6210",
-      "6211",
-      "6545",
-      "6540",
-      "6541",
-      "6555",
-      "6550",
-      "6551",
-      "6515",
-      "6510",
-      "6511",
-      "6045",
-      "6040",
-      "6041",
-      "6055",
-      "6050",
-      "6051",
-      "6015",
-      "6010",
-      "6011",
-      "4245",
-      "4240",
-      "4241"
+      "0528",
+      "0520",
+      "0521",
+      "0538",
+      "0530",
+      "0531",
+      "0598",
+      "0590",
+      "0591",
+      "0628",
+      "0620",
+      "0621",
+      "0638",
+      "0630",
+      "0631",
+      "0698",
+      "0690",
+      "0691",
+      "0928",
+      "0920",
+      "0921",
+      "0938",
+      "0930",
+      "0931",
+      "0998",
+      "0990",
+      "0991",
+      "6528",
+      "6520",
+      "6521"
     ],
-    "frases": [
-      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 5984 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 5584 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 5084 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)\nDeu Dezena, Palpite 2385 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)\nDeu Dezena, Palpite 2785 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)\nDeu Dezena, Palpite 2085 no 6º Prêmio!"
-    ]
+    "frases": []
   },
   "LOOK/GOIAS": {
     "palpites": [
