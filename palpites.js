@@ -289,5 +289,55 @@ const palpites = {
       "1313"
     ],
     "frases": []
+  },
+  "PT SP": {
+    "palpites": [
+      "4338",
+      "4331",
+      "4333",
+      "4328",
+      "4321",
+      "4323",
+      "4368",
+      "4361",
+      "4363",
+      "4138",
+      "4131",
+      "4133",
+      "4128",
+      "4121",
+      "4123",
+      "4168",
+      "4161",
+      "4163",
+      "4638",
+      "4631",
+      "4633",
+      "4628",
+      "4621",
+      "4623",
+      "4668",
+      "4661",
+      "4663",
+      "1338",
+      "1331",
+      "1333"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 2066 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 2266 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 2366 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 4496 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 4396 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 4196 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 19hs - PTSP, 1º ao 10º\nDeu Centena, Palpite 0091 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 19hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0091 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 19hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0391 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 19hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0191 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 19hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0010 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 19hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0310 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 19hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0110 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 19hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1010 no 10º Prêmio!"
+    ]
   }
 };
