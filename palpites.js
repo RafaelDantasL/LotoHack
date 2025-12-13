@@ -32,7 +32,11 @@ const palpites = {
       "3555",
       "3551"
     ],
-    "frases": []
+    "frases": [
+      "12h - MALUCA - BA - Resultado do dia 13/12/2025 (Sábado)\nDeu Dezena, Palpite 1718 no 1º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 13/12/2025 (Sábado)\nDeu Dezena, Palpite 1218 no 1º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 13/12/2025 (Sábado)\nDeu Dezena, Palpite 1018 no 1º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -68,44 +72,55 @@ const palpites = {
       "4353"
     ],
     "frases": [
+      "10h - BA - Resultado do dia 13/12/2025 (Sábado)\nDeu Dezena, Palpite 5206 no 5º Prêmio!",
+      "10h - BA - Resultado do dia 13/12/2025 (Sábado)\nDeu Dezena, Palpite 5306 no 5º Prêmio!",
+      "10h - BA - Resultado do dia 13/12/2025 (Sábado)\nDeu Dezena, Palpite 5506 no 5º Prêmio!",
+      "12h - BA - Resultado do dia 13/12/2025 (Sábado)\nDeu Dezena, Palpite 3401 no 3º Prêmio!",
+      "12h - BA - Resultado do dia 13/12/2025 (Sábado)\nDeu Dezena, Palpite 3601 no 3º Prêmio!",
+      "12h - BA - Resultado do dia 13/12/2025 (Sábado)\nDeu Dezena, Palpite 3701 no 3º Prêmio!",
+      "12h - BA - Resultado do dia 13/12/2025 (Sábado)\nDeu Dezena, Palpite 5401 no 3º Prêmio!",
       "15h - BA - Resultado do dia 13/12/2025 (Sábado)\nDeu Dezena, Palpite 5303 no 10º Prêmio!",
       "15h - BA - Resultado do dia 13/12/2025 (Sábado)\nDeu Dezena, Palpite 5203 no 10º Prêmio!",
       "15h - BA - Resultado do dia 13/12/2025 (Sábado)\nDeu Dezena, Palpite 5803 no 10º Prêmio!"
     ]
   },
-  "PT SP": {
+  "LOTECE": {
     "palpites": [
-      "2676",
-      "2677",
-      "2670",
-      "2666",
-      "2667",
-      "2660",
-      "2616",
-      "2617",
-      "2610",
-      "2276",
-      "2277",
-      "2270",
-      "2266",
-      "2267",
-      "2260",
-      "2216",
-      "2217",
-      "2210",
-      "2876",
-      "2877",
-      "2870",
-      "2866",
-      "2867",
-      "2860",
-      "2816",
-      "2817",
-      "2810",
-      "6676",
-      "6677",
-      "6670"
+      "2031",
+      "2032",
+      "2036",
+      "2051",
+      "2052",
+      "2056",
+      "2011",
+      "2012",
+      "2016",
+      "2431",
+      "2432",
+      "2436",
+      "2451",
+      "2452",
+      "2456",
+      "2411",
+      "2412",
+      "2416",
+      "2731",
+      "2732",
+      "2736",
+      "2751",
+      "2752",
+      "2756",
+      "2711",
+      "2712",
+      "2716",
+      "5031",
+      "5032",
+      "5036"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 7039 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 7239 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Milhar, Palpite 7339 no 8º Prêmio!"
+    ]
   }
 };
