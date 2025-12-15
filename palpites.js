@@ -104,6 +104,81 @@ const palpites = {
     ],
     "frases": []
   },
+  "LOTEP": {
+    "palpites": [
+      "8406",
+      "8403",
+      "8408",
+      "8466",
+      "8463",
+      "8468",
+      "8486",
+      "8483",
+      "8488",
+      "8906",
+      "8903",
+      "8908",
+      "8966",
+      "8963",
+      "8968",
+      "8986",
+      "8983",
+      "8988",
+      "8106",
+      "8103",
+      "8108",
+      "8166",
+      "8163",
+      "8168",
+      "8186",
+      "8183",
+      "8188",
+      "3406",
+      "3403",
+      "3408"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Centena, Palpite 0493 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 0493 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 0693 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 0793 no 7º Prêmio!"
+    ]
+  },
+  "LOTECE": {
+    "palpites": [
+      "6125",
+      "6126",
+      "6128",
+      "6135",
+      "6136",
+      "6138",
+      "6115",
+      "6116",
+      "6118",
+      "6325",
+      "6326",
+      "6328",
+      "6335",
+      "6336",
+      "6338",
+      "6315",
+      "6316",
+      "6318",
+      "6925",
+      "6926",
+      "6928",
+      "6935",
+      "6936",
+      "6938",
+      "6915",
+      "6916",
+      "6918",
+      "7125",
+      "7126",
+      "7128"
+    ],
+    "frases": []
+  },
   "PT RIO": {
     "palpites": [
       "2930",
@@ -138,5 +213,44 @@ const palpites = {
       "0933"
     ],
     "frases": []
+  },
+  "PT SP": {
+    "palpites": [
+      "1116",
+      "1115",
+      "1110",
+      "1146",
+      "1145",
+      "1140",
+      "1166",
+      "1165",
+      "1160",
+      "1216",
+      "1215",
+      "1210",
+      "1246",
+      "1245",
+      "1240",
+      "1266",
+      "1265",
+      "1260",
+      "1716",
+      "1715",
+      "1710",
+      "1746",
+      "1745",
+      "1740",
+      "1766",
+      "1765",
+      "1760",
+      "4116",
+      "4115",
+      "4110"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 8710 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 8610 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 8010 no 7º Prêmio!"
+    ]
   }
 };
