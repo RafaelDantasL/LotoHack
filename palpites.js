@@ -32,7 +32,12 @@ const palpites = {
       "0724",
       "0725"
     ],
-    "frases": []
+    "frases": [
+      "12h - MALUCA - BA - Resultado do dia 16/12/2025 (Terça-feira)\nDeu Centena, Palpite 0927 no 4º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 16/12/2025 (Terça-feira)\nDeu Dezena, Palpite 0927 no 4º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 16/12/2025 (Terça-feira)\nDeu Dezena, Palpite 0727 no 4º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 16/12/2025 (Terça-feira)\nDeu Dezena, Palpite 0027 no 4º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -68,45 +73,65 @@ const palpites = {
       "1077"
     ],
     "frases": [
+      "10h - BA - Resultado do dia 16/12/2025 (Terça-feira)\nDeu Dezena, Palpite 1301 no 9º Prêmio!",
+      "10h - BA - Resultado do dia 16/12/2025 (Terça-feira)\nDeu Dezena, Palpite 1101 no 9º Prêmio!",
+      "10h - BA - Resultado do dia 16/12/2025 (Terça-feira)\nDeu Dezena, Palpite 1801 no 9º Prêmio!",
+      "12h - BA - Resultado do dia 16/12/2025 (Terça-feira)\nDeu Dezena, Palpite 5111 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 16/12/2025 (Terça-feira)\nDeu Centena, Palpite 5011 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 16/12/2025 (Terça-feira)\nDeu Dezena, Palpite 5011 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 16/12/2025 (Terça-feira)\nDeu Dezena, Palpite 5211 no 4º Prêmio!",
+      "15h - BA - Resultado do dia 16/12/2025 (Terça-feira)\nDeu Dezena, Palpite 2228 no 4º Prêmio!",
+      "15h - BA - Resultado do dia 16/12/2025 (Terça-feira)\nDeu Dezena, Palpite 2528 no 4º Prêmio!",
+      "15h - BA - Resultado do dia 16/12/2025 (Terça-feira)\nDeu Dezena, Palpite 2928 no 4º Prêmio!",
       "19h - BA - Resultado do dia 16/12/2025 (Terça-feira)\nDeu Dezena, Palpite 4124 no 4º Prêmio!",
       "19h - BA - Resultado do dia 16/12/2025 (Terça-feira)\nDeu Dezena, Palpite 4424 no 4º Prêmio!",
       "19h - BA - Resultado do dia 16/12/2025 (Terça-feira)\nDeu Dezena, Palpite 4524 no 4º Prêmio!",
       "19h - BA - Resultado do dia 16/12/2025 (Terça-feira)\nDeu Dezena, Palpite 1124 no 4º Prêmio!"
     ]
   },
-  "PT SP": {
+  "LOTECE": {
     "palpites": [
-      "5226",
-      "5222",
-      "5220",
-      "5276",
-      "5272",
-      "5270",
-      "5296",
-      "5292",
-      "5290",
-      "5026",
-      "5022",
-      "5020",
-      "5076",
-      "5072",
-      "5070",
-      "5096",
-      "5092",
-      "5090",
-      "5126",
-      "5122",
-      "5120",
-      "5176",
-      "5172",
-      "5170",
-      "5196",
-      "5192",
-      "5190",
-      "7226",
-      "7222",
-      "7220"
+      "9520",
+      "9523",
+      "9524",
+      "9580",
+      "9583",
+      "9584",
+      "9510",
+      "9513",
+      "9514",
+      "9720",
+      "9723",
+      "9724",
+      "9780",
+      "9783",
+      "9784",
+      "9710",
+      "9713",
+      "9714",
+      "9920",
+      "9923",
+      "9924",
+      "9980",
+      "9983",
+      "9984",
+      "9910",
+      "9913",
+      "9914",
+      "3520",
+      "3523",
+      "3524"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)\nDeu Dezena, Palpite 8184 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)\nDeu Dezena, Palpite 8384 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)\nDeu Centena, Palpite 8584 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)\nDeu Dezena, Palpite 8584 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)\nDeu Dezena, Palpite 1184 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)\nDeu Dezena, Palpite 8180 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)\nDeu Dezena, Palpite 8380 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)\nDeu Dezena, Palpite 8580 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)\nDeu Dezena, Palpite 1180 no 9º Prêmio!"
+    ]
   }
 };
