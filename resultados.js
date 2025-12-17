@@ -141,6 +141,77 @@ const resultado = {
           "Galo"
         ]
       ]
+    },
+    {
+      "titulo": "15h - MALUCA - BA - Resultado do dia 17/12/2025 (Quarta-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "9888",
+          "22",
+          "Tigre"
+        ],
+        [
+          "2º",
+          "0854",
+          "14",
+          "Gato"
+        ],
+        [
+          "3º",
+          "8386",
+          "22",
+          "Tigre"
+        ],
+        [
+          "4º",
+          "3528",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "5º",
+          "8569",
+          "18",
+          "Porco"
+        ],
+        [
+          "6º",
+          "1562",
+          "16",
+          "Leão"
+        ],
+        [
+          "7º",
+          "6936",
+          "09",
+          "Cobra"
+        ],
+        [
+          "8º",
+          "9025",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "9º",
+          "6027",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "10º",
+          "4933",
+          "09",
+          "Cobra"
+        ]
+      ]
     }
   ],
   "BAHIA": [
@@ -2225,6 +2296,130 @@ const resultado = {
           "4156",
           "14",
           "Gato"
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "2432",
+          "08",
+          "Camelo"
+        ],
+        [
+          "2º",
+          "5728",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "3º",
+          "1144",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "4º",
+          "1714",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "5º",
+          "7828",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "6º [soma]",
+          "8846",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "930",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "2432",
+          "08",
+          "Camelo"
+        ],
+        [
+          "2º",
+          "5728",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "3º",
+          "1144",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "4º",
+          "1714",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "5º",
+          "7828",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "6º",
+          "2511",
+          "03",
+          "Burro"
+        ],
+        [
+          "7º",
+          "4717",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "8º",
+          "3241",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "9º",
+          "2844",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "10º",
+          "2159",
+          "15",
+          "Jacaré"
         ]
       ]
     }
