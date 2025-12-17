@@ -1320,6 +1320,77 @@ const resultado = {
           "Cobra"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho PB, Paratodos 09:45",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "6066",
+          "17",
+          "Macaco"
+        ],
+        [
+          "2º",
+          "4320",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "3º",
+          "1113",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "4º",
+          "9936",
+          "09",
+          "Cobra"
+        ],
+        [
+          "5º",
+          "7389",
+          "23",
+          "Urso"
+        ],
+        [
+          "6º",
+          "6419",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "7º",
+          "0319",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "8º",
+          "6213",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "9º",
+          "6036",
+          "09",
+          "Cobra"
+        ],
+        [
+          "10º",
+          "7811",
+          "03",
+          "Burro"
+        ]
+      ]
     }
   ],
   "PT RIO": [
