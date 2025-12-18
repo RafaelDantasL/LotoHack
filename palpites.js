@@ -108,6 +108,81 @@ const palpites = {
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 2920 no 9º Prêmio!"
     ]
   },
+  "LOTEP": {
+    "palpites": [
+      "7600",
+      "7606",
+      "7603",
+      "7610",
+      "7616",
+      "7613",
+      "7660",
+      "7666",
+      "7663",
+      "7000",
+      "7006",
+      "7003",
+      "7010",
+      "7016",
+      "7013",
+      "7060",
+      "7066",
+      "7063",
+      "7100",
+      "7106",
+      "7103",
+      "7110",
+      "7116",
+      "7113",
+      "7160",
+      "7166",
+      "7163",
+      "6600",
+      "6606",
+      "6603"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Centena, Palpite 8613 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 8613 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 8713 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 8913 no 3º Prêmio!"
+    ]
+  },
+  "LOTECE": {
+    "palpites": [
+      "7915",
+      "7910",
+      "7911",
+      "7925",
+      "7920",
+      "7921",
+      "7975",
+      "7970",
+      "7971",
+      "7415",
+      "7410",
+      "7411",
+      "7425",
+      "7420",
+      "7421",
+      "7475",
+      "7470",
+      "7471",
+      "7015",
+      "7010",
+      "7011",
+      "7025",
+      "7020",
+      "7021",
+      "7075",
+      "7070",
+      "7071",
+      "0915",
+      "0910",
+      "0911"
+    ],
+    "frases": []
+  },
   "PT RIO": {
     "palpites": [
       "4030",
@@ -146,5 +221,40 @@ const palpites = {
       "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 2200 no 9º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 2500 no 9º Prêmio!"
     ]
+  },
+  "PT SP": {
+    "palpites": [
+      "2238",
+      "2231",
+      "2232",
+      "2228",
+      "2221",
+      "2222",
+      "2258",
+      "2251",
+      "2252",
+      "2438",
+      "2431",
+      "2432",
+      "2428",
+      "2421",
+      "2422",
+      "2458",
+      "2451",
+      "2452",
+      "2538",
+      "2531",
+      "2532",
+      "2528",
+      "2521",
+      "2522",
+      "2558",
+      "2551",
+      "2552",
+      "5238",
+      "5231",
+      "5232"
+    ],
+    "frases": []
   }
 };
