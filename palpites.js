@@ -145,15 +145,7 @@ const palpites = {
       "3504",
       "3505"
     ],
-    "frases": [
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 1251 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 1951 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 1051 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 1238 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 1938 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 1038 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 2238 no 10º Prêmio!"
-    ]
+    "frases": []
   },
   "PT RIO": {
     "palpites": [
@@ -234,41 +226,6 @@ const palpites = {
       "0910",
       "0911",
       "0918"
-    ],
-    "frases": []
-  },
-  "LOTECE": {
-    "palpites": [
-      "3413",
-      "3415",
-      "3410",
-      "3483",
-      "3485",
-      "3480",
-      "3493",
-      "3495",
-      "3490",
-      "3113",
-      "3115",
-      "3110",
-      "3183",
-      "3185",
-      "3180",
-      "3193",
-      "3195",
-      "3190",
-      "3313",
-      "3315",
-      "3310",
-      "3383",
-      "3385",
-      "3380",
-      "3393",
-      "3395",
-      "3390",
-      "2413",
-      "2415",
-      "2410"
     ],
     "frases": []
   }
