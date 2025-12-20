@@ -823,6 +823,77 @@ const resultado = {
           "Borboleta"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "3126",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "2º",
+          "7413",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "3º",
+          "0455",
+          "14",
+          "Gato"
+        ],
+        [
+          "4º",
+          "9005",
+          "02",
+          "Águia"
+        ],
+        [
+          "5º",
+          "4790",
+          "23",
+          "Urso"
+        ],
+        [
+          "6º",
+          "3709",
+          "03",
+          "Burro"
+        ],
+        [
+          "7º",
+          "1440",
+          "10",
+          "Coelho"
+        ],
+        [
+          "8º",
+          "2150",
+          "13",
+          "Galo"
+        ],
+        [
+          "9º",
+          "6355",
+          "14",
+          "Gato"
+        ],
+        [
+          "10º",
+          "8443",
+          "11",
+          "Cavalo"
+        ]
+      ]
     }
   ],
   "PT RIO": [
