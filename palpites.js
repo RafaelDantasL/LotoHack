@@ -136,6 +136,81 @@ const palpites = {
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 0103 no 5º Prêmio!"
     ]
   },
+  "LOTEP": {
+    "palpites": [
+      "2361",
+      "2368",
+      "2363",
+      "2301",
+      "2308",
+      "2303",
+      "2311",
+      "2318",
+      "2313",
+      "2861",
+      "2868",
+      "2863",
+      "2801",
+      "2808",
+      "2803",
+      "2811",
+      "2818",
+      "2813",
+      "2061",
+      "2068",
+      "2063",
+      "2001",
+      "2008",
+      "2003",
+      "2011",
+      "2018",
+      "2013",
+      "3361",
+      "3368",
+      "3363"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 0001 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 0201 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 0601 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 1001 no 10º Prêmio!"
+    ]
+  },
+  "LOTECE": {
+    "palpites": [
+      "2138",
+      "2134",
+      "2135",
+      "2158",
+      "2154",
+      "2155",
+      "2118",
+      "2114",
+      "2115",
+      "2838",
+      "2834",
+      "2835",
+      "2858",
+      "2854",
+      "2855",
+      "2818",
+      "2814",
+      "2815",
+      "2038",
+      "2034",
+      "2035",
+      "2058",
+      "2054",
+      "2055",
+      "2018",
+      "2014",
+      "2015",
+      "3138",
+      "3134",
+      "3135"
+    ],
+    "frases": []
+  },
   "PT RIO": {
     "palpites": [
       "6760",
@@ -170,5 +245,45 @@ const palpites = {
       "7762"
     ],
     "frases": []
+  },
+  "PT SP": {
+    "palpites": [
+      "1454",
+      "1450",
+      "1451",
+      "1414",
+      "1410",
+      "1411",
+      "1494",
+      "1490",
+      "1491",
+      "1554",
+      "1550",
+      "1551",
+      "1514",
+      "1510",
+      "1511",
+      "1594",
+      "1590",
+      "1591",
+      "1854",
+      "1850",
+      "1851",
+      "1814",
+      "1810",
+      "1811",
+      "1894",
+      "1890",
+      "1891",
+      "5454",
+      "5450",
+      "5451"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2090 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Centena, Palpite 2290 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2290 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2390 no 10º Prêmio!"
+    ]
   }
 };
