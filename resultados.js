@@ -3184,6 +3184,130 @@ const resultado = {
           "Jacaré"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 18hs - PTSP, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "4414",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "2º",
+          "1509",
+          "03",
+          "Burro"
+        ],
+        [
+          "3º",
+          "4126",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "4º",
+          "2846",
+          "12",
+          "Elefante"
+        ],
+        [
+          "5º",
+          "4266",
+          "17",
+          "Macaco"
+        ],
+        [
+          "6º [soma]",
+          "7161",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "660",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 18hs - PTSP, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "4414",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "2º",
+          "1509",
+          "03",
+          "Burro"
+        ],
+        [
+          "3º",
+          "4126",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "4º",
+          "2846",
+          "12",
+          "Elefante"
+        ],
+        [
+          "5º",
+          "4266",
+          "17",
+          "Macaco"
+        ],
+        [
+          "6º",
+          "4142",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "7º",
+          "4518",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "8º",
+          "1024",
+          "06",
+          "Cabra"
+        ],
+        [
+          "9º",
+          "4966",
+          "17",
+          "Macaco"
+        ],
+        [
+          "10º",
+          "1811",
+          "03",
+          "Burro"
+        ]
+      ]
     }
   ]
 };
