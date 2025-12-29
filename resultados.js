@@ -427,6 +427,77 @@ const resultado = {
           "Borboleta"
         ]
       ]
+    },
+    {
+      "titulo": "19h - BA - Resultado do dia 29/12/2025 (Segunda-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "0401",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "2º",
+          "8645",
+          "12",
+          "Elefante"
+        ],
+        [
+          "3º",
+          "6406",
+          "02",
+          "Águia"
+        ],
+        [
+          "4º",
+          "8328",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "5º",
+          "2446",
+          "12",
+          "Elefante"
+        ],
+        [
+          "6º",
+          "4051",
+          "13",
+          "Galo"
+        ],
+        [
+          "7º",
+          "7520",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "8º",
+          "9912",
+          "03",
+          "Burro"
+        ],
+        [
+          "9º",
+          "1668",
+          "17",
+          "Macaco"
+        ],
+        [
+          "10º",
+          "6526",
+          "07",
+          "Carneiro"
+        ]
+      ]
     }
   ],
   "LOTECE": [
