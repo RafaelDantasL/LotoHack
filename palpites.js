@@ -230,9 +230,13 @@ const palpites = {
       "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 6012 no 2º Prêmio!",
       "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 6612 no 2º Prêmio!",
       "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 6912 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 5192 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 5092 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 5892 no 8º Prêmio!"
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 5199 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 5099 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 5899 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 4891 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 4391 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 4491 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 1891 no 3º Prêmio!"
     ]
   },
   "PT RIO": {
