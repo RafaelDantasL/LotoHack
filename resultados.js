@@ -1643,6 +1643,130 @@ const resultado = {
           "Burro"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "8625",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "2º",
+          "6003",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "3º",
+          "1125",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "4º",
+          "8473",
+          "19",
+          "Pavão"
+        ],
+        [
+          "5º",
+          "5748",
+          "12",
+          "Elefante"
+        ],
+        [
+          "6º [soma]",
+          "9974",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "775",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "8625",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "2º",
+          "6003",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "3º",
+          "1125",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "4º",
+          "8473",
+          "19",
+          "Pavão"
+        ],
+        [
+          "5º",
+          "5748",
+          "12",
+          "Elefante"
+        ],
+        [
+          "6º",
+          "8618",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "7º",
+          "6014",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "8º",
+          "2027",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "9º",
+          "5353",
+          "14",
+          "Gato"
+        ],
+        [
+          "10º",
+          "1986",
+          "22",
+          "Tigre"
+        ]
+      ]
     }
   ]
 };
