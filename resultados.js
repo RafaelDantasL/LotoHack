@@ -70,6 +70,77 @@ const resultado = {
           "Cabra"
         ]
       ]
+    },
+    {
+      "titulo": "12h - MALUCA - BA - Resultado do dia 31/12/2025 (Quarta-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "0837",
+          "10",
+          "Coelho"
+        ],
+        [
+          "2º",
+          "3014",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "3º",
+          "4992",
+          "23",
+          "Urso"
+        ],
+        [
+          "4º",
+          "0219",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "5º",
+          "8746",
+          "12",
+          "Elefante"
+        ],
+        [
+          "6º",
+          "2381",
+          "21",
+          "Touro"
+        ],
+        [
+          "7º",
+          "7871",
+          "18",
+          "Porco"
+        ],
+        [
+          "8º",
+          "4615",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "9º",
+          "7804",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "10º",
+          "0536",
+          "09",
+          "Cobra"
+        ]
+      ]
     }
   ],
   "BAHIA": [
