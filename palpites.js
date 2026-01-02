@@ -92,42 +92,38 @@ const palpites = {
   },
   "LOTECE": {
     "palpites": [
-      "8083",
-      "8084",
-      "8085",
-      "8063",
-      "8064",
-      "8065",
-      "8033",
-      "8034",
-      "8035",
-      "8883",
-      "8884",
-      "8885",
-      "8863",
-      "8864",
-      "8865",
-      "8833",
-      "8834",
-      "8835",
-      "8183",
-      "8184",
-      "8185",
-      "8163",
-      "8164",
-      "8165",
-      "8133",
-      "8134",
-      "8135",
-      "9083",
-      "9084",
-      "9085"
+      "2011",
+      "2015",
+      "2010",
+      "2091",
+      "2095",
+      "2090",
+      "2001",
+      "2005",
+      "2000",
+      "2411",
+      "2415",
+      "2410",
+      "2491",
+      "2495",
+      "2490",
+      "2401",
+      "2405",
+      "2400",
+      "2511",
+      "2515",
+      "2510",
+      "2591",
+      "2595",
+      "2590",
+      "2501",
+      "2505",
+      "2500",
+      "6011",
+      "6015",
+      "6010"
     ],
-    "frases": [
-      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 2553 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 2353 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 2853 no 2º Prêmio!"
-    ]
+    "frases": []
   },
   "LOOK/GOIAS": {
     "palpites": [
@@ -319,6 +315,10 @@ const palpites = {
       "3060",
       "3062"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 7090 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 7490 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 7190 no 9º Prêmio!"
+    ]
   }
 };
