@@ -86,6 +86,45 @@ const palpites = {
       "10h - BA - Resultado do dia 02/01/2026 (Sexta-feira)\nDeu Dezena, Palpite 0052 no 5º Prêmio!"
     ]
   },
+  "LOTECE": {
+    "palpites": [
+      "8083",
+      "8084",
+      "8085",
+      "8063",
+      "8064",
+      "8065",
+      "8033",
+      "8034",
+      "8035",
+      "8883",
+      "8884",
+      "8885",
+      "8863",
+      "8864",
+      "8865",
+      "8833",
+      "8834",
+      "8835",
+      "8183",
+      "8184",
+      "8185",
+      "8163",
+      "8164",
+      "8165",
+      "8133",
+      "8134",
+      "8135",
+      "9083",
+      "9084",
+      "9085"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 2553 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 2353 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 2853 no 2º Prêmio!"
+    ]
+  },
   "LOOK/GOIAS": {
     "palpites": [
       "9905",
@@ -163,6 +202,13 @@ const palpites = {
       "5200"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 4295 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 4395 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 4695 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 4271 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 4371 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 4671 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 1271 no 9º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 2202 no 1º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 2402 no 1º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Centena, Palpite 2502 no 1º Prêmio!",
@@ -188,6 +234,84 @@ const palpites = {
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 2270 no 8º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 2470 no 8º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 2570 no 8º Prêmio!"
+    ]
+  },
+  "PT RIO": {
+    "palpites": [
+      "8393",
+      "8394",
+      "8398",
+      "8333",
+      "8334",
+      "8338",
+      "8383",
+      "8384",
+      "8388",
+      "8193",
+      "8194",
+      "8198",
+      "8133",
+      "8134",
+      "8138",
+      "8183",
+      "8184",
+      "8188",
+      "8993",
+      "8994",
+      "8998",
+      "8933",
+      "8934",
+      "8938",
+      "8983",
+      "8984",
+      "8988",
+      "3393",
+      "3394",
+      "3398"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 0999 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 0099 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 0499 no 7º Prêmio!"
+    ]
+  },
+  "PT SP": {
+    "palpites": [
+      "6048",
+      "6040",
+      "6049",
+      "6058",
+      "6050",
+      "6059",
+      "6018",
+      "6010",
+      "6019",
+      "6448",
+      "6440",
+      "6449",
+      "6458",
+      "6450",
+      "6459",
+      "6418",
+      "6410",
+      "6419",
+      "6948",
+      "6940",
+      "6949",
+      "6958",
+      "6950",
+      "6959",
+      "6918",
+      "6910",
+      "6919",
+      "4048",
+      "4040",
+      "4049"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 7090 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 7490 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 7190 no 9º Prêmio!"
     ]
   }
 };
