@@ -3502,6 +3502,130 @@ const resultado = {
           "Camelo"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 21:20, CORUJA, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "5002",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "2º",
+          "2314",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "3º",
+          "5126",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "4º",
+          "8419",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "5º",
+          "1600",
+          "25",
+          "Vaca"
+        ],
+        [
+          "6º [soma]",
+          "2461",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "574",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 21:20, CORUJA, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "5002",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "2º",
+          "2314",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "3º",
+          "5126",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "4º",
+          "8419",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "5º",
+          "1600",
+          "25",
+          "Vaca"
+        ],
+        [
+          "6º",
+          "5258",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "7º",
+          "0314",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "8º",
+          "0121",
+          "06",
+          "Cabra"
+        ],
+        [
+          "9º",
+          "2469",
+          "18",
+          "Porco"
+        ],
+        [
+          "10º",
+          "0623",
+          "06",
+          "Cabra"
+        ]
+      ]
     }
   ],
   "PT SP": [
