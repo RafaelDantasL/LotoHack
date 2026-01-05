@@ -69,6 +69,45 @@ const palpites = {
     ],
     "frases": []
   },
+  "LOTECE": {
+    "palpites": [
+      "1220",
+      "1221",
+      "1229",
+      "1250",
+      "1251",
+      "1259",
+      "1270",
+      "1271",
+      "1279",
+      "1320",
+      "1321",
+      "1329",
+      "1350",
+      "1351",
+      "1359",
+      "1370",
+      "1371",
+      "1379",
+      "1920",
+      "1921",
+      "1929",
+      "1950",
+      "1951",
+      "1959",
+      "1970",
+      "1971",
+      "1979",
+      "3220",
+      "3221",
+      "3229"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 1051 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 1351 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 1851 no 5º Prêmio!"
+    ]
+  },
   "LOOK/GOIAS": {
     "palpites": [
       "1118",
@@ -142,6 +181,13 @@ const palpites = {
       "0808"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0282 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0482 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0782 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 4282 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 2815 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 2115 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 2715 no 9º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 0735 no 5º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 0635 no 5º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 0035 no 5º Prêmio!",
@@ -153,6 +199,85 @@ const palpites = {
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 0725 no 9º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 0625 no 9º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 0025 no 9º Prêmio!"
+    ]
+  },
+  "PT RIO": {
+    "palpites": [
+      "7504",
+      "7501",
+      "7502",
+      "7544",
+      "7541",
+      "7542",
+      "7554",
+      "7551",
+      "7552",
+      "7704",
+      "7701",
+      "7702",
+      "7744",
+      "7741",
+      "7742",
+      "7754",
+      "7751",
+      "7752",
+      "7004",
+      "7001",
+      "7002",
+      "7044",
+      "7041",
+      "7042",
+      "7054",
+      "7051",
+      "7052",
+      "0504",
+      "0501",
+      "0502"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 8644 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 8844 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Centena, Palpite 8244 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 8244 no 4º Prêmio!"
+    ]
+  },
+  "PT SP": {
+    "palpites": [
+      "6012",
+      "6014",
+      "6017",
+      "6052",
+      "6054",
+      "6057",
+      "6002",
+      "6004",
+      "6007",
+      "6812",
+      "6814",
+      "6817",
+      "6852",
+      "6854",
+      "6857",
+      "6802",
+      "6804",
+      "6807",
+      "6612",
+      "6614",
+      "6617",
+      "6652",
+      "6654",
+      "6657",
+      "6602",
+      "6604",
+      "6607",
+      "3012",
+      "3014",
+      "3017"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2092 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2392 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2592 no 9º Prêmio!"
     ]
   }
 };
