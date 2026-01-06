@@ -1713,6 +1713,130 @@ const resultado = {
           ""
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "0013",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "2º",
+          "9582",
+          "21",
+          "Touro"
+        ],
+        [
+          "3º",
+          "4948",
+          "12",
+          "Elefante"
+        ],
+        [
+          "4º",
+          "4501",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "5º",
+          "3116",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "6º [soma]",
+          "2160",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "124",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "0013",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "2º",
+          "9582",
+          "21",
+          "Touro"
+        ],
+        [
+          "3º",
+          "4948",
+          "12",
+          "Elefante"
+        ],
+        [
+          "4º",
+          "4501",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "5º",
+          "3116",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "6º",
+          "0944",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "7º",
+          "0595",
+          "24",
+          "Veado"
+        ],
+        [
+          "8º",
+          "1840",
+          "10",
+          "Coelho"
+        ],
+        [
+          "9º",
+          "3281",
+          "21",
+          "Touro"
+        ],
+        [
+          "10º",
+          "8820",
+          "05",
+          "Cachorro"
+        ]
+      ]
     }
   ]
 };
