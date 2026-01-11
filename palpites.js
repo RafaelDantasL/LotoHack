@@ -32,7 +32,14 @@ const palpites = {
       "4102",
       "4103"
     ],
-    "frases": []
+    "frases": [
+      "12h - MALUCA - BA - Resultado do dia 11/01/2026 (Domingo)\nDeu Centena, Palpite 1912 no 4º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 11/01/2026 (Domingo)\nDeu Dezena, Palpite 1912 no 4º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 11/01/2026 (Domingo)\nDeu Dezena, Palpite 1412 no 4º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 11/01/2026 (Domingo)\nDeu Dezena, Palpite 1512 no 4º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 11/01/2026 (Domingo)\nDeu Centena, Palpite 3912 no 4º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 11/01/2026 (Domingo)\nDeu Dezena, Palpite 3912 no 4º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -67,6 +74,106 @@ const palpites = {
       "4752",
       "4750"
     ],
-    "frases": []
+    "frases": [
+      "10h - BA - Resultado do dia 11/01/2026 (Domingo)\nDeu Dezena, Palpite 4007 no 7º Prêmio!",
+      "10h - BA - Resultado do dia 11/01/2026 (Domingo)\nDeu Dezena, Palpite 4607 no 7º Prêmio!",
+      "10h - BA - Resultado do dia 11/01/2026 (Domingo)\nDeu Dezena, Palpite 4907 no 7º Prêmio!",
+      "10h - BA - Resultado do dia 11/01/2026 (Domingo)\nDeu Dezena, Palpite 1007 no 7º Prêmio!",
+      "12h - BA - Resultado do dia 11/01/2026 (Domingo)\nDeu Dezena, Palpite 9154 no 1º Prêmio!",
+      "12h - BA - Resultado do dia 11/01/2026 (Domingo)\nDeu Dezena, Palpite 9554 no 1º Prêmio!",
+      "12h - BA - Resultado do dia 11/01/2026 (Domingo)\nDeu Dezena, Palpite 9354 no 1º Prêmio!",
+      "12h - BA - Resultado do dia 11/01/2026 (Domingo)\nDeu Dezena, Palpite 2154 no 1º Prêmio!"
+    ]
+  },
+  "LOOK/GOIAS": {
+    "palpites": [
+      "8606",
+      "8601",
+      "8602",
+      "8676",
+      "8671",
+      "8672",
+      "8616",
+      "8611",
+      "8612",
+      "8006",
+      "8001",
+      "8002",
+      "8076",
+      "8071",
+      "8072",
+      "8016",
+      "8011",
+      "8012",
+      "8206",
+      "8201",
+      "8202",
+      "8276",
+      "8271",
+      "8272",
+      "8216",
+      "8211",
+      "8212",
+      "2606",
+      "2601",
+      "2602"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 4221 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 4121 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 4421 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 14h, 1º ao 10º\nDeu Dezena, Palpite 1061 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 14h, 1º ao 10º\nDeu Dezena, Palpite 1161 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 14h, 1º ao 10º\nDeu Dezena, Palpite 1561 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 14h, 1º ao 10º\nDeu Dezena, Palpite 1051 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 14h, 1º ao 10º\nDeu Dezena, Palpite 1151 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 14h, 1º ao 10º\nDeu Dezena, Palpite 1551 no 9º Prêmio!"
+    ]
+  },
+  "LOTEP": {
+    "palpites": [
+      "2016",
+      "2013",
+      "2015",
+      "2026",
+      "2023",
+      "2025",
+      "2066",
+      "2063",
+      "2065",
+      "2416",
+      "2413",
+      "2415",
+      "2426",
+      "2423",
+      "2425",
+      "2466",
+      "2463",
+      "2465",
+      "2616",
+      "2613",
+      "2615",
+      "2626",
+      "2623",
+      "2625",
+      "2666",
+      "2663",
+      "2665",
+      "5016",
+      "5013",
+      "5015"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 15:45\nDeu Dezena, Palpite 1535 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 15:45\nDeu Centena, Palpite 1635 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 15:45\nDeu Dezena, Palpite 1635 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 15:45\nDeu Dezena, Palpite 1835 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 15:45\nDeu Dezena, Palpite 1525 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 15:45\nDeu Dezena, Palpite 1625 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 15:45\nDeu Dezena, Palpite 1825 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 15:45\nDeu Dezena, Palpite 1526 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 15:45\nDeu Dezena, Palpite 1626 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 15:45\nDeu Dezena, Palpite 1826 no 10º Prêmio!"
+    ]
   }
 };
