@@ -146,11 +146,26 @@ const palpites = {
       "9949"
     ],
     "frases": [
-      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 9490 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 9790 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Centena, Palpite 9090 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 9090 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0490 no 9º Prêmio!"
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0904 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0004 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Centena, Palpite 0604 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0604 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0949 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0049 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0649 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 9949 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0940 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0040 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0640 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 9940 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0944 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0044 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Milhar, Palpite 0644 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 9944 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0990 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Centena, Palpite 0090 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0090 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0690 no 9º Prêmio!"
     ]
   }
 };
