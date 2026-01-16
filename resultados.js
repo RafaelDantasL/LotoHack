@@ -1643,6 +1643,130 @@ const resultado = {
           "Carneiro"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "6220",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "2º",
+          "5822",
+          "06",
+          "Cabra"
+        ],
+        [
+          "3º",
+          "1740",
+          "10",
+          "Coelho"
+        ],
+        [
+          "4º",
+          "7983",
+          "21",
+          "Touro"
+        ],
+        [
+          "5º",
+          "8618",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "6º [soma]",
+          "0383",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "212",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "6220",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "2º",
+          "5822",
+          "06",
+          "Cabra"
+        ],
+        [
+          "3º",
+          "1740",
+          "10",
+          "Coelho"
+        ],
+        [
+          "4º",
+          "7983",
+          "21",
+          "Touro"
+        ],
+        [
+          "5º",
+          "8618",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "6º",
+          "6517",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "7º",
+          "2879",
+          "20",
+          "Peru"
+        ],
+        [
+          "8º",
+          "2248",
+          "12",
+          "Elefante"
+        ],
+        [
+          "9º",
+          "0203",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "10º",
+          "2230",
+          "08",
+          "Camelo"
+        ]
+      ]
     }
   ]
 };
