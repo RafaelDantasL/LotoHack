@@ -114,6 +114,76 @@ const palpites = {
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 2928 no 10º Prêmio!"
     ]
   },
+  "LOTEP": {
+    "palpites": [
+      "8183",
+      "8184",
+      "8186",
+      "8163",
+      "8164",
+      "8166",
+      "8173",
+      "8174",
+      "8176",
+      "8683",
+      "8684",
+      "8686",
+      "8663",
+      "8664",
+      "8666",
+      "8673",
+      "8674",
+      "8676",
+      "8883",
+      "8884",
+      "8886",
+      "8863",
+      "8864",
+      "8866",
+      "8873",
+      "8874",
+      "8876",
+      "3183",
+      "3184",
+      "3186"
+    ],
+    "frases": []
+  },
+  "LOTECE": {
+    "palpites": [
+      "1001",
+      "1004",
+      "1008",
+      "1011",
+      "1014",
+      "1018",
+      "1071",
+      "1074",
+      "1078",
+      "1701",
+      "1704",
+      "1708",
+      "1711",
+      "1714",
+      "1718",
+      "1771",
+      "1774",
+      "1778",
+      "1901",
+      "1904",
+      "1908",
+      "1911",
+      "1914",
+      "1918",
+      "1971",
+      "1974",
+      "1978",
+      "4001",
+      "4004",
+      "4008"
+    ],
+    "frases": []
+  },
   "PT RIO": {
     "palpites": [
       "9960",
@@ -151,6 +221,45 @@ const palpites = {
       "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 5086 no 5º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 5686 no 5º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 5486 no 5º Prêmio!"
+    ]
+  },
+  "PT SP": {
+    "palpites": [
+      "1716",
+      "1718",
+      "1717",
+      "1776",
+      "1778",
+      "1777",
+      "1726",
+      "1728",
+      "1727",
+      "1016",
+      "1018",
+      "1017",
+      "1076",
+      "1078",
+      "1077",
+      "1026",
+      "1028",
+      "1027",
+      "1816",
+      "1818",
+      "1817",
+      "1876",
+      "1878",
+      "1877",
+      "1826",
+      "1828",
+      "1827",
+      "3716",
+      "3718",
+      "3717"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 5978 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 5178 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 5378 no 7º Prêmio!"
     ]
   }
 };
