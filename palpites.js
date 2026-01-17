@@ -80,6 +80,41 @@ const palpites = {
       "10h - BA - Resultado do dia 17/01/2026 (Sábado)\nDeu Dezena, Palpite 4017 no 1º Prêmio!"
     ]
   },
+  "LOTECE": {
+    "palpites": [
+      "4030",
+      "4033",
+      "4039",
+      "4010",
+      "4013",
+      "4019",
+      "4040",
+      "4043",
+      "4049",
+      "4330",
+      "4333",
+      "4339",
+      "4310",
+      "4313",
+      "4319",
+      "4340",
+      "4343",
+      "4349",
+      "4830",
+      "4833",
+      "4839",
+      "4810",
+      "4813",
+      "4819",
+      "4840",
+      "4843",
+      "4849",
+      "6030",
+      "6033",
+      "6039"
+    ],
+    "frases": []
+  },
   "LOOK/GOIAS": {
     "palpites": [
       "4111",
@@ -156,13 +191,17 @@ const palpites = {
       "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0514 no 8º Prêmio!",
       "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0414 no 8º Prêmio!",
       "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0814 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 9056 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 9156 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 9256 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 9016 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 9116 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 9216 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 1016 no 9º Prêmio!"
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 9014 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 9114 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 9214 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 1014 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Centena, Palpite 9056 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 9056 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 9156 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 9256 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 9053 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 9153 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 9253 no 8º Prêmio!"
     ]
   },
   "PT RIO": {
@@ -197,6 +236,46 @@ const palpites = {
       "1045",
       "1046",
       "1040"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 3318 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Centena, Palpite 3118 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 3118 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 3518 no 5º Prêmio!"
+    ]
+  },
+  "PT SP": {
+    "palpites": [
+      "3310",
+      "3311",
+      "3313",
+      "3330",
+      "3331",
+      "3333",
+      "3360",
+      "3361",
+      "3363",
+      "3510",
+      "3511",
+      "3513",
+      "3530",
+      "3531",
+      "3533",
+      "3560",
+      "3561",
+      "3563",
+      "3610",
+      "3611",
+      "3613",
+      "3630",
+      "3631",
+      "3633",
+      "3660",
+      "3661",
+      "3663",
+      "0310",
+      "0311",
+      "0313"
     ],
     "frases": []
   }
