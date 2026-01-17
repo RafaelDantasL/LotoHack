@@ -32,7 +32,17 @@ const palpites = {
       "1823",
       "1826"
     ],
-    "frases": []
+    "frases": [
+      "10h - MALUCA - Resultado do dia 17/01/2026 (Sábado)\nDeu Centena, Palpite 0358 no 3º Prêmio!",
+      "10h - MALUCA - Resultado do dia 17/01/2026 (Sábado)\nDeu Dezena, Palpite 0358 no 3º Prêmio!",
+      "10h - MALUCA - Resultado do dia 17/01/2026 (Sábado)\nDeu Dezena, Palpite 0758 no 3º Prêmio!",
+      "10h - MALUCA - Resultado do dia 17/01/2026 (Sábado)\nDeu Dezena, Palpite 0058 no 3º Prêmio!",
+      "10h - MALUCA - Resultado do dia 17/01/2026 (Sábado)\nDeu Centena, Palpite 6358 no 3º Prêmio!",
+      "10h - MALUCA - Resultado do dia 17/01/2026 (Sábado)\nDeu Dezena, Palpite 6358 no 3º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 17/01/2026 (Sábado)\nDeu Dezena, Palpite 3338 no 9º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 17/01/2026 (Sábado)\nDeu Milhar, Palpite 3638 no 9º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 17/01/2026 (Sábado)\nDeu Dezena, Palpite 3838 no 9º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -68,45 +78,56 @@ const palpites = {
       "8285"
     ],
     "frases": [
+      "10h - BA - Resultado do dia 17/01/2026 (Sábado)\nDeu Dezena, Palpite 4317 no 1º Prêmio!",
+      "10h - BA - Resultado do dia 17/01/2026 (Sábado)\nDeu Dezena, Palpite 4517 no 1º Prêmio!",
+      "10h - BA - Resultado do dia 17/01/2026 (Sábado)\nDeu Dezena, Palpite 4017 no 1º Prêmio!",
+      "12h - BA - Resultado do dia 17/01/2026 (Sábado)\nDeu Dezena, Palpite 3563 no 2º Prêmio!",
+      "12h - BA - Resultado do dia 17/01/2026 (Sábado)\nDeu Dezena, Palpite 3263 no 2º Prêmio!",
+      "12h - BA - Resultado do dia 17/01/2026 (Sábado)\nDeu Dezena, Palpite 3363 no 2º Prêmio!",
+      "12h - BA - Resultado do dia 17/01/2026 (Sábado)\nDeu Dezena, Palpite 9563 no 2º Prêmio!",
       "15h - BA - Resultado do dia 17/01/2026 (Sábado)\nDeu Dezena, Palpite 8411 no 9º Prêmio!",
       "15h - BA - Resultado do dia 17/01/2026 (Sábado)\nDeu Dezena, Palpite 8111 no 9º Prêmio!",
       "15h - BA - Resultado do dia 17/01/2026 (Sábado)\nDeu Centena, Palpite 8911 no 9º Prêmio!",
       "15h - BA - Resultado do dia 17/01/2026 (Sábado)\nDeu Dezena, Palpite 8911 no 9º Prêmio!"
     ]
   },
-  "PT SP": {
+  "LOTECE": {
     "palpites": [
-      "3298",
-      "3292",
-      "3296",
-      "3238",
-      "3232",
-      "3236",
-      "3248",
-      "3242",
-      "3246",
-      "3598",
-      "3592",
-      "3596",
-      "3538",
-      "3532",
-      "3536",
-      "3548",
-      "3542",
-      "3546",
-      "3998",
-      "3992",
-      "3996",
-      "3938",
-      "3932",
-      "3936",
-      "3948",
-      "3942",
-      "3946",
-      "4298",
-      "4292",
-      "4296"
+      "4131",
+      "4133",
+      "4139",
+      "4141",
+      "4143",
+      "4149",
+      "4181",
+      "4183",
+      "4189",
+      "4231",
+      "4233",
+      "4239",
+      "4241",
+      "4243",
+      "4249",
+      "4281",
+      "4283",
+      "4289",
+      "4631",
+      "4633",
+      "4639",
+      "4641",
+      "4643",
+      "4649",
+      "4681",
+      "4683",
+      "4689",
+      "8131",
+      "8133",
+      "8139"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 4842 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 4042 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 4742 no 7º Prêmio!"
+    ]
   }
 };
