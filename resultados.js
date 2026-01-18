@@ -1284,6 +1284,77 @@ const resultado = {
           "Vaca"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho LOTEP - PB, 12:45",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "6397",
+          "25",
+          "Vaca"
+        ],
+        [
+          "2º",
+          "0019",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "3º",
+          "1602",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "4º",
+          "9728",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "5º",
+          "9905",
+          "02",
+          "Águia"
+        ],
+        [
+          "6º",
+          "6019",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "7º",
+          "3067",
+          "17",
+          "Macaco"
+        ],
+        [
+          "8º",
+          "9102",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "9º",
+          "7928",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "10º",
+          "3767",
+          "17",
+          "Macaco"
+        ]
+      ]
     }
   ],
   "PT RIO": [
