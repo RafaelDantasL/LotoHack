@@ -642,6 +642,77 @@ const resultado = {
           "Cabra"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "5804",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "2º",
+          "4714",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "3º",
+          "2446",
+          "12",
+          "Elefante"
+        ],
+        [
+          "4º",
+          "6976",
+          "19",
+          "Pavão"
+        ],
+        [
+          "5º",
+          "0227",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "6º",
+          "0605",
+          "02",
+          "Águia"
+        ],
+        [
+          "7º",
+          "2683",
+          "21",
+          "Touro"
+        ],
+        [
+          "8º",
+          "0062",
+          "16",
+          "Leão"
+        ],
+        [
+          "9º",
+          "0929",
+          "08",
+          "Camelo"
+        ],
+        [
+          "10º",
+          "8790",
+          "23",
+          "Urso"
+        ]
+      ]
     }
   ],
   "LOOK/GOIAS": [
