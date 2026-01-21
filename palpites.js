@@ -88,41 +88,41 @@ const palpites = {
   },
   "LOTECE": {
     "palpites": [
-      "5530",
-      "5533",
-      "5532",
-      "5510",
-      "5513",
-      "5512",
-      "5540",
-      "5543",
-      "5542",
-      "5930",
-      "5933",
-      "5932",
-      "5910",
-      "5913",
-      "5912",
-      "5940",
-      "5943",
-      "5942",
-      "5030",
-      "5033",
-      "5032",
-      "5010",
-      "5013",
-      "5012",
-      "5040",
-      "5043",
-      "5042",
-      "3530",
-      "3533",
-      "3532"
+      "2461",
+      "2467",
+      "2460",
+      "2401",
+      "2407",
+      "2400",
+      "2441",
+      "2447",
+      "2440",
+      "2061",
+      "2067",
+      "2060",
+      "2001",
+      "2007",
+      "2000",
+      "2041",
+      "2047",
+      "2040",
+      "2161",
+      "2167",
+      "2160",
+      "2101",
+      "2107",
+      "2100",
+      "2141",
+      "2147",
+      "2140",
+      "3461",
+      "3467",
+      "3460"
     ],
     "frases": [
-      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 5163 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 5463 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 5563 no 8º Prêmio!"
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 5543 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 5943 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 5043 no 7º Prêmio!"
     ]
   },
   "LOOK/GOIAS": {
@@ -363,6 +363,10 @@ const palpites = {
       "1315",
       "1310"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 3055 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 3455 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 3855 no 3º Prêmio!"
+    ]
   }
 };
