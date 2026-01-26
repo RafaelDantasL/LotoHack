@@ -70,6 +70,77 @@ const resultado = {
           "Tigre"
         ]
       ]
+    },
+    {
+      "titulo": "12h - MALUCA - BA - Resultado do dia 26/01/2026 (Segunda-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "1877",
+          "20",
+          "Peru"
+        ],
+        [
+          "2º",
+          "9603",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "3º",
+          "5479",
+          "20",
+          "Peru"
+        ],
+        [
+          "4º",
+          "5848",
+          "12",
+          "Elefante"
+        ],
+        [
+          "5º",
+          "5814",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "6º",
+          "7131",
+          "08",
+          "Camelo"
+        ],
+        [
+          "7º",
+          "7447",
+          "12",
+          "Elefante"
+        ],
+        [
+          "8º",
+          "6816",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "9º",
+          "5617",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "10º",
+          "1335",
+          "09",
+          "Cobra"
+        ]
+      ]
     }
   ],
   "BAHIA": [
