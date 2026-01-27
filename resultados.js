@@ -3272,6 +3272,130 @@ const resultado = {
           "Burro"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 21:20, CORUJA, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "8387",
+          "22",
+          "Tigre"
+        ],
+        [
+          "2º",
+          "3594",
+          "24",
+          "Veado"
+        ],
+        [
+          "3º",
+          "5102",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "4º",
+          "1348",
+          "12",
+          "Elefante"
+        ],
+        [
+          "5º",
+          "1804",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "6º [soma]",
+          "0235",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "142",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 21:20, CORUJA, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "8387",
+          "22",
+          "Tigre"
+        ],
+        [
+          "2º",
+          "3594",
+          "24",
+          "Veado"
+        ],
+        [
+          "3º",
+          "5102",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "4º",
+          "1348",
+          "12",
+          "Elefante"
+        ],
+        [
+          "5º",
+          "1804",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "6º",
+          "8351",
+          "13",
+          "Galo"
+        ],
+        [
+          "7º",
+          "3513",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "8º",
+          "8904",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "9º",
+          "7428",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "10º",
+          "8431",
+          "08",
+          "Camelo"
+        ]
+      ]
     }
   ],
   "PT SP": [
