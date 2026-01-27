@@ -77,6 +77,41 @@ const palpites = {
       "10h - BA - Resultado do dia 27/01/2026 (Terça-feira)\nDeu Dezena, Palpite 8959 no 8º Prêmio!"
     ]
   },
+  "LOTECE": {
+    "palpites": [
+      "5142",
+      "5144",
+      "5145",
+      "5102",
+      "5104",
+      "5105",
+      "5112",
+      "5114",
+      "5115",
+      "5242",
+      "5244",
+      "5245",
+      "5202",
+      "5204",
+      "5205",
+      "5212",
+      "5214",
+      "5215",
+      "5942",
+      "5944",
+      "5945",
+      "5902",
+      "5904",
+      "5905",
+      "5912",
+      "5914",
+      "5915",
+      "7142",
+      "7144",
+      "7145"
+    ],
+    "frases": []
+  },
   "LOOK/GOIAS": {
     "palpites": [
       "3609",
@@ -145,42 +180,15 @@ const palpites = {
       "2203",
       "2204"
     ],
-    "frases": []
-  },
-  "LOTECE": {
-    "palpites": [
-      "2970",
-      "2973",
-      "2977",
-      "2900",
-      "2903",
-      "2907",
-      "2930",
-      "2933",
-      "2937",
-      "2270",
-      "2273",
-      "2277",
-      "2200",
-      "2203",
-      "2207",
-      "2230",
-      "2233",
-      "2237",
-      "2370",
-      "2373",
-      "2377",
-      "2300",
-      "2303",
-      "2307",
-      "2330",
-      "2333",
-      "2337",
-      "7970",
-      "7973",
-      "7977"
-    ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 1267 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 1067 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 1767 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 6267 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 1207 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 1007 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 1707 no 9º Prêmio!"
+    ]
   },
   "PT RIO": {
     "palpites": [
