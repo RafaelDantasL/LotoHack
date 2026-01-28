@@ -72,5 +72,86 @@ const palpites = {
       "5124"
     ],
     "frases": []
+  },
+  "LOOK/GOIAS": {
+    "palpites": [
+      "4131",
+      "4134",
+      "4135",
+      "4151",
+      "4154",
+      "4155",
+      "4111",
+      "4114",
+      "4115",
+      "4331",
+      "4334",
+      "4335",
+      "4351",
+      "4354",
+      "4355",
+      "4311",
+      "4314",
+      "4315",
+      "4231",
+      "4234",
+      "4235",
+      "4251",
+      "4254",
+      "4255",
+      "4211",
+      "4214",
+      "4215",
+      "9131",
+      "9134",
+      "9135"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 5320 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 5120 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 5420 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 1051 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 1151 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 1451 no 9º Prêmio!"
+    ]
+  },
+  "LOTEP": {
+    "palpites": [
+      "5020",
+      "5023",
+      "5021",
+      "5060",
+      "5063",
+      "5061",
+      "5090",
+      "5093",
+      "5091",
+      "5120",
+      "5123",
+      "5121",
+      "5160",
+      "5163",
+      "5161",
+      "5190",
+      "5193",
+      "5191",
+      "5220",
+      "5223",
+      "5221",
+      "5260",
+      "5263",
+      "5261",
+      "5290",
+      "5293",
+      "5291",
+      "7020",
+      "7023",
+      "7021"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 3703 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 3603 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 3003 no 2º Prêmio!"
+    ]
   }
 };
