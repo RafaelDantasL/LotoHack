@@ -431,6 +431,59 @@ const resultado = {
   ],
   "LOTECE": [
     {
+      "titulo": "Resultado do Jogo do Bicho A FEDERAL DO BRASIL CE - Ceará Federal",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "9593",
+          "24",
+          "Veado"
+        ],
+        [
+          "2º",
+          "3636",
+          "09",
+          "Cobra"
+        ],
+        [
+          "3º",
+          "1969",
+          "18",
+          "Porco"
+        ],
+        [
+          "4º",
+          "9318",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "5º",
+          "2880",
+          "20",
+          "Peru"
+        ],
+        [
+          "6º [soma]",
+          "7396",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "320",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
       "titulo": "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)",
       "conteudo": [
         [
@@ -716,6 +769,130 @@ const resultado = {
     }
   ],
   "LOOK/GOIAS": [
+    {
+      "titulo": "Resultado do Jogo do Bicho FEDERAL, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "9593",
+          "24",
+          "Veado"
+        ],
+        [
+          "2º",
+          "3636",
+          "09",
+          "Cobra"
+        ],
+        [
+          "3º",
+          "1969",
+          "18",
+          "Porco"
+        ],
+        [
+          "4º",
+          "9318",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "5º",
+          "2880",
+          "20",
+          "Peru"
+        ],
+        [
+          "6º [soma]",
+          "7396",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "320",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho FEDERAL, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "9593",
+          "24",
+          "Veado"
+        ],
+        [
+          "2º",
+          "3636",
+          "09",
+          "Cobra"
+        ],
+        [
+          "3º",
+          "1969",
+          "18",
+          "Porco"
+        ],
+        [
+          "4º",
+          "9318",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "5º",
+          "2880",
+          "20",
+          "Peru"
+        ],
+        [
+          "6º",
+          "9319",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "7º",
+          "5693",
+          "24",
+          "Veado"
+        ],
+        [
+          "8º",
+          "9361",
+          "16",
+          "Leão"
+        ],
+        [
+          "9º",
+          "3698",
+          "25",
+          "Vaca"
+        ],
+        [
+          "10º",
+          "5467",
+          "17",
+          "Macaco"
+        ]
+      ]
+    },
     {
       "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 5º",
       "conteudo": [
@@ -2171,9 +2348,186 @@ const resultado = {
           "Galo"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho CAMPINA GRANDE PB - FEDERAL",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "9593",
+          "24",
+          "Veado"
+        ],
+        [
+          "2º",
+          "3636",
+          "09",
+          "Cobra"
+        ],
+        [
+          "3º",
+          "1969",
+          "18",
+          "Porco"
+        ],
+        [
+          "4º",
+          "9318",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "5º",
+          "2880",
+          "20",
+          "Peru"
+        ],
+        [
+          "6º [soma]",
+          "7396",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "320",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho PB - FEDERAL",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "9593",
+          "24",
+          "Veado"
+        ],
+        [
+          "2º",
+          "3636",
+          "09",
+          "Cobra"
+        ],
+        [
+          "3º",
+          "1969",
+          "18",
+          "Porco"
+        ],
+        [
+          "4º",
+          "9318",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "5º",
+          "2880",
+          "20",
+          "Peru"
+        ],
+        [
+          "6º",
+          "9319",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "7º",
+          "5693",
+          "24",
+          "Veado"
+        ],
+        [
+          "8º",
+          "9361",
+          "16",
+          "Leão"
+        ],
+        [
+          "9º",
+          "3698",
+          "25",
+          "Vaca"
+        ],
+        [
+          "10º",
+          "5467",
+          "17",
+          "Macaco"
+        ]
+      ]
     }
   ],
   "PT RIO": [
+    {
+      "titulo": "Resultado do Jogo do Bicho A FEDERAL DO BRASIL - RJ",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "9593",
+          "24",
+          "Veado"
+        ],
+        [
+          "2º",
+          "3636",
+          "09",
+          "Cobra"
+        ],
+        [
+          "3º",
+          "1969",
+          "18",
+          "Porco"
+        ],
+        [
+          "4º",
+          "9318",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "5º",
+          "2880",
+          "20",
+          "Peru"
+        ],
+        [
+          "6º [soma]",
+          "7396",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "320",
+          "",
+          ""
+        ]
+      ]
+    },
     {
       "titulo": "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 5º",
       "conteudo": [
@@ -3590,6 +3944,130 @@ const resultado = {
           "2978",
           "20",
           "Peru"
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 20hs - PT FEDERAL, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "9593",
+          "24",
+          "Veado"
+        ],
+        [
+          "2º",
+          "3636",
+          "09",
+          "Cobra"
+        ],
+        [
+          "3º",
+          "1969",
+          "18",
+          "Porco"
+        ],
+        [
+          "4º",
+          "9318",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "5º",
+          "2880",
+          "20",
+          "Peru"
+        ],
+        [
+          "6º [soma]",
+          "7396",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "320",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 20hs - PT FEDERAL, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "9593",
+          "24",
+          "Veado"
+        ],
+        [
+          "2º",
+          "3636",
+          "09",
+          "Cobra"
+        ],
+        [
+          "3º",
+          "1969",
+          "18",
+          "Porco"
+        ],
+        [
+          "4º",
+          "9318",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "5º",
+          "2880",
+          "20",
+          "Peru"
+        ],
+        [
+          "6º",
+          "9319",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "7º",
+          "5693",
+          "24",
+          "Veado"
+        ],
+        [
+          "8º",
+          "9361",
+          "16",
+          "Leão"
+        ],
+        [
+          "9º",
+          "3698",
+          "25",
+          "Vaca"
+        ],
+        [
+          "10º",
+          "5467",
+          "17",
+          "Macaco"
         ]
       ]
     }
