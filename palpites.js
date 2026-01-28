@@ -40,36 +40,79 @@ const palpites = {
   },
   "BAHIA": {
     "palpites": [
-      "4123",
-      "4125",
-      "4124",
-      "4103",
-      "4105",
-      "4104",
-      "4143",
-      "4145",
-      "4144",
-      "4623",
-      "4625",
-      "4624",
-      "4603",
-      "4605",
-      "4604",
-      "4643",
-      "4645",
-      "4644",
-      "4923",
-      "4925",
-      "4924",
-      "4903",
-      "4905",
-      "4904",
-      "4943",
-      "4945",
-      "4944",
-      "5123",
-      "5125",
-      "5124"
+      "0305",
+      "0301",
+      "0309",
+      "0315",
+      "0311",
+      "0319",
+      "0345",
+      "0341",
+      "0349",
+      "0405",
+      "0401",
+      "0409",
+      "0415",
+      "0411",
+      "0419",
+      "0445",
+      "0441",
+      "0449",
+      "0605",
+      "0601",
+      "0609",
+      "0615",
+      "0611",
+      "0619",
+      "0645",
+      "0641",
+      "0649",
+      "8305",
+      "8301",
+      "8309"
+    ],
+    "frases": [
+      "12h - BA - Resultado do dia 28/01/2026 (Quarta-feira)\nDeu Dezena, Palpite 4144 no 3º Prêmio!",
+      "12h - BA - Resultado do dia 28/01/2026 (Quarta-feira)\nDeu Centena, Palpite 4644 no 3º Prêmio!",
+      "12h - BA - Resultado do dia 28/01/2026 (Quarta-feira)\nDeu Dezena, Palpite 4644 no 3º Prêmio!",
+      "12h - BA - Resultado do dia 28/01/2026 (Quarta-feira)\nDeu Dezena, Palpite 4944 no 3º Prêmio!",
+      "12h - BA - Resultado do dia 28/01/2026 (Quarta-feira)\nDeu Dezena, Palpite 4105 no 9º Prêmio!",
+      "12h - BA - Resultado do dia 28/01/2026 (Quarta-feira)\nDeu Dezena, Palpite 4605 no 9º Prêmio!",
+      "12h - BA - Resultado do dia 28/01/2026 (Quarta-feira)\nDeu Milhar, Palpite 4905 no 9º Prêmio!"
+    ]
+  },
+  "PT SP": {
+    "palpites": [
+      "3814",
+      "3819",
+      "3812",
+      "3884",
+      "3889",
+      "3882",
+      "3804",
+      "3809",
+      "3802",
+      "3114",
+      "3119",
+      "3112",
+      "3184",
+      "3189",
+      "3182",
+      "3104",
+      "3109",
+      "3102",
+      "3414",
+      "3419",
+      "3412",
+      "3484",
+      "3489",
+      "3482",
+      "3404",
+      "3409",
+      "3402",
+      "4814",
+      "4819",
+      "4812"
     ],
     "frases": []
   },
@@ -197,11 +240,7 @@ const palpites = {
       "2373",
       "2376"
     ],
-    "frases": [
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 3703 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 3603 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 3003 no 2º Prêmio!"
-    ]
+    "frases": []
   },
   "PT RIO": {
     "palpites": [
@@ -236,6 +275,15 @@ const palpites = {
       "4621",
       "4625"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 3048 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 3648 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 3148 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 3058 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 3658 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Centena, Palpite 3158 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 3158 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 6058 no 5º Prêmio!"
+    ]
   }
 };
