@@ -226,6 +226,9 @@ const palpites = {
       "4446"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 3703 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 3603 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 3003 no 2º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 3319 no 6º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 3219 no 6º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Centena, Palpite 3419 no 6º Prêmio!",
@@ -274,45 +277,6 @@ const palpites = {
       "Resultado do Jogo do Bicho RJ, 14:20, PT, 1º ao 10º\nDeu Dezena, Palpite 2781 no 3º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 14:20, PT, 1º ao 10º\nDeu Centena, Palpite 2981 no 3º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 14:20, PT, 1º ao 10º\nDeu Dezena, Palpite 2981 no 3º Prêmio!"
-    ]
-  },
-  "PT SP": {
-    "palpites": [
-      "3201",
-      "3203",
-      "3207",
-      "3221",
-      "3223",
-      "3227",
-      "3251",
-      "3253",
-      "3257",
-      "3801",
-      "3803",
-      "3807",
-      "3821",
-      "3823",
-      "3827",
-      "3851",
-      "3853",
-      "3857",
-      "3001",
-      "3003",
-      "3007",
-      "3021",
-      "3023",
-      "3027",
-      "3051",
-      "3053",
-      "3057",
-      "6201",
-      "6203",
-      "6207"
-    ],
-    "frases": [
-      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3889 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3189 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3489 no 2º Prêmio!"
     ]
   }
 };
