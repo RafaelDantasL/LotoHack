@@ -197,7 +197,11 @@ const palpites = {
       "2373",
       "2376"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 3703 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 3603 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 3003 no 2º Prêmio!"
+    ]
   },
   "PT RIO": {
     "palpites": [
@@ -231,41 +235,6 @@ const palpites = {
       "4622",
       "4621",
       "4625"
-    ],
-    "frases": []
-  },
-  "PT SP": {
-    "palpites": [
-      "0163",
-      "0167",
-      "0160",
-      "0173",
-      "0177",
-      "0170",
-      "0193",
-      "0197",
-      "0190",
-      "0963",
-      "0967",
-      "0960",
-      "0973",
-      "0977",
-      "0970",
-      "0993",
-      "0997",
-      "0990",
-      "0063",
-      "0067",
-      "0060",
-      "0073",
-      "0077",
-      "0070",
-      "0093",
-      "0097",
-      "0090",
-      "7163",
-      "7167",
-      "7160"
     ],
     "frases": []
   }
