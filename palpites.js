@@ -239,49 +239,5 @@ const palpites = {
       "4762"
     ],
     "frases": []
-  },
-  "PT SP": {
-    "palpites": [
-      "8288",
-      "8285",
-      "8280",
-      "8208",
-      "8205",
-      "8200",
-      "8218",
-      "8215",
-      "8210",
-      "8688",
-      "8685",
-      "8680",
-      "8608",
-      "8605",
-      "8600",
-      "8618",
-      "8615",
-      "8610",
-      "8888",
-      "8885",
-      "8880",
-      "8808",
-      "8805",
-      "8800",
-      "8818",
-      "8815",
-      "8810",
-      "0288",
-      "0285",
-      "0280"
-    ],
-    "frases": [
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0593 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0393 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0693 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3593 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0555 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0355 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Centena, Palpite 0655 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0655 no 10º Prêmio!"
-    ]
   }
 };
