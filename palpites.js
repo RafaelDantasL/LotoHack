@@ -202,6 +202,12 @@ const palpites = {
       "9012"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 2930 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 2230 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 2030 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 4304 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 4404 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 4904 no 5º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 1174 no 4º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 1574 no 4º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 1974 no 4º Prêmio!",
@@ -214,5 +220,79 @@ const palpites = {
       "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 1544 no 9º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 1944 no 9º Prêmio!"
     ]
+  },
+  "PT RIO": {
+    "palpites": [
+      "7767",
+      "7761",
+      "7762",
+      "7727",
+      "7721",
+      "7722",
+      "7787",
+      "7781",
+      "7782",
+      "7367",
+      "7361",
+      "7362",
+      "7327",
+      "7321",
+      "7322",
+      "7387",
+      "7381",
+      "7382",
+      "7467",
+      "7461",
+      "7462",
+      "7427",
+      "7421",
+      "7422",
+      "7487",
+      "7481",
+      "7482",
+      "4767",
+      "4761",
+      "4762"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 3270 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 3570 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 3870 no 6º Prêmio!"
+    ]
+  },
+  "PT SP": {
+    "palpites": [
+      "4605",
+      "4600",
+      "4601",
+      "4625",
+      "4620",
+      "4621",
+      "4635",
+      "4630",
+      "4631",
+      "4005",
+      "4000",
+      "4001",
+      "4025",
+      "4020",
+      "4021",
+      "4035",
+      "4030",
+      "4031",
+      "4105",
+      "4100",
+      "4101",
+      "4125",
+      "4120",
+      "4121",
+      "4135",
+      "4130",
+      "4131",
+      "5605",
+      "5600",
+      "5601"
+    ],
+    "frases": []
   }
 };
