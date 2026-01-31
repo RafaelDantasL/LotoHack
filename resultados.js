@@ -3272,6 +3272,130 @@ const resultado = {
           "Porco"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 21:20, CORUJA, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "0772",
+          "18",
+          "Porco"
+        ],
+        [
+          "2º",
+          "8319",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "3º",
+          "4713",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "4º",
+          "0932",
+          "08",
+          "Camelo"
+        ],
+        [
+          "5º",
+          "9468",
+          "17",
+          "Macaco"
+        ],
+        [
+          "6º [soma]",
+          "4204",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "422",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 21:20, CORUJA, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "0772",
+          "18",
+          "Porco"
+        ],
+        [
+          "2º",
+          "8319",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "3º",
+          "4713",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "4º",
+          "0932",
+          "08",
+          "Camelo"
+        ],
+        [
+          "5º",
+          "9468",
+          "17",
+          "Macaco"
+        ],
+        [
+          "6º",
+          "0840",
+          "10",
+          "Coelho"
+        ],
+        [
+          "7º",
+          "7379",
+          "20",
+          "Peru"
+        ],
+        [
+          "8º",
+          "7113",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "9º",
+          "2932",
+          "08",
+          "Camelo"
+        ],
+        [
+          "10º",
+          "2468",
+          "17",
+          "Macaco"
+        ]
+      ]
     }
   ],
   "PT SP": [
