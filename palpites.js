@@ -175,12 +175,6 @@ const palpites = {
       "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 5560 no 5º Prêmio!",
       "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 5060 no 5º Prêmio!",
       "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 5460 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 1016 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 1116 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 1216 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 1065 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 1165 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 1265 no 9º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 1122 no 3º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 1622 no 3º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Centena, Palpite 1822 no 3º Prêmio!",
@@ -318,40 +312,5 @@ const palpites = {
       "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2002 no 7º Prêmio!",
       "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 9102 no 7º Prêmio!"
     ]
-  },
-  "LOTECE": {
-    "palpites": [
-      "8210",
-      "8214",
-      "8215",
-      "8220",
-      "8224",
-      "8225",
-      "8200",
-      "8204",
-      "8205",
-      "8310",
-      "8314",
-      "8315",
-      "8320",
-      "8324",
-      "8325",
-      "8300",
-      "8304",
-      "8305",
-      "8910",
-      "8914",
-      "8915",
-      "8920",
-      "8924",
-      "8925",
-      "8900",
-      "8904",
-      "8905",
-      "0210",
-      "0214",
-      "0215"
-    ],
-    "frases": []
   }
 };
