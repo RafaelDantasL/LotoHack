@@ -32,42 +32,14 @@ const palpites = {
       "1161",
       "1169"
     ],
-    "frases": []
-  },
-  "PT SP": {
-    "palpites": [
-      "7832",
-      "7834",
-      "7833",
-      "7842",
-      "7844",
-      "7843",
-      "7852",
-      "7854",
-      "7853",
-      "7332",
-      "7334",
-      "7333",
-      "7342",
-      "7344",
-      "7343",
-      "7352",
-      "7354",
-      "7353",
-      "7732",
-      "7734",
-      "7733",
-      "7742",
-      "7744",
-      "7743",
-      "7752",
-      "7754",
-      "7753",
-      "2832",
-      "2834",
-      "2833"
-    ],
-    "frases": []
+    "frases": [
+      "10h - MALUCA - Resultado do dia 04/02/2026 (Quarta-feira)\nDeu Dezena, Palpite 5178 no 4º Prêmio!",
+      "10h - MALUCA - Resultado do dia 04/02/2026 (Quarta-feira)\nDeu Dezena, Palpite 5478 no 4º Prêmio!",
+      "10h - MALUCA - Resultado do dia 04/02/2026 (Quarta-feira)\nDeu Dezena, Palpite 5878 no 4º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 04/02/2026 (Quarta-feira)\nDeu Dezena, Palpite 3578 no 10º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 04/02/2026 (Quarta-feira)\nDeu Dezena, Palpite 3678 no 10º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 04/02/2026 (Quarta-feira)\nDeu Dezena, Palpite 3078 no 10º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -236,10 +208,24 @@ const palpites = {
       "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 3713 no 8º Prêmio!",
       "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Centena, Palpite 3913 no 8º Prêmio!",
       "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 3913 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 12:45\nDeu Dezena, Palpite 1115 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 12:45\nDeu Dezena, Palpite 1615 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 12:45\nDeu Dezena, Palpite 1015 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 12:45\nDeu Dezena, Palpite 0115 no 9º Prêmio!"
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0417 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0217 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0017 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0434 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Centena, Palpite 0234 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0234 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0034 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Centena, Palpite 0472 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0472 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0272 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0072 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Centena, Palpite 7472 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 7472 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0474 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Centena, Palpite 0274 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0274 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0074 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 7474 no 9º Prêmio!"
     ]
   },
   "PT RIO": {
@@ -292,5 +278,40 @@ const palpites = {
       "Resultado do Jogo do Bicho RJ, 14:20, PT, 1º ao 10º\nDeu Dezena, Palpite 4330 no 6º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 14:20, PT, 1º ao 10º\nDeu Dezena, Palpite 4130 no 6º Prêmio!"
     ]
+  },
+  "PT SP": {
+    "palpites": [
+      "7832",
+      "7834",
+      "7833",
+      "7842",
+      "7844",
+      "7843",
+      "7852",
+      "7854",
+      "7853",
+      "7332",
+      "7334",
+      "7333",
+      "7342",
+      "7344",
+      "7343",
+      "7352",
+      "7354",
+      "7353",
+      "7732",
+      "7734",
+      "7733",
+      "7742",
+      "7744",
+      "7743",
+      "7752",
+      "7754",
+      "7753",
+      "2832",
+      "2834",
+      "2833"
+    ],
+    "frases": []
   }
 };
