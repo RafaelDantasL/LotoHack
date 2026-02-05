@@ -1020,6 +1020,77 @@ const resultado = {
       ]
     },
     {
+      "titulo": "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 12:45",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "5298",
+          "25",
+          "Vaca"
+        ],
+        [
+          "2º",
+          "6382",
+          "21",
+          "Touro"
+        ],
+        [
+          "3º",
+          "7217",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "4º",
+          "0532",
+          "08",
+          "Camelo"
+        ],
+        [
+          "5º",
+          "3347",
+          "12",
+          "Elefante"
+        ],
+        [
+          "6º",
+          "5670",
+          "18",
+          "Porco"
+        ],
+        [
+          "7º",
+          "2325",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "8º",
+          "9813",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "9º",
+          "8272",
+          "18",
+          "Porco"
+        ],
+        [
+          "10º",
+          "8856",
+          "14",
+          "Gato"
+        ]
+      ]
+    },
+    {
       "titulo": "Resultado do Jogo do Bicho LOTEP - PB, 12:45",
       "conteudo": [
         [
