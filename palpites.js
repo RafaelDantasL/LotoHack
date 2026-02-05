@@ -33,6 +33,18 @@ const palpites = {
       "7688"
     ],
     "frases": [
+      "10h - MALUCA - Resultado do dia 05/02/2026 (Quinta-feira)\nDeu Dezena, Palpite 7442 no 10º Prêmio!",
+      "10h - MALUCA - Resultado do dia 05/02/2026 (Quinta-feira)\nDeu Dezena, Palpite 7942 no 10º Prêmio!",
+      "10h - MALUCA - Resultado do dia 05/02/2026 (Quinta-feira)\nDeu Dezena, Palpite 7042 no 10º Prêmio!",
+      "10h - MALUCA - Resultado do dia 05/02/2026 (Quinta-feira)\nDeu Dezena, Palpite 1442 no 10º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 05/02/2026 (Quinta-feira)\nDeu Dezena, Palpite 0503 no 2º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 05/02/2026 (Quinta-feira)\nDeu Dezena, Palpite 0203 no 2º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 05/02/2026 (Quinta-feira)\nDeu Dezena, Palpite 0603 no 2º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 05/02/2026 (Quinta-feira)\nDeu Dezena, Palpite 2156 no 1º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 05/02/2026 (Quinta-feira)\nDeu Dezena, Palpite 2456 no 1º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 05/02/2026 (Quinta-feira)\nDeu Centena, Palpite 2256 no 1º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 05/02/2026 (Quinta-feira)\nDeu Dezena, Palpite 2256 no 1º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 05/02/2026 (Quinta-feira)\nDeu Dezena, Palpite 6156 no 1º Prêmio!",
       "19h - MALUCA - BA - Resultado do dia 05/02/2026 (Quinta-feira)\nDeu Dezena, Palpite 1002 no 1º Prêmio!",
       "19h - MALUCA - BA - Resultado do dia 05/02/2026 (Quinta-feira)\nDeu Dezena, Palpite 1202 no 1º Prêmio!",
       "19h - MALUCA - BA - Resultado do dia 05/02/2026 (Quinta-feira)\nDeu Dezena, Palpite 1502 no 1º Prêmio!",
@@ -72,41 +84,50 @@ const palpites = {
       "7800",
       "7806"
     ],
-    "frases": []
+    "frases": [
+      "12h - BA - Resultado do dia 05/02/2026 (Quinta-feira)\nDeu Dezena, Palpite 1467 no 9º Prêmio!",
+      "12h - BA - Resultado do dia 05/02/2026 (Quinta-feira)\nDeu Dezena, Palpite 1267 no 9º Prêmio!",
+      "12h - BA - Resultado do dia 05/02/2026 (Quinta-feira)\nDeu Dezena, Palpite 1567 no 9º Prêmio!",
+      "12h - BA - Resultado do dia 05/02/2026 (Quinta-feira)\nDeu Dezena, Palpite 2467 no 9º Prêmio!"
+    ]
   },
-  "PT SP": {
+  "LOTECE": {
     "palpites": [
-      "6064",
-      "6061",
-      "6062",
-      "6074",
-      "6071",
-      "6072",
-      "6004",
-      "6001",
-      "6002",
-      "6164",
-      "6161",
-      "6162",
-      "6174",
-      "6171",
-      "6172",
-      "6104",
-      "6101",
-      "6102",
-      "6764",
-      "6761",
-      "6762",
-      "6774",
-      "6771",
-      "6772",
-      "6704",
-      "6701",
-      "6702",
-      "7064",
-      "7061",
-      "7062"
+      "8039",
+      "8033",
+      "8038",
+      "8049",
+      "8043",
+      "8048",
+      "8019",
+      "8013",
+      "8018",
+      "8139",
+      "8133",
+      "8138",
+      "8149",
+      "8143",
+      "8148",
+      "8119",
+      "8113",
+      "8118",
+      "8239",
+      "8233",
+      "8238",
+      "8249",
+      "8243",
+      "8248",
+      "8219",
+      "8213",
+      "8218",
+      "2039",
+      "2033",
+      "2038"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)\nDeu Dezena, Palpite 4413 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)\nDeu Dezena, Palpite 4813 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)\nDeu Dezena, Palpite 4913 no 6º Prêmio!"
+    ]
   }
 };
