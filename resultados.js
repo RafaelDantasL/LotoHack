@@ -2883,6 +2883,130 @@ const resultado = {
           "Burro"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "6620",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "2º",
+          "5118",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "3º",
+          "2012",
+          "03",
+          "Burro"
+        ],
+        [
+          "4º",
+          "1031",
+          "08",
+          "Camelo"
+        ],
+        [
+          "5º",
+          "8848",
+          "12",
+          "Elefante"
+        ],
+        [
+          "6º [soma]",
+          "3629",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "881",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "6620",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "2º",
+          "5118",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "3º",
+          "2012",
+          "03",
+          "Burro"
+        ],
+        [
+          "4º",
+          "1031",
+          "08",
+          "Camelo"
+        ],
+        [
+          "5º",
+          "8848",
+          "12",
+          "Elefante"
+        ],
+        [
+          "6º",
+          "6521",
+          "06",
+          "Cabra"
+        ],
+        [
+          "7º",
+          "6100",
+          "25",
+          "Vaca"
+        ],
+        [
+          "8º",
+          "2113",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "9º",
+          "0821",
+          "06",
+          "Cabra"
+        ],
+        [
+          "10º",
+          "9184",
+          "21",
+          "Touro"
+        ]
+      ]
     }
   ]
 };
