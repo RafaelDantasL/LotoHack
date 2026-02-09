@@ -1376,6 +1376,59 @@ const resultado = {
           "Borboleta"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 12:00 - PTSP",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "3897",
+          "25",
+          "Vaca"
+        ],
+        [
+          "2º",
+          "9407",
+          "02",
+          "Águia"
+        ],
+        [
+          "3º",
+          "8166",
+          "17",
+          "Macaco"
+        ],
+        [
+          "4º",
+          "1446",
+          "12",
+          "Elefante"
+        ],
+        [
+          "5º",
+          "4294",
+          "24",
+          "Veado"
+        ],
+        [
+          "6º [soma]",
+          "7210",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "659",
+          "",
+          ""
+        ]
+      ]
     }
   ]
 };
