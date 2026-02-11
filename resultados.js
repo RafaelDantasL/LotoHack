@@ -3202,6 +3202,130 @@ const resultado = {
           "Carneiro"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 18hs - PTSP, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "4083",
+          "21",
+          "Touro"
+        ],
+        [
+          "2º",
+          "4660",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "3º",
+          "8502",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "4º",
+          "5019",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "5º",
+          "1118",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "6º [soma]",
+          "3382",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "026",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 18hs - PTSP, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "4083",
+          "21",
+          "Touro"
+        ],
+        [
+          "2º",
+          "4660",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "3º",
+          "8502",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "4º",
+          "5019",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "5º",
+          "1118",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "6º",
+          "4485",
+          "22",
+          "Tigre"
+        ],
+        [
+          "7º",
+          "0650",
+          "13",
+          "Galo"
+        ],
+        [
+          "8º",
+          "8601",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "9º",
+          "3029",
+          "08",
+          "Camelo"
+        ],
+        [
+          "10º",
+          "0147",
+          "12",
+          "Elefante"
+        ]
+      ]
     }
   ]
 };
