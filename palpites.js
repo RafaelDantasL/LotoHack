@@ -95,42 +95,42 @@ const palpites = {
   },
   "LOTECE": {
     "palpites": [
-      "1380",
-      "1381",
-      "1383",
-      "1300",
-      "1301",
-      "1303",
-      "1320",
-      "1321",
-      "1323",
-      "1880",
-      "1881",
-      "1883",
-      "1800",
-      "1801",
-      "1803",
-      "1820",
-      "1821",
-      "1823",
-      "1980",
-      "1981",
-      "1983",
-      "1900",
-      "1901",
-      "1903",
-      "1920",
-      "1921",
-      "1923",
-      "8380",
-      "8381",
-      "8383"
+      "9502",
+      "9505",
+      "9500",
+      "9532",
+      "9535",
+      "9530",
+      "9572",
+      "9575",
+      "9570",
+      "9002",
+      "9005",
+      "9000",
+      "9032",
+      "9035",
+      "9030",
+      "9072",
+      "9075",
+      "9070",
+      "9802",
+      "9805",
+      "9800",
+      "9832",
+      "9835",
+      "9830",
+      "9872",
+      "9875",
+      "9870",
+      "3502",
+      "3505",
+      "3500"
     ],
     "frases": [
-      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 4820 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 4120 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 4220 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 5820 no 8º Prêmio!"
+      "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)\nDeu Dezena, Palpite 1303 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)\nDeu Centena, Palpite 1803 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)\nDeu Dezena, Palpite 1803 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)\nDeu Dezena, Palpite 1903 no 4º Prêmio!"
     ]
   },
   "LOOK/GOIAS": {
@@ -327,6 +327,14 @@ const palpites = {
       "5091",
       "5098"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 5214 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 5814 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 5014 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 8008 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 8808 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 8908 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 9008 no 2º Prêmio!"
+    ]
   }
 };
