@@ -279,49 +279,5 @@ const palpites = {
       "8102"
     ],
     "frases": []
-  },
-  "PT SP": {
-    "palpites": [
-      "1801",
-      "1809",
-      "1800",
-      "1811",
-      "1819",
-      "1810",
-      "1831",
-      "1839",
-      "1830",
-      "1001",
-      "1009",
-      "1000",
-      "1011",
-      "1019",
-      "1010",
-      "1031",
-      "1039",
-      "1030",
-      "1101",
-      "1109",
-      "1100",
-      "1111",
-      "1119",
-      "1110",
-      "1131",
-      "1139",
-      "1130",
-      "8801",
-      "8809",
-      "8800"
-    ],
-    "frases": [
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1510 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Centena, Palpite 1110 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1110 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1310 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 7111 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Centena, Palpite 7711 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 7711 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 7911 no 9º Prêmio!"
-    ]
   }
 };
