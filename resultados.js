@@ -3734,6 +3734,130 @@ const resultado = {
           "Porco"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "5738",
+          "10",
+          "Coelho"
+        ],
+        [
+          "2º",
+          "0226",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "3º",
+          "4225",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "4º",
+          "6778",
+          "20",
+          "Peru"
+        ],
+        [
+          "5º",
+          "5700",
+          "25",
+          "Vaca"
+        ],
+        [
+          "6º [soma]",
+          "2667",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "296",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "5738",
+          "10",
+          "Coelho"
+        ],
+        [
+          "2º",
+          "0226",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "3º",
+          "4225",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "4º",
+          "6778",
+          "20",
+          "Peru"
+        ],
+        [
+          "5º",
+          "5700",
+          "25",
+          "Vaca"
+        ],
+        [
+          "6º",
+          "5046",
+          "12",
+          "Elefante"
+        ],
+        [
+          "7º",
+          "7227",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "8º",
+          "3227",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "9º",
+          "8658",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "10º",
+          "6825",
+          "07",
+          "Carneiro"
+        ]
+      ]
     }
   ]
 };
