@@ -115,6 +115,80 @@ const palpites = {
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 8688 no 3º Prêmio!"
     ]
   },
+  "LOTEP": {
+    "palpites": [
+      "7328",
+      "7323",
+      "7326",
+      "7338",
+      "7333",
+      "7336",
+      "7318",
+      "7313",
+      "7316",
+      "7428",
+      "7423",
+      "7426",
+      "7438",
+      "7433",
+      "7436",
+      "7418",
+      "7413",
+      "7416",
+      "7028",
+      "7023",
+      "7026",
+      "7038",
+      "7033",
+      "7036",
+      "7018",
+      "7013",
+      "7016",
+      "0328",
+      "0323",
+      "0326"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 7703 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 7103 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 7403 no 10º Prêmio!"
+    ]
+  },
+  "LOTECE": {
+    "palpites": [
+      "7408",
+      "7403",
+      "7407",
+      "7418",
+      "7413",
+      "7417",
+      "7478",
+      "7473",
+      "7477",
+      "7608",
+      "7603",
+      "7607",
+      "7618",
+      "7613",
+      "7617",
+      "7678",
+      "7673",
+      "7677",
+      "7708",
+      "7703",
+      "7707",
+      "7718",
+      "7713",
+      "7717",
+      "7778",
+      "7773",
+      "7777",
+      "3408",
+      "3403",
+      "3407"
+    ],
+    "frases": []
+  },
   "PT RIO": {
     "palpites": [
       "1655",
@@ -154,5 +228,40 @@ const palpites = {
       "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Centena, Palpite 1681 no 5º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 1681 no 5º Prêmio!"
     ]
+  },
+  "PT SP": {
+    "palpites": [
+      "9193",
+      "9192",
+      "9190",
+      "9103",
+      "9102",
+      "9100",
+      "9123",
+      "9122",
+      "9120",
+      "9393",
+      "9392",
+      "9390",
+      "9303",
+      "9302",
+      "9300",
+      "9323",
+      "9322",
+      "9320",
+      "9493",
+      "9492",
+      "9490",
+      "9403",
+      "9402",
+      "9400",
+      "9423",
+      "9422",
+      "9420",
+      "2193",
+      "2192",
+      "2190"
+    ],
+    "frases": []
   }
 };
