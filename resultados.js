@@ -2527,6 +2527,130 @@ const resultado = {
           "Cobra"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 18:20, PTN, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "9347",
+          "12",
+          "Elefante"
+        ],
+        [
+          "2º",
+          "1647",
+          "12",
+          "Elefante"
+        ],
+        [
+          "3º",
+          "3103",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "4º",
+          "7595",
+          "24",
+          "Veado"
+        ],
+        [
+          "5º",
+          "6246",
+          "12",
+          "Elefante"
+        ],
+        [
+          "6º [soma]",
+          "7938",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "394",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 18:20, PTN, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "9347",
+          "12",
+          "Elefante"
+        ],
+        [
+          "2º",
+          "1647",
+          "12",
+          "Elefante"
+        ],
+        [
+          "3º",
+          "3103",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "4º",
+          "7595",
+          "24",
+          "Veado"
+        ],
+        [
+          "5º",
+          "6246",
+          "12",
+          "Elefante"
+        ],
+        [
+          "6º",
+          "9137",
+          "10",
+          "Coelho"
+        ],
+        [
+          "7º",
+          "3615",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "8º",
+          "4409",
+          "03",
+          "Burro"
+        ],
+        [
+          "9º",
+          "7735",
+          "09",
+          "Cobra"
+        ],
+        [
+          "10º",
+          "2834",
+          "09",
+          "Cobra"
+        ]
+      ]
     }
   ],
   "PT SP": [
