@@ -212,6 +212,77 @@ const resultado = {
           "Elefante"
         ]
       ]
+    },
+    {
+      "titulo": "20h FEDERAL - MALUCA - BA - Resultado do dia 28/02/2026 (Sábado)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "8197",
+          "25",
+          "Vaca"
+        ],
+        [
+          "2º",
+          "9538",
+          "10",
+          "Coelho"
+        ],
+        [
+          "3º",
+          "1182",
+          "21",
+          "Touro"
+        ],
+        [
+          "4º",
+          "3016",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "5º",
+          "5025",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "6º",
+          "9125",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "7º",
+          "6246",
+          "12",
+          "Elefante"
+        ],
+        [
+          "8º",
+          "8788",
+          "22",
+          "Tigre"
+        ],
+        [
+          "9º",
+          "2947",
+          "12",
+          "Elefante"
+        ],
+        [
+          "10º",
+          "4266",
+          "17",
+          "Macaco"
+        ]
+      ]
     }
   ],
   "BAHIA": [
