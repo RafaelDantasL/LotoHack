@@ -2029,6 +2029,77 @@ const resultado = {
           "Coelho"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 19:05",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "0291",
+          "23",
+          "Urso"
+        ],
+        [
+          "2º",
+          "1898",
+          "25",
+          "Vaca"
+        ],
+        [
+          "3º",
+          "4528",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "4º",
+          "7004",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "5º",
+          "8443",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "6º",
+          "0147",
+          "12",
+          "Elefante"
+        ],
+        [
+          "7º",
+          "2850",
+          "13",
+          "Galo"
+        ],
+        [
+          "8º",
+          "9920",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "9º",
+          "1884",
+          "21",
+          "Touro"
+        ],
+        [
+          "10º",
+          "6965",
+          "17",
+          "Macaco"
+        ]
+      ]
     }
   ],
   "PT RIO": [
