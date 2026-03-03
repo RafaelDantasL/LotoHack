@@ -73,6 +73,46 @@ const palpites = {
     ],
     "frases": []
   },
+  "PT RIO": {
+    "palpites": [
+      "8661",
+      "8665",
+      "8666",
+      "8621",
+      "8625",
+      "8626",
+      "8671",
+      "8675",
+      "8676",
+      "8761",
+      "8765",
+      "8766",
+      "8721",
+      "8725",
+      "8726",
+      "8771",
+      "8775",
+      "8776",
+      "8861",
+      "8865",
+      "8866",
+      "8821",
+      "8825",
+      "8826",
+      "8871",
+      "8875",
+      "8876",
+      "0661",
+      "0665",
+      "0666"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 7428 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 7828 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Centena, Palpite 7028 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 7028 no 10º Prêmio!"
+    ]
+  },
   "LOTECE": {
     "palpites": [
       "0090",
@@ -142,6 +182,13 @@ const palpites = {
       "3021"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 0016 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 0416 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 0916 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 1016 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 0046 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 0446 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 0946 no 6º Prêmio!",
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 11h, 1º ao 10º\nDeu Dezena, Palpite 3272 no 3º Prêmio!",
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 11h, 1º ao 10º\nDeu Dezena, Palpite 3672 no 3º Prêmio!",
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 11h, 1º ao 10º\nDeu Dezena, Palpite 3772 no 3º Prêmio!",
@@ -213,41 +260,6 @@ const palpites = {
       "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 0897 no 5º Prêmio!",
       "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 0497 no 5º Prêmio!"
     ]
-  },
-  "PT RIO": {
-    "palpites": [
-      "7408",
-      "7409",
-      "7400",
-      "7428",
-      "7429",
-      "7420",
-      "7498",
-      "7499",
-      "7490",
-      "7808",
-      "7809",
-      "7800",
-      "7828",
-      "7829",
-      "7820",
-      "7898",
-      "7899",
-      "7890",
-      "7008",
-      "7009",
-      "7000",
-      "7028",
-      "7029",
-      "7020",
-      "7098",
-      "7099",
-      "7090",
-      "9408",
-      "9409",
-      "9400"
-    ],
-    "frases": []
   },
   "PT SP": {
     "palpites": [
