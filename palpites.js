@@ -1,4 +1,49 @@
 const palpites = {
+  "LOOK/GOIAS": {
+    "palpites": [
+      "2084",
+      "2082",
+      "2086",
+      "2014",
+      "2012",
+      "2016",
+      "2004",
+      "2002",
+      "2006",
+      "2784",
+      "2782",
+      "2786",
+      "2714",
+      "2712",
+      "2716",
+      "2704",
+      "2702",
+      "2706",
+      "2184",
+      "2182",
+      "2186",
+      "2114",
+      "2112",
+      "2116",
+      "2104",
+      "2102",
+      "2106",
+      "0084",
+      "0082",
+      "0086"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 5272 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 5672 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Centena, Palpite 5072 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 5072 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 5202 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Centena, Palpite 5602 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 5602 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 5002 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 8202 no 6º Prêmio!"
+    ]
+  },
   "BAHIA MALUCA": {
     "palpites": [
       "3901",
@@ -32,31 +77,7 @@ const palpites = {
       "7905",
       "7902"
     ],
-    "frases": [
-      "10h - MALUCA - Resultado do dia 03/03/2026 (Terça-feira)\nDeu Dezena, Palpite 1900 no 4º Prêmio!",
-      "10h - MALUCA - Resultado do dia 03/03/2026 (Terça-feira)\nDeu Dezena, Palpite 1100 no 4º Prêmio!",
-      "10h - MALUCA - Resultado do dia 03/03/2026 (Terça-feira)\nDeu Dezena, Palpite 1200 no 4º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 03/03/2026 (Terça-feira)\nDeu Dezena, Palpite 2232 no 9º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 03/03/2026 (Terça-feira)\nDeu Dezena, Palpite 2532 no 9º Prêmio!",
-      "15h - MALUCA - BA - Resultado do dia 03/03/2026 (Terça-feira)\nDeu Dezena, Palpite 2732 no 9º Prêmio!",
-      "19h - MALUCA - BA - Resultado do dia 03/03/2026 (Terça-feira)\nDeu Dezena, Palpite 2273 no 3º Prêmio!",
-      "19h - MALUCA - BA - Resultado do dia 03/03/2026 (Terça-feira)\nDeu Dezena, Palpite 2073 no 3º Prêmio!",
-      "19h - MALUCA - BA - Resultado do dia 03/03/2026 (Terça-feira)\nDeu Dezena, Palpite 2173 no 3º Prêmio!",
-      "19h - MALUCA - BA - Resultado do dia 03/03/2026 (Terça-feira)\nDeu Dezena, Palpite 2253 no 10º Prêmio!",
-      "19h - MALUCA - BA - Resultado do dia 03/03/2026 (Terça-feira)\nDeu Centena, Palpite 2053 no 10º Prêmio!",
-      "19h - MALUCA - BA - Resultado do dia 03/03/2026 (Terça-feira)\nDeu Dezena, Palpite 2053 no 10º Prêmio!",
-      "19h - MALUCA - BA - Resultado do dia 03/03/2026 (Terça-feira)\nDeu Dezena, Palpite 2153 no 10º Prêmio!",
-      "21h - MALUCA - BA - Resultado do dia 03/03/2026 (Terça-feira)\nDeu Dezena, Palpite 3064 no 3º Prêmio!",
-      "21h - MALUCA - BA - Resultado do dia 03/03/2026 (Terça-feira)\nDeu Dezena, Palpite 3964 no 3º Prêmio!",
-      "21h - MALUCA - BA - Resultado do dia 03/03/2026 (Terça-feira)\nDeu Dezena, Palpite 3164 no 3º Prêmio!",
-      "21h - MALUCA - BA - Resultado do dia 03/03/2026 (Terça-feira)\nDeu Dezena, Palpite 3001 no 6º Prêmio!",
-      "21h - MALUCA - BA - Resultado do dia 03/03/2026 (Terça-feira)\nDeu Centena, Palpite 3901 no 6º Prêmio!",
-      "21h - MALUCA - BA - Resultado do dia 03/03/2026 (Terça-feira)\nDeu Dezena, Palpite 3901 no 6º Prêmio!",
-      "21h - MALUCA - BA - Resultado do dia 03/03/2026 (Terça-feira)\nDeu Dezena, Palpite 3101 no 6º Prêmio!",
-      "21h - MALUCA - BA - Resultado do dia 03/03/2026 (Terça-feira)\nDeu Dezena, Palpite 3061 no 9º Prêmio!",
-      "21h - MALUCA - BA - Resultado do dia 03/03/2026 (Terça-feira)\nDeu Dezena, Palpite 3961 no 9º Prêmio!",
-      "21h - MALUCA - BA - Resultado do dia 03/03/2026 (Terça-feira)\nDeu Milhar, Palpite 3161 no 9º Prêmio!"
-    ]
+    "frases": []
   },
   "BAHIA": {
     "palpites": [
@@ -91,12 +112,7 @@ const palpites = {
       "3452",
       "3451"
     ],
-    "frases": [
-      "15h - BA - Resultado do dia 03/03/2026 (Terça-feira)\nDeu Dezena, Palpite 2622 no 2º Prêmio!",
-      "15h - BA - Resultado do dia 03/03/2026 (Terça-feira)\nDeu Dezena, Palpite 2722 no 2º Prêmio!",
-      "15h - BA - Resultado do dia 03/03/2026 (Terça-feira)\nDeu Dezena, Palpite 2822 no 2º Prêmio!",
-      "15h - BA - Resultado do dia 03/03/2026 (Terça-feira)\nDeu Dezena, Palpite 1622 no 2º Prêmio!"
-    ]
+    "frases": []
   },
   "LOTECE": {
     "palpites": [
@@ -131,54 +147,111 @@ const palpites = {
       "1134",
       "1133"
     ],
-    "frases": [
-      "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)\nDeu Dezena, Palpite 0099 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)\nDeu Dezena, Palpite 0399 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)\nDeu Dezena, Palpite 0899 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)\nDeu Dezena, Palpite 3099 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Centena, Palpite 3037 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 3037 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 3637 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 3737 no 7º Prêmio!"
-    ]
+    "frases": []
   },
-  "LOOK/GOIAS": {
+  "LOTEP": {
     "palpites": [
-      "5200",
-      "5209",
-      "5202",
-      "5220",
-      "5229",
-      "5222",
-      "5270",
-      "5279",
-      "5272",
-      "5600",
-      "5609",
-      "5602",
-      "5620",
-      "5629",
-      "5622",
-      "5670",
-      "5679",
-      "5672",
-      "5000",
-      "5009",
-      "5002",
-      "5020",
-      "5029",
-      "5022",
-      "5070",
-      "5079",
-      "5072",
-      "8200",
-      "8209",
-      "8202"
+      "4564",
+      "4569",
+      "4560",
+      "4534",
+      "4539",
+      "4530",
+      "4594",
+      "4599",
+      "4590",
+      "4964",
+      "4969",
+      "4960",
+      "4934",
+      "4939",
+      "4930",
+      "4994",
+      "4999",
+      "4990",
+      "4864",
+      "4869",
+      "4860",
+      "4834",
+      "4839",
+      "4830",
+      "4894",
+      "4899",
+      "4890",
+      "9564",
+      "9569",
+      "9560"
     ],
-    "frases": [
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 23h, 1º ao 10º\nDeu Dezena, Palpite 4802 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 23h, 1º ao 10º\nDeu Dezena, Palpite 4602 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 23h, 1º ao 10º\nDeu Dezena, Palpite 4102 no 3º Prêmio!"
-    ]
+    "frases": []
+  },
+  "PT RIO": {
+    "palpites": [
+      "9449",
+      "9441",
+      "9448",
+      "9459",
+      "9451",
+      "9458",
+      "9479",
+      "9471",
+      "9478",
+      "9749",
+      "9741",
+      "9748",
+      "9759",
+      "9751",
+      "9758",
+      "9779",
+      "9771",
+      "9778",
+      "9949",
+      "9941",
+      "9948",
+      "9959",
+      "9951",
+      "9958",
+      "9979",
+      "9971",
+      "9978",
+      "7449",
+      "7441",
+      "7448"
+    ],
+    "frases": []
+  },
+  "PT SP": {
+    "palpites": [
+      "5004",
+      "5003",
+      "5007",
+      "5024",
+      "5023",
+      "5027",
+      "5044",
+      "5043",
+      "5047",
+      "5404",
+      "5403",
+      "5407",
+      "5424",
+      "5423",
+      "5427",
+      "5444",
+      "5443",
+      "5447",
+      "5604",
+      "5603",
+      "5607",
+      "5624",
+      "5623",
+      "5627",
+      "5644",
+      "5643",
+      "5647",
+      "0004",
+      "0003",
+      "0007"
+    ],
+    "frases": []
   }
 };
