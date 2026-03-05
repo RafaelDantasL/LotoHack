@@ -1834,6 +1834,77 @@ const resultado = {
           "Elefante"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho LOTEP - PB, 18h",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "2215",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "2º",
+          "8345",
+          "12",
+          "Elefante"
+        ],
+        [
+          "3º",
+          "8628",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "4º",
+          "8665",
+          "17",
+          "Macaco"
+        ],
+        [
+          "5º",
+          "7548",
+          "12",
+          "Elefante"
+        ],
+        [
+          "6º",
+          "2888",
+          "22",
+          "Tigre"
+        ],
+        [
+          "7º",
+          "2366",
+          "17",
+          "Macaco"
+        ],
+        [
+          "8º",
+          "1426",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "9º",
+          "5585",
+          "22",
+          "Tigre"
+        ],
+        [
+          "10º",
+          "7666",
+          "17",
+          "Macaco"
+        ]
+      ]
     }
   ],
   "PT RIO": [
