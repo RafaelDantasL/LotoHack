@@ -32,7 +32,11 @@ const palpites = {
       "3124",
       "3126"
     ],
-    "frases": []
+    "frases": [
+      "10h - MALUCA - Resultado do dia 06/03/2026 (Sexta-feira)\nDeu Dezena, Palpite 6981 no 7º Prêmio!",
+      "10h - MALUCA - Resultado do dia 06/03/2026 (Sexta-feira)\nDeu Dezena, Palpite 6381 no 7º Prêmio!",
+      "10h - MALUCA - Resultado do dia 06/03/2026 (Sexta-feira)\nDeu Dezena, Palpite 6681 no 7º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -68,48 +72,62 @@ const palpites = {
       "1197"
     ],
     "frases": [
+      "10h - BA - Resultado do dia 06/03/2026 (Sexta-feira)\nDeu Dezena, Palpite 6319 no 3º Prêmio!",
+      "10h - BA - Resultado do dia 06/03/2026 (Sexta-feira)\nDeu Dezena, Palpite 6719 no 3º Prêmio!",
+      "10h - BA - Resultado do dia 06/03/2026 (Sexta-feira)\nDeu Dezena, Palpite 6819 no 3º Prêmio!",
+      "10h - BA - Resultado do dia 06/03/2026 (Sexta-feira)\nDeu Dezena, Palpite 6319 no 9º Prêmio!",
+      "10h - BA - Resultado do dia 06/03/2026 (Sexta-feira)\nDeu Dezena, Palpite 6719 no 9º Prêmio!",
+      "10h - BA - Resultado do dia 06/03/2026 (Sexta-feira)\nDeu Dezena, Palpite 6819 no 9º Prêmio!",
+      "12h - BA - Resultado do dia 06/03/2026 (Sexta-feira)\nDeu Centena, Palpite 0512 no 8º Prêmio!",
+      "12h - BA - Resultado do dia 06/03/2026 (Sexta-feira)\nDeu Dezena, Palpite 0512 no 8º Prêmio!",
+      "12h - BA - Resultado do dia 06/03/2026 (Sexta-feira)\nDeu Dezena, Palpite 0712 no 8º Prêmio!",
+      "12h - BA - Resultado do dia 06/03/2026 (Sexta-feira)\nDeu Dezena, Palpite 0112 no 8º Prêmio!",
       "15h - BA - Resultado do dia 06/03/2026 (Sexta-feira)\nDeu Dezena, Palpite 4303 no 5º Prêmio!",
       "15h - BA - Resultado do dia 06/03/2026 (Sexta-feira)\nDeu Dezena, Palpite 4503 no 5º Prêmio!",
       "15h - BA - Resultado do dia 06/03/2026 (Sexta-feira)\nDeu Dezena, Palpite 4003 no 5º Prêmio!"
     ]
   },
-  "PT SP": {
+  "LOTECE": {
     "palpites": [
-      "7050",
-      "7056",
-      "7051",
-      "7090",
-      "7096",
-      "7091",
-      "7000",
-      "7006",
-      "7001",
-      "7350",
-      "7356",
-      "7351",
-      "7390",
-      "7396",
-      "7391",
-      "7300",
-      "7306",
-      "7301",
-      "7750",
-      "7756",
-      "7751",
-      "7790",
-      "7796",
-      "7791",
-      "7700",
-      "7706",
-      "7701",
-      "0050",
-      "0056",
-      "0051"
+      "1908",
+      "1905",
+      "1900",
+      "1948",
+      "1945",
+      "1940",
+      "1918",
+      "1915",
+      "1910",
+      "1208",
+      "1205",
+      "1200",
+      "1248",
+      "1245",
+      "1240",
+      "1218",
+      "1215",
+      "1210",
+      "1608",
+      "1605",
+      "1600",
+      "1648",
+      "1645",
+      "1640",
+      "1618",
+      "1615",
+      "1610",
+      "7908",
+      "7905",
+      "7900"
     ],
     "frases": [
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 0606 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 0006 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 0406 no 1º Prêmio!"
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 6278 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 6078 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 6178 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 3278 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 6208 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 6008 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 6108 no 9º Prêmio!"
     ]
   }
 };
