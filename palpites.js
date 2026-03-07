@@ -32,7 +32,15 @@ const palpites = {
       "3011",
       "3014"
     ],
-    "frases": []
+    "frases": [
+      "10h - MALUCA - Resultado do dia 07/03/2026 (Sábado)\nDeu Dezena, Palpite 4140 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 07/03/2026 (Sábado)\nDeu Dezena, Palpite 4440 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 07/03/2026 (Sábado)\nDeu Dezena, Palpite 4540 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 07/03/2026 (Sábado)\nDeu Dezena, Palpite 9140 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 07/03/2026 (Sábado)\nDeu Dezena, Palpite 4194 no 4º Prêmio!",
+      "10h - MALUCA - Resultado do dia 07/03/2026 (Sábado)\nDeu Dezena, Palpite 4494 no 4º Prêmio!",
+      "10h - MALUCA - Resultado do dia 07/03/2026 (Sábado)\nDeu Dezena, Palpite 4594 no 4º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -206,42 +214,38 @@ const palpites = {
   },
   "LOTEP": {
     "palpites": [
-      "4027",
-      "4021",
-      "4025",
-      "4037",
-      "4031",
-      "4035",
-      "4007",
-      "4001",
-      "4005",
-      "4227",
-      "4221",
-      "4225",
-      "4237",
-      "4231",
-      "4235",
-      "4207",
-      "4201",
-      "4205",
-      "4127",
-      "4121",
-      "4125",
-      "4137",
-      "4131",
-      "4135",
-      "4107",
-      "4101",
-      "4105",
-      "2027",
-      "2021",
-      "2025"
+      "7373",
+      "7372",
+      "7375",
+      "7323",
+      "7322",
+      "7325",
+      "7353",
+      "7352",
+      "7355",
+      "7173",
+      "7172",
+      "7175",
+      "7123",
+      "7122",
+      "7125",
+      "7153",
+      "7152",
+      "7155",
+      "7273",
+      "7272",
+      "7275",
+      "7223",
+      "7222",
+      "7225",
+      "7253",
+      "7252",
+      "7255",
+      "0373",
+      "0372",
+      "0375"
     ],
-    "frases": [
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 2700 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 2800 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 2100 no 7º Prêmio!"
-    ]
+    "frases": []
   },
   "PT RIO": {
     "palpites": [
