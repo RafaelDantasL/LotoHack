@@ -249,6 +249,86 @@ const palpites = {
       "5155",
       "5152"
     ],
+    "frases": [
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0133 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Centena, Palpite 0433 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0433 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0733 no 5º Prêmio!"
+    ]
+  },
+  "PT RIO": {
+    "palpites": [
+      "5160",
+      "5161",
+      "5162",
+      "5180",
+      "5181",
+      "5182",
+      "5190",
+      "5191",
+      "5192",
+      "5460",
+      "5461",
+      "5462",
+      "5480",
+      "5481",
+      "5482",
+      "5490",
+      "5491",
+      "5492",
+      "5560",
+      "5561",
+      "5562",
+      "5580",
+      "5581",
+      "5582",
+      "5590",
+      "5591",
+      "5592",
+      "6160",
+      "6161",
+      "6162"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 0063 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Centena, Palpite 0163 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 0163 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 0263 no 10º Prêmio!"
+    ]
+  },
+  "PT SP": {
+    "palpites": [
+      "5866",
+      "5868",
+      "5862",
+      "5806",
+      "5808",
+      "5802",
+      "5816",
+      "5818",
+      "5812",
+      "5066",
+      "5068",
+      "5062",
+      "5006",
+      "5008",
+      "5002",
+      "5016",
+      "5018",
+      "5012",
+      "5466",
+      "5468",
+      "5462",
+      "5406",
+      "5408",
+      "5402",
+      "5416",
+      "5418",
+      "5412",
+      "9866",
+      "9868",
+      "9862"
+    ],
     "frases": []
   }
 };
