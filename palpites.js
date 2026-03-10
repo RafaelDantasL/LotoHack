@@ -253,7 +253,11 @@ const palpites = {
       "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0133 no 5º Prêmio!",
       "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Centena, Palpite 0433 no 5º Prêmio!",
       "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0433 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0733 no 5º Prêmio!"
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0733 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 2005 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 2605 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 2205 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 0005 no 2º Prêmio!"
     ]
   },
   "PT RIO": {
@@ -290,45 +294,5 @@ const palpites = {
       "4496"
     ],
     "frases": []
-  },
-  "PT SP": {
-    "palpites": [
-      "5866",
-      "5868",
-      "5862",
-      "5806",
-      "5808",
-      "5802",
-      "5816",
-      "5818",
-      "5812",
-      "5066",
-      "5068",
-      "5062",
-      "5006",
-      "5008",
-      "5002",
-      "5016",
-      "5018",
-      "5012",
-      "5466",
-      "5468",
-      "5462",
-      "5406",
-      "5408",
-      "5402",
-      "5416",
-      "5418",
-      "5412",
-      "9866",
-      "9868",
-      "9862"
-    ],
-    "frases": [
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3204 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3304 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3804 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 4204 no 9º Prêmio!"
-    ]
   }
 };
