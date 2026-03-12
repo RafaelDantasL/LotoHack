@@ -3767,6 +3767,130 @@ const resultado = {
           "Vaca"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 21:20, CORUJA, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "1832",
+          "08",
+          "Camelo"
+        ],
+        [
+          "2º",
+          "8102",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "3º",
+          "4243",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "4º",
+          "1966",
+          "17",
+          "Macaco"
+        ],
+        [
+          "5º",
+          "7115",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "6º [soma]",
+          "3258",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "842",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 21:20, CORUJA, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "1832",
+          "08",
+          "Camelo"
+        ],
+        [
+          "2º",
+          "8102",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "3º",
+          "4243",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "4º",
+          "1966",
+          "17",
+          "Macaco"
+        ],
+        [
+          "5º",
+          "7115",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "6º",
+          "1841",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "7º",
+          "8129",
+          "08",
+          "Camelo"
+        ],
+        [
+          "8º",
+          "3046",
+          "12",
+          "Elefante"
+        ],
+        [
+          "9º",
+          "2236",
+          "09",
+          "Cobra"
+        ],
+        [
+          "10º",
+          "8510",
+          "03",
+          "Burro"
+        ]
+      ]
     }
   ],
   "PT SP": [
