@@ -38,45 +38,6 @@ const palpites = {
       "10h - MALUCA - Resultado do dia 12/03/2026 (Quinta-feira)\nDeu Dezena, Palpite 2204 no 7º Prêmio!"
     ]
   },
-  "PT SP": {
-    "palpites": [
-      "0715",
-      "0711",
-      "0717",
-      "0755",
-      "0751",
-      "0757",
-      "0785",
-      "0781",
-      "0787",
-      "0315",
-      "0311",
-      "0317",
-      "0355",
-      "0351",
-      "0357",
-      "0385",
-      "0381",
-      "0387",
-      "0115",
-      "0111",
-      "0117",
-      "0155",
-      "0151",
-      "0157",
-      "0185",
-      "0181",
-      "0187",
-      "1715",
-      "1711",
-      "1717"
-    ],
-    "frases": [
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1201 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1101 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1301 no 1º Prêmio!"
-    ]
-  },
   "BAHIA": {
     "palpites": [
       "2030",
@@ -109,41 +70,6 @@ const palpites = {
       "3030",
       "3035",
       "3036"
-    ],
-    "frases": []
-  },
-  "LOTECE": {
-    "palpites": [
-      "1096",
-      "1097",
-      "1098",
-      "1046",
-      "1047",
-      "1048",
-      "1016",
-      "1017",
-      "1018",
-      "1596",
-      "1597",
-      "1598",
-      "1546",
-      "1547",
-      "1548",
-      "1516",
-      "1517",
-      "1518",
-      "1896",
-      "1897",
-      "1898",
-      "1846",
-      "1847",
-      "1848",
-      "1816",
-      "1817",
-      "1818",
-      "4096",
-      "4097",
-      "4098"
     ],
     "frases": []
   },
@@ -293,5 +219,44 @@ const palpites = {
       "2125"
     ],
     "frases": []
+  },
+  "PT SP": {
+    "palpites": [
+      "0715",
+      "0711",
+      "0717",
+      "0755",
+      "0751",
+      "0757",
+      "0785",
+      "0781",
+      "0787",
+      "0315",
+      "0311",
+      "0317",
+      "0355",
+      "0351",
+      "0357",
+      "0385",
+      "0381",
+      "0387",
+      "0115",
+      "0111",
+      "0117",
+      "0155",
+      "0151",
+      "0157",
+      "0185",
+      "0181",
+      "0187",
+      "1715",
+      "1711",
+      "1717"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1201 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1101 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1301 no 1º Prêmio!"
+    ]
   }
 };
