@@ -3999,6 +3999,130 @@ const resultado = {
           "Camelo"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "9832",
+          "08",
+          "Camelo"
+        ],
+        [
+          "2º",
+          "1168",
+          "17",
+          "Macaco"
+        ],
+        [
+          "3º",
+          "9216",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "4º",
+          "7875",
+          "19",
+          "Pavão"
+        ],
+        [
+          "5º",
+          "6428",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "6º [soma]",
+          "4519",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "483",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "9832",
+          "08",
+          "Camelo"
+        ],
+        [
+          "2º",
+          "1168",
+          "17",
+          "Macaco"
+        ],
+        [
+          "3º",
+          "9216",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "4º",
+          "7875",
+          "19",
+          "Pavão"
+        ],
+        [
+          "5º",
+          "6428",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "6º",
+          "9197",
+          "25",
+          "Vaca"
+        ],
+        [
+          "7º",
+          "8128",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "8º",
+          "3617",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "9º",
+          "2865",
+          "17",
+          "Macaco"
+        ],
+        [
+          "10º",
+          "8326",
+          "07",
+          "Carneiro"
+        ]
+      ]
     }
   ]
 };
