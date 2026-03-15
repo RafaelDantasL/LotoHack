@@ -223,12 +223,18 @@ const palpites = {
       "5911"
     ],
     "frases": [
-      "Resultado do Jogo do Bicho PB, Paratodos 10:45\nDeu Centena, Palpite 0219 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho PB, Paratodos 10:45\nDeu Dezena, Palpite 0219 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho PB, Paratodos 10:45\nDeu Dezena, Palpite 0719 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho PB, Paratodos 10:45\nDeu Dezena, Palpite 0919 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho PB, Paratodos 10:45\nDeu Centena, Palpite 8219 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho PB, Paratodos 10:45\nDeu Dezena, Palpite 8219 no 7º Prêmio!"
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 0277 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 0777 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 0977 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 0259 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 0759 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 0959 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 10:45\nDeu Dezena, Palpite 0737 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 10:45\nDeu Dezena, Palpite 0537 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 10:45\nDeu Dezena, Palpite 0037 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 10:45\nDeu Dezena, Palpite 0731 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 10:45\nDeu Dezena, Palpite 0531 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 10:45\nDeu Dezena, Palpite 0031 no 8º Prêmio!"
     ]
   },
   "PT RIO": {
@@ -265,14 +271,6 @@ const palpites = {
       "3130"
     ],
     "frases": [
-      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 8213 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 8913 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 8013 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 2213 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 8213 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 8913 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 8013 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 2213 no 3º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 8213 no 3º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 8913 no 3º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 8013 no 3º Prêmio!",
