@@ -805,6 +805,59 @@ const resultado = {
       ]
     },
     {
+      "titulo": "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 16h",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "2608",
+          "02",
+          "Águia"
+        ],
+        [
+          "2º",
+          "5251",
+          "13",
+          "Galo"
+        ],
+        [
+          "3º",
+          "1478",
+          "20",
+          "Peru"
+        ],
+        [
+          "4º",
+          "6572",
+          "18",
+          "Porco"
+        ],
+        [
+          "5º",
+          "3337",
+          "10",
+          "Coelho"
+        ],
+        [
+          "6º [soma]",
+          "9246",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "694",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
       "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 5º",
       "conteudo": [
         [
@@ -1297,6 +1350,130 @@ const resultado = {
           "2686",
           "22",
           "Tigre"
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 16h, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "8229",
+          "08",
+          "Camelo"
+        ],
+        [
+          "2º",
+          "0772",
+          "18",
+          "Porco"
+        ],
+        [
+          "3º",
+          "5524",
+          "06",
+          "Cabra"
+        ],
+        [
+          "4º",
+          "3496",
+          "24",
+          "Veado"
+        ],
+        [
+          "5º",
+          "3791",
+          "23",
+          "Urso"
+        ],
+        [
+          "6º [soma]",
+          "1812",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "352",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 16h, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "8229",
+          "08",
+          "Camelo"
+        ],
+        [
+          "2º",
+          "0772",
+          "18",
+          "Porco"
+        ],
+        [
+          "3º",
+          "5524",
+          "06",
+          "Cabra"
+        ],
+        [
+          "4º",
+          "3496",
+          "24",
+          "Veado"
+        ],
+        [
+          "5º",
+          "3791",
+          "23",
+          "Urso"
+        ],
+        [
+          "6º",
+          "8053",
+          "14",
+          "Gato"
+        ],
+        [
+          "7º",
+          "2754",
+          "14",
+          "Gato"
+        ],
+        [
+          "8º",
+          "2729",
+          "08",
+          "Camelo"
+        ],
+        [
+          "9º",
+          "9246",
+          "12",
+          "Elefante"
+        ],
+        [
+          "10º",
+          "4594",
+          "24",
+          "Veado"
         ]
       ]
     }
