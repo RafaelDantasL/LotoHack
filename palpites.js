@@ -33,5 +33,54 @@ const palpites = {
       "1099"
     ],
     "frases": []
+  },
+  "BAHIA": {
+    "palpites": [
+      "9441",
+      "9442",
+      "9449",
+      "9471",
+      "9472",
+      "9479",
+      "9401",
+      "9402",
+      "9409",
+      "9041",
+      "9042",
+      "9049",
+      "9071",
+      "9072",
+      "9079",
+      "9001",
+      "9002",
+      "9009",
+      "9541",
+      "9542",
+      "9549",
+      "9571",
+      "9572",
+      "9579",
+      "9501",
+      "9502",
+      "9509",
+      "4441",
+      "4442",
+      "4449"
+    ],
+    "frases": [
+      "12h - BA - Resultado do dia 16/03/2026 (Segunda-feira)\nDeu Centena, Palpite 9442 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 16/03/2026 (Segunda-feira)\nDeu Dezena, Palpite 9442 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 16/03/2026 (Segunda-feira)\nDeu Dezena, Palpite 9042 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 16/03/2026 (Segunda-feira)\nDeu Dezena, Palpite 9542 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 16/03/2026 (Segunda-feira)\nDeu Centena, Palpite 4442 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 16/03/2026 (Segunda-feira)\nDeu Dezena, Palpite 4442 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 16/03/2026 (Segunda-feira)\nDeu Dezena, Palpite 9471 no 8º Prêmio!",
+      "12h - BA - Resultado do dia 16/03/2026 (Segunda-feira)\nDeu Dezena, Palpite 9071 no 8º Prêmio!",
+      "12h - BA - Resultado do dia 16/03/2026 (Segunda-feira)\nDeu Milhar, Palpite 9571 no 8º Prêmio!",
+      "12h - BA - Resultado do dia 16/03/2026 (Segunda-feira)\nDeu Dezena, Palpite 9449 no 9º Prêmio!",
+      "12h - BA - Resultado do dia 16/03/2026 (Segunda-feira)\nDeu Dezena, Palpite 9049 no 9º Prêmio!",
+      "12h - BA - Resultado do dia 16/03/2026 (Segunda-feira)\nDeu Dezena, Palpite 9549 no 9º Prêmio!",
+      "12h - BA - Resultado do dia 16/03/2026 (Segunda-feira)\nDeu Dezena, Palpite 4449 no 9º Prêmio!"
+    ]
   }
 };
