@@ -3095,6 +3095,130 @@ const resultado = {
           "Cabra"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "5814",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "2º",
+          "4295",
+          "24",
+          "Veado"
+        ],
+        [
+          "3º",
+          "2640",
+          "10",
+          "Coelho"
+        ],
+        [
+          "4º",
+          "9533",
+          "09",
+          "Cobra"
+        ],
+        [
+          "5º",
+          "4604",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "6º [soma]",
+          "6886",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "971",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "5814",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "2º",
+          "4295",
+          "24",
+          "Veado"
+        ],
+        [
+          "3º",
+          "2640",
+          "10",
+          "Coelho"
+        ],
+        [
+          "4º",
+          "9533",
+          "09",
+          "Cobra"
+        ],
+        [
+          "5º",
+          "4604",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "6º",
+          "5429",
+          "08",
+          "Camelo"
+        ],
+        [
+          "7º",
+          "8265",
+          "17",
+          "Macaco"
+        ],
+        [
+          "8º",
+          "1943",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "9º",
+          "4503",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "10º",
+          "7026",
+          "07",
+          "Carneiro"
+        ]
+      ]
     }
   ]
 };
