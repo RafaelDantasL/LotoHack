@@ -858,6 +858,59 @@ const resultado = {
       ]
     },
     {
+      "titulo": "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 18h",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "2457",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "2º",
+          "9715",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "3º",
+          "9440",
+          "10",
+          "Coelho"
+        ],
+        [
+          "4º",
+          "2981",
+          "21",
+          "Touro"
+        ],
+        [
+          "5º",
+          "8661",
+          "16",
+          "Leão"
+        ],
+        [
+          "6º [soma]",
+          "3254",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "869",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
       "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 5º",
       "conteudo": [
         [
@@ -3412,6 +3465,130 @@ const resultado = {
           "3227",
           "07",
           "Carneiro"
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 18hs - PTSP, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "1993",
+          "24",
+          "Veado"
+        ],
+        [
+          "2º",
+          "8318",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "3º",
+          "3947",
+          "12",
+          "Elefante"
+        ],
+        [
+          "4º",
+          "4368",
+          "17",
+          "Macaco"
+        ],
+        [
+          "5º",
+          "4423",
+          "06",
+          "Cabra"
+        ],
+        [
+          "6º [soma]",
+          "3049",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "577",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 18hs - PTSP, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "1993",
+          "24",
+          "Veado"
+        ],
+        [
+          "2º",
+          "8318",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "3º",
+          "3947",
+          "12",
+          "Elefante"
+        ],
+        [
+          "4º",
+          "4368",
+          "17",
+          "Macaco"
+        ],
+        [
+          "5º",
+          "4423",
+          "06",
+          "Cabra"
+        ],
+        [
+          "6º",
+          "1834",
+          "09",
+          "Cobra"
+        ],
+        [
+          "7º",
+          "9393",
+          "24",
+          "Veado"
+        ],
+        [
+          "8º",
+          "9146",
+          "12",
+          "Elefante"
+        ],
+        [
+          "9º",
+          "3878",
+          "20",
+          "Peru"
+        ],
+        [
+          "10º",
+          "7300",
+          "25",
+          "Vaca"
         ]
       ]
     }
