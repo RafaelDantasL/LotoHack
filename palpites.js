@@ -84,6 +84,46 @@ const palpites = {
       "10h - BA - Resultado do dia 18/03/2026 (Quarta-feira)\nDeu Dezena, Palpite 7116 no 6º Prêmio!"
     ]
   },
+  "LOOK/GOIAS": {
+    "palpites": [
+      "3447",
+      "3444",
+      "3446",
+      "3417",
+      "3414",
+      "3416",
+      "3477",
+      "3474",
+      "3476",
+      "3247",
+      "3244",
+      "3246",
+      "3217",
+      "3214",
+      "3216",
+      "3277",
+      "3274",
+      "3276",
+      "3747",
+      "3744",
+      "3746",
+      "3717",
+      "3714",
+      "3716",
+      "3777",
+      "3774",
+      "3776",
+      "4447",
+      "4444",
+      "4446"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Centena, Palpite 4711 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 4711 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 4611 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 4911 no 5º Prêmio!"
+    ]
+  },
   "LOTECE": {
     "palpites": [
       "4220",
@@ -118,46 +158,6 @@ const palpites = {
       "9228"
     ],
     "frases": []
-  },
-  "LOOK/GOIAS": {
-    "palpites": [
-      "4701",
-      "4700",
-      "4702",
-      "4711",
-      "4710",
-      "4712",
-      "4731",
-      "4730",
-      "4732",
-      "4601",
-      "4600",
-      "4602",
-      "4611",
-      "4610",
-      "4612",
-      "4631",
-      "4630",
-      "4632",
-      "4901",
-      "4900",
-      "4902",
-      "4911",
-      "4910",
-      "4912",
-      "4931",
-      "4930",
-      "4932",
-      "0701",
-      "0700",
-      "0702"
-    ],
-    "frases": [
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 11h, 1º ao 10º\nDeu Dezena, Palpite 3417 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 11h, 1º ao 10º\nDeu Dezena, Palpite 3217 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 11h, 1º ao 10º\nDeu Centena, Palpite 3717 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 11h, 1º ao 10º\nDeu Dezena, Palpite 3717 no 2º Prêmio!"
-    ]
   },
   "LOTEP": {
     "palpites": [
