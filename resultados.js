@@ -1319,6 +1319,59 @@ const resultado = {
       ]
     },
     {
+      "titulo": "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 21h",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "0150",
+          "13",
+          "Galo"
+        ],
+        [
+          "2º",
+          "6133",
+          "09",
+          "Cobra"
+        ],
+        [
+          "3º",
+          "2224",
+          "06",
+          "Cabra"
+        ],
+        [
+          "4º",
+          "6153",
+          "14",
+          "Gato"
+        ],
+        [
+          "5º",
+          "2102",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "6º [soma]",
+          "6762",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "919",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
       "titulo": "Resultado do Jogo do Bicho FEDERAL, 1º ao 5º",
       "conteudo": [
         [
@@ -3765,130 +3818,6 @@ const resultado = {
           "6944",
           "11",
           "Cavalo"
-        ]
-      ]
-    },
-    {
-      "titulo": "Resultado do Jogo do Bicho RJ, 21:20, CORUJA, 1º ao 5º",
-      "conteudo": [
-        [
-          "Prêmio",
-          "Milhar",
-          "Grupo",
-          "Bicho"
-        ],
-        [
-          "1º",
-          "7920",
-          "05",
-          "Cachorro"
-        ],
-        [
-          "2º",
-          "1646",
-          "12",
-          "Elefante"
-        ],
-        [
-          "3º",
-          "3874",
-          "19",
-          "Pavão"
-        ],
-        [
-          "4º",
-          "8822",
-          "06",
-          "Cabra"
-        ],
-        [
-          "5º",
-          "3549",
-          "13",
-          "Galo"
-        ],
-        [
-          "6º [soma]",
-          "5811",
-          "",
-          ""
-        ],
-        [
-          "7º [mult]",
-          "036",
-          "",
-          ""
-        ]
-      ]
-    },
-    {
-      "titulo": "Resultado do Jogo do Bicho RJ, 21:20, CORUJA, 1º ao 10º",
-      "conteudo": [
-        [
-          "Prêmio",
-          "Milhar",
-          "Grupo",
-          "Bicho"
-        ],
-        [
-          "1º",
-          "7920",
-          "05",
-          "Cachorro"
-        ],
-        [
-          "2º",
-          "1646",
-          "12",
-          "Elefante"
-        ],
-        [
-          "3º",
-          "3874",
-          "19",
-          "Pavão"
-        ],
-        [
-          "4º",
-          "8822",
-          "06",
-          "Cabra"
-        ],
-        [
-          "5º",
-          "3549",
-          "13",
-          "Galo"
-        ],
-        [
-          "6º",
-          "7138",
-          "10",
-          "Coelho"
-        ],
-        [
-          "7º",
-          "9688",
-          "22",
-          "Tigre"
-        ],
-        [
-          "8º",
-          "2472",
-          "18",
-          "Porco"
-        ],
-        [
-          "9º",
-          "0642",
-          "11",
-          "Cavalo"
-        ],
-        [
-          "10º",
-          "5751",
-          "13",
-          "Galo"
         ]
       ]
     }
