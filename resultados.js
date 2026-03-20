@@ -3095,6 +3095,130 @@ const resultado = {
           "Coelho"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "0813",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "2º",
+          "5583",
+          "21",
+          "Touro"
+        ],
+        [
+          "3º",
+          "1144",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "4º",
+          "9917",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "5º",
+          "8322",
+          "06",
+          "Cabra"
+        ],
+        [
+          "6º [soma]",
+          "5779",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "538",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "0813",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "2º",
+          "5583",
+          "21",
+          "Touro"
+        ],
+        [
+          "3º",
+          "1144",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "4º",
+          "9917",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "5º",
+          "8322",
+          "06",
+          "Cabra"
+        ],
+        [
+          "6º",
+          "0519",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "7º",
+          "8519",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "8º",
+          "1841",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "9º",
+          "3347",
+          "12",
+          "Elefante"
+        ],
+        [
+          "10º",
+          "0005",
+          "02",
+          "Águia"
+        ]
+      ]
     }
   ]
 };
