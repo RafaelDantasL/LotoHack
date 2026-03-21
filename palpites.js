@@ -88,6 +88,9 @@ const palpites = {
       "8454"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 0088 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 0288 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 0888 no 3º Prêmio!",
       "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 4539 no 2º Prêmio!",
       "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 4939 no 2º Prêmio!",
       "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 4039 no 2º Prêmio!",
@@ -95,5 +98,79 @@ const palpites = {
       "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 4976 no 4º Prêmio!",
       "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 4076 no 4º Prêmio!"
     ]
+  },
+  "PT RIO": {
+    "palpites": [
+      "1220",
+      "1224",
+      "1221",
+      "1240",
+      "1244",
+      "1241",
+      "1260",
+      "1264",
+      "1261",
+      "1420",
+      "1424",
+      "1421",
+      "1440",
+      "1444",
+      "1441",
+      "1460",
+      "1464",
+      "1461",
+      "1020",
+      "1024",
+      "1021",
+      "1040",
+      "1044",
+      "1041",
+      "1060",
+      "1064",
+      "1061",
+      "3220",
+      "3224",
+      "3221"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 6413 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 6013 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 6113 no 1º Prêmio!"
+    ]
+  },
+  "PT SP": {
+    "palpites": [
+      "0140",
+      "0142",
+      "0143",
+      "0150",
+      "0152",
+      "0153",
+      "0180",
+      "0182",
+      "0183",
+      "0340",
+      "0342",
+      "0343",
+      "0350",
+      "0352",
+      "0353",
+      "0380",
+      "0382",
+      "0383",
+      "0840",
+      "0842",
+      "0843",
+      "0850",
+      "0852",
+      "0853",
+      "0880",
+      "0882",
+      "0883",
+      "1140",
+      "1142",
+      "1143"
+    ],
+    "frases": []
   }
 };
