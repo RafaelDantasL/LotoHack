@@ -178,15 +178,7 @@ const palpites = {
       "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 4039 no 2º Prêmio!",
       "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 4576 no 4º Prêmio!",
       "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 4976 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 4076 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 1221 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 1321 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 1421 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 0221 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 1227 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 1327 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 1427 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 0227 no 8º Prêmio!"
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 4076 no 4º Prêmio!"
     ]
   },
   "PT RIO": {
@@ -228,75 +220,5 @@ const palpites = {
       "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 1024 no 10º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 3224 no 10º Prêmio!"
     ]
-  },
-  "LOTECE": {
-    "palpites": [
-      "0339",
-      "0336",
-      "0337",
-      "0349",
-      "0346",
-      "0347",
-      "0369",
-      "0366",
-      "0367",
-      "0739",
-      "0736",
-      "0737",
-      "0749",
-      "0746",
-      "0747",
-      "0769",
-      "0766",
-      "0767",
-      "0939",
-      "0936",
-      "0937",
-      "0949",
-      "0946",
-      "0947",
-      "0969",
-      "0966",
-      "0967",
-      "8339",
-      "8336",
-      "8337"
-    ],
-    "frases": []
-  },
-  "PT SP": {
-    "palpites": [
-      "0140",
-      "0142",
-      "0143",
-      "0150",
-      "0152",
-      "0153",
-      "0180",
-      "0182",
-      "0183",
-      "0340",
-      "0342",
-      "0343",
-      "0350",
-      "0352",
-      "0353",
-      "0380",
-      "0382",
-      "0383",
-      "0840",
-      "0842",
-      "0843",
-      "0850",
-      "0852",
-      "0853",
-      "0880",
-      "0882",
-      "0883",
-      "1140",
-      "1142",
-      "1143"
-    ],
-    "frases": []
   }
 };
