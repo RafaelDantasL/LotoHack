@@ -68,10 +68,54 @@ const palpites = {
       "6477"
     ],
     "frases": [
+      "10h - BA - Resultado do dia 21/03/2026 (Sábado)\nDeu Dezena, Palpite 4140 no 5º Prêmio!",
+      "10h - BA - Resultado do dia 21/03/2026 (Sábado)\nDeu Centena, Palpite 4740 no 5º Prêmio!",
+      "10h - BA - Resultado do dia 21/03/2026 (Sábado)\nDeu Dezena, Palpite 4740 no 5º Prêmio!",
+      "10h - BA - Resultado do dia 21/03/2026 (Sábado)\nDeu Dezena, Palpite 4440 no 5º Prêmio!",
       "15h - BA - Resultado do dia 21/03/2026 (Sábado)\nDeu Dezena, Palpite 1453 no 10º Prêmio!",
       "15h - BA - Resultado do dia 21/03/2026 (Sábado)\nDeu Dezena, Palpite 1553 no 10º Prêmio!",
       "15h - BA - Resultado do dia 21/03/2026 (Sábado)\nDeu Centena, Palpite 1953 no 10º Prêmio!",
       "15h - BA - Resultado do dia 21/03/2026 (Sábado)\nDeu Dezena, Palpite 1953 no 10º Prêmio!"
+    ]
+  },
+  "LOTECE": {
+    "palpites": [
+      "0074",
+      "0072",
+      "0075",
+      "0084",
+      "0082",
+      "0085",
+      "0004",
+      "0002",
+      "0005",
+      "0774",
+      "0772",
+      "0775",
+      "0784",
+      "0782",
+      "0785",
+      "0704",
+      "0702",
+      "0705",
+      "0974",
+      "0972",
+      "0975",
+      "0984",
+      "0982",
+      "0985",
+      "0904",
+      "0902",
+      "0905",
+      "4074",
+      "4072",
+      "4075"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 0408 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 0208 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 0308 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 2408 no 10º Prêmio!"
     ]
   }
 };
