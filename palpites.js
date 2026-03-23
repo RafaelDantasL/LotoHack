@@ -1,4 +1,45 @@
 const palpites = {
+  "LOOK/GOIAS": {
+    "palpites": [
+      "4824",
+      "4826",
+      "4820",
+      "4834",
+      "4836",
+      "4830",
+      "4874",
+      "4876",
+      "4870",
+      "4424",
+      "4426",
+      "4420",
+      "4434",
+      "4436",
+      "4430",
+      "4474",
+      "4476",
+      "4470",
+      "4024",
+      "4026",
+      "4020",
+      "4034",
+      "4036",
+      "4030",
+      "4074",
+      "4076",
+      "4070",
+      "1824",
+      "1826",
+      "1820"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 8910 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Centena, Palpite 8810 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 8810 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 8010 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 2910 no 10º Prêmio!"
+    ]
+  },
   "BAHIA MALUCA": {
     "palpites": [
       "1810",
@@ -68,6 +109,10 @@ const palpites = {
       "1160"
     ],
     "frases": [
+      "12h - BA - Resultado do dia 22/03/2026 (Domingo)\nDeu Dezena, Palpite 0141 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 22/03/2026 (Domingo)\nDeu Centena, Palpite 0841 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 22/03/2026 (Domingo)\nDeu Dezena, Palpite 0841 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 22/03/2026 (Domingo)\nDeu Dezena, Palpite 0041 no 4º Prêmio!",
       "15h - BA - Resultado do dia 22/03/2026 (Domingo)\nDeu Dezena, Palpite 5840 no 1º Prêmio!",
       "15h - BA - Resultado do dia 22/03/2026 (Domingo)\nDeu Centena, Palpite 5040 no 1º Prêmio!",
       "15h - BA - Resultado do dia 22/03/2026 (Domingo)\nDeu Dezena, Palpite 5040 no 1º Prêmio!",
@@ -110,41 +155,6 @@ const palpites = {
       "4082",
       "4085",
       "4086"
-    ],
-    "frases": []
-  },
-  "LOOK/GOIAS": {
-    "palpites": [
-      "8917",
-      "8918",
-      "8910",
-      "8987",
-      "8988",
-      "8980",
-      "8907",
-      "8908",
-      "8900",
-      "8817",
-      "8818",
-      "8810",
-      "8887",
-      "8888",
-      "8880",
-      "8807",
-      "8808",
-      "8800",
-      "8017",
-      "8018",
-      "8010",
-      "8087",
-      "8088",
-      "8080",
-      "8007",
-      "8008",
-      "8000",
-      "2917",
-      "2918",
-      "2910"
     ],
     "frases": []
   },
