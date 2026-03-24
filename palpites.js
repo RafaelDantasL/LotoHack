@@ -261,44 +261,5 @@ const palpites = {
       "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 0261 no 7º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 0361 no 7º Prêmio!"
     ]
-  },
-  "PT SP": {
-    "palpites": [
-      "1729",
-      "1720",
-      "1721",
-      "1779",
-      "1770",
-      "1771",
-      "1709",
-      "1700",
-      "1701",
-      "1129",
-      "1120",
-      "1121",
-      "1179",
-      "1170",
-      "1171",
-      "1109",
-      "1100",
-      "1101",
-      "1229",
-      "1220",
-      "1221",
-      "1279",
-      "1270",
-      "1271",
-      "1209",
-      "1200",
-      "1201",
-      "2729",
-      "2720",
-      "2721"
-    ],
-    "frases": [
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2320 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2020 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2420 no 7º Prêmio!"
-    ]
   }
 };
