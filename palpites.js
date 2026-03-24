@@ -296,53 +296,5 @@ const palpites = {
       "0204"
     ],
     "frases": []
-  },
-  "PT SP": {
-    "palpites": [
-      "9123",
-      "9125",
-      "9120",
-      "9163",
-      "9165",
-      "9160",
-      "9103",
-      "9105",
-      "9100",
-      "9623",
-      "9625",
-      "9620",
-      "9663",
-      "9665",
-      "9660",
-      "9603",
-      "9605",
-      "9600",
-      "9023",
-      "9025",
-      "9020",
-      "9063",
-      "9065",
-      "9060",
-      "9003",
-      "9005",
-      "9000",
-      "6123",
-      "6125",
-      "6120"
-    ],
-    "frases": [
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2320 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2020 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2420 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 1701 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 1101 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 1201 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 0332 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 0532 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 0732 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 0368 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 0568 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 0768 no 8º Prêmio!"
-    ]
   }
 };
