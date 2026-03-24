@@ -86,6 +86,41 @@ const palpites = {
       "10h - BA - Resultado do dia 24/03/2026 (Terça-feira)\nDeu Dezena, Palpite 0821 no 5º Prêmio!"
     ]
   },
+  "LOTECE": {
+    "palpites": [
+      "2541",
+      "2542",
+      "2545",
+      "2561",
+      "2562",
+      "2565",
+      "2591",
+      "2592",
+      "2595",
+      "2741",
+      "2742",
+      "2745",
+      "2761",
+      "2762",
+      "2765",
+      "2791",
+      "2792",
+      "2795",
+      "2241",
+      "2242",
+      "2245",
+      "2261",
+      "2262",
+      "2265",
+      "2291",
+      "2292",
+      "2295",
+      "4541",
+      "4542",
+      "4545"
+    ],
+    "frases": []
+  },
   "LOOK/GOIAS": {
     "palpites": [
       "7362",
@@ -174,6 +209,85 @@ const palpites = {
       "5750",
       "5751"
     ],
+    "frases": [
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 7462 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 7662 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 7962 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 4462 no 2º Prêmio!"
+    ]
+  },
+  "PT RIO": {
+    "palpites": [
+      "0143",
+      "0142",
+      "0141",
+      "0163",
+      "0162",
+      "0161",
+      "0113",
+      "0112",
+      "0111",
+      "0243",
+      "0242",
+      "0241",
+      "0263",
+      "0262",
+      "0261",
+      "0213",
+      "0212",
+      "0211",
+      "0343",
+      "0342",
+      "0341",
+      "0363",
+      "0362",
+      "0361",
+      "0313",
+      "0312",
+      "0311",
+      "2143",
+      "2142",
+      "2141"
+    ],
     "frases": []
+  },
+  "PT SP": {
+    "palpites": [
+      "1729",
+      "1720",
+      "1721",
+      "1779",
+      "1770",
+      "1771",
+      "1709",
+      "1700",
+      "1701",
+      "1129",
+      "1120",
+      "1121",
+      "1179",
+      "1170",
+      "1171",
+      "1109",
+      "1100",
+      "1101",
+      "1229",
+      "1220",
+      "1221",
+      "1279",
+      "1270",
+      "1271",
+      "1209",
+      "1200",
+      "1201",
+      "2729",
+      "2720",
+      "2721"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2320 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2020 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2420 no 7º Prêmio!"
+    ]
   }
 };
