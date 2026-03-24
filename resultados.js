@@ -858,6 +858,59 @@ const resultado = {
       ]
     },
     {
+      "titulo": "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 18h",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "7416",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "2º",
+          "1227",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "3º",
+          "5916",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "4º",
+          "1078",
+          "20",
+          "Peru"
+        ],
+        [
+          "5º",
+          "6168",
+          "17",
+          "Macaco"
+        ],
+        [
+          "6º [soma]",
+          "1805",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "099",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
       "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 5º",
       "conteudo": [
         [
@@ -2737,6 +2790,130 @@ const resultado = {
           "5347",
           "12",
           "Elefante"
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 18:20, PTN, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "3461",
+          "16",
+          "Leão"
+        ],
+        [
+          "2º",
+          "4185",
+          "22",
+          "Tigre"
+        ],
+        [
+          "3º",
+          "7012",
+          "03",
+          "Burro"
+        ],
+        [
+          "4º",
+          "5084",
+          "21",
+          "Touro"
+        ],
+        [
+          "5º",
+          "8793",
+          "24",
+          "Veado"
+        ],
+        [
+          "6º [soma]",
+          "8535",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "484",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 18:20, PTN, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "3461",
+          "16",
+          "Leão"
+        ],
+        [
+          "2º",
+          "4185",
+          "22",
+          "Tigre"
+        ],
+        [
+          "3º",
+          "7012",
+          "03",
+          "Burro"
+        ],
+        [
+          "4º",
+          "5084",
+          "21",
+          "Touro"
+        ],
+        [
+          "5º",
+          "8793",
+          "24",
+          "Veado"
+        ],
+        [
+          "6º",
+          "3475",
+          "19",
+          "Pavão"
+        ],
+        [
+          "7º",
+          "4100",
+          "25",
+          "Vaca"
+        ],
+        [
+          "8º",
+          "6818",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "9º",
+          "1524",
+          "06",
+          "Cabra"
+        ],
+        [
+          "10º",
+          "4452",
+          "13",
+          "Galo"
         ]
       ]
     }
