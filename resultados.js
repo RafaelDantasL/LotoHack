@@ -1373,6 +1373,77 @@ const resultado = {
           "Carneiro"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho PB, Paratodos 09:45",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "5882",
+          "21",
+          "Touro"
+        ],
+        [
+          "2º",
+          "9003",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "3º",
+          "9415",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "4º",
+          "1861",
+          "16",
+          "Leão"
+        ],
+        [
+          "5º",
+          "2544",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "6º",
+          "5991",
+          "23",
+          "Urso"
+        ],
+        [
+          "7º",
+          "8048",
+          "12",
+          "Elefante"
+        ],
+        [
+          "8º",
+          "8016",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "9º",
+          "2351",
+          "13",
+          "Galo"
+        ],
+        [
+          "10º",
+          "3111",
+          "03",
+          "Burro"
+        ]
+      ]
     }
   ],
   "PT RIO": [
