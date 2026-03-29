@@ -330,44 +330,5 @@ const palpites = {
       "5159"
     ],
     "frases": []
-  },
-  "PT SP": {
-    "palpites": [
-      "0008",
-      "0001",
-      "0002",
-      "0038",
-      "0031",
-      "0032",
-      "0018",
-      "0011",
-      "0012",
-      "0608",
-      "0601",
-      "0602",
-      "0638",
-      "0631",
-      "0632",
-      "0618",
-      "0611",
-      "0612",
-      "0108",
-      "0101",
-      "0102",
-      "0138",
-      "0131",
-      "0132",
-      "0118",
-      "0111",
-      "0112",
-      "5008",
-      "5001",
-      "5002"
-    ],
-    "frases": [
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 4648 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 4048 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 4348 no 4º Prêmio!"
-    ]
   }
 };
