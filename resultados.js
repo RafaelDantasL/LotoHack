@@ -3095,6 +3095,130 @@ const resultado = {
           "Borboleta"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "9126",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "2º",
+          "4432",
+          "08",
+          "Camelo"
+        ],
+        [
+          "3º",
+          "1017",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "4º",
+          "7725",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "5º",
+          "4254",
+          "14",
+          "Gato"
+        ],
+        [
+          "6º [soma]",
+          "6554",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "446",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "9126",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "2º",
+          "4432",
+          "08",
+          "Camelo"
+        ],
+        [
+          "3º",
+          "1017",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "4º",
+          "7725",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "5º",
+          "4254",
+          "14",
+          "Gato"
+        ],
+        [
+          "6º",
+          "9417",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "7º",
+          "1407",
+          "02",
+          "Águia"
+        ],
+        [
+          "8º",
+          "2312",
+          "03",
+          "Burro"
+        ],
+        [
+          "9º",
+          "6275",
+          "19",
+          "Pavão"
+        ],
+        [
+          "10º",
+          "5965",
+          "17",
+          "Macaco"
+        ]
+      ]
     }
   ]
 };
