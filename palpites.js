@@ -73,6 +73,47 @@ const palpites = {
       "10h - BA - Resultado do dia 02/04/2026 (Quinta-feira)\nDeu Dezena, Palpite 5951 no 5º Prêmio!"
     ]
   },
+  "LOTECE": {
+    "palpites": [
+      "2265",
+      "2263",
+      "2260",
+      "2215",
+      "2213",
+      "2210",
+      "2255",
+      "2253",
+      "2250",
+      "2065",
+      "2063",
+      "2060",
+      "2015",
+      "2013",
+      "2010",
+      "2055",
+      "2053",
+      "2050",
+      "2165",
+      "2163",
+      "2160",
+      "2115",
+      "2113",
+      "2110",
+      "2155",
+      "2153",
+      "2150",
+      "7265",
+      "7263",
+      "7260"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 0610 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 0010 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Centena, Palpite 0110 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 0110 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 3610 no 2º Prêmio!"
+    ]
+  },
   "LOOK/GOIAS": {
     "palpites": [
       "2414",
@@ -168,6 +209,9 @@ const palpites = {
       "6004"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 2513 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 2313 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 2013 no 9º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 9163 no 1º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 9863 no 1º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 9063 no 1º Prêmio!",
@@ -177,5 +221,75 @@ const palpites = {
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 9063 no 10º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 3163 no 10º Prêmio!"
     ]
+  },
+  "PT RIO": {
+    "palpites": [
+      "0341",
+      "0345",
+      "0348",
+      "0301",
+      "0305",
+      "0308",
+      "0381",
+      "0385",
+      "0388",
+      "0941",
+      "0945",
+      "0948",
+      "0901",
+      "0905",
+      "0908",
+      "0981",
+      "0985",
+      "0988",
+      "0141",
+      "0145",
+      "0148",
+      "0101",
+      "0105",
+      "0108",
+      "0181",
+      "0185",
+      "0188",
+      "3341",
+      "3345",
+      "3348"
+    ],
+    "frases": []
+  },
+  "PT SP": {
+    "palpites": [
+      "0034",
+      "0037",
+      "0038",
+      "0024",
+      "0027",
+      "0028",
+      "0004",
+      "0007",
+      "0008",
+      "0434",
+      "0437",
+      "0438",
+      "0424",
+      "0427",
+      "0428",
+      "0404",
+      "0407",
+      "0408",
+      "0634",
+      "0637",
+      "0638",
+      "0624",
+      "0627",
+      "0628",
+      "0604",
+      "0607",
+      "0608",
+      "5034",
+      "5037",
+      "5038"
+    ],
+    "frases": []
   }
 };
