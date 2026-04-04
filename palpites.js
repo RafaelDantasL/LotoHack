@@ -269,7 +269,18 @@ const palpites = {
       "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 5084 no 9º Prêmio!",
       "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 5584 no 9º Prêmio!",
       "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 5784 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 9084 no 9º Prêmio!"
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 9084 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 10:45\nDeu Dezena, Palpite 9214 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 10:45\nDeu Dezena, Palpite 9014 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 10:45\nDeu Dezena, Palpite 9414 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 10:45\nDeu Dezena, Palpite 8214 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 10:45\nDeu Dezena, Palpite 9280 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 10:45\nDeu Dezena, Palpite 9080 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 10:45\nDeu Dezena, Palpite 9480 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 10:45\nDeu Centena, Palpite 9234 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 10:45\nDeu Dezena, Palpite 9234 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 10:45\nDeu Dezena, Palpite 9034 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 10:45\nDeu Dezena, Palpite 9434 no 7º Prêmio!"
     ]
   },
   "PT RIO": {
