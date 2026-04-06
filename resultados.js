@@ -770,6 +770,59 @@ const resultado = {
   ],
   "LOOK/GOIAS": [
     {
+      "titulo": "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "8997",
+          "25",
+          "Vaca"
+        ],
+        [
+          "2º",
+          "7751",
+          "13",
+          "Galo"
+        ],
+        [
+          "3º",
+          "6516",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "4º",
+          "7745",
+          "12",
+          "Elefante"
+        ],
+        [
+          "5º",
+          "9805",
+          "02",
+          "Águia"
+        ],
+        [
+          "6º [soma]",
+          "0814",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "735",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
       "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 5º",
       "conteudo": [
         [
@@ -1087,6 +1140,77 @@ const resultado = {
           "1188",
           "22",
           "Tigre"
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho PB, Paratodos 09:45",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "5375",
+          "19",
+          "Pavão"
+        ],
+        [
+          "2º",
+          "1618",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "3º",
+          "5358",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "4º",
+          "6794",
+          "24",
+          "Veado"
+        ],
+        [
+          "5º",
+          "4817",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "6º",
+          "5156",
+          "14",
+          "Gato"
+        ],
+        [
+          "7º",
+          "3637",
+          "10",
+          "Coelho"
+        ],
+        [
+          "8º",
+          "7159",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "9º",
+          "5884",
+          "21",
+          "Touro"
+        ],
+        [
+          "10º",
+          "5798",
+          "25",
+          "Vaca"
         ]
       ]
     }
