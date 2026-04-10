@@ -33,45 +33,17 @@ const palpites = {
       "8322"
     ],
     "frases": [
+      "10h - MALUCA - Resultado do dia 10/04/2026 (Sexta-feira)\nDeu Dezena, Palpite 8407 no 10º Prêmio!",
+      "10h - MALUCA - Resultado do dia 10/04/2026 (Sexta-feira)\nDeu Dezena, Palpite 8807 no 10º Prêmio!",
+      "10h - MALUCA - Resultado do dia 10/04/2026 (Sexta-feira)\nDeu Centena, Palpite 8907 no 10º Prêmio!",
+      "10h - MALUCA - Resultado do dia 10/04/2026 (Sexta-feira)\nDeu Dezena, Palpite 8907 no 10º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 10/04/2026 (Sexta-feira)\nDeu Dezena, Palpite 8116 no 9º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 10/04/2026 (Sexta-feira)\nDeu Dezena, Palpite 8216 no 9º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 10/04/2026 (Sexta-feira)\nDeu Dezena, Palpite 8316 no 9º Prêmio!",
       "19h - MALUCA - BA - Resultado do dia 10/04/2026 (Sexta-feira)\nDeu Dezena, Palpite 0007 no 9º Prêmio!",
       "19h - MALUCA - BA - Resultado do dia 10/04/2026 (Sexta-feira)\nDeu Dezena, Palpite 0407 no 9º Prêmio!",
       "19h - MALUCA - BA - Resultado do dia 10/04/2026 (Sexta-feira)\nDeu Dezena, Palpite 0107 no 9º Prêmio!"
     ]
-  },
-  "PT SP": {
-    "palpites": [
-      "9929",
-      "9925",
-      "9926",
-      "9939",
-      "9935",
-      "9936",
-      "9999",
-      "9995",
-      "9996",
-      "9129",
-      "9125",
-      "9126",
-      "9139",
-      "9135",
-      "9136",
-      "9199",
-      "9195",
-      "9196",
-      "9229",
-      "9225",
-      "9226",
-      "9239",
-      "9235",
-      "9236",
-      "9299",
-      "9295",
-      "9296",
-      "4929",
-      "4925",
-      "4926"
-    ],
-    "frases": []
   },
   "BAHIA": {
     "palpites": [
@@ -419,5 +391,40 @@ const palpites = {
       "Resultado do Jogo do Bicho RJ, 18:20, PTN, 1º ao 10º\nDeu Centena, Palpite 3311 no 9º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 18:20, PTN, 1º ao 10º\nDeu Dezena, Palpite 3311 no 9º Prêmio!"
     ]
+  },
+  "PT SP": {
+    "palpites": [
+      "9929",
+      "9925",
+      "9926",
+      "9939",
+      "9935",
+      "9936",
+      "9999",
+      "9995",
+      "9996",
+      "9129",
+      "9125",
+      "9126",
+      "9139",
+      "9135",
+      "9136",
+      "9199",
+      "9195",
+      "9196",
+      "9229",
+      "9225",
+      "9226",
+      "9239",
+      "9235",
+      "9236",
+      "9299",
+      "9295",
+      "9296",
+      "4929",
+      "4925",
+      "4926"
+    ],
+    "frases": []
   }
 };
