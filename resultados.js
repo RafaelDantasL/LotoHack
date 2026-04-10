@@ -1482,6 +1482,59 @@ const resultado = {
           "Pavão"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 12:00 - PTSP",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "2509",
+          "03",
+          "Burro"
+        ],
+        [
+          "2º",
+          "0745",
+          "12",
+          "Elefante"
+        ],
+        [
+          "3º",
+          "1228",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "4º",
+          "3169",
+          "18",
+          "Porco"
+        ],
+        [
+          "5º",
+          "9212",
+          "03",
+          "Burro"
+        ],
+        [
+          "6º [soma]",
+          "6863",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "869",
+          "",
+          ""
+        ]
+      ]
     }
   ]
 };
