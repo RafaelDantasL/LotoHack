@@ -1,4 +1,78 @@
 const palpites = {
+  "BAHIA MALUCA": {
+    "palpites": [
+      "2530",
+      "2537",
+      "2539",
+      "2500",
+      "2507",
+      "2509",
+      "2570",
+      "2577",
+      "2579",
+      "2730",
+      "2737",
+      "2739",
+      "2700",
+      "2707",
+      "2709",
+      "2770",
+      "2777",
+      "2779",
+      "2830",
+      "2837",
+      "2839",
+      "2800",
+      "2807",
+      "2809",
+      "2870",
+      "2877",
+      "2879",
+      "3530",
+      "3537",
+      "3539"
+    ],
+    "frases": []
+  },
+  "BAHIA": {
+    "palpites": [
+      "5302",
+      "5307",
+      "5308",
+      "5332",
+      "5337",
+      "5338",
+      "5372",
+      "5377",
+      "5378",
+      "5002",
+      "5007",
+      "5008",
+      "5032",
+      "5037",
+      "5038",
+      "5072",
+      "5077",
+      "5078",
+      "5202",
+      "5207",
+      "5208",
+      "5232",
+      "5237",
+      "5238",
+      "5272",
+      "5277",
+      "5278",
+      "0302",
+      "0307",
+      "0308"
+    ],
+    "frases": [
+      "10h - BA - Resultado do dia 11/04/2026 (Sábado)\nDeu Dezena, Palpite 3771 no 3º Prêmio!",
+      "10h - BA - Resultado do dia 11/04/2026 (Sábado)\nDeu Dezena, Palpite 3871 no 3º Prêmio!",
+      "10h - BA - Resultado do dia 11/04/2026 (Sábado)\nDeu Dezena, Palpite 3071 no 3º Prêmio!"
+    ]
+  },
   "LOTECE": {
     "palpites": [
       "1080",
@@ -203,6 +277,13 @@ const palpites = {
       "5438",
       "5439"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3418 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3318 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3818 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3481 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3381 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3881 no 9º Prêmio!"
+    ]
   }
 };
