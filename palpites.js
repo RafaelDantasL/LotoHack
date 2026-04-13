@@ -33,6 +33,14 @@ const palpites = {
       "0729"
     ],
     "frases": [
+      "10h - MALUCA - Resultado do dia 13/04/2026 (Segunda-feira)\nDeu Dezena, Palpite 1165 no 3º Prêmio!",
+      "10h - MALUCA - Resultado do dia 13/04/2026 (Segunda-feira)\nDeu Dezena, Palpite 1565 no 3º Prêmio!",
+      "10h - MALUCA - Resultado do dia 13/04/2026 (Segunda-feira)\nDeu Dezena, Palpite 1965 no 3º Prêmio!",
+      "10h - MALUCA - Resultado do dia 13/04/2026 (Segunda-feira)\nDeu Dezena, Palpite 2165 no 3º Prêmio!",
+      "10h - MALUCA - Resultado do dia 13/04/2026 (Segunda-feira)\nDeu Dezena, Palpite 1171 no 5º Prêmio!",
+      "10h - MALUCA - Resultado do dia 13/04/2026 (Segunda-feira)\nDeu Dezena, Palpite 1571 no 5º Prêmio!",
+      "10h - MALUCA - Resultado do dia 13/04/2026 (Segunda-feira)\nDeu Centena, Palpite 1971 no 5º Prêmio!",
+      "10h - MALUCA - Resultado do dia 13/04/2026 (Segunda-feira)\nDeu Dezena, Palpite 1971 no 5º Prêmio!",
       "15h - MALUCA - BA - Resultado do dia 13/04/2026 (Segunda-feira)\nDeu Dezena, Palpite 8629 no 1º Prêmio!",
       "15h - MALUCA - BA - Resultado do dia 13/04/2026 (Segunda-feira)\nDeu Dezena, Palpite 8029 no 1º Prêmio!",
       "15h - MALUCA - BA - Resultado do dia 13/04/2026 (Segunda-feira)\nDeu Dezena, Palpite 8129 no 1º Prêmio!",
@@ -76,5 +84,44 @@ const palpites = {
       "6020"
     ],
     "frases": []
+  },
+  "LOTECE": {
+    "palpites": [
+      "2076",
+      "2077",
+      "2073",
+      "2036",
+      "2037",
+      "2033",
+      "2086",
+      "2087",
+      "2083",
+      "2276",
+      "2277",
+      "2273",
+      "2236",
+      "2237",
+      "2233",
+      "2286",
+      "2287",
+      "2283",
+      "2376",
+      "2377",
+      "2373",
+      "2336",
+      "2337",
+      "2333",
+      "2386",
+      "2387",
+      "2383",
+      "8076",
+      "8077",
+      "8073"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 5085 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Dezena, Palpite 5385 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)\nDeu Milhar, Palpite 5485 no 9º Prêmio!"
+    ]
   }
 };
