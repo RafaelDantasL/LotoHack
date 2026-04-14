@@ -1246,6 +1246,59 @@ const resultado = {
           ""
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 14h",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "1114",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "2º",
+          "9298",
+          "25",
+          "Vaca"
+        ],
+        [
+          "3º",
+          "4248",
+          "12",
+          "Elefante"
+        ],
+        [
+          "4º",
+          "5432",
+          "08",
+          "Camelo"
+        ],
+        [
+          "5º",
+          "3651",
+          "13",
+          "Galo"
+        ],
+        [
+          "6º [soma]",
+          "3743",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "357",
+          "",
+          ""
+        ]
+      ]
     }
   ],
   "LOTEP": [
