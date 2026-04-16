@@ -122,5 +122,56 @@ const palpites = {
       "Resultado do Jogo do Bicho PARATODOS - CE, 10:45\nDeu Dezena, Palpite 6326 no 9º Prêmio!",
       "Resultado do Jogo do Bicho PARATODOS - CE, 10:45\nDeu Dezena, Palpite 6626 no 9º Prêmio!"
     ]
+  },
+  "LOOK/GOIAS": {
+    "palpites": [
+      "0724",
+      "0726",
+      "0727",
+      "0794",
+      "0796",
+      "0797",
+      "0744",
+      "0746",
+      "0747",
+      "0324",
+      "0326",
+      "0327",
+      "0394",
+      "0396",
+      "0397",
+      "0344",
+      "0346",
+      "0347",
+      "0424",
+      "0426",
+      "0427",
+      "0494",
+      "0496",
+      "0497",
+      "0444",
+      "0446",
+      "0447",
+      "2724",
+      "2726",
+      "2727"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 0797 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 0397 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 0497 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Centena, Palpite 0796 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 0796 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 0396 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 0496 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Centena, Palpite 0744 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 0744 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 0344 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 0444 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 0724 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 0324 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Milhar, Palpite 0424 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 2724 no 6º Prêmio!"
+    ]
   }
 };
