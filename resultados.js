@@ -4017,6 +4017,130 @@ const resultado = {
           "Gato"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 19hs - PTSP, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "2725",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "2º",
+          "2840",
+          "10",
+          "Coelho"
+        ],
+        [
+          "3º",
+          "4414",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "4º",
+          "9337",
+          "10",
+          "Coelho"
+        ],
+        [
+          "5º",
+          "6844",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "6º [soma]",
+          "6160",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "739",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 19hs - PTSP, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "2725",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "2º",
+          "2840",
+          "10",
+          "Coelho"
+        ],
+        [
+          "3º",
+          "4414",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "4º",
+          "9337",
+          "10",
+          "Coelho"
+        ],
+        [
+          "5º",
+          "6844",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "6º",
+          "2249",
+          "13",
+          "Galo"
+        ],
+        [
+          "7º",
+          "7843",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "8º",
+          "2413",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "9º",
+          "5047",
+          "12",
+          "Elefante"
+        ],
+        [
+          "10º",
+          "3712",
+          "03",
+          "Burro"
+        ]
+      ]
     }
   ]
 };
