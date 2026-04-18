@@ -855,6 +855,77 @@ const resultado = {
           "Jacaré"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho PARATODOS - CE, 15:45",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "3935",
+          "09",
+          "Cobra"
+        ],
+        [
+          "2º",
+          "7354",
+          "14",
+          "Gato"
+        ],
+        [
+          "3º",
+          "6076",
+          "19",
+          "Pavão"
+        ],
+        [
+          "4º",
+          "8002",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "5º",
+          "2532",
+          "08",
+          "Camelo"
+        ],
+        [
+          "6º",
+          "5028",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "7º",
+          "7519",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "8º",
+          "3411",
+          "03",
+          "Burro"
+        ],
+        [
+          "9º",
+          "2846",
+          "12",
+          "Elefante"
+        ],
+        [
+          "10º",
+          "1004",
+          "01",
+          "Avestruz"
+        ]
+      ]
     }
   ],
   "LOOK/GOIAS": [
