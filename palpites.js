@@ -33,45 +33,14 @@ const palpites = {
       "6755"
     ],
     "frases": [
+      "12h - MALUCA - BA - Resultado do dia 18/04/2026 (Sábado)\nDeu Dezena, Palpite 1908 no 7º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 18/04/2026 (Sábado)\nDeu Dezena, Palpite 1408 no 7º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 18/04/2026 (Sábado)\nDeu Dezena, Palpite 1508 no 7º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 18/04/2026 (Sábado)\nDeu Dezena, Palpite 2908 no 7º Prêmio!",
       "15h - MALUCA - BA - Resultado do dia 18/04/2026 (Sábado)\nDeu Dezena, Palpite 3357 no 3º Prêmio!",
       "15h - MALUCA - BA - Resultado do dia 18/04/2026 (Sábado)\nDeu Dezena, Palpite 3857 no 3º Prêmio!",
       "15h - MALUCA - BA - Resultado do dia 18/04/2026 (Sábado)\nDeu Dezena, Palpite 3057 no 3º Prêmio!"
     ]
-  },
-  "PT SP": {
-    "palpites": [
-      "4614",
-      "4611",
-      "4619",
-      "4664",
-      "4661",
-      "4669",
-      "4684",
-      "4681",
-      "4689",
-      "4114",
-      "4111",
-      "4119",
-      "4164",
-      "4161",
-      "4169",
-      "4184",
-      "4181",
-      "4189",
-      "4214",
-      "4211",
-      "4219",
-      "4264",
-      "4261",
-      "4269",
-      "4284",
-      "4281",
-      "4289",
-      "1614",
-      "1611",
-      "1619"
-    ],
-    "frases": []
   },
   "BAHIA": {
     "palpites": [
@@ -309,12 +278,6 @@ const palpites = {
       "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0838 no 9º Prêmio!",
       "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Centena, Palpite 1738 no 9º Prêmio!",
       "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 1738 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 0768 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 0368 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 0868 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 8341 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 8241 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 8441 no 10º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 0013 no 1º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 0413 no 1º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 12:45\nDeu Dezena, Palpite 0713 no 1º Prêmio!",
@@ -374,5 +337,40 @@ const palpites = {
       "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 9555 no 4º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 9655 no 4º Prêmio!"
     ]
+  },
+  "PT SP": {
+    "palpites": [
+      "4614",
+      "4611",
+      "4619",
+      "4664",
+      "4661",
+      "4669",
+      "4684",
+      "4681",
+      "4689",
+      "4114",
+      "4111",
+      "4119",
+      "4164",
+      "4161",
+      "4169",
+      "4184",
+      "4181",
+      "4189",
+      "4214",
+      "4211",
+      "4219",
+      "4264",
+      "4261",
+      "4269",
+      "4284",
+      "4281",
+      "4289",
+      "1614",
+      "1611",
+      "1619"
+    ],
+    "frases": []
   }
 };
