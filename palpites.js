@@ -182,17 +182,7 @@ const palpites = {
       "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 16h\nDeu Centena, Palpite 3061 no 5º Prêmio!",
       "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 16h\nDeu Dezena, Palpite 3061 no 5º Prêmio!",
       "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 16h\nDeu Dezena, Palpite 3161 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 16h\nDeu Dezena, Palpite 3261 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 16h\nDeu Dezena, Palpite 5003 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 16h\nDeu Centena, Palpite 5303 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 16h\nDeu Dezena, Palpite 5303 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 16h\nDeu Dezena, Palpite 5503 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 16h\nDeu Centena, Palpite 5061 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 16h\nDeu Dezena, Palpite 5061 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 16h\nDeu Dezena, Palpite 5361 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 16h\nDeu Dezena, Palpite 5561 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 16h\nDeu Centena, Palpite 0061 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 16h\nDeu Dezena, Palpite 0061 no 5º Prêmio!"
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 16h\nDeu Dezena, Palpite 3261 no 5º Prêmio!"
     ]
   },
   "LOTEP": {
@@ -229,16 +219,6 @@ const palpites = {
       "3354"
     ],
     "frases": [
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Milhar, Palpite 0127 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 0227 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 0527 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 0120 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 0220 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 0520 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 7222 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 7122 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 7622 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 3222 no 7º Prêmio!",
       "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 12:45\nDeu Dezena, Palpite 8826 no 1º Prêmio!",
       "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 12:45\nDeu Dezena, Palpite 8226 no 1º Prêmio!",
       "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 12:45\nDeu Dezena, Palpite 8126 no 1º Prêmio!",
