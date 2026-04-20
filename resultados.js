@@ -573,6 +573,77 @@ const resultado = {
       ]
     },
     {
+      "titulo": "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "7498",
+          "25",
+          "Vaca"
+        ],
+        [
+          "2º",
+          "9947",
+          "12",
+          "Elefante"
+        ],
+        [
+          "3º",
+          "9763",
+          "16",
+          "Leão"
+        ],
+        [
+          "4º",
+          "3125",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "5º",
+          "7658",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "6º",
+          "2830",
+          "08",
+          "Camelo"
+        ],
+        [
+          "7º",
+          "7739",
+          "10",
+          "Coelho"
+        ],
+        [
+          "8º",
+          "2058",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "9º",
+          "2796",
+          "24",
+          "Veado"
+        ],
+        [
+          "10º",
+          "9677",
+          "20",
+          "Peru"
+        ]
+      ]
+    },
+    {
       "titulo": "Resultado do Jogo do Bicho PARATODOS - CE, 10:45",
       "conteudo": [
         [
@@ -1867,6 +1938,77 @@ const resultado = {
           "4976",
           "19",
           "Pavão"
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 15:45",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "5235",
+          "09",
+          "Cobra"
+        ],
+        [
+          "2º",
+          "0379",
+          "20",
+          "Peru"
+        ],
+        [
+          "3º",
+          "9245",
+          "12",
+          "Elefante"
+        ],
+        [
+          "4º",
+          "6183",
+          "21",
+          "Touro"
+        ],
+        [
+          "5º",
+          "3711",
+          "03",
+          "Burro"
+        ],
+        [
+          "6º",
+          "5096",
+          "24",
+          "Veado"
+        ],
+        [
+          "7º",
+          "2321",
+          "06",
+          "Cabra"
+        ],
+        [
+          "8º",
+          "3748",
+          "12",
+          "Elefante"
+        ],
+        [
+          "9º",
+          "5953",
+          "14",
+          "Gato"
+        ],
+        [
+          "10º",
+          "1871",
+          "18",
+          "Porco"
         ]
       ]
     }
