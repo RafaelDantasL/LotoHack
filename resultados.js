@@ -3379,6 +3379,130 @@ const resultado = {
           "Cavalo"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "8356",
+          "14",
+          "Gato"
+        ],
+        [
+          "2º",
+          "9318",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "3º",
+          "6648",
+          "12",
+          "Elefante"
+        ],
+        [
+          "4º",
+          "9665",
+          "17",
+          "Macaco"
+        ],
+        [
+          "5º",
+          "8819",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "6º [soma]",
+          "2806",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "861",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "8356",
+          "14",
+          "Gato"
+        ],
+        [
+          "2º",
+          "9318",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "3º",
+          "6648",
+          "12",
+          "Elefante"
+        ],
+        [
+          "4º",
+          "9665",
+          "17",
+          "Macaco"
+        ],
+        [
+          "5º",
+          "8819",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "6º",
+          "8969",
+          "18",
+          "Porco"
+        ],
+        [
+          "7º",
+          "3366",
+          "17",
+          "Macaco"
+        ],
+        [
+          "8º",
+          "5146",
+          "12",
+          "Elefante"
+        ],
+        [
+          "9º",
+          "6885",
+          "22",
+          "Tigre"
+        ],
+        [
+          "10º",
+          "7172",
+          "18",
+          "Porco"
+        ]
+      ]
     }
   ]
 };
