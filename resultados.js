@@ -1426,6 +1426,130 @@ const resultado = {
       ]
     },
     {
+      "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 16h, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "9404",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "2º",
+          "0983",
+          "21",
+          "Touro"
+        ],
+        [
+          "3º",
+          "8623",
+          "06",
+          "Cabra"
+        ],
+        [
+          "4º",
+          "2046",
+          "12",
+          "Elefante"
+        ],
+        [
+          "5º",
+          "6882",
+          "21",
+          "Touro"
+        ],
+        [
+          "6º [soma]",
+          "7938",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "244",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 16h, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "9404",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "2º",
+          "0983",
+          "21",
+          "Touro"
+        ],
+        [
+          "3º",
+          "8623",
+          "06",
+          "Cabra"
+        ],
+        [
+          "4º",
+          "2046",
+          "12",
+          "Elefante"
+        ],
+        [
+          "5º",
+          "6882",
+          "21",
+          "Touro"
+        ],
+        [
+          "6º",
+          "9082",
+          "21",
+          "Touro"
+        ],
+        [
+          "7º",
+          "4960",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "8º",
+          "0824",
+          "06",
+          "Cabra"
+        ],
+        [
+          "9º",
+          "4336",
+          "09",
+          "Cobra"
+        ],
+        [
+          "10º",
+          "7140",
+          "10",
+          "Coelho"
+        ]
+      ]
+    },
+    {
       "titulo": "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h",
       "conteudo": [
         [
@@ -2080,6 +2204,77 @@ const resultado = {
           "8720",
           "05",
           "Cachorro"
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho LOTEP - PB, 15:45h",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "6329",
+          "08",
+          "Camelo"
+        ],
+        [
+          "2º",
+          "1040",
+          "10",
+          "Coelho"
+        ],
+        [
+          "3º",
+          "6587",
+          "22",
+          "Tigre"
+        ],
+        [
+          "4º",
+          "2160",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "5º",
+          "2891",
+          "23",
+          "Urso"
+        ],
+        [
+          "6º",
+          "6162",
+          "16",
+          "Leão"
+        ],
+        [
+          "7º",
+          "3051",
+          "13",
+          "Galo"
+        ],
+        [
+          "8º",
+          "2486",
+          "22",
+          "Tigre"
+        ],
+        [
+          "9º",
+          "9070",
+          "18",
+          "Porco"
+        ],
+        [
+          "10º",
+          "9776",
+          "19",
+          "Pavão"
         ]
       ]
     }
