@@ -212,6 +212,77 @@ const resultado = {
           "Avestruz"
         ]
       ]
+    },
+    {
+      "titulo": "20h FEDERAL - MALUCA - BA - Resultado do dia 22/04/2026 (Quarta-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "7166",
+          "17",
+          "Macaco"
+        ],
+        [
+          "2º",
+          "1981",
+          "21",
+          "Touro"
+        ],
+        [
+          "3º",
+          "9941",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "4º",
+          "2440",
+          "10",
+          "Coelho"
+        ],
+        [
+          "5º",
+          "0289",
+          "23",
+          "Urso"
+        ],
+        [
+          "6º",
+          "6147",
+          "12",
+          "Elefante"
+        ],
+        [
+          "7º",
+          "4577",
+          "20",
+          "Peru"
+        ],
+        [
+          "8º",
+          "8914",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "9º",
+          "0441",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "10º",
+          "8361",
+          "16",
+          "Leão"
+        ]
+      ]
     }
   ],
   "BAHIA": [
