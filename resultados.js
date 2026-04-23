@@ -926,6 +926,77 @@ const resultado = {
           "Borboleta"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho PARATODOS - CE, 18:30",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "8893",
+          "24",
+          "Veado"
+        ],
+        [
+          "2º",
+          "8136",
+          "09",
+          "Cobra"
+        ],
+        [
+          "3º",
+          "3916",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "4º",
+          "2238",
+          "10",
+          "Coelho"
+        ],
+        [
+          "5º",
+          "0372",
+          "18",
+          "Porco"
+        ],
+        [
+          "6º",
+          "6578",
+          "20",
+          "Peru"
+        ],
+        [
+          "7º",
+          "1945",
+          "12",
+          "Elefante"
+        ],
+        [
+          "8º",
+          "9071",
+          "18",
+          "Porco"
+        ],
+        [
+          "9º",
+          "3782",
+          "21",
+          "Touro"
+        ],
+        [
+          "10º",
+          "9016",
+          "04",
+          "Borboleta"
+        ]
+      ]
     }
   ],
   "LOOK/GOIAS": [
