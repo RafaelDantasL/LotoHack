@@ -1,7 +1,7 @@
 const resultado = {
   "BAHIA MALUCA": [
     {
-      "titulo": "10h - MALUCA - Resultado do dia 24/04/2026 (Sexta-feira)",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -72,7 +72,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "12h - MALUCA - BA - Resultado do dia 24/04/2026 (Sexta-feira)",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -145,7 +145,7 @@ const resultado = {
   ],
   "BAHIA": [
     {
-      "titulo": "10h - BA - Resultado do dia 24/04/2026 (Sexta-feira)",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -216,7 +216,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "12h - BA - Resultado do dia 24/04/2026 (Sexta-feira)",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -289,7 +289,7 @@ const resultado = {
   ],
   "LOTECE": [
     {
-      "titulo": "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -360,7 +360,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -431,7 +431,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho PARATODOS - CE, 10:45",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -502,7 +502,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho PARATODOS - CE, 12:45",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -573,7 +573,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho PARATODOS - CE, 14:20",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -646,7 +646,7 @@ const resultado = {
   ],
   "LOOK/GOIAS": [
     {
-      "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 5º",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -699,7 +699,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -770,7 +770,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 5º",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -823,7 +823,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -894,7 +894,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 11h, 1º ao 5º",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -947,7 +947,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 11h, 1º ao 10º",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -1018,7 +1018,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 14h, 1º ao 5º",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -1071,7 +1071,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 14h, 1º ao 10º",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -1142,7 +1142,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -1195,7 +1195,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 11h",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -1248,7 +1248,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 14h",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -1303,7 +1303,7 @@ const resultado = {
   ],
   "LOTEP": [
     {
-      "titulo": "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -1374,7 +1374,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho PB, Paratodos 09:45",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -1445,7 +1445,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -1516,7 +1516,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho LOTEP - PB, 10:45",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -1587,7 +1587,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 12:45",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -1658,7 +1658,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho LOTEP - PB, 12:45",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -1731,7 +1731,7 @@ const resultado = {
   ],
   "PT RIO": [
     {
-      "titulo": "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 5º",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -1784,7 +1784,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -1855,7 +1855,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 5º",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -1908,7 +1908,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -1979,7 +1979,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho RJ, 14:20, PT, 1º ao 5º",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -2032,7 +2032,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho RJ, 14:20, PT, 1º ao 10º",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -2105,7 +2105,7 @@ const resultado = {
   ],
   "PT SP": [
     {
-      "titulo": "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 5º",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -2158,7 +2158,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -2229,7 +2229,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 5º",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -2282,7 +2282,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -2353,7 +2353,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho SP, 12:00 - PTSP",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -2406,7 +2406,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 5º",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -2459,7 +2459,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
