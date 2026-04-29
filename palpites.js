@@ -227,46 +227,38 @@ const palpites = {
   },
   "LOTEP": {
     "palpites": [
-      "2005",
-      "2009",
-      "2000",
-      "2025",
-      "2029",
-      "2020",
-      "2045",
-      "2049",
-      "2040",
-      "2205",
-      "2209",
-      "2200",
-      "2225",
-      "2229",
-      "2220",
-      "2245",
-      "2249",
-      "2240",
-      "2405",
-      "2409",
-      "2400",
-      "2425",
-      "2429",
-      "2420",
-      "2445",
-      "2449",
-      "2440",
-      "5005",
-      "5009",
-      "5000"
+      "8271",
+      "8278",
+      "8279",
+      "8251",
+      "8258",
+      "8259",
+      "8201",
+      "8208",
+      "8209",
+      "8871",
+      "8878",
+      "8879",
+      "8851",
+      "8858",
+      "8859",
+      "8801",
+      "8808",
+      "8809",
+      "8971",
+      "8978",
+      "8979",
+      "8951",
+      "8958",
+      "8959",
+      "8901",
+      "8908",
+      "8909",
+      "2271",
+      "2278",
+      "2279"
     ],
-    "frases": [
-      "' + title + '\nDeu Dezena, Palpite 3245 no 3º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3045 no 3º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3645 no 3º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7749 no 3º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7949 no 3º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7049 no 3º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 0749 no 3º Prêmio!"
-    ]
+    "frases": []
   },
   "PT RIO": {
     "palpites": [
@@ -345,6 +337,11 @@ const palpites = {
       "0082",
       "0085"
     ],
-    "frases": []
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 4040 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4140 no 4º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 4340 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4340 no 4º Prêmio!"
+    ]
   }
 };
