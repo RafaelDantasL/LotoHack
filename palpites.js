@@ -344,19 +344,10 @@ const palpites = {
       "' + title + '\nDeu Dezena, Palpite 6021 no 10º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 6121 no 10º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 6321 no 10º Prêmio!",
-      "' + title + '\nDeu Centena, Palpite 9765 no 4º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 9765 no 4º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 9865 no 4º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 9265 no 4º Prêmio!",
-      "' + title + '\nDeu Centena, Palpite 0765 no 4º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 0765 no 4º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 9755 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 9855 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 9255 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 9745 no 9º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 9845 no 9º Prêmio!",
-      "' + title + '\nDeu Centena, Palpite 9245 no 9º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 9245 no 9º Prêmio!"
+      "' + title + '\nDeu Dezena, Palpite 9762 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9862 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9262 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0762 no 1º Prêmio!"
     ]
   },
   "PT RIO": {
