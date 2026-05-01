@@ -174,37 +174,16 @@ const palpites = {
       "7494"
     ],
     "frases": [
-      "' + title + '\nDeu Dezena, Palpite 0225 no 7º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 0425 no 7º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 0625 no 7º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 0225 no 9º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 0425 no 9º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 0625 no 9º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 0741 no 3º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 0941 no 3º Prêmio!",
-      "' + title + '\nDeu Centena, Palpite 0141 no 3º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 0141 no 3º Prêmio!",
-      "' + title + '\nDeu Milhar, Palpite 0793 no 5º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 0993 no 5º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 0193 no 5º Prêmio!",
-      "' + title + '\nDeu Centena, Palpite 3793 no 5º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3793 no 5º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 0795 no 6º Prêmio!",
-      "' + title + '\nDeu Centena, Palpite 0995 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 0995 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 0195 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3795 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3992 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3092 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3192 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 9992 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3910 no 3º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3010 no 3º Prêmio!",
-      "' + title + '\nDeu Centena, Palpite 3110 no 3º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3110 no 3º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3901 no 6º Prêmio!",
-      "' + title + '\nDeu Milhar, Palpite 3001 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3101 no 6º Prêmio!"
+      "' + title + '\nDeu Dezena, Palpite 6414 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6014 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6314 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6497 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6097 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6397 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 7497 no 4º Prêmio!",
+      "' + title + '\nDeu Milhar, Palpite 6453 no 6º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6053 no 6º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6353 no 6º Prêmio!"
     ]
   },
   "LOTEP": {
@@ -240,7 +219,28 @@ const palpites = {
       "7211",
       "7219"
     ],
-    "frases": []
+    "frases": [
+      "' + title + '\nDeu Milhar, Palpite 5050 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5250 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5550 no 7º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 1050 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1050 no 7º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 1193 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1193 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1493 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1593 no 4º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 2193 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2193 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1123 no 9º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1423 no 9º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1523 no 9º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4821 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4521 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4921 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2525 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2225 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2925 no 7º Prêmio!"
+    ]
   },
   "PT RIO": {
     "palpites": [
