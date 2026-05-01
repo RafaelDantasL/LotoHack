@@ -112,10 +112,68 @@ const palpites = {
       "1321"
     ],
     "frases": [
+      "' + title + '\nDeu Centena, Palpite 3167 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3167 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3267 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3767 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3187 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3287 no 5º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 3787 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3787 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3163 no 10º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3263 no 10º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3763 no 10º Prêmio!",
       "' + title + '\nDeu Centena, Palpite 5095 no 7º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 5095 no 7º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 5295 no 7º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 5195 no 7º Prêmio!"
+    ]
+  },
+  "LOOK/GOIAS": {
+    "palpites": [
+      "3991",
+      "3992",
+      "3990",
+      "3901",
+      "3902",
+      "3900",
+      "3911",
+      "3912",
+      "3910",
+      "3091",
+      "3092",
+      "3090",
+      "3001",
+      "3002",
+      "3000",
+      "3011",
+      "3012",
+      "3010",
+      "3191",
+      "3192",
+      "3190",
+      "3101",
+      "3102",
+      "3100",
+      "3111",
+      "3112",
+      "3110",
+      "9991",
+      "9992",
+      "9990"
+    ],
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 3992 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3092 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3192 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9992 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3910 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3010 no 3º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 3110 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3110 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3901 no 6º Prêmio!",
+      "' + title + '\nDeu Milhar, Palpite 3001 no 6º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3101 no 6º Prêmio!"
     ]
   }
 };
