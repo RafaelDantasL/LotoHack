@@ -268,10 +268,15 @@ const palpites = {
       "1003"
     ],
     "frases": [
-      "' + title + '\nDeu Dezena, Palpite 8432 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 8932 no 1º Prêmio!",
-      "' + title + '\nDeu Centena, Palpite 8232 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 8232 no 1º Prêmio!"
+      "' + title + '\nDeu Centena, Palpite 6003 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6003 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6203 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6503 no 2º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 1003 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1003 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6022 no 6º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6222 no 6º Prêmio!",
+      "' + title + '\nDeu Milhar, Palpite 6522 no 6º Prêmio!"
     ]
   },
   "LOTEP": {
