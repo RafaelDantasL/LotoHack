@@ -33,48 +33,12 @@ const palpites = {
       "2217"
     ],
     "frases": [
+      "' + title + '\nDeu Dezena, Palpite 7553 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 7753 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 7053 no 8º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 5985 no 3º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 5485 no 3º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 5185 no 3º Prêmio!"
-    ]
-  },
-  "PT SP": {
-    "palpites": [
-      "1927",
-      "1922",
-      "1928",
-      "1997",
-      "1992",
-      "1998",
-      "1917",
-      "1912",
-      "1918",
-      "1627",
-      "1622",
-      "1628",
-      "1697",
-      "1692",
-      "1698",
-      "1617",
-      "1612",
-      "1618",
-      "1127",
-      "1122",
-      "1128",
-      "1197",
-      "1192",
-      "1198",
-      "1117",
-      "1112",
-      "1118",
-      "3927",
-      "3922",
-      "3928"
-    ],
-    "frases": [
-      "' + title + '\nDeu Dezena, Palpite 1017 no 2º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1217 no 2º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1717 no 2º Prêmio!"
     ]
   },
   "BAHIA": {
@@ -346,5 +310,44 @@ const palpites = {
       "2022"
     ],
     "frases": []
+  },
+  "PT SP": {
+    "palpites": [
+      "1927",
+      "1922",
+      "1928",
+      "1997",
+      "1992",
+      "1998",
+      "1917",
+      "1912",
+      "1918",
+      "1627",
+      "1622",
+      "1628",
+      "1697",
+      "1692",
+      "1698",
+      "1617",
+      "1612",
+      "1618",
+      "1127",
+      "1122",
+      "1128",
+      "1197",
+      "1192",
+      "1198",
+      "1117",
+      "1112",
+      "1118",
+      "3927",
+      "3922",
+      "3928"
+    ],
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 1017 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1217 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1717 no 2º Prêmio!"
+    ]
   }
 };
