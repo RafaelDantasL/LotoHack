@@ -222,7 +222,15 @@ const palpites = {
       "' + title + '\nDeu Dezena, Palpite 4017 no 2º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 4117 no 2º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 4617 no 2º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1017 no 2º Prêmio!"
+      "' + title + '\nDeu Dezena, Palpite 1017 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9711 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9611 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9811 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0711 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9711 no 10º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9611 no 10º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9811 no 10º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0711 no 10º Prêmio!"
     ]
   },
   "PT RIO": {
