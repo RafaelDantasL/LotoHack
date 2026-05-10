@@ -207,7 +207,15 @@ const palpites = {
       "' + title + '\nDeu Dezena, Palpite 4017 no 2º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 4117 no 2º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 4617 no 2º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1017 no 2º Prêmio!"
+      "' + title + '\nDeu Dezena, Palpite 1017 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9711 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9611 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9811 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0711 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9711 no 10º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9611 no 10º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9811 no 10º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0711 no 10º Prêmio!"
     ]
   },
   "PT RIO": {
@@ -248,48 +256,6 @@ const palpites = {
       "' + title + '\nDeu Dezena, Palpite 8500 no 9º Prêmio!",
       "' + title + '\nDeu Centena, Palpite 8000 no 9º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 8000 no 9º Prêmio!"
-    ]
-  },
-  "PT SP": {
-    "palpites": [
-      "8153",
-      "8155",
-      "8150",
-      "8123",
-      "8125",
-      "8120",
-      "8143",
-      "8145",
-      "8140",
-      "8553",
-      "8555",
-      "8550",
-      "8523",
-      "8525",
-      "8520",
-      "8543",
-      "8545",
-      "8540",
-      "8853",
-      "8855",
-      "8850",
-      "8823",
-      "8825",
-      "8820",
-      "8843",
-      "8845",
-      "8840",
-      "1153",
-      "1155",
-      "1150"
-    ],
-    "frases": [
-      "' + title + '\nDeu Dezena, Palpite 5833 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 5533 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 5133 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3037 no 2º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3337 no 2º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3937 no 2º Prêmio!"
     ]
   }
 };
