@@ -115,23 +115,22 @@ const palpites = {
       "0300"
     ],
     "frases": [
-      "' + title + '\nDeu Dezena, Palpite 7190 no 2º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7090 no 2º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7290 no 2º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 4190 no 2º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7193 no 9º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7093 no 9º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7293 no 9º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 4193 no 9º Prêmio!",
-      "' + title + '\nDeu Milhar, Palpite 7165 no 10º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7065 no 10º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7265 no 10º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7165 no 7º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7065 no 7º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7265 no 7º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7113 no 9º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7013 no 9º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7213 no 9º Prêmio!"
+      "' + title + '\nDeu Dezena, Palpite 4301 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4401 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4701 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0301 no 2º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 4331 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4331 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4431 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4731 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4305 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4405 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4705 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0305 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4301 no 10º Prêmio!",
+      "' + title + '\nDeu Milhar, Palpite 4401 no 10º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4701 no 10º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0301 no 10º Prêmio!"
     ]
   },
   "LOOK/GOIAS": {
@@ -329,6 +328,16 @@ const palpites = {
       "0972",
       "0973"
     ],
-    "frases": []
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 1151 no 8º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 1551 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1551 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1051 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2151 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4050 no 6º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4450 no 6º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4950 no 6º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0050 no 6º Prêmio!"
+    ]
   }
 };
