@@ -32,7 +32,23 @@ const palpites = {
       "1726",
       "1721"
     ],
-    "frases": []
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 5343 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5643 no 1º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 5143 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5143 no 1º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 5321 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5321 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5621 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5121 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5343 no 8º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 5643 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5643 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5143 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5341 no 9º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5641 no 9º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5141 no 9º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -68,43 +84,46 @@ const palpites = {
       "3911"
     ],
     "frases": [
+      "' + title + '\nDeu Dezena, Palpite 5283 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5483 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5783 no 4º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 4076 no 4º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 4376 no 4º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 4676 no 4º Prêmio!"
     ]
   },
-  "PT SP": {
+  "LOTECE": {
     "palpites": [
-      "0981",
-      "0983",
-      "0984",
-      "0901",
-      "0903",
-      "0904",
-      "0911",
-      "0913",
-      "0914",
-      "0181",
-      "0183",
-      "0184",
-      "0101",
-      "0103",
-      "0104",
-      "0111",
-      "0113",
-      "0114",
-      "0481",
-      "0483",
-      "0484",
-      "0401",
-      "0403",
-      "0404",
-      "0411",
-      "0413",
-      "0414",
-      "1981",
-      "1983",
-      "1984"
+      "5844",
+      "5847",
+      "5848",
+      "5874",
+      "5877",
+      "5878",
+      "5854",
+      "5857",
+      "5858",
+      "5544",
+      "5547",
+      "5548",
+      "5574",
+      "5577",
+      "5578",
+      "5554",
+      "5557",
+      "5558",
+      "5644",
+      "5647",
+      "5648",
+      "5674",
+      "5677",
+      "5678",
+      "5654",
+      "5657",
+      "5658",
+      "6844",
+      "6847",
+      "6848"
     ],
     "frases": []
   }
