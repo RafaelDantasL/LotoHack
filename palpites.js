@@ -231,10 +231,15 @@ const palpites = {
       "' + title + '\nDeu Dezena, Palpite 2557 no 7º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 2757 no 7º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 3157 no 7º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 2926 no 3º Prêmio!",
-      "' + title + '\nDeu Milhar, Palpite 2526 no 3º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 2026 no 3º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 0926 no 3º Prêmio!"
+      "' + title + '\nDeu Dezena, Palpite 2927 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2527 no 3º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 2027 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2027 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0927 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2927 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2527 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2027 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0927 no 8º Prêmio!"
     ]
   },
   "PT RIO": {
@@ -271,56 +276,5 @@ const palpites = {
       "3145"
     ],
     "frases": []
-  },
-  "PT SP": {
-    "palpites": [
-      "0660",
-      "0663",
-      "0665",
-      "0620",
-      "0623",
-      "0625",
-      "0670",
-      "0673",
-      "0675",
-      "0060",
-      "0063",
-      "0065",
-      "0020",
-      "0023",
-      "0025",
-      "0070",
-      "0073",
-      "0075",
-      "0160",
-      "0163",
-      "0165",
-      "0120",
-      "0123",
-      "0125",
-      "0170",
-      "0173",
-      "0175",
-      "9660",
-      "9663",
-      "9665"
-    ],
-    "frases": [
-      "' + title + '\nDeu Dezena, Palpite 2923 no 7º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 2223 no 7º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 2723 no 7º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 2922 no 8º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 2222 no 8º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 2722 no 8º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 6120 no 2º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 6420 no 2º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 6920 no 2º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 9120 no 2º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 6123 no 10º Prêmio!",
-      "' + title + '\nDeu Centena, Palpite 6423 no 10º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 6423 no 10º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 6923 no 10º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 9123 no 10º Prêmio!"
-    ]
   }
 };
