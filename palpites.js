@@ -300,18 +300,7 @@ const palpites = {
       "' + title + '\nDeu Centena, Palpite 5489 no 5º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 5489 no 5º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 5589 no 5º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 5889 no 5º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1015 no 1º Prêmio!",
-      "' + title + '\nDeu Milhar, Palpite 1315 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1615 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1034 no 4º Prêmio!",
-      "' + title + '\nDeu Centena, Palpite 1334 no 4º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1334 no 4º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1634 no 4º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1000 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1300 no 6º Prêmio!",
-      "' + title + '\nDeu Milhar, Palpite 1600 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 6000 no 6º Prêmio!"
+      "' + title + '\nDeu Dezena, Palpite 5889 no 5º Prêmio!"
     ]
   },
   "LOTEP": {
