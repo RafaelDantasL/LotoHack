@@ -115,6 +115,21 @@ const palpites = {
       "0212",
       "0211"
     ],
-    "frases": []
+    "frases": [
+      "' + title + '\nDeu Milhar, Palpite 6212 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6812 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6412 no 2º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 0212 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0212 no 2º Prêmio!",
+      "' + title + '\nDeu Milhar, Palpite 6218 no 6º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6818 no 6º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6418 no 6º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 0218 no 6º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0218 no 6º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6248 no 7º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 6848 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6848 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6448 no 7º Prêmio!"
+    ]
   }
 };
