@@ -300,12 +300,14 @@ const palpites = {
       "1015"
     ],
     "frases": [
+      "' + title + '\nDeu Dezena, Palpite 4014 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4214 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4314 no 1º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 1014 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1314 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1614 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1010 no 4º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1310 no 4º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1610 no 4º Prêmio!"
+      "' + title + '\nDeu Dezena, Palpite 4010 no 4º Prêmio!",
+      "' + title + '\nDeu Milhar, Palpite 4210 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4310 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1010 no 4º Prêmio!"
     ]
   }
 };
