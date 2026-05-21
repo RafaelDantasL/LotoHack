@@ -108,7 +108,21 @@ const palpites = {
       "9079",
       "9073"
     ],
-    "frases": []
+    "frases": [
+      "' + title + '\nDeu Milhar, Palpite 8073 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 8173 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 8273 no 3º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 9073 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9073 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 8001 no 7º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 8101 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 8101 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 8201 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 8071 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 8171 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 8271 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9071 no 8º Prêmio!"
+    ]
   },
   "LOOK/GOIAS": {
     "palpites": [
@@ -184,6 +198,85 @@ const palpites = {
       "1301",
       "1302",
       "1303"
+    ],
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 1201 no 2º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 1101 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1101 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1301 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9201 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 7003 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 7103 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 7403 no 2º Prêmio!"
+    ]
+  },
+  "PT RIO": {
+    "palpites": [
+      "2804",
+      "2808",
+      "2800",
+      "2854",
+      "2858",
+      "2850",
+      "2824",
+      "2828",
+      "2820",
+      "2504",
+      "2508",
+      "2500",
+      "2554",
+      "2558",
+      "2550",
+      "2524",
+      "2528",
+      "2520",
+      "2004",
+      "2008",
+      "2000",
+      "2054",
+      "2058",
+      "2050",
+      "2024",
+      "2028",
+      "2020",
+      "7804",
+      "7808",
+      "7800"
+    ],
+    "frases": []
+  },
+  "PT SP": {
+    "palpites": [
+      "8040",
+      "8044",
+      "8041",
+      "8010",
+      "8014",
+      "8011",
+      "8000",
+      "8004",
+      "8001",
+      "8840",
+      "8844",
+      "8841",
+      "8810",
+      "8814",
+      "8811",
+      "8800",
+      "8804",
+      "8801",
+      "8240",
+      "8244",
+      "8241",
+      "8210",
+      "8214",
+      "8211",
+      "8200",
+      "8204",
+      "8201",
+      "0040",
+      "0044",
+      "0041"
     ],
     "frases": []
   }
