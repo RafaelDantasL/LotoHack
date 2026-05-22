@@ -340,10 +340,6 @@ const palpites = {
       "' + title + '\nDeu Dezena, Palpite 6028 no 10º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 6228 no 10º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 6728 no 10º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1264 no 10º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1464 no 10º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1064 no 10º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 4264 no 10º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 6606 no 9º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 6006 no 9º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 6206 no 9º Prêmio!"
