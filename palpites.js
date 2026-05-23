@@ -99,5 +99,44 @@ const palpites = {
       "' + title + '\nDeu Dezena, Palpite 1078 no 10º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 1178 no 10º Prêmio!"
     ]
+  },
+  "LOTECE": {
+    "palpites": [
+      "1312",
+      "1318",
+      "1310",
+      "1322",
+      "1328",
+      "1320",
+      "1332",
+      "1338",
+      "1330",
+      "1212",
+      "1218",
+      "1210",
+      "1222",
+      "1228",
+      "1220",
+      "1232",
+      "1238",
+      "1230",
+      "1112",
+      "1118",
+      "1110",
+      "1122",
+      "1128",
+      "1120",
+      "1132",
+      "1138",
+      "1130",
+      "2312",
+      "2318",
+      "2310"
+    ],
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 6924 no 10º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6024 no 10º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6124 no 10º Prêmio!"
+    ]
   }
 };
