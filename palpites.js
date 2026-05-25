@@ -266,16 +266,6 @@ const palpites = {
       "2927"
     ],
     "frases": [
-      "' + title + '\nDeu Dezena, Palpite 3110 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3310 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3010 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3118 no 7º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3318 no 7º Prêmio!",
-      "' + title + '\nDeu Centena, Palpite 3018 no 7º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3018 no 7º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3118 no 10º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3318 no 10º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3018 no 10º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 2199 no 2º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 2499 no 2º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 2899 no 2º Prêmio!"
@@ -322,49 +312,6 @@ const palpites = {
       "' + title + '\nDeu Dezena, Palpite 2975 no 10º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 2375 no 10º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 2575 no 10º Prêmio!"
-    ]
-  },
-  "PT SP": {
-    "palpites": [
-      "4614",
-      "4616",
-      "4619",
-      "4644",
-      "4646",
-      "4649",
-      "4684",
-      "4686",
-      "4689",
-      "4014",
-      "4016",
-      "4019",
-      "4044",
-      "4046",
-      "4049",
-      "4084",
-      "4086",
-      "4089",
-      "4214",
-      "4216",
-      "4219",
-      "4244",
-      "4246",
-      "4249",
-      "4284",
-      "4286",
-      "4289",
-      "0614",
-      "0616",
-      "0619"
-    ],
-    "frases": [
-      "' + title + '\nDeu Dezena, Palpite 2187 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 2787 no 6º Prêmio!",
-      "' + title + '\nDeu Centena, Palpite 2087 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 2087 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 0549 no 5º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 0949 no 5º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 0049 no 5º Prêmio!"
     ]
   }
 };
