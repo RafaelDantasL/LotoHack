@@ -114,24 +114,28 @@ const palpites = {
       "5218"
     ],
     "frases": [
-      "' + title + '\nDeu Dezena, Palpite 7351 no 4º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7451 no 4º Prêmio!",
-      "' + title + '\nDeu Centena, Palpite 7051 no 4º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7051 no 4º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7330 no 5º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7430 no 5º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7030 no 5º Prêmio!",
-      "' + title + '\nDeu Centena, Palpite 2066 no 3º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 2066 no 3º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 2166 no 3º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 2266 no 3º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 2062 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 2162 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 2262 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 2046 no 10º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 2146 no 10º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 2246 no 10º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 9046 no 10º Prêmio!"
+      "' + title + '\nDeu Dezena, Palpite 2212 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2312 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2412 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5212 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2212 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2312 no 5º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 2412 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2412 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5212 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2232 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2332 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2432 no 7º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 2231 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2231 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2331 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2431 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2272 no 9º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2372 no 9º Prêmio!",
+      "' + title + '\nDeu Milhar, Palpite 2472 no 9º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2238 no 10º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2338 no 10º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2438 no 10º Prêmio!"
     ]
   },
   "LOOK/GOIAS": {
@@ -228,6 +232,16 @@ const palpites = {
       "2927"
     ],
     "frases": [
+      "' + title + '\nDeu Dezena, Palpite 3110 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3310 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3010 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3118 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3318 no 7º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 3018 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3018 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3118 no 10º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3318 no 10º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3018 no 10º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 2199 no 2º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 2499 no 2º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 2899 no 2º Prêmio!"
@@ -306,6 +320,10 @@ const palpites = {
       "0619"
     ],
     "frases": [
+      "' + title + '\nDeu Dezena, Palpite 2187 no 6º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2787 no 6º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 2087 no 6º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2087 no 6º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 0549 no 5º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 0949 no 5º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 0049 no 5º Prêmio!"
