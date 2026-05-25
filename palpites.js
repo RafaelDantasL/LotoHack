@@ -107,6 +107,13 @@ const palpites = {
       "9046"
     ],
     "frases": [
+      "' + title + '\nDeu Dezena, Palpite 7351 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 7451 no 4º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 7051 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 7051 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 7330 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 7430 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 7030 no 5º Prêmio!",
       "' + title + '\nDeu Centena, Palpite 2066 no 3º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 2066 no 3º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 2166 no 3º Prêmio!",
@@ -154,19 +161,17 @@ const palpites = {
       "3203"
     ],
     "frases": [
-      "' + title + '\nDeu Centena, Palpite 3550 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3550 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3250 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3350 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 5591 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 5891 no 1º Prêmio!",
-      "' + title + '\nDeu Centena, Palpite 5191 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 5191 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 6591 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 9194 no 4º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 9094 no 4º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 9694 no 4º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1194 no 4º Prêmio!"
+      "' + title + '\nDeu Dezena, Palpite 5238 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5038 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5138 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5218 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5018 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5118 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5200 no 6º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5000 no 6º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 5100 no 6º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5100 no 6º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3200 no 6º Prêmio!"
     ]
   },
   "LOTEP": {
