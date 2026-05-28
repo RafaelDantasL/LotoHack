@@ -108,6 +108,13 @@ const palpites = {
       "6107"
     ],
     "frases": [
+      "' + title + '\nDeu Dezena, Palpite 3271 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3371 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3071 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3291 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3391 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3091 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5291 no 8º Prêmio!",
       "' + title + '\nDeu Centena, Palpite 0106 no 1º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 0106 no 1º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 0206 no 1º Prêmio!",
@@ -160,7 +167,23 @@ const palpites = {
       "3132",
       "3133"
     ],
-    "frases": []
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 0132 no 1º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 0332 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0332 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0432 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3132 no 1º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 0110 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0110 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0310 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0410 no 2º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 0133 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0133 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0333 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0433 no 5º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 3133 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3133 no 5º Prêmio!"
+    ]
   },
   "LOTEP": {
     "palpites": [
