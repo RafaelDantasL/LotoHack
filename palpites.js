@@ -281,49 +281,5 @@ const palpites = {
       "' + title + '\nDeu Dezena, Palpite 0631 no 8º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 0931 no 8º Prêmio!"
     ]
-  },
-  "PT SP": {
-    "palpites": [
-      "0047",
-      "0040",
-      "0041",
-      "0097",
-      "0090",
-      "0091",
-      "0007",
-      "0000",
-      "0001",
-      "0147",
-      "0140",
-      "0141",
-      "0197",
-      "0190",
-      "0191",
-      "0107",
-      "0100",
-      "0101",
-      "0347",
-      "0340",
-      "0341",
-      "0397",
-      "0390",
-      "0391",
-      "0307",
-      "0300",
-      "0301",
-      "3047",
-      "3040",
-      "3041"
-    ],
-    "frases": [
-      "' + title + '\nDeu Dezena, Palpite 1463 no 10º Prêmio!",
-      "' + title + '\nDeu Centena, Palpite 1763 no 10º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1763 no 10º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1063 no 10º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 0463 no 10º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 2781 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 2481 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 2881 no 1º Prêmio!"
-    ]
   }
 };
