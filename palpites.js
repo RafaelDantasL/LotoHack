@@ -111,48 +111,17 @@ const palpites = {
       "3110"
     ],
     "frases": [
-      "' + title + '\nDeu Dezena, Palpite 6321 no 4º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 6821 no 4º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 6921 no 4º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 0321 no 4º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 6311 no 7º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 6811 no 7º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 6911 no 7º Prêmio!"
+      "' + title + '\nDeu Dezena, Palpite 2125 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2225 no 3º Prêmio!",
+      "' + title + '\nDeu Milhar, Palpite 2425 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2121 no 4º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 2221 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2221 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2421 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2111 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2211 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2411 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3111 no 7º Prêmio!"
     ]
-  },
-  "LOTEP": {
-    "palpites": [
-      "4791",
-      "4793",
-      "4798",
-      "4771",
-      "4773",
-      "4778",
-      "4711",
-      "4713",
-      "4718",
-      "4391",
-      "4393",
-      "4398",
-      "4371",
-      "4373",
-      "4378",
-      "4311",
-      "4313",
-      "4318",
-      "4491",
-      "4493",
-      "4498",
-      "4471",
-      "4473",
-      "4478",
-      "4411",
-      "4413",
-      "4418",
-      "7791",
-      "7793",
-      "7798"
-    ],
-    "frases": []
   }
 };
