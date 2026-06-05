@@ -225,9 +225,6 @@ const palpites = {
       "5247"
     ],
     "frases": [
-      "' + title + '\nDeu Dezena, Palpite 5087 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 5587 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 5187 no 6º Prêmio!",
       "' + title + '\nDeu Centena, Palpite 7045 no 3º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 7045 no 3º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 7245 no 3º Prêmio!",
