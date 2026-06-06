@@ -307,7 +307,33 @@ const palpites = {
       "6990",
       "6996"
     ],
-    "frases": []
+    "frases": [
+      "' + title + '\nDeu Centena, Palpite 2997 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2997 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2697 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2097 no 2º Prêmio!",
+      "' + title + '\nDeu Milhar, Palpite 6997 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2990 no 3º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 2690 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2690 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2090 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6990 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2976 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2676 no 4º Prêmio!",
+      "' + title + '\nDeu Milhar, Palpite 2076 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2977 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2677 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2077 no 5º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 2960 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2960 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2660 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2060 no 7º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 2997 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2997 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2697 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2097 no 8º Prêmio!",
+      "' + title + '\nDeu Milhar, Palpite 6997 no 8º Prêmio!"
+    ]
   },
   "PT RIO": {
     "palpites": [
