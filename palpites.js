@@ -223,7 +223,22 @@ const palpites = {
       "1920",
       "1925"
     ],
-    "frases": []
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 0925 no 1º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 0125 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0125 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0325 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1925 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0947 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0147 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0347 no 3º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 0920 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0920 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0120 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0320 no 5º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 1920 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1920 no 5º Prêmio!"
+    ]
   },
   "LOTEP": {
     "palpites": [
