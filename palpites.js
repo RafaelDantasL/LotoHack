@@ -273,7 +273,15 @@ const palpites = {
       "2022",
       "2023"
     ],
-    "frases": []
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 0048 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0148 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0248 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0022 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0122 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0222 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2022 no 4º Prêmio!"
+    ]
   },
   "LOTEP": {
     "palpites": [
