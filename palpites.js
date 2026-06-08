@@ -103,6 +103,13 @@ const palpites = {
       "1010"
     ],
     "frases": [
+      "' + title + '\nDeu Centena, Palpite 2242 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2242 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2442 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2342 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2245 no 6º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2445 no 6º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2345 no 6º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 6089 no 1º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 6289 no 1º Prêmio!",
       "' + title + '\nDeu Milhar, Palpite 6489 no 1º Prêmio!",
@@ -150,18 +157,14 @@ const palpites = {
       "0212"
     ],
     "frases": [
-      "' + title + '\nDeu Dezena, Palpite 3830 no 9º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3030 no 9º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3530 no 9º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1713 no 5º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1513 no 5º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1613 no 5º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7713 no 5º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1160 no 3º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1260 no 3º Prêmio!",
-      "' + title + '\nDeu Centena, Palpite 1760 no 3º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1760 no 3º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7160 no 3º Prêmio!"
+      "' + title + '\nDeu Dezena, Palpite 7212 no 1º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 7412 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 7412 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 7512 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0212 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 7239 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 7439 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 7539 no 5º Prêmio!"
     ]
   },
   "LOTEP": {
