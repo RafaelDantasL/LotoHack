@@ -242,53 +242,5 @@ const palpites = {
       "3821"
     ],
     "frases": []
-  },
-  "PT SP": {
-    "palpites": [
-      "1968",
-      "1960",
-      "1969",
-      "1918",
-      "1910",
-      "1919",
-      "1908",
-      "1900",
-      "1909",
-      "1168",
-      "1160",
-      "1169",
-      "1118",
-      "1110",
-      "1119",
-      "1108",
-      "1100",
-      "1109",
-      "1368",
-      "1360",
-      "1369",
-      "1318",
-      "1310",
-      "1319",
-      "1308",
-      "1300",
-      "1309",
-      "9968",
-      "9960",
-      "9969"
-    ],
-    "frases": [
-      "' + title + '\nDeu Dezena, Palpite 9101 no 2º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 9201 no 2º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 9301 no 2º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 9101 no 3º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 9201 no 3º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 9301 no 3º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 9103 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 9203 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 9303 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 9100 no 8º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 9200 no 8º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 9300 no 8º Prêmio!"
-    ]
   }
 };
