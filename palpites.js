@@ -213,19 +213,7 @@ const palpites = {
       "5399",
       "5391"
     ],
-    "frases": [
-      "' + title + '\nDeu Dezena, Palpite 1225 no 7º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1425 no 7º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1725 no 7º Prêmio!",
-      "' + title + '\nDeu Centena, Palpite 1215 no 8º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1215 no 8º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1415 no 8º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1715 no 8º Prêmio!",
-      "' + title + '\nDeu Milhar, Palpite 3215 no 8º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3305 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3205 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3505 no 6º Prêmio!"
-    ]
+    "frases": []
   },
   "PT RIO": {
     "palpites": [
@@ -273,45 +261,6 @@ const palpites = {
       "' + title + '\nDeu Dezena, Palpite 3094 no 9º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 3194 no 9º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 3894 no 9º Prêmio!"
-    ]
-  },
-  "PT SP": {
-    "palpites": [
-      "3636",
-      "3638",
-      "3635",
-      "3666",
-      "3668",
-      "3665",
-      "3606",
-      "3608",
-      "3605",
-      "3136",
-      "3138",
-      "3135",
-      "3166",
-      "3168",
-      "3165",
-      "3106",
-      "3108",
-      "3105",
-      "3336",
-      "3338",
-      "3335",
-      "3366",
-      "3368",
-      "3365",
-      "3306",
-      "3308",
-      "3305",
-      "1636",
-      "1638",
-      "1635"
-    ],
-    "frases": [
-      "' + title + '\nDeu Dezena, Palpite 7168 no 4º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7268 no 4º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7868 no 4º Prêmio!"
     ]
   }
 };
