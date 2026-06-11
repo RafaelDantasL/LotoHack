@@ -308,17 +308,6 @@ const palpites = {
       "5062"
     ],
     "frases": [
-      "' + title + '\nDeu Dezena, Palpite 1225 no 7º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1425 no 7º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1725 no 7º Prêmio!",
-      "' + title + '\nDeu Centena, Palpite 1215 no 8º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1215 no 8º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1415 no 8º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1715 no 8º Prêmio!",
-      "' + title + '\nDeu Milhar, Palpite 3215 no 8º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3305 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3205 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3505 no 6º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 1371 no 2º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 1971 no 2º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 1071 no 2º Prêmio!",
@@ -394,48 +383,6 @@ const palpites = {
       "' + title + '\nDeu Dezena, Palpite 4553 no 7º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 4753 no 7º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 4153 no 7º Prêmio!"
-    ]
-  },
-  "PT SP": {
-    "palpites": [
-      "2149",
-      "2144",
-      "2140",
-      "2199",
-      "2194",
-      "2190",
-      "2119",
-      "2114",
-      "2110",
-      "2349",
-      "2344",
-      "2340",
-      "2399",
-      "2394",
-      "2390",
-      "2319",
-      "2314",
-      "2310",
-      "2449",
-      "2444",
-      "2440",
-      "2499",
-      "2494",
-      "2490",
-      "2419",
-      "2414",
-      "2410",
-      "4149",
-      "4144",
-      "4140"
-    ],
-    "frases": [
-      "' + title + '\nDeu Dezena, Palpite 7168 no 4º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7268 no 4º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7868 no 4º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3636 no 7º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3336 no 7º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3436 no 7º Prêmio!"
     ]
   }
 };
