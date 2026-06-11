@@ -182,19 +182,7 @@ const palpites = {
       "0758",
       "0755"
     ],
-    "frases": [
-      "' + title + '\nDeu Dezena, Palpite 1225 no 7º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1425 no 7º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1725 no 7º Prêmio!",
-      "' + title + '\nDeu Centena, Palpite 1215 no 8º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1215 no 8º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1415 no 8º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1715 no 8º Prêmio!",
-      "' + title + '\nDeu Milhar, Palpite 3215 no 8º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3305 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3205 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3505 no 6º Prêmio!"
-    ]
+    "frases": []
   },
   "PT RIO": {
     "palpites": [
