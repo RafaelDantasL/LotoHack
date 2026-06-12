@@ -33,46 +33,25 @@ const palpites = {
       "9211"
     ],
     "frases": [
+      "' + title + '\nDeu Dezena, Palpite 4034 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4234 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4534 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4031 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4231 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4531 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4021 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4221 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4521 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9021 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4044 no 9º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 4244 no 9º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4244 no 9º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4544 no 9º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 8139 no 7º Prêmio!",
       "' + title + '\nDeu Centena, Palpite 8339 no 7º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 8339 no 7º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 8639 no 7º Prêmio!"
     ]
-  },
-  "PT SP": {
-    "palpites": [
-      "4002",
-      "4000",
-      "4003",
-      "4032",
-      "4030",
-      "4033",
-      "4022",
-      "4020",
-      "4023",
-      "4402",
-      "4400",
-      "4403",
-      "4432",
-      "4430",
-      "4433",
-      "4422",
-      "4420",
-      "4423",
-      "4702",
-      "4700",
-      "4703",
-      "4732",
-      "4730",
-      "4733",
-      "4722",
-      "4720",
-      "4723",
-      "6002",
-      "6000",
-      "6003"
-    ],
-    "frases": []
   },
   "BAHIA": {
     "palpites": [
@@ -337,5 +316,40 @@ const palpites = {
       "' + title + '\nDeu Dezena, Palpite 7312 no 5º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 1012 no 5º Prêmio!"
     ]
+  },
+  "PT SP": {
+    "palpites": [
+      "4002",
+      "4000",
+      "4003",
+      "4032",
+      "4030",
+      "4033",
+      "4022",
+      "4020",
+      "4023",
+      "4402",
+      "4400",
+      "4403",
+      "4432",
+      "4430",
+      "4433",
+      "4422",
+      "4420",
+      "4423",
+      "4702",
+      "4700",
+      "4703",
+      "4732",
+      "4730",
+      "4733",
+      "4722",
+      "4720",
+      "4723",
+      "6002",
+      "6000",
+      "6003"
+    ],
+    "frases": []
   }
 };
