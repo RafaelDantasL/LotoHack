@@ -301,11 +301,7 @@ const palpites = {
     "frases": [
       "' + title + '\nDeu Dezena, Palpite 1039 no 7º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 1339 no 7º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1239 no 7º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7184 no 10º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7284 no 10º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7384 no 10º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 4184 no 10º Prêmio!"
+      "' + title + '\nDeu Dezena, Palpite 1239 no 7º Prêmio!"
     ]
   },
   "PT RIO": {
