@@ -178,22 +178,6 @@ const palpites = {
       "' + title + '\nDeu Dezena, Palpite 3510 no 3º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 3810 no 3º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 1410 no 3º Prêmio!",
-      "' + title + '\nDeu Centena, Palpite 7092 no 5º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7092 no 5º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7592 no 5º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7192 no 5º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7054 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7554 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7154 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7084 no 8º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7584 no 8º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7184 no 8º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 2084 no 8º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7082 no 9º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7582 no 9º Prêmio!",
-      "' + title + '\nDeu Centena, Palpite 7182 no 9º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7182 no 9º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 2082 no 9º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 7050 no 1º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 7550 no 1º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 7150 no 1º Prêmio!",
@@ -332,11 +316,7 @@ const palpites = {
     "frases": [
       "' + title + '\nDeu Dezena, Palpite 1039 no 7º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 1339 no 7º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1239 no 7º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7184 no 10º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7284 no 10º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7384 no 10º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 4184 no 10º Prêmio!"
+      "' + title + '\nDeu Dezena, Palpite 1239 no 7º Prêmio!"
     ]
   },
   "PT RIO": {
