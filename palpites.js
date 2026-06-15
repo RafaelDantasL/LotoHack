@@ -1,4 +1,84 @@
 const palpites = {
+  "BAHIA MALUCA": {
+    "palpites": [
+      "0699",
+      "0690",
+      "0692",
+      "0649",
+      "0640",
+      "0642",
+      "0609",
+      "0600",
+      "0602",
+      "0499",
+      "0490",
+      "0492",
+      "0449",
+      "0440",
+      "0442",
+      "0409",
+      "0400",
+      "0402",
+      "0099",
+      "0090",
+      "0092",
+      "0049",
+      "0040",
+      "0042",
+      "0009",
+      "0000",
+      "0002",
+      "1699",
+      "1690",
+      "1692"
+    ],
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 0370 no 9º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0170 no 9º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0770 no 9º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9370 no 9º Prêmio!"
+    ]
+  },
+  "BAHIA": {
+    "palpites": [
+      "4491",
+      "4496",
+      "4490",
+      "4401",
+      "4406",
+      "4400",
+      "4411",
+      "4416",
+      "4410",
+      "4691",
+      "4696",
+      "4690",
+      "4601",
+      "4606",
+      "4600",
+      "4611",
+      "4616",
+      "4610",
+      "4991",
+      "4996",
+      "4990",
+      "4901",
+      "4906",
+      "4900",
+      "4911",
+      "4916",
+      "4910",
+      "0491",
+      "0496",
+      "0490"
+    ],
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 0001 no 6º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0101 no 6º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 0301 no 6º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0301 no 6º Prêmio!"
+    ]
+  },
   "LOTECE": {
     "palpites": [
       "0105",
@@ -185,6 +265,9 @@ const palpites = {
       "1699"
     ],
     "frases": [
+      "' + title + '\nDeu Dezena, Palpite 6087 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6287 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6387 no 5º Prêmio!",
       "' + title + '\nDeu Centena, Palpite 9617 no 2º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 9617 no 2º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 9117 no 2º Prêmio!",
