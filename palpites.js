@@ -225,9 +225,13 @@ const palpites = {
       "' + title + '\nDeu Dezena, Palpite 1475 no 8º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 1075 no 8º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 1175 no 8º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 4005 no 3º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 4305 no 3º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 4705 no 3º Prêmio!"
+      "' + title + '\nDeu Dezena, Palpite 4072 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4372 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4772 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 8072 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4022 no 10º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4322 no 10º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4722 no 10º Prêmio!"
     ]
   },
   "PT RIO": {
@@ -264,5 +268,51 @@ const palpites = {
       "5293"
     ],
     "frases": []
+  },
+  "PT SP": {
+    "palpites": [
+      "0727",
+      "0723",
+      "0728",
+      "0737",
+      "0733",
+      "0738",
+      "0777",
+      "0773",
+      "0778",
+      "0927",
+      "0923",
+      "0928",
+      "0937",
+      "0933",
+      "0938",
+      "0977",
+      "0973",
+      "0978",
+      "0027",
+      "0023",
+      "0028",
+      "0037",
+      "0033",
+      "0038",
+      "0077",
+      "0073",
+      "0078",
+      "3727",
+      "3723",
+      "3728"
+    ],
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 4414 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4914 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4014 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5819 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5319 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5519 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5878 no 10º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5378 no 10º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5578 no 10º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2878 no 10º Prêmio!"
+    ]
   }
 };
