@@ -303,9 +303,9 @@ const palpites = {
       "9070"
     ],
     "frases": [
-      "' + title + '\nDeu Dezena, Palpite 3207 no 8º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3507 no 8º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3007 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3223 no 6º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3523 no 6º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3023 no 6º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 0470 no 5º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 0670 no 5º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 0270 no 5º Prêmio!",
@@ -350,55 +350,5 @@ const palpites = {
       "8717"
     ],
     "frases": []
-  },
-  "PT SP": {
-    "palpites": [
-      "6671",
-      "6675",
-      "6672",
-      "6601",
-      "6605",
-      "6602",
-      "6631",
-      "6635",
-      "6632",
-      "6771",
-      "6775",
-      "6772",
-      "6701",
-      "6705",
-      "6702",
-      "6731",
-      "6735",
-      "6732",
-      "6871",
-      "6875",
-      "6872",
-      "6801",
-      "6805",
-      "6802",
-      "6831",
-      "6835",
-      "6832",
-      "5671",
-      "5675",
-      "5672"
-    ],
-    "frases": [
-      "' + title + '\nDeu Dezena, Palpite 0874 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 0074 no 1º Prêmio!",
-      "' + title + '\nDeu Milhar, Palpite 0474 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 0870 no 3º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 0070 no 3º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 0470 no 3º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3443 no 5º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3543 no 5º Prêmio!",
-      "' + title + '\nDeu Centena, Palpite 3043 no 5º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3043 no 5º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1006 no 1º Prêmio!",
-      "' + title + '\nDeu Centena, Palpite 1606 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1606 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1306 no 1º Prêmio!"
-    ]
   }
 };
