@@ -73,7 +73,12 @@ const palpites = {
       "7010",
       "7016"
     ],
-    "frases": []
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 3219 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3819 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3019 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5219 no 7º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
@@ -196,41 +201,41 @@ const palpites = {
   },
   "LOTEP": {
     "palpites": [
-      "0428",
-      "0426",
-      "0420",
-      "0478",
-      "0476",
-      "0470",
-      "0488",
-      "0486",
-      "0480",
-      "0628",
-      "0626",
-      "0620",
-      "0678",
-      "0676",
-      "0670",
-      "0688",
-      "0686",
-      "0680",
-      "0228",
-      "0226",
-      "0220",
-      "0278",
-      "0276",
-      "0270",
-      "0288",
-      "0286",
-      "0280",
-      "8428",
-      "8426",
-      "8420"
+      "8222",
+      "8220",
+      "8221",
+      "8232",
+      "8230",
+      "8231",
+      "8292",
+      "8290",
+      "8291",
+      "8922",
+      "8920",
+      "8921",
+      "8932",
+      "8930",
+      "8931",
+      "8992",
+      "8990",
+      "8991",
+      "8022",
+      "8020",
+      "8021",
+      "8032",
+      "8030",
+      "8031",
+      "8092",
+      "8090",
+      "8091",
+      "2222",
+      "2220",
+      "2221"
     ],
     "frases": [
-      "' + title + '\nDeu Dezena, Palpite 3207 no 8º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3507 no 8º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3007 no 8º Prêmio!"
+      "' + title + '\nDeu Dezena, Palpite 0470 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0670 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0270 no 5º Prêmio!"
     ]
   },
   "PT RIO": {
