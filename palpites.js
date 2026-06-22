@@ -32,42 +32,20 @@ const palpites = {
       "3830",
       "3839"
     ],
-    "frases": []
-  },
-  "PT SP": {
-    "palpites": [
-      "4249",
-      "4245",
-      "4248",
-      "4289",
-      "4285",
-      "4288",
-      "4209",
-      "4205",
-      "4208",
-      "4049",
-      "4045",
-      "4048",
-      "4089",
-      "4085",
-      "4088",
-      "4009",
-      "4005",
-      "4008",
-      "4149",
-      "4145",
-      "4148",
-      "4189",
-      "4185",
-      "4188",
-      "4109",
-      "4105",
-      "4108",
-      "0249",
-      "0245",
-      "0248"
-    ],
-    "frases": []
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 3494 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3294 no 1º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 3394 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3394 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0494 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3449 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3249 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3349 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3495 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3295 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3395 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0495 no 3º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -430,5 +408,40 @@ const palpites = {
       "' + title + '\nDeu Dezena, Palpite 4245 no 5º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 7445 no 5º Prêmio!"
     ]
+  },
+  "PT SP": {
+    "palpites": [
+      "4249",
+      "4245",
+      "4248",
+      "4289",
+      "4285",
+      "4288",
+      "4209",
+      "4205",
+      "4208",
+      "4049",
+      "4045",
+      "4048",
+      "4089",
+      "4085",
+      "4088",
+      "4009",
+      "4005",
+      "4008",
+      "4149",
+      "4145",
+      "4148",
+      "4189",
+      "4185",
+      "4188",
+      "4109",
+      "4105",
+      "4108",
+      "0249",
+      "0245",
+      "0248"
+    ],
+    "frases": []
   }
 };
