@@ -253,92 +253,9 @@ const palpites = {
       "4337"
     ],
     "frases": [
-      "' + title + '\nDeu Dezena, Palpite 1589 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1689 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1189 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1589 no 10º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1689 no 10º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1189 no 10º Prêmio!"
-    ]
-  },
-  "PT RIO": {
-    "palpites": [
-      "6069",
-      "6065",
-      "6067",
-      "6079",
-      "6075",
-      "6077",
-      "6009",
-      "6005",
-      "6007",
-      "6469",
-      "6465",
-      "6467",
-      "6479",
-      "6475",
-      "6477",
-      "6409",
-      "6405",
-      "6407",
-      "6669",
-      "6665",
-      "6667",
-      "6679",
-      "6675",
-      "6677",
-      "6609",
-      "6605",
-      "6607",
-      "1069",
-      "1065",
-      "1067"
-    ],
-    "frases": [
-      "' + title + '\nDeu Dezena, Palpite 0400 no 10º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 0600 no 10º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 0900 no 10º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1400 no 10º Prêmio!"
-    ]
-  },
-  "PT SP": {
-    "palpites": [
-      "1525",
-      "1529",
-      "1523",
-      "1535",
-      "1539",
-      "1533",
-      "1545",
-      "1549",
-      "1543",
-      "1625",
-      "1629",
-      "1623",
-      "1635",
-      "1639",
-      "1633",
-      "1645",
-      "1649",
-      "1643",
-      "1125",
-      "1129",
-      "1123",
-      "1135",
-      "1139",
-      "1133",
-      "1145",
-      "1149",
-      "1143",
-      "4525",
-      "4529",
-      "4523"
-    ],
-    "frases": [
-      "' + title + '\nDeu Dezena, Palpite 5349 no 7º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 5549 no 7º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 5149 no 7º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 6349 no 7º Prêmio!"
+      "' + title + '\nDeu Dezena, Palpite 2727 no 9º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2327 no 9º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2027 no 9º Prêmio!"
     ]
   }
 };
