@@ -1,4 +1,80 @@
 const palpites = {
+  "BAHIA MALUCA": {
+    "palpites": [
+      "9270",
+      "9273",
+      "9272",
+      "9280",
+      "9283",
+      "9282",
+      "9220",
+      "9223",
+      "9222",
+      "9670",
+      "9673",
+      "9672",
+      "9680",
+      "9683",
+      "9682",
+      "9620",
+      "9623",
+      "9622",
+      "9770",
+      "9773",
+      "9772",
+      "9780",
+      "9783",
+      "9782",
+      "9720",
+      "9723",
+      "9722",
+      "5270",
+      "5273",
+      "5272"
+    ],
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 2080 no 3º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 2280 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2280 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2180 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4080 no 3º Prêmio!"
+    ]
+  },
+  "BAHIA": {
+    "palpites": [
+      "7845",
+      "7846",
+      "7840",
+      "7855",
+      "7856",
+      "7850",
+      "7865",
+      "7866",
+      "7860",
+      "7245",
+      "7246",
+      "7240",
+      "7255",
+      "7256",
+      "7250",
+      "7265",
+      "7266",
+      "7260",
+      "7945",
+      "7946",
+      "7940",
+      "7955",
+      "7956",
+      "7950",
+      "7965",
+      "7966",
+      "7960",
+      "0845",
+      "0846",
+      "0840"
+    ],
+    "frases": []
+  },
   "LOTECE": {
     "palpites": [
       "3307",
@@ -218,6 +294,11 @@ const palpites = {
       "5252",
       "5250"
     ],
-    "frases": []
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 5349 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5549 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5149 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6349 no 7º Prêmio!"
+    ]
   }
 };
