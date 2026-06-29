@@ -167,15 +167,49 @@ const palpites = {
       "0664"
     ],
     "frases": [
-      "' + title + '\nDeu Dezena, Palpite 9830 no 10º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 9030 no 10º Prêmio!",
-      "' + title + '\nDeu Centena, Palpite 9130 no 10º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 9130 no 10º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 4384 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 4484 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 4684 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 5384 no 1º Prêmio!"
+      "' + title + '\nDeu Dezena, Palpite 4627 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4127 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4327 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4664 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4164 no 5º Prêmio!",
+      "' + title + '\nDeu Milhar, Palpite 4364 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0664 no 5º Prêmio!"
     ]
+  },
+  "PT RIO": {
+    "palpites": [
+      "4145",
+      "4141",
+      "4143",
+      "4155",
+      "4151",
+      "4153",
+      "4175",
+      "4171",
+      "4173",
+      "4545",
+      "4541",
+      "4543",
+      "4555",
+      "4551",
+      "4553",
+      "4575",
+      "4571",
+      "4573",
+      "4245",
+      "4241",
+      "4243",
+      "4255",
+      "4251",
+      "4253",
+      "4275",
+      "4271",
+      "4273",
+      "1145",
+      "1141",
+      "1143"
+    ],
+    "frases": []
   },
   "LOTEP": {
     "palpites": [
@@ -221,45 +255,6 @@ const palpites = {
       "' + title + '\nDeu Dezena, Palpite 8419 no 10º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 8719 no 10º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 8919 no 10º Prêmio!"
-    ]
-  },
-  "PT RIO": {
-    "palpites": [
-      "5081",
-      "5086",
-      "5080",
-      "5061",
-      "5066",
-      "5060",
-      "5001",
-      "5006",
-      "5000",
-      "5481",
-      "5486",
-      "5480",
-      "5461",
-      "5466",
-      "5460",
-      "5401",
-      "5406",
-      "5400",
-      "5181",
-      "5186",
-      "5180",
-      "5161",
-      "5166",
-      "5160",
-      "5101",
-      "5106",
-      "5100",
-      "8081",
-      "8086",
-      "8080"
-    ],
-    "frases": [
-      "' + title + '\nDeu Dezena, Palpite 5269 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 5569 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 5369 no 6º Prêmio!"
     ]
   },
   "PT SP": {
