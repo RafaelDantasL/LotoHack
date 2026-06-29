@@ -115,23 +115,7 @@ const palpites = {
       "7124",
       "7129"
     ],
-    "frases": [
-      "' + title + '\nDeu Dezena, Palpite 5124 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 5524 no 1º Prêmio!",
-      "' + title + '\nDeu Milhar, Palpite 5924 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7124 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 5129 no 2º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 5529 no 2º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 5929 no 2º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7129 no 2º Prêmio!",
-      "' + title + '\nDeu Centena, Palpite 5159 no 4º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 5159 no 4º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 5559 no 4º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 5959 no 4º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 5171 no 10º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 5571 no 10º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 5971 no 10º Prêmio!"
-    ]
+    "frases": []
   },
   "LOOK/GOIAS": {
     "palpites": [
@@ -225,92 +209,5 @@ const palpites = {
       "4340"
     ],
     "frases": []
-  },
-  "PT RIO": {
-    "palpites": [
-      "4145",
-      "4141",
-      "4143",
-      "4155",
-      "4151",
-      "4153",
-      "4175",
-      "4171",
-      "4173",
-      "4545",
-      "4541",
-      "4543",
-      "4555",
-      "4551",
-      "4553",
-      "4575",
-      "4571",
-      "4573",
-      "4245",
-      "4241",
-      "4243",
-      "4255",
-      "4251",
-      "4253",
-      "4275",
-      "4271",
-      "4273",
-      "1145",
-      "1141",
-      "1143"
-    ],
-    "frases": [
-      "' + title + '\nDeu Dezena, Palpite 5269 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 5569 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 5369 no 6º Prêmio!"
-    ]
-  },
-  "PT SP": {
-    "palpites": [
-      "1803",
-      "1804",
-      "1805",
-      "1813",
-      "1814",
-      "1815",
-      "1843",
-      "1844",
-      "1845",
-      "1703",
-      "1704",
-      "1705",
-      "1713",
-      "1714",
-      "1715",
-      "1743",
-      "1744",
-      "1745",
-      "1003",
-      "1004",
-      "1005",
-      "1013",
-      "1014",
-      "1015",
-      "1043",
-      "1044",
-      "1045",
-      "4803",
-      "4804",
-      "4805"
-    ],
-    "frases": [
-      "' + title + '\nDeu Centena, Palpite 3358 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3358 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3558 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3058 no 1º Prêmio!",
-      "' + title + '\nDeu Centena, Palpite 6358 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 6358 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 8065 no 9º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 8365 no 9º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 8565 no 9º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 0915 no 4º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 0515 no 4º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 0115 no 4º Prêmio!"
-    ]
   }
 };
