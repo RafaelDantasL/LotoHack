@@ -219,7 +219,14 @@ const palpites = {
       "' + title + '\nDeu Dezena, Palpite 4160 no 9º Prêmio!",
       "' + title + '\nDeu Centena, Palpite 4360 no 9º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 4360 no 9º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 4260 no 9º Prêmio!"
+      "' + title + '\nDeu Dezena, Palpite 4260 no 9º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4160 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4360 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4260 no 2º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 4161 no 10º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4161 no 10º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4361 no 10º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4261 no 10º Prêmio!"
     ]
   },
   "PT RIO": {
@@ -256,53 +263,5 @@ const palpites = {
       "3317"
     ],
     "frases": []
-  },
-  "PT SP": {
-    "palpites": [
-      "0294",
-      "0298",
-      "0292",
-      "0244",
-      "0248",
-      "0242",
-      "0204",
-      "0208",
-      "0202",
-      "0894",
-      "0898",
-      "0892",
-      "0844",
-      "0848",
-      "0842",
-      "0804",
-      "0808",
-      "0802",
-      "0094",
-      "0098",
-      "0092",
-      "0044",
-      "0048",
-      "0042",
-      "0004",
-      "0008",
-      "0002",
-      "2294",
-      "2298",
-      "2292"
-    ],
-    "frases": [
-      "' + title + '\nDeu Dezena, Palpite 9119 no 2º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 9919 no 2º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 9419 no 2º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 9189 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 9989 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 9489 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 0189 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 9055 no 6º Prêmio!",
-      "' + title + '\nDeu Centena, Palpite 9255 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 9255 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 9155 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 6055 no 6º Prêmio!"
-    ]
   }
 };
