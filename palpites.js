@@ -110,7 +110,16 @@ const palpites = {
       "5106",
       "5101"
     ],
-    "frases": []
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 4106 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4306 no 3º Prêmio!",
+      "' + title + '\nDeu Milhar, Palpite 4206 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5106 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4160 no 9º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 4360 no 9º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4360 no 9º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4260 no 9º Prêmio!"
+    ]
   },
   "BAHIA MALUCA": {
     "palpites": [
