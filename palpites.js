@@ -119,16 +119,7 @@ const palpites = {
       "1240",
       "1243"
     ],
-    "frases": [
-      "' + title + '\nDeu Dezena, Palpite 4242 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 4542 no 1º Prêmio!",
-      "' + title + '\nDeu Centena, Palpite 4942 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 4942 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1242 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 4220 no 9º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 4520 no 9º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 4920 no 9º Prêmio!"
-    ]
+    "frases": []
   },
   "LOOK/GOIAS": {
     "palpites": [
@@ -209,94 +200,5 @@ const palpites = {
       "' + title + '\nDeu Dezena, Palpite 4314 no 5º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 0114 no 5º Prêmio!"
     ]
-  },
-  "LOTEP": {
-    "palpites": [
-      "0920",
-      "0927",
-      "0928",
-      "0910",
-      "0917",
-      "0918",
-      "0900",
-      "0907",
-      "0908",
-      "0320",
-      "0327",
-      "0328",
-      "0310",
-      "0317",
-      "0318",
-      "0300",
-      "0307",
-      "0308",
-      "0720",
-      "0727",
-      "0728",
-      "0710",
-      "0717",
-      "0718",
-      "0700",
-      "0707",
-      "0708",
-      "1920",
-      "1927",
-      "1928"
-    ],
-    "frases": [
-      "' + title + '\nDeu Dezena, Palpite 4855 no 5º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 4355 no 5º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 4155 no 5º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 5855 no 5º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 4825 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 4325 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 4125 no 6º Prêmio!",
-      "' + title + '\nDeu Centena, Palpite 4825 no 9º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 4825 no 9º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 4325 no 9º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 4125 no 9º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 4993 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 4093 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 4193 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 9993 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 4924 no 3º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 4024 no 3º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 4124 no 3º Prêmio!"
-    ]
-  },
-  "PT SP": {
-    "palpites": [
-      "8363",
-      "8364",
-      "8365",
-      "8313",
-      "8314",
-      "8315",
-      "8383",
-      "8384",
-      "8385",
-      "8863",
-      "8864",
-      "8865",
-      "8813",
-      "8814",
-      "8815",
-      "8883",
-      "8884",
-      "8885",
-      "8163",
-      "8164",
-      "8165",
-      "8113",
-      "8114",
-      "8115",
-      "8183",
-      "8184",
-      "8185",
-      "0363",
-      "0364",
-      "0365"
-    ],
-    "frases": []
   }
 };
