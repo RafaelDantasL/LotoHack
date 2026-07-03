@@ -145,16 +145,7 @@ const palpites = {
       "6531",
       "6537"
     ],
-    "frases": [
-      "' + title + '\nDeu Dezena, Palpite 4242 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 4542 no 1º Prêmio!",
-      "' + title + '\nDeu Centena, Palpite 4942 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 4942 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1242 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 4220 no 9º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 4520 no 9º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 4920 no 9º Prêmio!"
-    ]
+    "frases": []
   },
   "LOOK/GOIAS": {
     "palpites": [
