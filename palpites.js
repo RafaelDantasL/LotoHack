@@ -216,5 +216,88 @@ const palpites = {
       "' + title + '\nDeu Dezena, Palpite 4706 no 4º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 4406 no 4º Prêmio!"
     ]
+  },
+  "PT RIO": {
+    "palpites": [
+      "9510",
+      "9515",
+      "9511",
+      "9580",
+      "9585",
+      "9581",
+      "9500",
+      "9505",
+      "9501",
+      "9710",
+      "9715",
+      "9711",
+      "9780",
+      "9785",
+      "9781",
+      "9700",
+      "9705",
+      "9701",
+      "9010",
+      "9015",
+      "9011",
+      "9080",
+      "9085",
+      "9081",
+      "9000",
+      "9005",
+      "9001",
+      "4510",
+      "4515",
+      "4511"
+    ],
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 0422 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0922 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0022 no 7º Prêmio!"
+    ]
+  },
+  "PT SP": {
+    "palpites": [
+      "1315",
+      "1312",
+      "1313",
+      "1345",
+      "1342",
+      "1343",
+      "1375",
+      "1372",
+      "1373",
+      "1115",
+      "1112",
+      "1113",
+      "1145",
+      "1142",
+      "1143",
+      "1175",
+      "1172",
+      "1173",
+      "1215",
+      "1212",
+      "1213",
+      "1245",
+      "1242",
+      "1243",
+      "1275",
+      "1272",
+      "1273",
+      "3315",
+      "3312",
+      "3313"
+    ],
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 1053 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1253 no 1º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 1153 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1153 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3053 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9992 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9792 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9192 no 1º Prêmio!"
+    ]
   }
 };
