@@ -116,51 +116,23 @@ const palpites = {
       "0029"
     ],
     "frases": [
-      "' + title + '\nDeu Dezena, Palpite 0730 no 5º Prêmio!",
-      "' + title + '\nDeu Centena, Palpite 0530 no 5º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 0530 no 5º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 0030 no 5º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3730 no 5º Prêmio!"
-    ]
-  },
-  "LOTEP": {
-    "palpites": [
-      "1000",
-      "1002",
-      "1009",
-      "1050",
-      "1052",
-      "1059",
-      "1010",
-      "1012",
-      "1019",
-      "1200",
-      "1202",
-      "1209",
-      "1250",
-      "1252",
-      "1259",
-      "1210",
-      "1212",
-      "1219",
-      "1500",
-      "1502",
-      "1509",
-      "1550",
-      "1552",
-      "1559",
-      "1510",
-      "1512",
-      "1519",
-      "3000",
-      "3002",
-      "3009"
-    ],
-    "frases": [
-      "' + title + '\nDeu Dezena, Palpite 0752 no 8º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 0152 no 8º Prêmio!",
-      "' + title + '\nDeu Centena, Palpite 0652 no 8º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 0652 no 8º Prêmio!"
+      "' + title + '\nDeu Dezena, Palpite 8027 no 2º Prêmio!",
+      "' + title + '\nDeu Milhar, Palpite 8127 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 8327 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0027 no 2º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 8029 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 8029 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 8129 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 8329 no 4º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 0029 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0029 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 8037 no 6º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 8137 no 6º Prêmio!",
+      "' + title + '\nDeu Milhar, Palpite 8337 no 6º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 8008 no 9º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 8108 no 9º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 8308 no 9º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 8308 no 9º Prêmio!"
     ]
   }
 };
