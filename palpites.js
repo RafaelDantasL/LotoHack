@@ -32,45 +32,17 @@ const palpites = {
       "1979",
       "1970"
     ],
-    "frases": []
-  },
-  "PT SP": {
-    "palpites": [
-      "4727",
-      "4723",
-      "4729",
-      "4797",
-      "4793",
-      "4799",
-      "4707",
-      "4703",
-      "4709",
-      "4327",
-      "4323",
-      "4329",
-      "4397",
-      "4393",
-      "4399",
-      "4307",
-      "4303",
-      "4309",
-      "4027",
-      "4023",
-      "4029",
-      "4097",
-      "4093",
-      "4099",
-      "4007",
-      "4003",
-      "4009",
-      "0727",
-      "0723",
-      "0729"
-    ],
     "frases": [
-      "' + title + '\nDeu Dezena, Palpite 0277 no 7º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 0477 no 7º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 0677 no 7º Prêmio!"
+      "' + title + '\nDeu Dezena, Palpite 1083 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1683 no 2º Prêmio!",
+      "' + title + '\nDeu Milhar, Palpite 1783 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1018 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1618 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1718 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0018 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6723 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6023 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6923 no 7º Prêmio!"
     ]
   },
   "BAHIA": {
@@ -359,6 +331,45 @@ const palpites = {
       "' + title + '\nDeu Dezena, Palpite 5353 no 9º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 5653 no 9º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 5753 no 9º Prêmio!"
+    ]
+  },
+  "PT SP": {
+    "palpites": [
+      "4727",
+      "4723",
+      "4729",
+      "4797",
+      "4793",
+      "4799",
+      "4707",
+      "4703",
+      "4709",
+      "4327",
+      "4323",
+      "4329",
+      "4397",
+      "4393",
+      "4399",
+      "4307",
+      "4303",
+      "4309",
+      "4027",
+      "4023",
+      "4029",
+      "4097",
+      "4093",
+      "4099",
+      "4007",
+      "4003",
+      "4009",
+      "0727",
+      "0723",
+      "0729"
+    ],
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 0277 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0477 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0677 no 7º Prêmio!"
     ]
   }
 };
