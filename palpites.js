@@ -116,6 +116,11 @@ const palpites = {
       "0029"
     ],
     "frases": [
+      "' + title + '\nDeu Dezena, Palpite 0730 no 5º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 0530 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0530 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0030 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3730 no 5º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 8027 no 2º Prêmio!",
       "' + title + '\nDeu Milhar, Palpite 8127 no 2º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 8327 no 2º Prêmio!",
@@ -169,20 +174,15 @@ const palpites = {
       "1564"
     ],
     "frases": [
-      "' + title + '\nDeu Dezena, Palpite 3811 no 7º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3011 no 7º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3211 no 7º Prêmio!",
-      "' + title + '\nDeu Centena, Palpite 4139 no 4º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 4139 no 4º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 4739 no 4º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 4039 no 4º Prêmio!",
-      "' + title + '\nDeu Centena, Palpite 4131 no 7º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 4131 no 7º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 4731 no 7º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 4031 no 7º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 4139 no 9º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 4739 no 9º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 4039 no 9º Prêmio!"
+      "' + title + '\nDeu Centena, Palpite 9534 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9534 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9034 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9234 no 1º Prêmio!",
+      "' + title + '\nDeu Milhar, Palpite 9561 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9061 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9261 no 2º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 1561 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1561 no 2º Prêmio!"
     ]
   },
   "LOTEP": {
