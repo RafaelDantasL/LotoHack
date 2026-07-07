@@ -137,5 +137,54 @@ const palpites = {
       "' + title + '\nDeu Dezena, Palpite 2661 no 7º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 2861 no 7º Prêmio!"
     ]
+  },
+  "LOOK/GOIAS": {
+    "palpites": [
+      "7100",
+      "7107",
+      "7102",
+      "7110",
+      "7117",
+      "7112",
+      "7120",
+      "7127",
+      "7122",
+      "7000",
+      "7007",
+      "7002",
+      "7010",
+      "7017",
+      "7012",
+      "7020",
+      "7027",
+      "7022",
+      "7400",
+      "7407",
+      "7402",
+      "7410",
+      "7417",
+      "7412",
+      "7420",
+      "7427",
+      "7422",
+      "1100",
+      "1107",
+      "1102"
+    ],
+    "frases": [
+      "' + title + '\nDeu Centena, Palpite 7120 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 7120 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 7020 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 7420 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 7107 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 7007 no 3º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 7407 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 7407 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1107 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 7102 no 6º Prêmio!",
+      "' + title + '\nDeu Milhar, Palpite 7002 no 6º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 7402 no 6º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1102 no 6º Prêmio!"
+    ]
   }
 };
