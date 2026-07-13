@@ -112,6 +112,12 @@ const palpites = {
       "0345"
     ],
     "frases": [
+      "' + title + '\nDeu Dezena, Palpite 8142 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 8042 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 8242 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 8195 no 10º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 8095 no 10º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 8295 no 10º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 2364 no 6º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 2064 no 6º Prêmio!",
       "' + title + '\nDeu Centena, Palpite 2164 no 6º Prêmio!",
@@ -123,6 +129,57 @@ const palpites = {
       "' + title + '\nDeu Dezena, Palpite 2042 no 8º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 2142 no 8º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 0342 no 8º Prêmio!"
+    ]
+  },
+  "LOOK/GOIAS": {
+    "palpites": [
+      "6006",
+      "6000",
+      "6002",
+      "6086",
+      "6080",
+      "6082",
+      "6046",
+      "6040",
+      "6042",
+      "6206",
+      "6200",
+      "6202",
+      "6286",
+      "6280",
+      "6282",
+      "6246",
+      "6240",
+      "6242",
+      "6306",
+      "6300",
+      "6302",
+      "6386",
+      "6380",
+      "6382",
+      "6346",
+      "6340",
+      "6342",
+      "3006",
+      "3000",
+      "3002"
+    ],
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 6000 no 2º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 6200 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6200 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6300 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3000 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6002 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6202 no 4º Prêmio!",
+      "' + title + '\nDeu Milhar, Palpite 6302 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3002 no 4º Prêmio!",
+      "' + title + '\nDeu Milhar, Palpite 6046 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6246 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6346 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6086 no 6º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6286 no 6º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6386 no 6º Prêmio!"
     ]
   }
 };
