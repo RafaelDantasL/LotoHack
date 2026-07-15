@@ -1,4 +1,82 @@
 const palpites = {
+  "BAHIA MALUCA": {
+    "palpites": [
+      "1101",
+      "1100",
+      "1103",
+      "1111",
+      "1110",
+      "1113",
+      "1181",
+      "1180",
+      "1183",
+      "1001",
+      "1000",
+      "1003",
+      "1011",
+      "1010",
+      "1013",
+      "1081",
+      "1080",
+      "1083",
+      "1201",
+      "1200",
+      "1203",
+      "1211",
+      "1210",
+      "1213",
+      "1281",
+      "1280",
+      "1283",
+      "5101",
+      "5100",
+      "5103"
+    ],
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 0780 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0280 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0380 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3780 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0700 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0200 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0300 no 5º Prêmio!"
+    ]
+  },
+  "BAHIA": {
+    "palpites": [
+      "1011",
+      "1010",
+      "1013",
+      "1001",
+      "1000",
+      "1003",
+      "1041",
+      "1040",
+      "1043",
+      "1111",
+      "1110",
+      "1113",
+      "1101",
+      "1100",
+      "1103",
+      "1141",
+      "1140",
+      "1143",
+      "1211",
+      "1210",
+      "1213",
+      "1201",
+      "1200",
+      "1203",
+      "1241",
+      "1240",
+      "1243",
+      "0011",
+      "0010",
+      "0013"
+    ],
+    "frases": []
+  },
   "LOTECE": {
     "palpites": [
       "2094",
@@ -194,6 +272,15 @@ const palpites = {
       "8023",
       "8025"
     ],
-    "frases": []
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 8422 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 8022 no 1º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 8122 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 8122 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3422 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 8450 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 8050 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 8150 no 7º Prêmio!"
+    ]
   }
 };
