@@ -67,7 +67,54 @@ const palpites = {
       "2370",
       "2373"
     ],
-    "frases": []
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 5090 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5590 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5390 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9090 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5006 no 9º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5506 no 9º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5306 no 9º Prêmio!"
+    ]
+  },
+  "LOTEP": {
+    "palpites": [
+      "0946",
+      "0949",
+      "0942",
+      "0956",
+      "0959",
+      "0952",
+      "0966",
+      "0969",
+      "0962",
+      "0646",
+      "0649",
+      "0642",
+      "0656",
+      "0659",
+      "0652",
+      "0666",
+      "0669",
+      "0662",
+      "0346",
+      "0349",
+      "0342",
+      "0356",
+      "0359",
+      "0352",
+      "0366",
+      "0369",
+      "0362",
+      "2946",
+      "2949",
+      "2942"
+    ],
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 1259 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1659 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1059 no 5º Prêmio!"
+    ]
   },
   "BAHIA MALUCA": {
     "palpites": [
@@ -136,41 +183,6 @@ const palpites = {
       "3256",
       "3258",
       "3251"
-    ],
-    "frases": []
-  },
-  "LOTEP": {
-    "palpites": [
-      "1239",
-      "1238",
-      "1233",
-      "1259",
-      "1258",
-      "1253",
-      "1219",
-      "1218",
-      "1213",
-      "1639",
-      "1638",
-      "1633",
-      "1659",
-      "1658",
-      "1653",
-      "1619",
-      "1618",
-      "1613",
-      "1039",
-      "1038",
-      "1033",
-      "1059",
-      "1058",
-      "1053",
-      "1019",
-      "1018",
-      "1013",
-      "4239",
-      "4238",
-      "4233"
     ],
     "frases": []
   },
