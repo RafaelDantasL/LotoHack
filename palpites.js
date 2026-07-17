@@ -34,41 +34,6 @@ const palpites = {
     ],
     "frases": []
   },
-  "PT SP": {
-    "palpites": [
-      "0510",
-      "0511",
-      "0512",
-      "0520",
-      "0521",
-      "0522",
-      "0540",
-      "0541",
-      "0542",
-      "0010",
-      "0011",
-      "0012",
-      "0020",
-      "0021",
-      "0022",
-      "0040",
-      "0041",
-      "0042",
-      "0110",
-      "0111",
-      "0112",
-      "0120",
-      "0121",
-      "0122",
-      "0140",
-      "0141",
-      "0142",
-      "1510",
-      "1511",
-      "1512"
-    ],
-    "frases": []
-  },
   "BAHIA": {
     "palpites": [
       "3112",
@@ -286,13 +251,9 @@ const palpites = {
       "' + title + '\nDeu Dezena, Palpite 5403 no 9º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 5903 no 9º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 6603 no 9º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 5663 no 5º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 5463 no 5º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 5963 no 5º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 0151 no 9º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 0351 no 9º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 0751 no 9º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 6151 no 9º Prêmio!"
+      "' + title + '\nDeu Dezena, Palpite 5663 no 10º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5463 no 10º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5963 no 10º Prêmio!"
     ]
   },
   "PT RIO": {
@@ -327,6 +288,41 @@ const palpites = {
       "6660",
       "6664",
       "6666"
+    ],
+    "frases": []
+  },
+  "PT SP": {
+    "palpites": [
+      "0510",
+      "0511",
+      "0512",
+      "0520",
+      "0521",
+      "0522",
+      "0540",
+      "0541",
+      "0542",
+      "0010",
+      "0011",
+      "0012",
+      "0020",
+      "0021",
+      "0022",
+      "0040",
+      "0041",
+      "0042",
+      "0110",
+      "0111",
+      "0112",
+      "0120",
+      "0121",
+      "0122",
+      "0140",
+      "0141",
+      "0142",
+      "1510",
+      "1511",
+      "1512"
     ],
     "frases": []
   }
