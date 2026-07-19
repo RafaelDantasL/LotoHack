@@ -170,42 +170,41 @@ const palpites = {
   },
   "LOTEP": {
     "palpites": [
-      "0565",
-      "0567",
-      "0569",
-      "0505",
-      "0507",
-      "0509",
-      "0555",
-      "0557",
-      "0559",
-      "0665",
-      "0667",
-      "0669",
-      "0605",
-      "0607",
-      "0609",
-      "0655",
-      "0657",
-      "0659",
-      "0765",
-      "0767",
-      "0769",
-      "0705",
-      "0707",
-      "0709",
-      "0755",
-      "0757",
-      "0759",
-      "2565",
-      "2567",
-      "2569"
+      "2011",
+      "2014",
+      "2015",
+      "2071",
+      "2074",
+      "2075",
+      "2001",
+      "2004",
+      "2005",
+      "2111",
+      "2114",
+      "2115",
+      "2171",
+      "2174",
+      "2175",
+      "2101",
+      "2104",
+      "2105",
+      "2511",
+      "2514",
+      "2515",
+      "2571",
+      "2574",
+      "2575",
+      "2501",
+      "2504",
+      "2505",
+      "4011",
+      "4014",
+      "4015"
     ],
     "frases": [
-      "' + title + '\nDeu Dezena, Palpite 0020 no 8º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 0120 no 8º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 0920 no 8º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 2020 no 8º Prêmio!"
+      "' + title + '\nDeu Dezena, Palpite 0555 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0655 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0755 no 7º Prêmio!"
     ]
   },
   "PT RIO": {
@@ -276,6 +275,15 @@ const palpites = {
       "1424",
       "1420"
     ],
-    "frases": []
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 0234 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0434 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0934 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0216 no 6º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 0416 no 6º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0416 no 6º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0916 no 6º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1216 no 6º Prêmio!"
+    ]
   }
 };
