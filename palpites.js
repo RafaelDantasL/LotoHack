@@ -67,6 +67,57 @@ const palpites = {
       "2927",
       "2928"
     ],
-    "frases": []
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 0977 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0577 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0877 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1977 no 3º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 0976 no 9º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0976 no 9º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0576 no 9º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0876 no 9º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 1976 no 9º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1976 no 9º Prêmio!"
+    ]
+  },
+  "LOTEP": {
+    "palpites": [
+      "7008",
+      "7005",
+      "7000",
+      "7028",
+      "7025",
+      "7020",
+      "7038",
+      "7035",
+      "7030",
+      "7108",
+      "7105",
+      "7100",
+      "7128",
+      "7125",
+      "7120",
+      "7138",
+      "7135",
+      "7130",
+      "7508",
+      "7505",
+      "7500",
+      "7528",
+      "7525",
+      "7520",
+      "7538",
+      "7535",
+      "7530",
+      "1008",
+      "1005",
+      "1000"
+    ],
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 0020 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0120 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0920 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2020 no 8º Prêmio!"
+    ]
   }
 };
