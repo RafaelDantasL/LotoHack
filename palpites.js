@@ -323,53 +323,5 @@ const palpites = {
       "' + title + '\nDeu Dezena, Palpite 5100 no 9º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 5200 no 9º Prêmio!"
     ]
-  },
-  "PT SP": {
-    "palpites": [
-      "3012",
-      "3015",
-      "3016",
-      "3032",
-      "3035",
-      "3036",
-      "3072",
-      "3075",
-      "3076",
-      "3112",
-      "3115",
-      "3116",
-      "3132",
-      "3135",
-      "3136",
-      "3172",
-      "3175",
-      "3176",
-      "3912",
-      "3915",
-      "3916",
-      "3932",
-      "3935",
-      "3936",
-      "3972",
-      "3975",
-      "3976",
-      "7012",
-      "7015",
-      "7016"
-    ],
-    "frases": [
-      "' + title + '\nDeu Dezena, Palpite 4337 no 10º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 4737 no 10º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 4837 no 10º Prêmio!",
-      "' + title + '\nDeu Centena, Palpite 4288 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 4288 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 4488 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 4888 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 0322 no 5º Prêmio!",
-      "' + title + '\nDeu Centena, Palpite 0222 no 5º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 0222 no 5º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 0722 no 5º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 9322 no 5º Prêmio!"
-    ]
   }
 };
