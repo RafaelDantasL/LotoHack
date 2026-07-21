@@ -395,48 +395,5 @@ const palpites = {
       "1141"
     ],
     "frases": []
-  },
-  "PT SP": {
-    "palpites": [
-      "0941",
-      "0945",
-      "0944",
-      "0971",
-      "0975",
-      "0974",
-      "0991",
-      "0995",
-      "0994",
-      "0241",
-      "0245",
-      "0244",
-      "0271",
-      "0275",
-      "0274",
-      "0291",
-      "0295",
-      "0294",
-      "0541",
-      "0545",
-      "0544",
-      "0571",
-      "0575",
-      "0574",
-      "0591",
-      "0595",
-      "0594",
-      "3941",
-      "3945",
-      "3944"
-    ],
-    "frases": [
-      "' + title + '\nDeu Dezena, Palpite 1999 no 2º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1099 no 2º Prêmio!",
-      "' + title + '\nDeu Centena, Palpite 1199 no 2º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1199 no 2º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 6214 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 6414 no 6º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 6514 no 6º Prêmio!"
-    ]
   }
 };
