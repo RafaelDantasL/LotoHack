@@ -158,7 +158,20 @@ const palpites = {
       "0081",
       "0082"
     ],
-    "frases": []
+    "frases": [
+      "' + title + '\nDeu Centena, Palpite 7914 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 7914 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 7114 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 7214 no 3º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 0914 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0914 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 7934 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 7134 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 7234 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 7926 no 6º Prêmio!",
+      "' + title + '\nDeu Milhar, Palpite 7126 no 6º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 7226 no 6º Prêmio!"
+    ]
   },
   "LOTEP": {
     "palpites": [
@@ -271,41 +284,37 @@ const palpites = {
   },
   "PT SP": {
     "palpites": [
-      "1890",
-      "1894",
-      "1897",
-      "1840",
-      "1844",
-      "1847",
-      "1800",
-      "1804",
-      "1807",
-      "1090",
-      "1094",
-      "1097",
-      "1040",
-      "1044",
-      "1047",
-      "1000",
-      "1004",
-      "1007",
-      "1190",
-      "1194",
-      "1197",
-      "1140",
-      "1144",
-      "1147",
-      "1100",
-      "1104",
-      "1107",
-      "7890",
-      "7894",
-      "7897"
+      "5085",
+      "5080",
+      "5081",
+      "5095",
+      "5090",
+      "5091",
+      "5035",
+      "5030",
+      "5031",
+      "5985",
+      "5980",
+      "5981",
+      "5995",
+      "5990",
+      "5991",
+      "5935",
+      "5930",
+      "5931",
+      "5185",
+      "5180",
+      "5181",
+      "5195",
+      "5190",
+      "5191",
+      "5135",
+      "5130",
+      "5131",
+      "9085",
+      "9080",
+      "9081"
     ],
-    "frases": [
-      "' + title + '\nDeu Dezena, Palpite 5795 no 8º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 5595 no 8º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 5095 no 8º Prêmio!"
-    ]
+    "frases": []
   }
 };
