@@ -264,17 +264,17 @@ const palpites = {
       "' + title + '\nDeu Dezena, Palpite 6203 no 9º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 6003 no 9º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 6403 no 9º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 5363 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 5663 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 5763 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7363 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 5300 no 9º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 5600 no 9º Prêmio!",
-      "' + title + '\nDeu Centena, Palpite 5700 no 9º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 5700 no 9º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 2090 no 9º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 2390 no 9º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 2890 no 9º Prêmio!"
+      "' + title + '\nDeu Centena, Palpite 5300 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5300 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5600 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5700 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5303 no 6º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5603 no 6º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5703 no 6º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5300 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5600 no 8º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 5700 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5700 no 8º Prêmio!"
     ]
   },
   "PT RIO": {
@@ -311,44 +311,5 @@ const palpites = {
       "0878"
     ],
     "frases": []
-  },
-  "PT SP": {
-    "palpites": [
-      "5442",
-      "5444",
-      "5441",
-      "5472",
-      "5474",
-      "5471",
-      "5412",
-      "5414",
-      "5411",
-      "5642",
-      "5644",
-      "5641",
-      "5672",
-      "5674",
-      "5671",
-      "5612",
-      "5614",
-      "5611",
-      "5742",
-      "5744",
-      "5741",
-      "5772",
-      "5774",
-      "5771",
-      "5712",
-      "5714",
-      "5711",
-      "7442",
-      "7444",
-      "7441"
-    ],
-    "frases": [
-      "' + title + '\nDeu Dezena, Palpite 5795 no 8º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 5595 no 8º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 5095 no 8º Prêmio!"
-    ]
   }
 };
