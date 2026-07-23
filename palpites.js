@@ -329,13 +329,6 @@ const palpites = {
       "' + title + '\nDeu Dezena, Palpite 3700 no 8º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 3000 no 8º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 3100 no 8º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1389 no 4º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1589 no 4º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1889 no 4º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1329 no 7º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1529 no 7º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1829 no 7º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 8329 no 7º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 5670 no 7º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 5770 no 7º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 5070 no 7º Prêmio!"
