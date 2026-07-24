@@ -1,4 +1,79 @@
 const palpites = {
+  "BAHIA MALUCA": {
+    "palpites": [
+      "1283",
+      "1286",
+      "1288",
+      "1273",
+      "1276",
+      "1278",
+      "1213",
+      "1216",
+      "1218",
+      "1583",
+      "1586",
+      "1588",
+      "1573",
+      "1576",
+      "1578",
+      "1513",
+      "1516",
+      "1518",
+      "1183",
+      "1186",
+      "1188",
+      "1173",
+      "1176",
+      "1178",
+      "1113",
+      "1116",
+      "1118",
+      "4283",
+      "4286",
+      "4288"
+    ],
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 4410 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4110 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4510 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2410 no 2º Prêmio!"
+    ]
+  },
+  "BAHIA": {
+    "palpites": [
+      "2116",
+      "2111",
+      "2112",
+      "2126",
+      "2121",
+      "2122",
+      "2156",
+      "2151",
+      "2152",
+      "2416",
+      "2411",
+      "2412",
+      "2426",
+      "2421",
+      "2422",
+      "2456",
+      "2451",
+      "2452",
+      "2716",
+      "2711",
+      "2712",
+      "2726",
+      "2721",
+      "2722",
+      "2756",
+      "2751",
+      "2752",
+      "6116",
+      "6111",
+      "6112"
+    ],
+    "frases": []
+  },
   "LOTECE": {
     "palpites": [
       "2420",
@@ -102,7 +177,13 @@ const palpites = {
       "3544",
       "3545"
     ],
-    "frases": []
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 4544 no 8º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 4044 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4044 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4744 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1544 no 8º Prêmio!"
+    ]
   },
   "PT RIO": {
     "palpites": [
