@@ -113,54 +113,18 @@ const palpites = {
       "3640"
     ],
     "frases": [
-      "' + title + '\nDeu Dezena, Palpite 7025 no 4º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7625 no 4º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7925 no 4º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 3025 no 4º Prêmio!"
-    ]
-  },
-  "LOTEP": {
-    "palpites": [
-      "1626",
-      "1628",
-      "1620",
-      "1686",
-      "1688",
-      "1680",
-      "1606",
-      "1608",
-      "1600",
-      "1326",
-      "1328",
-      "1320",
-      "1386",
-      "1388",
-      "1380",
-      "1306",
-      "1308",
-      "1300",
-      "1526",
-      "1528",
-      "1520",
-      "1586",
-      "1588",
-      "1580",
-      "1506",
-      "1508",
-      "1500",
-      "2626",
-      "2628",
-      "2620"
-    ],
-    "frases": [
-      "' + title + '\nDeu Dezena, Palpite 1626 no 3º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1326 no 3º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1526 no 3º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 2626 no 3º Prêmio!",
-      "' + title + '\nDeu Centena, Palpite 1600 no 10º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1600 no 10º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1300 no 10º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1500 no 10º Prêmio!"
+      "' + title + '\nDeu Dezena, Palpite 1603 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1703 no 5º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 1803 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1803 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1644 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1744 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1844 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3644 no 7º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 1653 no 9º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1653 no 9º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1753 no 9º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1853 no 9º Prêmio!"
     ]
   }
 };
