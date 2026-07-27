@@ -117,6 +117,22 @@ const palpites = {
       "6333"
     ],
     "frases": [
+      "' + title + '\nDeu Dezena, Palpite 7025 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 7625 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 7925 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3025 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1603 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1703 no 5º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 1803 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1803 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1644 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1744 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1844 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3644 no 7º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 1653 no 9º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1653 no 9º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1753 no 9º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1853 no 9º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 4395 no 2º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 4995 no 2º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 4095 no 2º Prêmio!",
@@ -127,6 +143,46 @@ const palpites = {
       "' + title + '\nDeu Dezena, Palpite 4391 no 8º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 4991 no 8º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 4091 no 8º Prêmio!"
+    ]
+  },
+  "LOOK/GOIAS": {
+    "palpites": [
+      "4400",
+      "4402",
+      "4405",
+      "4420",
+      "4422",
+      "4425",
+      "4430",
+      "4432",
+      "4435",
+      "4500",
+      "4502",
+      "4505",
+      "4520",
+      "4522",
+      "4525",
+      "4530",
+      "4532",
+      "4535",
+      "4700",
+      "4702",
+      "4705",
+      "4720",
+      "4722",
+      "4725",
+      "4730",
+      "4732",
+      "4735",
+      "2400",
+      "2402",
+      "2405"
+    ],
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 4432 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4532 no 5º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 4732 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4732 no 5º Prêmio!"
     ]
   }
 };
