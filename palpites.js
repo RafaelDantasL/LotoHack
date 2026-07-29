@@ -296,46 +296,38 @@ const palpites = {
   },
   "LOTEP": {
     "palpites": [
-      "1141",
-      "1145",
-      "1149",
-      "1181",
-      "1185",
-      "1189",
-      "1101",
-      "1105",
-      "1109",
-      "1541",
-      "1545",
-      "1549",
-      "1581",
-      "1585",
-      "1589",
-      "1501",
-      "1505",
-      "1509",
-      "1241",
-      "1245",
-      "1249",
-      "1281",
-      "1285",
-      "1289",
-      "1201",
-      "1205",
-      "1209",
-      "4141",
-      "4145",
-      "4149"
+      "6530",
+      "6534",
+      "6535",
+      "6560",
+      "6564",
+      "6565",
+      "6520",
+      "6524",
+      "6525",
+      "6130",
+      "6134",
+      "6135",
+      "6160",
+      "6164",
+      "6165",
+      "6120",
+      "6124",
+      "6125",
+      "6430",
+      "6434",
+      "6435",
+      "6460",
+      "6464",
+      "6465",
+      "6420",
+      "6424",
+      "6425",
+      "8530",
+      "8534",
+      "8535"
     ],
-    "frases": [
-      "' + title + '\nDeu Dezena, Palpite 7935 no 2º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7435 no 2º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 7335 no 2º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1888 no 9º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1788 no 9º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1188 no 9º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 0888 no 9º Prêmio!"
-    ]
+    "frases": []
   },
   "PT RIO": {
     "palpites": [
@@ -415,6 +407,14 @@ const palpites = {
       "1325",
       "1326"
     ],
-    "frases": []
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 8043 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 8243 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 8443 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 8038 no 10º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 8238 no 10º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 8438 no 10º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9038 no 10º Prêmio!"
+    ]
   }
 };
