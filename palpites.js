@@ -110,41 +110,25 @@ const palpites = {
       "5645",
       "5647"
     ],
-    "frases": []
-  },
-  "LOTEP": {
-    "palpites": [
-      "1100",
-      "1103",
-      "1109",
-      "1170",
-      "1173",
-      "1179",
-      "1110",
-      "1113",
-      "1119",
-      "1500",
-      "1503",
-      "1509",
-      "1570",
-      "1573",
-      "1579",
-      "1510",
-      "1513",
-      "1519",
-      "1700",
-      "1703",
-      "1709",
-      "1770",
-      "1773",
-      "1779",
-      "1710",
-      "1713",
-      "1719",
-      "2100",
-      "2103",
-      "2109"
-    ],
-    "frases": []
+    "frases": [
+      "' + title + '\nDeu Centena, Palpite 1675 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1675 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1475 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1775 no 1º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 1644 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1644 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1444 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1744 no 5º Prêmio!",
+      "' + title + '\nDeu Milhar, Palpite 5644 no 5º Prêmio!",
+      "' + title + '\nDeu Milhar, Palpite 1645 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1445 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1745 no 7º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 5645 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5645 no 7º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 1617 no 10º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1617 no 10º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1417 no 10º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1717 no 10º Prêmio!"
+    ]
   }
 };
