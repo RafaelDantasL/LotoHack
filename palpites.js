@@ -1,4 +1,81 @@
 const palpites = {
+  "BAHIA": {
+    "palpites": [
+      "4324",
+      "4321",
+      "4320",
+      "4344",
+      "4341",
+      "4340",
+      "4354",
+      "4351",
+      "4350",
+      "4824",
+      "4821",
+      "4820",
+      "4844",
+      "4841",
+      "4840",
+      "4854",
+      "4851",
+      "4850",
+      "4924",
+      "4921",
+      "4920",
+      "4944",
+      "4941",
+      "4940",
+      "4954",
+      "4951",
+      "4950",
+      "6324",
+      "6321",
+      "6320"
+    ],
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 1663 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1963 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1163 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1621 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1921 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1121 no 5º Prêmio!"
+    ]
+  },
+  "BAHIA MALUCA": {
+    "palpites": [
+      "1763",
+      "1762",
+      "1761",
+      "1793",
+      "1792",
+      "1791",
+      "1713",
+      "1712",
+      "1711",
+      "1963",
+      "1962",
+      "1961",
+      "1993",
+      "1992",
+      "1991",
+      "1913",
+      "1912",
+      "1911",
+      "1063",
+      "1062",
+      "1061",
+      "1093",
+      "1092",
+      "1091",
+      "1013",
+      "1012",
+      "1011",
+      "4763",
+      "4762",
+      "4761"
+    ],
+    "frases": []
+  },
   "LOTECE": {
     "palpites": [
       "3324",
@@ -198,6 +275,14 @@ const palpites = {
       "6012",
       "6013"
     ],
-    "frases": []
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 5518 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5718 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5418 no 1º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 5528 no 9º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5528 no 9º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5728 no 9º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5428 no 9º Prêmio!"
+    ]
   }
 };
