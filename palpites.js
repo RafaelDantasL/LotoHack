@@ -149,10 +149,60 @@ const palpites = {
       "9378"
     ],
     "frases": [
-      "' + title + '\nDeu Dezena, Palpite 2720 no 4º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 2220 no 4º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 2320 no 4º Prêmio!"
+      "' + title + '\nDeu Centena, Palpite 7371 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 7371 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 7571 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 7671 no 1º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 9371 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9371 no 1º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 7342 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 7342 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 7542 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 7642 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 7378 no 4º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 7578 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 7578 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 7678 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9378 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 7328 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 7528 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 7628 no 5º Prêmio!"
     ]
+  },
+  "PT RIO": {
+    "palpites": [
+      "4392",
+      "4394",
+      "4397",
+      "4342",
+      "4344",
+      "4347",
+      "4352",
+      "4354",
+      "4357",
+      "4492",
+      "4494",
+      "4497",
+      "4442",
+      "4444",
+      "4447",
+      "4452",
+      "4454",
+      "4457",
+      "4792",
+      "4794",
+      "4797",
+      "4742",
+      "4744",
+      "4747",
+      "4752",
+      "4754",
+      "4757",
+      "1392",
+      "1394",
+      "1397"
+    ],
+    "frases": []
   },
   "LOTEP": {
     "palpites": [
@@ -213,41 +263,6 @@ const palpites = {
       "' + title + '\nDeu Dezena, Palpite 2522 no 6º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 2922 no 6º Prêmio!"
     ]
-  },
-  "PT RIO": {
-    "palpites": [
-      "7581",
-      "7586",
-      "7589",
-      "7531",
-      "7536",
-      "7539",
-      "7561",
-      "7566",
-      "7569",
-      "7181",
-      "7186",
-      "7189",
-      "7131",
-      "7136",
-      "7139",
-      "7161",
-      "7166",
-      "7169",
-      "7881",
-      "7886",
-      "7889",
-      "7831",
-      "7836",
-      "7839",
-      "7861",
-      "7866",
-      "7869",
-      "6581",
-      "6586",
-      "6589"
-    ],
-    "frases": []
   },
   "PT SP": {
     "palpites": [
