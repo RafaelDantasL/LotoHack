@@ -34,49 +34,6 @@ const palpites = {
     ],
     "frases": []
   },
-  "PT SP": {
-    "palpites": [
-      "3414",
-      "3410",
-      "3419",
-      "3444",
-      "3440",
-      "3449",
-      "3404",
-      "3400",
-      "3409",
-      "3714",
-      "3710",
-      "3719",
-      "3744",
-      "3740",
-      "3749",
-      "3704",
-      "3700",
-      "3709",
-      "3114",
-      "3110",
-      "3119",
-      "3144",
-      "3140",
-      "3149",
-      "3104",
-      "3100",
-      "3109",
-      "5414",
-      "5410",
-      "5419"
-    ],
-    "frases": [
-      "' + title + '\nDeu Dezena, Palpite 1930 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1030 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1130 no 1º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1971 no 2º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1071 no 2º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 1171 no 2º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 9971 no 2º Prêmio!"
-    ]
-  },
   "BAHIA": {
     "palpites": [
       "0110",
@@ -359,6 +316,49 @@ const palpites = {
       "' + title + '\nDeu Dezena, Palpite 4328 no 10º Prêmio!",
       "' + title + '\nDeu Milhar, Palpite 4428 no 10º Prêmio!",
       "' + title + '\nDeu Dezena, Palpite 4928 no 10º Prêmio!"
+    ]
+  },
+  "PT SP": {
+    "palpites": [
+      "3414",
+      "3410",
+      "3419",
+      "3444",
+      "3440",
+      "3449",
+      "3404",
+      "3400",
+      "3409",
+      "3714",
+      "3710",
+      "3719",
+      "3744",
+      "3740",
+      "3749",
+      "3704",
+      "3700",
+      "3709",
+      "3114",
+      "3110",
+      "3119",
+      "3144",
+      "3140",
+      "3149",
+      "3104",
+      "3100",
+      "3109",
+      "5414",
+      "5410",
+      "5419"
+    ],
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 1930 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1030 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1130 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1971 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1071 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1171 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9971 no 2º Prêmio!"
     ]
   }
 };
