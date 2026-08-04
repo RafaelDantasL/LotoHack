@@ -983,7 +983,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º",
       "conteudo": [
         [
           "Prêmio",
@@ -1054,7 +1054,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 5º",
       "conteudo": [
         [
           "Prêmio",
@@ -1107,7 +1107,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º",
       "conteudo": [
         [
           "Prêmio",
@@ -1178,7 +1178,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 11h, 1º ao 5º",
       "conteudo": [
         [
           "Prêmio",
@@ -1231,7 +1231,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 11h, 1º ao 10º",
       "conteudo": [
         [
           "Prêmio",
@@ -1302,7 +1302,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 14h, 1º ao 5º",
       "conteudo": [
         [
           "Prêmio",
@@ -1355,7 +1355,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 14h, 1º ao 10º",
       "conteudo": [
         [
           "Prêmio",
@@ -1426,7 +1426,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 16h, 1º ao 5º",
       "conteudo": [
         [
           "Prêmio",
@@ -1479,7 +1479,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 16h, 1º ao 10º",
       "conteudo": [
         [
           "Prêmio",
@@ -1550,7 +1550,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 18h, 1º ao 5º",
       "conteudo": [
         [
           "Prêmio",
@@ -1603,7 +1603,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 18h, 1º ao 10º",
       "conteudo": [
         [
           "Prêmio",
@@ -1674,7 +1674,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h",
       "conteudo": [
         [
           "Prêmio",
@@ -1727,7 +1727,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 11h",
       "conteudo": [
         [
           "Prêmio",
@@ -1780,7 +1780,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 14h",
       "conteudo": [
         [
           "Prêmio",
@@ -1833,7 +1833,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 16h",
       "conteudo": [
         [
           "Prêmio",
@@ -1880,6 +1880,59 @@ const resultado = {
         [
           "7º [mult]",
           "944",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 18h",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "0395",
+          "24",
+          "Veado"
+        ],
+        [
+          "2º",
+          "5724",
+          "06",
+          "Cabra"
+        ],
+        [
+          "3º",
+          "8809",
+          "03",
+          "Burro"
+        ],
+        [
+          "4º",
+          "2407",
+          "02",
+          "Águia"
+        ],
+        [
+          "5º",
+          "3346",
+          "12",
+          "Elefante"
+        ],
+        [
+          "6º [soma]",
+          "0681",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "260",
           "",
           ""
         ]
@@ -1959,7 +2012,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho PB, Paratodos 09:45",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -2030,7 +2083,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -2101,7 +2154,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho LOTEP - PB, 10:45",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -2172,7 +2225,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 12:45",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -2243,7 +2296,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho LOTEP - PB, 12:45",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -2314,7 +2367,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 15:45",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -2385,7 +2438,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho LOTEP - PB, 15:45h",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -2456,7 +2509,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho LOTEP - PB, 18h",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
