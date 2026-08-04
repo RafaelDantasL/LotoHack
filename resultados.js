@@ -287,7 +287,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "12h - BA - Resultado do dia 04/08/2026 (Terça-feira)",
       "conteudo": [
         [
           "Prêmio",
@@ -358,7 +358,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "15h - BA - Resultado do dia 04/08/2026 (Terça-feira)",
       "conteudo": [
         [
           "Prêmio",
@@ -425,6 +425,77 @@ const resultado = {
           "3476",
           "19",
           "Pavão"
+        ]
+      ]
+    },
+    {
+      "titulo": "19h - BA - Resultado do dia 04/08/2026 (Terça-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "7338",
+          "10",
+          "Coelho"
+        ],
+        [
+          "2º",
+          "1240",
+          "10",
+          "Coelho"
+        ],
+        [
+          "3º",
+          "6782",
+          "21",
+          "Touro"
+        ],
+        [
+          "4º",
+          "9923",
+          "06",
+          "Cabra"
+        ],
+        [
+          "5º",
+          "1272",
+          "18",
+          "Porco"
+        ],
+        [
+          "6º",
+          "6874",
+          "19",
+          "Pavão"
+        ],
+        [
+          "7º",
+          "4680",
+          "20",
+          "Peru"
+        ],
+        [
+          "8º",
+          "8478",
+          "20",
+          "Peru"
+        ],
+        [
+          "9º",
+          "7868",
+          "17",
+          "Macaco"
+        ],
+        [
+          "10º",
+          "6491",
+          "23",
+          "Urso"
         ]
       ]
     }
@@ -2848,7 +2919,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -2919,7 +2990,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 5º",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -2972,7 +3043,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -3043,7 +3114,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho RJ, 14:20, PT, 1º ao 5º",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -3096,7 +3167,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho RJ, 14:20, PT, 1º ao 10º",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -3167,7 +3238,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho RJ, 16:00, PTV, 1º ao 5º",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -3220,7 +3291,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho RJ, 16:00, PTV, 1º ao 10º",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -3291,7 +3362,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho RJ, 18:20, PTN, 1º ao 5º",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
@@ -3344,7 +3415,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho RJ, 18:20, PTN, 1º ao 10º",
+      "titulo": "' + title + '",
       "conteudo": [
         [
           "Prêmio",
