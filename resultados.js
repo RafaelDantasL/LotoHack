@@ -502,7 +502,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)",
       "conteudo": [
         [
           "Prêmio",
@@ -573,7 +573,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)",
       "conteudo": [
         [
           "Prêmio",
@@ -644,7 +644,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "Resultado do Jogo do Bicho PARATODOS - CE, 10:45",
       "conteudo": [
         [
           "Prêmio",
@@ -715,7 +715,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "Resultado do Jogo do Bicho PARATODOS - CE, 12:45",
       "conteudo": [
         [
           "Prêmio",
@@ -786,7 +786,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "Resultado do Jogo do Bicho PARATODOS - CE, 14:20",
       "conteudo": [
         [
           "Prêmio",
@@ -857,7 +857,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "Resultado do Jogo do Bicho PARATODOS - CE, 15:45",
       "conteudo": [
         [
           "Prêmio",
@@ -924,6 +924,77 @@ const resultado = {
           "9468",
           "17",
           "Macaco"
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho PARATODOS - CE, 18:30",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "5503",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "2º",
+          "3841",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "3º",
+          "1618",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "4º",
+          "7586",
+          "22",
+          "Tigre"
+        ],
+        [
+          "5º",
+          "8626",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "6º",
+          "2554",
+          "14",
+          "Gato"
+        ],
+        [
+          "7º",
+          "1759",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "8º",
+          "6536",
+          "09",
+          "Cobra"
+        ],
+        [
+          "9º",
+          "4670",
+          "18",
+          "Porco"
+        ],
+        [
+          "10º",
+          "6514",
+          "04",
+          "Borboleta"
         ]
       ]
     }
@@ -2012,7 +2083,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "Resultado do Jogo do Bicho PB, Paratodos 09:45",
       "conteudo": [
         [
           "Prêmio",
@@ -2083,7 +2154,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45",
       "conteudo": [
         [
           "Prêmio",
@@ -2154,7 +2225,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "Resultado do Jogo do Bicho LOTEP - PB, 10:45",
       "conteudo": [
         [
           "Prêmio",
@@ -2225,7 +2296,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 12:45",
       "conteudo": [
         [
           "Prêmio",
@@ -2296,7 +2367,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "Resultado do Jogo do Bicho LOTEP - PB, 12:45",
       "conteudo": [
         [
           "Prêmio",
@@ -2367,7 +2438,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 15:45",
       "conteudo": [
         [
           "Prêmio",
@@ -2438,7 +2509,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "Resultado do Jogo do Bicho LOTEP - PB, 15:45h",
       "conteudo": [
         [
           "Prêmio",
@@ -2509,7 +2580,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "Resultado do Jogo do Bicho LOTEP - PB, 18h",
       "conteudo": [
         [
           "Prêmio",
@@ -2576,6 +2647,77 @@ const resultado = {
           "7650",
           "13",
           "Galo"
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 19:05",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "0719",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "2º",
+          "4320",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "3º",
+          "6544",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "4º",
+          "2075",
+          "19",
+          "Pavão"
+        ],
+        [
+          "5º",
+          "2100",
+          "25",
+          "Vaca"
+        ],
+        [
+          "6º",
+          "0462",
+          "16",
+          "Leão"
+        ],
+        [
+          "7º",
+          "7350",
+          "13",
+          "Galo"
+        ],
+        [
+          "8º",
+          "1247",
+          "12",
+          "Elefante"
+        ],
+        [
+          "9º",
+          "9045",
+          "12",
+          "Elefante"
+        ],
+        [
+          "10º",
+          "3862",
+          "16",
+          "Leão"
         ]
       ]
     }
