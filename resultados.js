@@ -72,7 +72,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "12h - MALUCA - BA - Resultado do dia 04/08/2026 (Terça-feira)",
       "conteudo": [
         [
           "Prêmio",
@@ -143,7 +143,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "15h - MALUCA - BA - Resultado do dia 04/08/2026 (Terça-feira)",
       "conteudo": [
         [
           "Prêmio",
@@ -210,6 +210,77 @@ const resultado = {
           "6743",
           "11",
           "Cavalo"
+        ]
+      ]
+    },
+    {
+      "titulo": "19h - MALUCA - BA - Resultado do dia 04/08/2026 (Terça-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "8023",
+          "06",
+          "Cabra"
+        ],
+        [
+          "2º",
+          "3482",
+          "21",
+          "Touro"
+        ],
+        [
+          "3º",
+          "3279",
+          "20",
+          "Peru"
+        ],
+        [
+          "4º",
+          "7169",
+          "18",
+          "Porco"
+        ],
+        [
+          "5º",
+          "2721",
+          "06",
+          "Cabra"
+        ],
+        [
+          "6º",
+          "4088",
+          "22",
+          "Tigre"
+        ],
+        [
+          "7º",
+          "7876",
+          "19",
+          "Pavão"
+        ],
+        [
+          "8º",
+          "8648",
+          "12",
+          "Elefante"
+        ],
+        [
+          "9º",
+          "6487",
+          "22",
+          "Tigre"
+        ],
+        [
+          "10º",
+          "1946",
+          "12",
+          "Elefante"
         ]
       ]
     }
@@ -3541,7 +3612,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º",
       "conteudo": [
         [
           "Prêmio",
@@ -3612,7 +3683,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 5º",
       "conteudo": [
         [
           "Prêmio",
@@ -3665,7 +3736,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º",
       "conteudo": [
         [
           "Prêmio",
@@ -3736,7 +3807,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "Resultado do Jogo do Bicho SP, 12:00 - PTSP",
       "conteudo": [
         [
           "Prêmio",
@@ -3789,7 +3860,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 5º",
       "conteudo": [
         [
           "Prêmio",
@@ -3842,7 +3913,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º",
       "conteudo": [
         [
           "Prêmio",
@@ -3913,7 +3984,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 5º",
       "conteudo": [
         [
           "Prêmio",
@@ -3966,7 +4037,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º",
       "conteudo": [
         [
           "Prêmio",
@@ -4037,7 +4108,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 5º",
       "conteudo": [
         [
           "Prêmio",
@@ -4090,7 +4161,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 10º",
       "conteudo": [
         [
           "Prêmio",
@@ -4157,6 +4228,130 @@ const resultado = {
           "4907",
           "02",
           "Águia"
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 19hs - PTSP, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "1870",
+          "18",
+          "Porco"
+        ],
+        [
+          "2º",
+          "6279",
+          "20",
+          "Peru"
+        ],
+        [
+          "3º",
+          "0170",
+          "18",
+          "Porco"
+        ],
+        [
+          "4º",
+          "7981",
+          "21",
+          "Touro"
+        ],
+        [
+          "5º",
+          "3928",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "6º [soma]",
+          "0228",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "741",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 19hs - PTSP, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "1870",
+          "18",
+          "Porco"
+        ],
+        [
+          "2º",
+          "6279",
+          "20",
+          "Peru"
+        ],
+        [
+          "3º",
+          "0170",
+          "18",
+          "Porco"
+        ],
+        [
+          "4º",
+          "7981",
+          "21",
+          "Touro"
+        ],
+        [
+          "5º",
+          "3928",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "6º",
+          "1607",
+          "02",
+          "Águia"
+        ],
+        [
+          "7º",
+          "8219",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "8º",
+          "7778",
+          "20",
+          "Peru"
+        ],
+        [
+          "9º",
+          "0901",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "10º",
+          "8733",
+          "09",
+          "Cobra"
         ]
       ]
     }
