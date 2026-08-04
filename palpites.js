@@ -435,21 +435,21 @@ const palpites = {
       "7210"
     ],
     "frases": [
-      "Resultado do Jogo do Bicho RJ, 18:20, PTN, 1º ao 10º\nDeu Dezena, Palpite 9203 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 18:20, PTN, 1º ao 10º\nDeu Dezena, Palpite 9303 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 18:20, PTN, 1º ao 10º\nDeu Dezena, Palpite 9603 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 18:20, PTN, 1º ao 10º\nDeu Centena, Palpite 9217 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 18:20, PTN, 1º ao 10º\nDeu Dezena, Palpite 9217 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 18:20, PTN, 1º ao 10º\nDeu Dezena, Palpite 9317 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 18:20, PTN, 1º ao 10º\nDeu Dezena, Palpite 9617 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 18:20, PTN, 1º ao 10º\nDeu Milhar, Palpite 7217 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 18:20, PTN, 1º ao 10º\nDeu Milhar, Palpite 9207 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 18:20, PTN, 1º ao 10º\nDeu Dezena, Palpite 9307 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 18:20, PTN, 1º ao 10º\nDeu Dezena, Palpite 9607 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 18:20, PTN, 1º ao 10º\nDeu Dezena, Palpite 9210 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 18:20, PTN, 1º ao 10º\nDeu Dezena, Palpite 9310 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 18:20, PTN, 1º ao 10º\nDeu Dezena, Palpite 9610 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 18:20, PTN, 1º ao 10º\nDeu Dezena, Palpite 7210 no 8º Prêmio!"
+      "' + title + '\nDeu Dezena, Palpite 9203 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9303 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9603 no 4º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 9217 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9217 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9317 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9617 no 5º Prêmio!",
+      "' + title + '\nDeu Milhar, Palpite 7217 no 5º Prêmio!",
+      "' + title + '\nDeu Milhar, Palpite 9207 no 6º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9307 no 6º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9607 no 6º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9210 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9310 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9610 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 7210 no 8º Prêmio!"
     ]
   },
   "PT SP": {
