@@ -3327,7 +3327,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º",
       "conteudo": [
         [
           "Prêmio",
@@ -3398,7 +3398,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 5º",
       "conteudo": [
         [
           "Prêmio",
@@ -3451,7 +3451,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º",
       "conteudo": [
         [
           "Prêmio",
@@ -3522,7 +3522,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "Resultado do Jogo do Bicho RJ, 14:20, PT, 1º ao 5º",
       "conteudo": [
         [
           "Prêmio",
@@ -3575,7 +3575,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "Resultado do Jogo do Bicho RJ, 14:20, PT, 1º ao 10º",
       "conteudo": [
         [
           "Prêmio",
@@ -3646,7 +3646,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "Resultado do Jogo do Bicho RJ, 16:00, PTV, 1º ao 5º",
       "conteudo": [
         [
           "Prêmio",
@@ -3699,7 +3699,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "Resultado do Jogo do Bicho RJ, 16:00, PTV, 1º ao 10º",
       "conteudo": [
         [
           "Prêmio",
@@ -3770,7 +3770,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "Resultado do Jogo do Bicho RJ, 18:20, PTN, 1º ao 5º",
       "conteudo": [
         [
           "Prêmio",
@@ -3823,7 +3823,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "' + title + '",
+      "titulo": "Resultado do Jogo do Bicho RJ, 18:20, PTN, 1º ao 10º",
       "conteudo": [
         [
           "Prêmio",
@@ -3890,6 +3890,130 @@ const resultado = {
           "9612",
           "03",
           "Burro"
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 21:20, CORUJA, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "3808",
+          "02",
+          "Águia"
+        ],
+        [
+          "2º",
+          "9389",
+          "23",
+          "Urso"
+        ],
+        [
+          "3º",
+          "0409",
+          "03",
+          "Burro"
+        ],
+        [
+          "4º",
+          "2587",
+          "22",
+          "Tigre"
+        ],
+        [
+          "5º",
+          "6889",
+          "23",
+          "Urso"
+        ],
+        [
+          "6º [soma]",
+          "3082",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "753",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 21:20, CORUJA, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "3808",
+          "02",
+          "Águia"
+        ],
+        [
+          "2º",
+          "9389",
+          "23",
+          "Urso"
+        ],
+        [
+          "3º",
+          "0409",
+          "03",
+          "Burro"
+        ],
+        [
+          "4º",
+          "2587",
+          "22",
+          "Tigre"
+        ],
+        [
+          "5º",
+          "6889",
+          "23",
+          "Urso"
+        ],
+        [
+          "6º",
+          "3902",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "7º",
+          "8345",
+          "12",
+          "Elefante"
+        ],
+        [
+          "8º",
+          "0808",
+          "02",
+          "Águia"
+        ],
+        [
+          "9º",
+          "8997",
+          "25",
+          "Vaca"
+        ],
+        [
+          "10º",
+          "5134",
+          "09",
+          "Cobra"
         ]
       ]
     }
