@@ -431,6 +431,59 @@ const resultado = {
   ],
   "LOTECE": [
     {
+      "titulo": "' + title + '",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "6952",
+          "13",
+          "Galo"
+        ],
+        [
+          "2º",
+          "8922",
+          "06",
+          "Cabra"
+        ],
+        [
+          "3º",
+          "9298",
+          "25",
+          "Vaca"
+        ],
+        [
+          "4º",
+          "6805",
+          "02",
+          "Águia"
+        ],
+        [
+          "5º",
+          "2721",
+          "06",
+          "Cabra"
+        ],
+        [
+          "6º [soma]",
+          "4698",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "165",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
       "titulo": "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)",
       "conteudo": [
         [
@@ -1142,6 +1195,130 @@ const resultado = {
     }
   ],
   "LOOK/GOIAS": [
+    {
+      "titulo": "' + title + '",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "6952",
+          "13",
+          "Galo"
+        ],
+        [
+          "2º",
+          "8922",
+          "06",
+          "Cabra"
+        ],
+        [
+          "3º",
+          "9298",
+          "25",
+          "Vaca"
+        ],
+        [
+          "4º",
+          "6805",
+          "02",
+          "Águia"
+        ],
+        [
+          "5º",
+          "2721",
+          "06",
+          "Cabra"
+        ],
+        [
+          "6º [soma]",
+          "4698",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "165",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho FEDERAL, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "6952",
+          "13",
+          "Galo"
+        ],
+        [
+          "2º",
+          "8922",
+          "06",
+          "Cabra"
+        ],
+        [
+          "3º",
+          "9298",
+          "25",
+          "Vaca"
+        ],
+        [
+          "4º",
+          "6805",
+          "02",
+          "Águia"
+        ],
+        [
+          "5º",
+          "2721",
+          "06",
+          "Cabra"
+        ],
+        [
+          "6º",
+          "6896",
+          "24",
+          "Veado"
+        ],
+        [
+          "7º",
+          "9928",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "8º",
+          "5290",
+          "23",
+          "Urso"
+        ],
+        [
+          "9º",
+          "2285",
+          "22",
+          "Tigre"
+        ],
+        [
+          "10º",
+          "9097",
+          "25",
+          "Vaca"
+        ]
+      ]
+    },
     {
       "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 5º",
       "conteudo": [
@@ -2367,7 +2544,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho LOTEP - PB, 10:45",
+      "titulo": "Resultado do Jogo do Bicho PB, Paratodos 10:45",
       "conteudo": [
         [
           "Prêmio",
@@ -2509,7 +2686,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho LOTEP - PB, 12:45",
+      "titulo": "Resultado do Jogo do Bicho PB, Paratodos 12:45",
       "conteudo": [
         [
           "Prêmio",
@@ -2651,7 +2828,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho LOTEP - PB, 15:45h",
+      "titulo": "Resultado do Jogo do Bicho PB, Paratodos 15:45",
       "conteudo": [
         [
           "Prêmio",
@@ -2722,7 +2899,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho LOTEP - PB, 18h",
+      "titulo": "Resultado do Jogo do Bicho PB, Paratodos 18:00",
       "conteudo": [
         [
           "Prêmio",
@@ -2862,9 +3039,115 @@ const resultado = {
           "Galo"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho CAMPINA GRANDE PB - FEDERAL",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "6952",
+          "13",
+          "Galo"
+        ],
+        [
+          "2º",
+          "8922",
+          "06",
+          "Cabra"
+        ],
+        [
+          "3º",
+          "9298",
+          "25",
+          "Vaca"
+        ],
+        [
+          "4º",
+          "6805",
+          "02",
+          "Águia"
+        ],
+        [
+          "5º",
+          "2721",
+          "06",
+          "Cabra"
+        ],
+        [
+          "6º [soma]",
+          "4698",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "165",
+          "",
+          ""
+        ]
+      ]
     }
   ],
   "PT RIO": [
+    {
+      "titulo": "' + title + '",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "6952",
+          "13",
+          "Galo"
+        ],
+        [
+          "2º",
+          "8922",
+          "06",
+          "Cabra"
+        ],
+        [
+          "3º",
+          "9298",
+          "25",
+          "Vaca"
+        ],
+        [
+          "4º",
+          "6805",
+          "02",
+          "Águia"
+        ],
+        [
+          "5º",
+          "2721",
+          "06",
+          "Cabra"
+        ],
+        [
+          "6º [soma]",
+          "4698",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "165",
+          "",
+          ""
+        ]
+      ]
+    },
     {
       "titulo": "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 5º",
       "conteudo": [
@@ -4281,6 +4564,130 @@ const resultado = {
           "1662",
           "16",
           "Leão"
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 20hs - PT FEDERAL, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "6952",
+          "13",
+          "Galo"
+        ],
+        [
+          "2º",
+          "8922",
+          "06",
+          "Cabra"
+        ],
+        [
+          "3º",
+          "9298",
+          "25",
+          "Vaca"
+        ],
+        [
+          "4º",
+          "6805",
+          "02",
+          "Águia"
+        ],
+        [
+          "5º",
+          "2721",
+          "06",
+          "Cabra"
+        ],
+        [
+          "6º [soma]",
+          "4698",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "165",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 20hs - PT FEDERAL, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "6952",
+          "13",
+          "Galo"
+        ],
+        [
+          "2º",
+          "8922",
+          "06",
+          "Cabra"
+        ],
+        [
+          "3º",
+          "9298",
+          "25",
+          "Vaca"
+        ],
+        [
+          "4º",
+          "6805",
+          "02",
+          "Águia"
+        ],
+        [
+          "5º",
+          "2721",
+          "06",
+          "Cabra"
+        ],
+        [
+          "6º",
+          "6896",
+          "24",
+          "Veado"
+        ],
+        [
+          "7º",
+          "9928",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "8º",
+          "5290",
+          "23",
+          "Urso"
+        ],
+        [
+          "9º",
+          "2285",
+          "22",
+          "Tigre"
+        ],
+        [
+          "10º",
+          "9097",
+          "25",
+          "Vaca"
         ]
       ]
     }
