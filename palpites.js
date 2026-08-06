@@ -39,45 +39,6 @@ const palpites = {
       "' + title + '\nDeu Dezena, Palpite 5658 no 10º Prêmio!"
     ]
   },
-  "PT SP": {
-    "palpites": [
-      "0431",
-      "0433",
-      "0436",
-      "0411",
-      "0413",
-      "0416",
-      "0451",
-      "0453",
-      "0456",
-      "0531",
-      "0533",
-      "0536",
-      "0511",
-      "0513",
-      "0516",
-      "0551",
-      "0553",
-      "0556",
-      "0931",
-      "0933",
-      "0936",
-      "0911",
-      "0913",
-      "0916",
-      "0951",
-      "0953",
-      "0956",
-      "1431",
-      "1433",
-      "1436"
-    ],
-    "frases": [
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3604 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3504 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3004 no 10º Prêmio!"
-    ]
-  },
   "BAHIA": {
     "palpites": [
       "2118",
@@ -259,6 +220,45 @@ const palpites = {
       "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 5185 no 8º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 5885 no 8º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 5985 no 8º Prêmio!"
+    ]
+  },
+  "PT SP": {
+    "palpites": [
+      "0431",
+      "0433",
+      "0436",
+      "0411",
+      "0413",
+      "0416",
+      "0451",
+      "0453",
+      "0456",
+      "0531",
+      "0533",
+      "0536",
+      "0511",
+      "0513",
+      "0516",
+      "0551",
+      "0553",
+      "0556",
+      "0931",
+      "0933",
+      "0936",
+      "0911",
+      "0913",
+      "0916",
+      "0951",
+      "0953",
+      "0956",
+      "1431",
+      "1433",
+      "1436"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3604 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3504 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3004 no 10º Prêmio!"
     ]
   }
 };
