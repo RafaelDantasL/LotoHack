@@ -121,14 +121,17 @@ const palpites = {
       "8415"
     ],
     "frases": [
-      "Resultado do Jogo do Bicho PARATODOS - CE, 14:20\nDeu Dezena, Palpite 2160 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho PARATODOS - CE, 14:20\nDeu Centena, Palpite 2460 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho PARATODOS - CE, 14:20\nDeu Dezena, Palpite 2460 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho PARATODOS - CE, 14:20\nDeu Dezena, Palpite 2760 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho PARATODOS - CE, 14:20\nDeu Dezena, Palpite 3160 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho PARATODOS - CE, 14:20\nDeu Dezena, Palpite 2172 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho PARATODOS - CE, 14:20\nDeu Dezena, Palpite 2472 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho PARATODOS - CE, 14:20\nDeu Dezena, Palpite 2772 no 8º Prêmio!"
+      "Resultado do Jogo do Bicho PARATODOS - CE, 14:20\nDeu Milhar, Palpite 1495 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 14:20\nDeu Dezena, Palpite 1095 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 14:20\nDeu Dezena, Palpite 1195 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 14:20\nDeu Dezena, Palpite 1415 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 14:20\nDeu Dezena, Palpite 1015 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 14:20\nDeu Dezena, Palpite 1115 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 14:20\nDeu Dezena, Palpite 8415 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 14:20\nDeu Dezena, Palpite 1400 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 14:20\nDeu Centena, Palpite 1000 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 14:20\nDeu Dezena, Palpite 1000 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 14:20\nDeu Dezena, Palpite 1100 no 9º Prêmio!"
     ]
   }
 };
