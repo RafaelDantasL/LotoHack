@@ -1,4 +1,82 @@
 const palpites = {
+  "BAHIA MALUCA": {
+    "palpites": [
+      "3106",
+      "3107",
+      "3100",
+      "3136",
+      "3137",
+      "3130",
+      "3196",
+      "3197",
+      "3190",
+      "3806",
+      "3807",
+      "3800",
+      "3836",
+      "3837",
+      "3830",
+      "3896",
+      "3897",
+      "3890",
+      "3006",
+      "3007",
+      "3000",
+      "3036",
+      "3037",
+      "3030",
+      "3096",
+      "3097",
+      "3090",
+      "8106",
+      "8107",
+      "8100"
+    ],
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 6433 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6133 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6033 no 4º Prêmio!"
+    ]
+  },
+  "BAHIA": {
+    "palpites": [
+      "3118",
+      "3113",
+      "3110",
+      "3108",
+      "3103",
+      "3100",
+      "3128",
+      "3123",
+      "3120",
+      "3318",
+      "3313",
+      "3310",
+      "3308",
+      "3303",
+      "3300",
+      "3328",
+      "3323",
+      "3320",
+      "3818",
+      "3813",
+      "3810",
+      "3808",
+      "3803",
+      "3800",
+      "3828",
+      "3823",
+      "3820",
+      "6118",
+      "6113",
+      "6110"
+    ],
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 2360 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2460 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2060 no 8º Prêmio!"
+    ]
+  },
   "LOTECE": {
     "palpites": [
       "0022",
@@ -207,6 +285,31 @@ const palpites = {
       "5806",
       "5809"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2221 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2021 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2121 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 10º\nDeu Dezena, Palpite 3624 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 10º\nDeu Dezena, Palpite 3524 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 10º\nDeu Dezena, Palpite 3024 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2221 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2021 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2121 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 10º\nDeu Dezena, Palpite 3624 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 10º\nDeu Dezena, Palpite 3524 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 10º\nDeu Dezena, Palpite 3024 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2221 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2021 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2121 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 10º\nDeu Dezena, Palpite 3624 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 10º\nDeu Dezena, Palpite 3524 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 10º\nDeu Dezena, Palpite 3024 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2221 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2021 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 2121 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3629 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3529 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 3029 no 6º Prêmio!"
+    ]
   }
 };
