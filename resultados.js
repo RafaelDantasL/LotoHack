@@ -2330,6 +2330,77 @@ const resultado = {
           "Avestruz"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho LOTEP - PB, 18h",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "2035",
+          "09",
+          "Cobra"
+        ],
+        [
+          "2º",
+          "1309",
+          "03",
+          "Burro"
+        ],
+        [
+          "3º",
+          "2213",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "4º",
+          "0768",
+          "17",
+          "Macaco"
+        ],
+        [
+          "5º",
+          "7605",
+          "02",
+          "Águia"
+        ],
+        [
+          "6º",
+          "2120",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "7º",
+          "0327",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "8º",
+          "3016",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "9º",
+          "5938",
+          "10",
+          "Coelho"
+        ],
+        [
+          "10º",
+          "5331",
+          "08",
+          "Camelo"
+        ]
+      ]
     }
   ],
   "PT RIO": [
