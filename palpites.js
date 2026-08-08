@@ -1,4 +1,92 @@
 const palpites = {
+  "BAHIA MALUCA": {
+    "palpites": [
+      "9641",
+      "9643",
+      "9646",
+      "9651",
+      "9653",
+      "9656",
+      "9611",
+      "9613",
+      "9616",
+      "9441",
+      "9443",
+      "9446",
+      "9451",
+      "9453",
+      "9456",
+      "9411",
+      "9413",
+      "9416",
+      "9041",
+      "9043",
+      "9046",
+      "9051",
+      "9053",
+      "9056",
+      "9011",
+      "9013",
+      "9016",
+      "0641",
+      "0643",
+      "0646"
+    ],
+    "frases": [
+      "' + title + '\nDeu Centena, Palpite 6631 no 6º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6631 no 6º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6331 no 6º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6931 no 6º Prêmio!"
+    ]
+  },
+  "BAHIA": {
+    "palpites": [
+      "4251",
+      "4259",
+      "4256",
+      "4261",
+      "4269",
+      "4266",
+      "4201",
+      "4209",
+      "4206",
+      "4451",
+      "4459",
+      "4456",
+      "4461",
+      "4469",
+      "4466",
+      "4401",
+      "4409",
+      "4406",
+      "4851",
+      "4859",
+      "4856",
+      "4861",
+      "4869",
+      "4866",
+      "4801",
+      "4809",
+      "4806",
+      "6251",
+      "6259",
+      "6256"
+    ],
+    "frases": [
+      "' + title + '\nDeu Centena, Palpite 6002 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6002 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6102 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6202 no 1º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 3002 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3002 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6066 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6166 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6266 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6063 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6163 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6263 no 8º Prêmio!"
+    ]
+  },
   "LOTECE": {
     "palpites": [
       "8866",
@@ -189,6 +277,16 @@ const palpites = {
       "5785",
       "5788"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Centena, Palpite 0041 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0041 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0141 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0241 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Centena, Palpite 4041 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 4041 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0080 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0180 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0280 no 5º Prêmio!"
+    ]
   }
 };
