@@ -571,6 +571,77 @@ const resultado = {
           "Tigre"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho PARATODOS - CE, 14:20",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "6733",
+          "09",
+          "Cobra"
+        ],
+        [
+          "2º",
+          "7265",
+          "17",
+          "Macaco"
+        ],
+        [
+          "3º",
+          "4514",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "4º",
+          "0962",
+          "16",
+          "Leão"
+        ],
+        [
+          "5º",
+          "1485",
+          "22",
+          "Tigre"
+        ],
+        [
+          "6º",
+          "7897",
+          "25",
+          "Vaca"
+        ],
+        [
+          "7º",
+          "5587",
+          "22",
+          "Tigre"
+        ],
+        [
+          "8º",
+          "3895",
+          "24",
+          "Veado"
+        ],
+        [
+          "9º",
+          "6242",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "10º",
+          "4884",
+          "21",
+          "Touro"
+        ]
+      ]
     }
   ],
   "LOOK/GOIAS": [
@@ -1171,6 +1242,59 @@ const resultado = {
         [
           "7º [mult]",
           "793",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 14h",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "5513",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "2º",
+          "5845",
+          "12",
+          "Elefante"
+        ],
+        [
+          "3º",
+          "8477",
+          "20",
+          "Peru"
+        ],
+        [
+          "4º",
+          "0136",
+          "09",
+          "Cobra"
+        ],
+        [
+          "5º",
+          "8748",
+          "12",
+          "Elefante"
+        ],
+        [
+          "6º [soma]",
+          "8719",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "223",
           "",
           ""
         ]
