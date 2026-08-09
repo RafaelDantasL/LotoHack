@@ -82,20 +82,6 @@ const palpites = {
       "Resultado do Jogo do Bicho PARATODOS - CE, 18:30\nDeu Dezena, Palpite 8478 no 6º Prêmio!",
       "Resultado do Jogo do Bicho PARATODOS - CE, 18:30\nDeu Dezena, Palpite 8872 no 10º Prêmio!",
       "Resultado do Jogo do Bicho PARATODOS - CE, 18:30\nDeu Dezena, Palpite 8972 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho PARATODOS - CE, 18:30\nDeu Dezena, Palpite 8472 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho PARATODOS - CE, 18:30\nDeu Dezena, Palpite 8878 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho PARATODOS - CE, 18:30\nDeu Dezena, Palpite 8978 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho PARATODOS - CE, 18:30\nDeu Centena, Palpite 8478 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho PARATODOS - CE, 18:30\nDeu Dezena, Palpite 8478 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho PARATODOS - CE, 18:30\nDeu Dezena, Palpite 8872 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho PARATODOS - CE, 18:30\nDeu Dezena, Palpite 8972 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho PARATODOS - CE, 18:30\nDeu Dezena, Palpite 8472 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho PARATODOS - CE, 18:30\nDeu Dezena, Palpite 8878 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho PARATODOS - CE, 18:30\nDeu Dezena, Palpite 8978 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho PARATODOS - CE, 18:30\nDeu Centena, Palpite 8478 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho PARATODOS - CE, 18:30\nDeu Dezena, Palpite 8478 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho PARATODOS - CE, 18:30\nDeu Dezena, Palpite 8872 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho PARATODOS - CE, 18:30\nDeu Dezena, Palpite 8972 no 10º Prêmio!",
       "Resultado do Jogo do Bicho PARATODOS - CE, 18:30\nDeu Dezena, Palpite 8472 no 10º Prêmio!"
     ]
   },
@@ -254,40 +240,5 @@ const palpites = {
       "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 5530 no 8º Prêmio!",
       "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 5030 no 8º Prêmio!"
     ]
-  },
-  "BAHIA MALUCA": {
-    "palpites": [
-      "4491",
-      "4492",
-      "4498",
-      "4431",
-      "4432",
-      "4438",
-      "4481",
-      "4482",
-      "4488",
-      "4591",
-      "4592",
-      "4598",
-      "4531",
-      "4532",
-      "4538",
-      "4581",
-      "4582",
-      "4588",
-      "4791",
-      "4792",
-      "4798",
-      "4731",
-      "4732",
-      "4738",
-      "4781",
-      "4782",
-      "4788",
-      "5491",
-      "5492",
-      "5498"
-    ],
-    "frases": []
   }
 };
