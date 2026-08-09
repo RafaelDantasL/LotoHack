@@ -1602,6 +1602,59 @@ const resultado = {
           "Avestruz"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "6470",
+          "18",
+          "Porco"
+        ],
+        [
+          "2º",
+          "8735",
+          "09",
+          "Cobra"
+        ],
+        [
+          "3º",
+          "1268",
+          "17",
+          "Macaco"
+        ],
+        [
+          "4º",
+          "8185",
+          "22",
+          "Tigre"
+        ],
+        [
+          "5º",
+          "0479",
+          "20",
+          "Peru"
+        ],
+        [
+          "6º [soma]",
+          "5137",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "515",
+          "",
+          ""
+        ]
+      ]
     }
   ],
   "LOTEP": [
