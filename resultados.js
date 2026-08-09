@@ -3998,6 +3998,130 @@ const resultado = {
           "Jacaré"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "7296",
+          "24",
+          "Veado"
+        ],
+        [
+          "2º",
+          "8801",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "3º",
+          "3414",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "4º",
+          "2288",
+          "22",
+          "Tigre"
+        ],
+        [
+          "5º",
+          "8840",
+          "10",
+          "Coelho"
+        ],
+        [
+          "6º [soma]",
+          "0639",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "212",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "7296",
+          "24",
+          "Veado"
+        ],
+        [
+          "2º",
+          "8801",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "3º",
+          "3414",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "4º",
+          "2288",
+          "22",
+          "Tigre"
+        ],
+        [
+          "5º",
+          "8840",
+          "10",
+          "Coelho"
+        ],
+        [
+          "6º",
+          "7832",
+          "08",
+          "Camelo"
+        ],
+        [
+          "7º",
+          "2842",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "8º",
+          "9018",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "9º",
+          "6148",
+          "12",
+          "Elefante"
+        ],
+        [
+          "10º",
+          "6479",
+          "20",
+          "Peru"
+        ]
+      ]
     }
   ]
 };
