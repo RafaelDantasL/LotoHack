@@ -1210,6 +1210,77 @@ const resultado = {
           "Carneiro"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho PARATODOS - CE, 19:40",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "4125",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "2º",
+          "3769",
+          "18",
+          "Porco"
+        ],
+        [
+          "3º",
+          "4948",
+          "12",
+          "Elefante"
+        ],
+        [
+          "4º",
+          "4548",
+          "12",
+          "Elefante"
+        ],
+        [
+          "5º",
+          "0007",
+          "02",
+          "Águia"
+        ],
+        [
+          "6º",
+          "4913",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "7º",
+          "5033",
+          "09",
+          "Cobra"
+        ],
+        [
+          "8º",
+          "7756",
+          "14",
+          "Gato"
+        ],
+        [
+          "9º",
+          "4562",
+          "16",
+          "Leão"
+        ],
+        [
+          "10º",
+          "7938",
+          "10",
+          "Coelho"
+        ]
+      ]
     }
   ],
   "LOOK/GOIAS": [
