@@ -429,6 +429,77 @@ const resultado = {
           "Tigre"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho PARATODOS - CE, 12:45",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "6150",
+          "13",
+          "Galo"
+        ],
+        [
+          "2º",
+          "8745",
+          "12",
+          "Elefante"
+        ],
+        [
+          "3º",
+          "1777",
+          "20",
+          "Peru"
+        ],
+        [
+          "4º",
+          "7201",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "5º",
+          "6825",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "6º",
+          "0732",
+          "08",
+          "Camelo"
+        ],
+        [
+          "7º",
+          "6820",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "8º",
+          "5870",
+          "18",
+          "Porco"
+        ],
+        [
+          "9º",
+          "7450",
+          "13",
+          "Galo"
+        ],
+        [
+          "10º",
+          "7265",
+          "17",
+          "Macaco"
+        ]
+      ]
     }
   ],
   "LOOK/GOIAS": [
