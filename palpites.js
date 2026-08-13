@@ -32,42 +32,15 @@ const palpites = {
       "3089",
       "3082"
     ],
-    "frases": []
-  },
-  "PT SP": {
-    "palpites": [
-      "3211",
-      "3212",
-      "3213",
-      "3221",
-      "3222",
-      "3223",
-      "3271",
-      "3272",
-      "3273",
-      "3711",
-      "3712",
-      "3713",
-      "3721",
-      "3722",
-      "3723",
-      "3771",
-      "3772",
-      "3773",
-      "3511",
-      "3512",
-      "3513",
-      "3521",
-      "3522",
-      "3523",
-      "3571",
-      "3572",
-      "3573",
-      "7211",
-      "7212",
-      "7213"
-    ],
-    "frases": []
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 5263 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 5763 no 2º Prêmio!",
+      "' + title + '\nDeu Milhar, Palpite 5063 no 2º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0263 no 2º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 13/08/2026 (Quinta-feira)\nDeu Dezena, Palpite 6000 no 1º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 13/08/2026 (Quinta-feira)\nDeu Dezena, Palpite 6400 no 1º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 13/08/2026 (Quinta-feira)\nDeu Dezena, Palpite 6700 no 1º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -422,5 +395,40 @@ const palpites = {
       "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 6583 no 10º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 6983 no 10º Prêmio!"
     ]
+  },
+  "PT SP": {
+    "palpites": [
+      "3211",
+      "3212",
+      "3213",
+      "3221",
+      "3222",
+      "3223",
+      "3271",
+      "3272",
+      "3273",
+      "3711",
+      "3712",
+      "3713",
+      "3721",
+      "3722",
+      "3723",
+      "3771",
+      "3772",
+      "3773",
+      "3511",
+      "3512",
+      "3513",
+      "3521",
+      "3522",
+      "3523",
+      "3571",
+      "3572",
+      "3573",
+      "7211",
+      "7212",
+      "7213"
+    ],
+    "frases": []
   }
 };
