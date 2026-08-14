@@ -109,7 +109,11 @@ const palpites = {
       "7933",
       "7934"
     ],
-    "frases": []
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 4049 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4549 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 4749 no 7º Prêmio!"
+    ]
   },
   "LOOK/GOIAS": {
     "palpites": [
@@ -274,45 +278,37 @@ const palpites = {
   },
   "PT SP": {
     "palpites": [
-      "6408",
-      "6405",
-      "6406",
-      "6428",
-      "6425",
-      "6426",
-      "6438",
-      "6435",
-      "6436",
-      "6108",
-      "6105",
-      "6106",
-      "6128",
-      "6125",
-      "6126",
-      "6138",
-      "6135",
-      "6136",
-      "6608",
-      "6605",
-      "6606",
-      "6628",
-      "6625",
-      "6626",
-      "6638",
-      "6635",
-      "6636",
-      "0408",
-      "0405",
-      "0406"
+      "8913",
+      "8919",
+      "8910",
+      "8983",
+      "8989",
+      "8980",
+      "8923",
+      "8929",
+      "8920",
+      "8113",
+      "8119",
+      "8110",
+      "8183",
+      "8189",
+      "8180",
+      "8123",
+      "8129",
+      "8120",
+      "8213",
+      "8219",
+      "8210",
+      "8283",
+      "8289",
+      "8280",
+      "8223",
+      "8229",
+      "8220",
+      "4913",
+      "4919",
+      "4910"
     ],
-    "frases": [
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1062 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1162 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1362 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 5062 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0765 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0065 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0865 no 10º Prêmio!"
-    ]
+    "frases": []
   }
 };
