@@ -926,6 +926,77 @@ const resultado = {
           "Galo"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho PARATODOS - CE, 18:30",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "4425",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "2º",
+          "3255",
+          "14",
+          "Gato"
+        ],
+        [
+          "3º",
+          "8618",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "4º",
+          "2121",
+          "06",
+          "Cabra"
+        ],
+        [
+          "5º",
+          "6030",
+          "08",
+          "Camelo"
+        ],
+        [
+          "6º",
+          "1117",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "7º",
+          "1183",
+          "21",
+          "Touro"
+        ],
+        [
+          "8º",
+          "3677",
+          "20",
+          "Peru"
+        ],
+        [
+          "9º",
+          "1546",
+          "12",
+          "Elefante"
+        ],
+        [
+          "10º",
+          "1057",
+          "15",
+          "Jacaré"
+        ]
+      ]
     }
   ],
   "LOOK/GOIAS": [
