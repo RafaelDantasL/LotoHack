@@ -108,45 +108,21 @@ const palpites = {
       "0711"
     ],
     "frases": [
-      "Resultado do Jogo do Bicho PARATODOS - CE, 10:45\nDeu Dezena, Palpite 1117 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho PARATODOS - CE, 10:45\nDeu Dezena, Palpite 1017 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho PARATODOS - CE, 10:45\nDeu Dezena, Palpite 1617 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho PARATODOS - CE, 10:45\nDeu Dezena, Palpite 3117 no 10º Prêmio!"
+      "Resultado do Jogo do Bicho PARATODOS - CE, 10:45\nDeu Dezena, Palpite 1701 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 10:45\nDeu Dezena, Palpite 1801 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 10:45\nDeu Dezena, Palpite 1901 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 10:45\nDeu Milhar, Palpite 1737 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 10:45\nDeu Dezena, Palpite 1837 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 10:45\nDeu Dezena, Palpite 1937 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 10:45\nDeu Dezena, Palpite 1713 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 10:45\nDeu Dezena, Palpite 1813 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 10:45\nDeu Dezena, Palpite 1913 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 10:45\nDeu Dezena, Palpite 0713 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 10:45\nDeu Dezena, Palpite 1717 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 10:45\nDeu Centena, Palpite 1817 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 10:45\nDeu Dezena, Palpite 1817 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 10:45\nDeu Dezena, Palpite 1917 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 10:45\nDeu Dezena, Palpite 0717 no 10º Prêmio!"
     ]
-  },
-  "LOOK/GOIAS": {
-    "palpites": [
-      "8055",
-      "8051",
-      "8052",
-      "8095",
-      "8091",
-      "8092",
-      "8025",
-      "8021",
-      "8022",
-      "8555",
-      "8551",
-      "8552",
-      "8595",
-      "8591",
-      "8592",
-      "8525",
-      "8521",
-      "8522",
-      "8255",
-      "8251",
-      "8252",
-      "8295",
-      "8291",
-      "8292",
-      "8225",
-      "8221",
-      "8222",
-      "0055",
-      "0051",
-      "0052"
-    ],
-    "frases": []
   }
 };
