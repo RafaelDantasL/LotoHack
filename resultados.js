@@ -147,6 +147,77 @@ const resultado = {
   ],
   "LOTECE": [
     {
+      "titulo": "' + title + '",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "8582",
+          "21",
+          "Touro"
+        ],
+        [
+          "2º",
+          "0480",
+          "20",
+          "Peru"
+        ],
+        [
+          "3º",
+          "8057",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "4º",
+          "8548",
+          "12",
+          "Elefante"
+        ],
+        [
+          "5º",
+          "7816",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "6º",
+          "8418",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "7º",
+          "8476",
+          "19",
+          "Pavão"
+        ],
+        [
+          "8º",
+          "0133",
+          "09",
+          "Cobra"
+        ],
+        [
+          "9º",
+          "7920",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "10º",
+          "8337",
+          "10",
+          "Coelho"
+        ]
+      ]
+    },
+    {
       "titulo": "Resultado do Jogo do Bicho PARATODOS - CE, 10:45",
       "conteudo": [
         [
