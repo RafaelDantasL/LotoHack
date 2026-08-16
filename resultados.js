@@ -553,6 +553,77 @@ const resultado = {
           "Avestruz"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho PARATODOS - CE, 12:45",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "9256",
+          "14",
+          "Gato"
+        ],
+        [
+          "2º",
+          "6162",
+          "16",
+          "Leão"
+        ],
+        [
+          "3º",
+          "3311",
+          "03",
+          "Burro"
+        ],
+        [
+          "4º",
+          "2826",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "5º",
+          "7765",
+          "17",
+          "Macaco"
+        ],
+        [
+          "6º",
+          "0127",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "7º",
+          "9222",
+          "06",
+          "Cabra"
+        ],
+        [
+          "8º",
+          "7142",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "9º",
+          "9281",
+          "21",
+          "Touro"
+        ],
+        [
+          "10º",
+          "9514",
+          "04",
+          "Borboleta"
+        ]
+      ]
     }
   ],
   "LOOK/GOIAS": [
