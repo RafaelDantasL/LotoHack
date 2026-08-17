@@ -4425,6 +4425,130 @@ const resultado = {
           "Cachorro"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "9846",
+          "12",
+          "Elefante"
+        ],
+        [
+          "2º",
+          "3427",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "3º",
+          "1615",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "4º",
+          "4559",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "5º",
+          "8346",
+          "12",
+          "Elefante"
+        ],
+        [
+          "6º [soma]",
+          "7793",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "742",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 20hs - PTN SP, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "9846",
+          "12",
+          "Elefante"
+        ],
+        [
+          "2º",
+          "3427",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "3º",
+          "1615",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "4º",
+          "4559",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "5º",
+          "8346",
+          "12",
+          "Elefante"
+        ],
+        [
+          "6º",
+          "9314",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "7º",
+          "8465",
+          "17",
+          "Macaco"
+        ],
+        [
+          "8º",
+          "4215",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "9º",
+          "6759",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "10º",
+          "6546",
+          "12",
+          "Elefante"
+        ]
+      ]
     }
   ]
 };
