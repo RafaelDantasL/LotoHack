@@ -32,7 +32,11 @@ const palpites = {
       "1022",
       "1023"
     ],
-    "frases": []
+    "frases": [
+      "12h - MALUCA - BA - Resultado do dia 17/08/2026 (Segunda-feira)\nDeu Dezena, Palpite 0061 no 6º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 17/08/2026 (Segunda-feira)\nDeu Dezena, Palpite 0861 no 6º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 17/08/2026 (Segunda-feira)\nDeu Dezena, Palpite 0961 no 6º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -67,45 +71,65 @@ const palpites = {
       "2307",
       "2308"
     ],
-    "frases": []
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 9651 no 1º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 9951 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9951 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9151 no 1º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9651 no 9º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9951 no 9º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9151 no 9º Prêmio!"
+    ]
   },
-  "PT SP": {
+  "LOTECE": {
     "palpites": [
-      "0556",
-      "0550",
-      "0558",
-      "0506",
-      "0500",
-      "0508",
-      "0586",
-      "0580",
-      "0588",
-      "0256",
-      "0250",
-      "0258",
-      "0206",
-      "0200",
-      "0208",
-      "0286",
-      "0280",
-      "0288",
-      "0356",
-      "0350",
-      "0358",
-      "0306",
-      "0300",
-      "0308",
-      "0386",
-      "0380",
-      "0388",
-      "3556",
-      "3550",
-      "3558"
+      "0431",
+      "0432",
+      "0433",
+      "0441",
+      "0442",
+      "0443",
+      "0451",
+      "0452",
+      "0453",
+      "0031",
+      "0032",
+      "0033",
+      "0041",
+      "0042",
+      "0043",
+      "0051",
+      "0052",
+      "0053",
+      "0131",
+      "0132",
+      "0133",
+      "0141",
+      "0142",
+      "0143",
+      "0151",
+      "0152",
+      "0153",
+      "1431",
+      "1432",
+      "1433"
     ],
     "frases": [
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 8406 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 8806 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 8606 no 9º Prêmio!"
+      "Resultado do Jogo do Bicho PARATODOS - CE, 14:20\nDeu Milhar, Palpite 0441 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 14:20\nDeu Dezena, Palpite 0041 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 14:20\nDeu Dezena, Palpite 0141 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 14:20\nDeu Dezena, Palpite 0452 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 14:20\nDeu Dezena, Palpite 0052 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 14:20\nDeu Dezena, Palpite 0152 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 14:20\nDeu Dezena, Palpite 0431 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 14:20\nDeu Dezena, Palpite 0031 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 14:20\nDeu Dezena, Palpite 0131 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 14:20\nDeu Dezena, Palpite 1431 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 14:20\nDeu Milhar, Palpite 0431 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 14:20\nDeu Dezena, Palpite 0031 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 14:20\nDeu Dezena, Palpite 0131 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 14:20\nDeu Centena, Palpite 1431 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 14:20\nDeu Dezena, Palpite 1431 no 8º Prêmio!"
     ]
   }
 };
