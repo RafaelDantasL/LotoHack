@@ -1550,6 +1550,130 @@ const resultado = {
       ]
     },
     {
+      "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 18h, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "7193",
+          "24",
+          "Veado"
+        ],
+        [
+          "2º",
+          "9627",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "3º",
+          "3541",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "4º",
+          "6272",
+          "18",
+          "Porco"
+        ],
+        [
+          "5º",
+          "2037",
+          "10",
+          "Coelho"
+        ],
+        [
+          "6º [soma]",
+          "8670",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "247",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 18h, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "7193",
+          "24",
+          "Veado"
+        ],
+        [
+          "2º",
+          "9627",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "3º",
+          "3541",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "4º",
+          "6272",
+          "18",
+          "Porco"
+        ],
+        [
+          "5º",
+          "2037",
+          "10",
+          "Coelho"
+        ],
+        [
+          "6º",
+          "7936",
+          "09",
+          "Cobra"
+        ],
+        [
+          "7º",
+          "1652",
+          "13",
+          "Galo"
+        ],
+        [
+          "8º",
+          "9247",
+          "12",
+          "Elefante"
+        ],
+        [
+          "9º",
+          "3712",
+          "03",
+          "Burro"
+        ],
+        [
+          "10º",
+          "1217",
+          "05",
+          "Cachorro"
+        ]
+      ]
+    },
+    {
       "titulo": "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h",
       "conteudo": [
         [
@@ -1756,6 +1880,59 @@ const resultado = {
         [
           "7º [mult]",
           "025",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 18h",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "3459",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "2º",
+          "5303",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "3º",
+          "6227",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "4º",
+          "2408",
+          "02",
+          "Águia"
+        ],
+        [
+          "5º",
+          "7302",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "6º [soma]",
+          "4699",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "343",
           "",
           ""
         ]
