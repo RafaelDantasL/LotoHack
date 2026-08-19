@@ -573,6 +573,77 @@ const resultado = {
       ]
     },
     {
+      "titulo": "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "4145",
+          "12",
+          "Elefante"
+        ],
+        [
+          "2º",
+          "1682",
+          "21",
+          "Touro"
+        ],
+        [
+          "3º",
+          "1960",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "4º",
+          "2071",
+          "18",
+          "Porco"
+        ],
+        [
+          "5º",
+          "4367",
+          "17",
+          "Macaco"
+        ],
+        [
+          "6º",
+          "6129",
+          "08",
+          "Camelo"
+        ],
+        [
+          "7º",
+          "7767",
+          "17",
+          "Macaco"
+        ],
+        [
+          "8º",
+          "2731",
+          "08",
+          "Camelo"
+        ],
+        [
+          "9º",
+          "2948",
+          "12",
+          "Elefante"
+        ],
+        [
+          "10º",
+          "3740",
+          "10",
+          "Coelho"
+        ]
+      ]
+    },
+    {
       "titulo": "Resultado do Jogo do Bicho PARATODOS - CE, 10:45",
       "conteudo": [
         [
@@ -1867,6 +1938,77 @@ const resultado = {
           "4011",
           "03",
           "Burro"
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 15:45",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "7168",
+          "17",
+          "Macaco"
+        ],
+        [
+          "2º",
+          "0872",
+          "18",
+          "Porco"
+        ],
+        [
+          "3º",
+          "7275",
+          "19",
+          "Pavão"
+        ],
+        [
+          "4º",
+          "0315",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "5º",
+          "9708",
+          "02",
+          "Águia"
+        ],
+        [
+          "6º",
+          "7070",
+          "18",
+          "Porco"
+        ],
+        [
+          "7º",
+          "1823",
+          "06",
+          "Cabra"
+        ],
+        [
+          "8º",
+          "6771",
+          "18",
+          "Porco"
+        ],
+        [
+          "9º",
+          "8255",
+          "14",
+          "Gato"
+        ],
+        [
+          "10º",
+          "9257",
+          "15",
+          "Jacaré"
         ]
       ]
     }
