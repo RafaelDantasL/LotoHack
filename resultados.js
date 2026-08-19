@@ -212,6 +212,77 @@ const resultado = {
           "Galo"
         ]
       ]
+    },
+    {
+      "titulo": "20h FEDERAL - MALUCA - BA - Resultado do dia 19/08/2026 (Quarta-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "4226",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "2º",
+          "7316",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "3º",
+          "5913",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "4º",
+          "0946",
+          "12",
+          "Elefante"
+        ],
+        [
+          "5º",
+          "2848",
+          "12",
+          "Elefante"
+        ],
+        [
+          "6º",
+          "0974",
+          "19",
+          "Pavão"
+        ],
+        [
+          "7º",
+          "1792",
+          "23",
+          "Urso"
+        ],
+        [
+          "8º",
+          "9587",
+          "22",
+          "Tigre"
+        ],
+        [
+          "9º",
+          "0456",
+          "14",
+          "Gato"
+        ],
+        [
+          "10º",
+          "7067",
+          "17",
+          "Macaco"
+        ]
+      ]
     }
   ],
   "BAHIA": [
