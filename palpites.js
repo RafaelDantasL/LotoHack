@@ -237,14 +237,19 @@ const palpites = {
       "2851"
     ],
     "frases": [
-      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 21h\nDeu Dezena, Palpite 7250 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 21h\nDeu Centena, Palpite 7850 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 21h\nDeu Dezena, Palpite 7850 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 21h\nDeu Dezena, Palpite 7750 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 21h\nDeu Dezena, Palpite 7255 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 21h\nDeu Centena, Palpite 7855 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 21h\nDeu Dezena, Palpite 7855 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 21h\nDeu Dezena, Palpite 7755 no 6º Prêmio!"
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 21h\nDeu Milhar, Palpite 1850 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 21h\nDeu Dezena, Palpite 1050 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 21h\nDeu Dezena, Palpite 1150 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 21h\nDeu Centena, Palpite 2850 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 21h\nDeu Dezena, Palpite 2850 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 21h\nDeu Dezena, Palpite 1800 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 21h\nDeu Dezena, Palpite 1000 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 21h\nDeu Dezena, Palpite 1100 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 21h\nDeu Milhar, Palpite 1855 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 21h\nDeu Dezena, Palpite 1055 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 21h\nDeu Dezena, Palpite 1155 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 21h\nDeu Centena, Palpite 2855 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 21h\nDeu Dezena, Palpite 2855 no 6º Prêmio!"
     ]
   }
 };
