@@ -68,10 +68,53 @@ const palpites = {
       "1140"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 9881 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 9581 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 9981 no 3º Prêmio!",
       "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 8373 no 4º Prêmio!",
       "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 8473 no 4º Prêmio!",
       "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 8873 no 4º Prêmio!",
       "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 0373 no 4º Prêmio!"
+    ]
+  },
+  "LOTEP": {
+    "palpites": [
+      "9749",
+      "9746",
+      "9741",
+      "9759",
+      "9756",
+      "9751",
+      "9709",
+      "9706",
+      "9701",
+      "9149",
+      "9146",
+      "9141",
+      "9159",
+      "9156",
+      "9151",
+      "9109",
+      "9106",
+      "9101",
+      "9249",
+      "9246",
+      "9241",
+      "9259",
+      "9256",
+      "9251",
+      "9209",
+      "9206",
+      "9201",
+      "0749",
+      "0746",
+      "0741"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 2704 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Centena, Palpite 2104 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 2104 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 2204 no 6º Prêmio!"
     ]
   }
 };
