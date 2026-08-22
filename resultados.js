@@ -3379,6 +3379,130 @@ const resultado = {
           "Jacaré"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 5º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "6126",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "2º",
+          "4801",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "3º",
+          "9032",
+          "08",
+          "Camelo"
+        ],
+        [
+          "4º",
+          "4317",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "5º",
+          "3782",
+          "21",
+          "Touro"
+        ],
+        [
+          "6º [soma]",
+          "8058",
+          "",
+          ""
+        ],
+        [
+          "7º [mult]",
+          "410",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 10º",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "6126",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "2º",
+          "4801",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "3º",
+          "9032",
+          "08",
+          "Camelo"
+        ],
+        [
+          "4º",
+          "4317",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "5º",
+          "3782",
+          "21",
+          "Touro"
+        ],
+        [
+          "6º",
+          "6494",
+          "24",
+          "Veado"
+        ],
+        [
+          "7º",
+          "1803",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "8º",
+          "2031",
+          "08",
+          "Camelo"
+        ],
+        [
+          "9º",
+          "6127",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "10º",
+          "4513",
+          "04",
+          "Borboleta"
+        ]
+      ]
     }
   ]
 };
