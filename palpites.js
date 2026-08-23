@@ -38,41 +38,6 @@ const palpites = {
       "' + title + '\nDeu Dezena, Palpite 0836 no 6º Prêmio!"
     ]
   },
-  "PT SP": {
-    "palpites": [
-      "3426",
-      "3422",
-      "3424",
-      "3496",
-      "3492",
-      "3494",
-      "3406",
-      "3402",
-      "3404",
-      "3526",
-      "3522",
-      "3524",
-      "3596",
-      "3592",
-      "3594",
-      "3506",
-      "3502",
-      "3504",
-      "3626",
-      "3622",
-      "3624",
-      "3696",
-      "3692",
-      "3694",
-      "3606",
-      "3602",
-      "3604",
-      "4426",
-      "4422",
-      "4424"
-    ],
-    "frases": []
-  },
   "BAHIA": {
     "palpites": [
       "3156",
@@ -223,7 +188,15 @@ const palpites = {
       "7740",
       "7744"
     ],
-    "frases": []
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 8816 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 8216 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 8316 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0816 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 3324 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 3824 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 3024 no 1º Prêmio!"
+    ]
   },
   "PT RIO": {
     "palpites": [
@@ -257,6 +230,41 @@ const palpites = {
       "1364",
       "1369",
       "1362"
+    ],
+    "frases": []
+  },
+  "PT SP": {
+    "palpites": [
+      "3426",
+      "3422",
+      "3424",
+      "3496",
+      "3492",
+      "3494",
+      "3406",
+      "3402",
+      "3404",
+      "3526",
+      "3522",
+      "3524",
+      "3596",
+      "3592",
+      "3594",
+      "3506",
+      "3502",
+      "3504",
+      "3626",
+      "3622",
+      "3624",
+      "3696",
+      "3692",
+      "3694",
+      "3606",
+      "3602",
+      "3604",
+      "4426",
+      "4422",
+      "4424"
     ],
     "frases": []
   }
