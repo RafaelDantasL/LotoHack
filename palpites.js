@@ -32,42 +32,15 @@ const palpites = {
       "7485",
       "7480"
     ],
-    "frases": []
-  },
-  "PT SP": {
-    "palpites": [
-      "2914",
-      "2916",
-      "2911",
-      "2934",
-      "2936",
-      "2931",
-      "2964",
-      "2966",
-      "2961",
-      "2114",
-      "2116",
-      "2111",
-      "2134",
-      "2136",
-      "2131",
-      "2164",
-      "2166",
-      "2161",
-      "2414",
-      "2416",
-      "2411",
-      "2434",
-      "2436",
-      "2431",
-      "2464",
-      "2466",
-      "2461",
-      "7914",
-      "7916",
-      "7911"
-    ],
-    "frases": []
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 0136 no 6º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0536 no 6º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0836 no 6º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 23/08/2026 (Domingo)\nDeu Dezena, Palpite 0927 no 5º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 23/08/2026 (Domingo)\nDeu Dezena, Palpite 0127 no 5º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 23/08/2026 (Domingo)\nDeu Dezena, Palpite 0527 no 5º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 23/08/2026 (Domingo)\nDeu Dezena, Palpite 5927 no 5º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -275,6 +248,13 @@ const palpites = {
       "3090"
     ],
     "frases": [
+      "' + title + '\nDeu Dezena, Palpite 8816 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 8216 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 8316 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0816 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 3324 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 3824 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 3024 no 1º Prêmio!",
       "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 8794 no 9º Prêmio!",
       "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Centena, Palpite 8194 no 9º Prêmio!",
       "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 8194 no 9º Prêmio!",
@@ -343,6 +323,41 @@ const palpites = {
       "8389",
       "8385",
       "8388"
+    ],
+    "frases": []
+  },
+  "PT SP": {
+    "palpites": [
+      "2914",
+      "2916",
+      "2911",
+      "2934",
+      "2936",
+      "2931",
+      "2964",
+      "2966",
+      "2961",
+      "2114",
+      "2116",
+      "2111",
+      "2134",
+      "2136",
+      "2131",
+      "2164",
+      "2166",
+      "2161",
+      "2414",
+      "2416",
+      "2411",
+      "2434",
+      "2436",
+      "2431",
+      "2464",
+      "2466",
+      "2461",
+      "7914",
+      "7916",
+      "7911"
     ],
     "frases": []
   }
