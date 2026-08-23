@@ -240,6 +240,13 @@ const palpites = {
       "3090"
     ],
     "frases": [
+      "' + title + '\nDeu Dezena, Palpite 8816 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 8216 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 8316 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0816 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 3324 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 3824 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 3024 no 1º Prêmio!",
       "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 8794 no 9º Prêmio!",
       "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Centena, Palpite 8194 no 9º Prêmio!",
       "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 8194 no 9º Prêmio!",
