@@ -137,7 +137,12 @@ const palpites = {
       "9280",
       "9285"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 1200 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 1900 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Centena, Palpite 1700 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 1700 no 9º Prêmio!"
+    ]
   },
   "LOTEP": {
     "palpites": [
@@ -176,38 +181,43 @@ const palpites = {
   },
   "PT RIO": {
     "palpites": [
-      "4364",
-      "4366",
-      "4369",
-      "4344",
-      "4346",
-      "4349",
-      "4374",
-      "4376",
-      "4379",
-      "4064",
-      "4066",
-      "4069",
-      "4044",
-      "4046",
-      "4049",
-      "4074",
-      "4076",
-      "4079",
-      "4164",
-      "4166",
-      "4169",
-      "4144",
-      "4146",
-      "4149",
-      "4174",
-      "4176",
-      "4179",
-      "1364",
-      "1366",
-      "1369"
+      "9452",
+      "9455",
+      "9454",
+      "9432",
+      "9435",
+      "9434",
+      "9442",
+      "9445",
+      "9444",
+      "9352",
+      "9355",
+      "9354",
+      "9332",
+      "9335",
+      "9334",
+      "9342",
+      "9345",
+      "9344",
+      "9552",
+      "9555",
+      "9554",
+      "9532",
+      "9535",
+      "9534",
+      "9542",
+      "9545",
+      "9544",
+      "5452",
+      "5455",
+      "5454"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Centena, Palpite 4344 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 4344 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 4044 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 4144 no 2º Prêmio!"
+    ]
   },
   "PT SP": {
     "palpites": [
