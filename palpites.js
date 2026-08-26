@@ -32,7 +32,14 @@ const palpites = {
       "3031",
       "3030"
     ],
-    "frases": []
+    "frases": [
+      "' + title + '\nDeu Centena, Palpite 1402 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1402 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1102 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 1502 no 7º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 3402 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3402 no 7º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -72,41 +79,6 @@ const palpites = {
       "12h - BA - Resultado do dia 26/08/2026 (Quarta-feira)\nDeu Dezena, Palpite 4827 no 2º Prêmio!",
       "12h - BA - Resultado do dia 26/08/2026 (Quarta-feira)\nDeu Dezena, Palpite 4127 no 2º Prêmio!"
     ]
-  },
-  "PT SP": {
-    "palpites": [
-      "0892",
-      "0893",
-      "0894",
-      "0822",
-      "0823",
-      "0824",
-      "0832",
-      "0833",
-      "0834",
-      "0992",
-      "0993",
-      "0994",
-      "0922",
-      "0923",
-      "0924",
-      "0932",
-      "0933",
-      "0934",
-      "0192",
-      "0193",
-      "0194",
-      "0122",
-      "0123",
-      "0124",
-      "0132",
-      "0133",
-      "0134",
-      "8892",
-      "8893",
-      "8894"
-    ],
-    "frases": []
   },
   "LOTECE": {
     "palpites": [
@@ -228,51 +200,38 @@ const palpites = {
   },
   "LOTEP": {
     "palpites": [
-      "1561",
-      "1560",
-      "1566",
-      "1501",
-      "1500",
-      "1506",
-      "1511",
-      "1510",
-      "1516",
-      "1061",
-      "1060",
-      "1066",
-      "1001",
-      "1000",
-      "1006",
-      "1011",
-      "1010",
-      "1016",
-      "1261",
-      "1260",
-      "1266",
-      "1201",
-      "1200",
-      "1206",
-      "1211",
-      "1210",
-      "1216",
-      "2561",
-      "2560",
-      "2566"
+      "5062",
+      "5068",
+      "5060",
+      "5022",
+      "5028",
+      "5020",
+      "5072",
+      "5078",
+      "5070",
+      "5862",
+      "5868",
+      "5860",
+      "5822",
+      "5828",
+      "5820",
+      "5872",
+      "5878",
+      "5870",
+      "5362",
+      "5368",
+      "5360",
+      "5322",
+      "5328",
+      "5320",
+      "5372",
+      "5378",
+      "5370",
+      "4062",
+      "4068",
+      "4060"
     ],
-    "frases": [
-      "' + title + '\nDeu Centena, Palpite 2288 no 2º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 2288 no 2º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 2788 no 2º Prêmio!",
-      "' + title + '\nDeu Dezena, Palpite 2388 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 0308 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 0408 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 0508 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 5308 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 0300 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 0400 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 0500 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 5300 no 10º Prêmio!"
-    ]
+    "frases": []
   },
   "PT RIO": {
     "palpites": [
@@ -306,6 +265,41 @@ const palpites = {
       "8440",
       "8448",
       "8443"
+    ],
+    "frases": []
+  },
+  "PT SP": {
+    "palpites": [
+      "0892",
+      "0893",
+      "0894",
+      "0822",
+      "0823",
+      "0824",
+      "0832",
+      "0833",
+      "0834",
+      "0992",
+      "0993",
+      "0994",
+      "0922",
+      "0923",
+      "0924",
+      "0932",
+      "0933",
+      "0934",
+      "0192",
+      "0193",
+      "0194",
+      "0122",
+      "0123",
+      "0124",
+      "0132",
+      "0133",
+      "0134",
+      "8892",
+      "8893",
+      "8894"
     ],
     "frases": []
   }
