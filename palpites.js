@@ -84,42 +84,38 @@ const palpites = {
   },
   "LOTECE": {
     "palpites": [
-      "2974",
-      "2971",
-      "2976",
-      "2934",
-      "2931",
-      "2936",
-      "2944",
-      "2941",
-      "2946",
-      "2274",
-      "2271",
-      "2276",
-      "2234",
-      "2231",
-      "2236",
-      "2244",
-      "2241",
-      "2246",
-      "2074",
-      "2071",
-      "2076",
-      "2034",
-      "2031",
-      "2036",
-      "2044",
-      "2041",
-      "2046",
-      "3974",
-      "3971",
-      "3976"
+      "4321",
+      "4329",
+      "4322",
+      "4311",
+      "4319",
+      "4312",
+      "4331",
+      "4339",
+      "4332",
+      "4621",
+      "4629",
+      "4622",
+      "4611",
+      "4619",
+      "4612",
+      "4631",
+      "4639",
+      "4632",
+      "4921",
+      "4929",
+      "4922",
+      "4911",
+      "4919",
+      "4912",
+      "4931",
+      "4939",
+      "4932",
+      "5321",
+      "5329",
+      "5322"
     ],
-    "frases": [
-      "Resultado do Jogo do Bicho PARATODOS - CE, 10:45\nDeu Dezena, Palpite 2840 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho PARATODOS - CE, 10:45\nDeu Dezena, Palpite 2940 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho PARATODOS - CE, 10:45\nDeu Dezena, Palpite 2040 no 1º Prêmio!"
-    ]
+    "frases": []
   },
   "LOOK/GOIAS": {
     "palpites": [
@@ -200,7 +196,15 @@ const palpites = {
       "0100",
       "0101"
     ],
-    "frases": []
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 9653 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9053 no 4º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9853 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 3641 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 3441 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 3041 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 6641 no 4º Prêmio!"
+    ]
   },
   "PT RIO": {
     "palpites": [
