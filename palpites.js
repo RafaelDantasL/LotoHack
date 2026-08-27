@@ -127,7 +127,22 @@ const palpites = {
       "8832",
       "8831"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho PARATODOS - CE, 18:30\nDeu Centena, Palpite 7852 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 18:30\nDeu Dezena, Palpite 7852 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 18:30\nDeu Dezena, Palpite 7352 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 18:30\nDeu Dezena, Palpite 7152 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 18:30\nDeu Milhar, Palpite 7862 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 18:30\nDeu Dezena, Palpite 7362 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 18:30\nDeu Dezena, Palpite 7162 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 18:30\nDeu Dezena, Palpite 7860 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 18:30\nDeu Dezena, Palpite 7360 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 18:30\nDeu Dezena, Palpite 7160 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 18:30\nDeu Dezena, Palpite 7831 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 18:30\nDeu Dezena, Palpite 7331 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 18:30\nDeu Dezena, Palpite 7131 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 18:30\nDeu Dezena, Palpite 8831 no 7º Prêmio!"
+    ]
   },
   "LOOK/GOIAS": {
     "palpites": [
