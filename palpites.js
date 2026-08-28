@@ -133,6 +133,24 @@ const palpites = {
       "9093"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho PARATODOS - CE, 12:45\nDeu Dezena, Palpite 2246 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 12:45\nDeu Dezena, Palpite 2546 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 12:45\nDeu Centena, Palpite 2746 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 12:45\nDeu Dezena, Palpite 2746 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 12:45\nDeu Dezena, Palpite 2225 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 12:45\nDeu Dezena, Palpite 2525 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 12:45\nDeu Dezena, Palpite 2725 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 12:45\nDeu Dezena, Palpite 3225 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 12:45\nDeu Centena, Palpite 2225 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 12:45\nDeu Dezena, Palpite 2225 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 12:45\nDeu Dezena, Palpite 2525 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 12:45\nDeu Dezena, Palpite 2725 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 12:45\nDeu Centena, Palpite 3225 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 12:45\nDeu Dezena, Palpite 3225 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 12:45\nDeu Dezena, Palpite 2245 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 12:45\nDeu Centena, Palpite 2545 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 12:45\nDeu Dezena, Palpite 2545 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 12:45\nDeu Dezena, Palpite 2745 no 8º Prêmio!",
       "Resultado do Jogo do Bicho PARATODOS - CE, 14:20\nDeu Dezena, Palpite 0091 no 1º Prêmio!",
       "Resultado do Jogo do Bicho PARATODOS - CE, 14:20\nDeu Dezena, Palpite 0291 no 1º Prêmio!",
       "Resultado do Jogo do Bicho PARATODOS - CE, 14:20\nDeu Centena, Palpite 0591 no 1º Prêmio!",
@@ -154,41 +172,6 @@ const palpites = {
       "Resultado do Jogo do Bicho PARATODOS - CE, 14:20\nDeu Dezena, Palpite 0253 no 10º Prêmio!",
       "Resultado do Jogo do Bicho PARATODOS - CE, 14:20\nDeu Dezena, Palpite 0553 no 10º Prêmio!"
     ]
-  },
-  "LOTEP": {
-    "palpites": [
-      "8145",
-      "8144",
-      "8146",
-      "8135",
-      "8134",
-      "8136",
-      "8115",
-      "8114",
-      "8116",
-      "8045",
-      "8044",
-      "8046",
-      "8035",
-      "8034",
-      "8036",
-      "8015",
-      "8014",
-      "8016",
-      "8645",
-      "8644",
-      "8646",
-      "8635",
-      "8634",
-      "8636",
-      "8615",
-      "8614",
-      "8616",
-      "1145",
-      "1144",
-      "1146"
-    ],
-    "frases": []
   },
   "LOOK/GOIAS": {
     "palpites": [
@@ -255,6 +238,45 @@ const palpites = {
       "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 14h\nDeu Dezena, Palpite 3182 no 3º Prêmio!",
       "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 14h\nDeu Dezena, Palpite 3382 no 3º Prêmio!",
       "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 14h\nDeu Dezena, Palpite 3582 no 3º Prêmio!"
+    ]
+  },
+  "LOTEP": {
+    "palpites": [
+      "2130",
+      "2131",
+      "2137",
+      "2150",
+      "2151",
+      "2157",
+      "2110",
+      "2111",
+      "2117",
+      "2230",
+      "2231",
+      "2237",
+      "2250",
+      "2251",
+      "2257",
+      "2210",
+      "2211",
+      "2217",
+      "2330",
+      "2331",
+      "2337",
+      "2350",
+      "2351",
+      "2357",
+      "2310",
+      "2311",
+      "2317",
+      "3130",
+      "3131",
+      "3137"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOTEP - PB, 15:45h\nDeu Dezena, Palpite 8136 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 15:45h\nDeu Dezena, Palpite 8036 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 15:45h\nDeu Dezena, Palpite 8636 no 5º Prêmio!"
     ]
   },
   "PT RIO": {
