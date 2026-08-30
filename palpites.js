@@ -155,6 +155,13 @@ const palpites = {
       "0910",
       "0917"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 21h\nDeu Dezena, Palpite 8934 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 21h\nDeu Milhar, Palpite 8034 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 21h\nDeu Dezena, Palpite 8434 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 21h\nDeu Milhar, Palpite 8924 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 21h\nDeu Dezena, Palpite 8024 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 21h\nDeu Dezena, Palpite 8424 no 6º Prêmio!"
+    ]
   }
 };
