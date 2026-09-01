@@ -32,7 +32,11 @@ const palpites = {
       "3251",
       "3257"
     ],
-    "frases": []
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 6699 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6799 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6099 no 5º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -73,41 +77,6 @@ const palpites = {
       "12h - BA - Resultado do dia 01/09/2026 (Terça-feira)\nDeu Centena, Palpite 2995 no 4º Prêmio!",
       "12h - BA - Resultado do dia 01/09/2026 (Terça-feira)\nDeu Dezena, Palpite 2995 no 4º Prêmio!"
     ]
-  },
-  "PT SP": {
-    "palpites": [
-      "1006",
-      "1001",
-      "1004",
-      "1026",
-      "1021",
-      "1024",
-      "1036",
-      "1031",
-      "1034",
-      "1306",
-      "1301",
-      "1304",
-      "1326",
-      "1321",
-      "1324",
-      "1336",
-      "1331",
-      "1334",
-      "1106",
-      "1101",
-      "1104",
-      "1126",
-      "1121",
-      "1124",
-      "1136",
-      "1131",
-      "1134",
-      "2006",
-      "2001",
-      "2004"
-    ],
-    "frases": []
   },
   "LOTECE": {
     "palpites": [
@@ -206,46 +175,38 @@ const palpites = {
   },
   "LOTEP": {
     "palpites": [
-      "8106",
-      "8104",
-      "8108",
-      "8166",
-      "8164",
-      "8168",
-      "8176",
-      "8174",
-      "8178",
-      "8606",
-      "8604",
-      "8608",
-      "8666",
-      "8664",
-      "8668",
-      "8676",
-      "8674",
-      "8678",
-      "8706",
-      "8704",
-      "8708",
-      "8766",
-      "8764",
-      "8768",
-      "8776",
-      "8774",
-      "8778",
-      "6106",
-      "6104",
-      "6108"
+      "2013",
+      "2012",
+      "2016",
+      "2033",
+      "2032",
+      "2036",
+      "2063",
+      "2062",
+      "2066",
+      "2213",
+      "2212",
+      "2216",
+      "2233",
+      "2232",
+      "2236",
+      "2263",
+      "2262",
+      "2266",
+      "2113",
+      "2112",
+      "2116",
+      "2133",
+      "2132",
+      "2136",
+      "2163",
+      "2162",
+      "2166",
+      "3013",
+      "3012",
+      "3016"
     ],
-    "frases": [
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 5309 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 5209 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 5109 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 1708 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 1808 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 1008 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 6708 no 10º Prêmio!"
-    ]
+    "frases": []
   },
   "PT RIO": {
     "palpites": [
@@ -293,5 +254,40 @@ const palpites = {
       "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 6612 no 5º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 11:00, PTM, 1º ao 10º\nDeu Dezena, Palpite 0812 no 5º Prêmio!"
     ]
+  },
+  "PT SP": {
+    "palpites": [
+      "1006",
+      "1001",
+      "1004",
+      "1026",
+      "1021",
+      "1024",
+      "1036",
+      "1031",
+      "1034",
+      "1306",
+      "1301",
+      "1304",
+      "1326",
+      "1321",
+      "1324",
+      "1336",
+      "1331",
+      "1334",
+      "1106",
+      "1101",
+      "1104",
+      "1126",
+      "1121",
+      "1124",
+      "1136",
+      "1131",
+      "1134",
+      "2006",
+      "2001",
+      "2004"
+    ],
+    "frases": []
   }
 };
