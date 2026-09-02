@@ -123,7 +123,55 @@ const palpites = {
       "Resultado do Jogo do Bicho PARATODOS - CE, 19:40\nDeu Dezena, Palpite 8565 no 9º Prêmio!",
       "Resultado do Jogo do Bicho PARATODOS - CE, 19:40\nDeu Dezena, Palpite 8265 no 9º Prêmio!",
       "Resultado do Jogo do Bicho PARATODOS - CE, 19:40\nDeu Dezena, Palpite 8365 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 19:40\nDeu Dezena, Palpite 2565 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 19:40\nDeu Dezena, Palpite 8565 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 19:40\nDeu Dezena, Palpite 8265 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 19:40\nDeu Dezena, Palpite 8365 no 9º Prêmio!",
       "Resultado do Jogo do Bicho PARATODOS - CE, 19:40\nDeu Dezena, Palpite 2565 no 9º Prêmio!"
+    ]
+  },
+  "LOOK/GOIAS": {
+    "palpites": [
+      "2596",
+      "2592",
+      "2593",
+      "2516",
+      "2512",
+      "2513",
+      "2546",
+      "2542",
+      "2543",
+      "2096",
+      "2092",
+      "2093",
+      "2016",
+      "2012",
+      "2013",
+      "2046",
+      "2042",
+      "2043",
+      "2196",
+      "2192",
+      "2193",
+      "2116",
+      "2112",
+      "2113",
+      "2146",
+      "2142",
+      "2143",
+      "3596",
+      "3592",
+      "3593"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 21h\nDeu Centena, Palpite 2593 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 21h\nDeu Dezena, Palpite 2593 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 21h\nDeu Dezena, Palpite 2093 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 21h\nDeu Dezena, Palpite 2193 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 21h\nDeu Milhar, Palpite 3593 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 21h\nDeu Dezena, Palpite 2516 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 21h\nDeu Dezena, Palpite 2016 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 21h\nDeu Dezena, Palpite 2116 no 3º Prêmio!"
     ]
   }
 };
