@@ -109,50 +109,6 @@ const palpites = {
       "' + title + '\nDeu Dezena, Palpite 6331 no 10º Prêmio!"
     ]
   },
-  "LOTEP": {
-    "palpites": [
-      "0527",
-      "0521",
-      "0522",
-      "0547",
-      "0541",
-      "0542",
-      "0537",
-      "0531",
-      "0532",
-      "0727",
-      "0721",
-      "0722",
-      "0747",
-      "0741",
-      "0742",
-      "0737",
-      "0731",
-      "0732",
-      "0327",
-      "0321",
-      "0322",
-      "0347",
-      "0341",
-      "0342",
-      "0337",
-      "0331",
-      "0332",
-      "1527",
-      "1521",
-      "1522"
-    ],
-    "frases": [
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 1127 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 1327 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 1527 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 7127 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 1181 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 1381 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Centena, Palpite 1581 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 1581 no 6º Prêmio!"
-    ]
-  },
   "LOOK/GOIAS": {
     "palpites": [
       "2716",
@@ -208,6 +164,41 @@ const palpites = {
       "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Centena, Palpite 0750 no 6º Prêmio!",
       "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 0750 no 6º Prêmio!"
     ]
+  },
+  "LOTEP": {
+    "palpites": [
+      "5260",
+      "5268",
+      "5261",
+      "5210",
+      "5218",
+      "5211",
+      "5250",
+      "5258",
+      "5251",
+      "5660",
+      "5668",
+      "5661",
+      "5610",
+      "5618",
+      "5611",
+      "5650",
+      "5658",
+      "5651",
+      "5760",
+      "5768",
+      "5761",
+      "5710",
+      "5718",
+      "5711",
+      "5750",
+      "5758",
+      "5751",
+      "3260",
+      "3268",
+      "3261"
+    ],
+    "frases": []
   },
   "PT RIO": {
     "palpites": [
