@@ -1,41 +1,41 @@
 const palpites = {
   "BAHIA MALUCA": {
     "palpites": [
-      "0002",
-      "0000",
-      "0001",
-      "0092",
-      "0090",
-      "0091",
-      "0012",
-      "0010",
-      "0011",
-      "0102",
-      "0100",
-      "0101",
-      "0192",
-      "0190",
-      "0191",
-      "0112",
-      "0110",
-      "0111",
-      "0402",
-      "0400",
-      "0401",
-      "0492",
-      "0490",
-      "0491",
-      "0412",
-      "0410",
-      "0411",
-      "3002",
-      "3000",
-      "3001"
+      "8372",
+      "8373",
+      "8374",
+      "8302",
+      "8303",
+      "8304",
+      "8312",
+      "8313",
+      "8314",
+      "8472",
+      "8473",
+      "8474",
+      "8402",
+      "8403",
+      "8404",
+      "8412",
+      "8413",
+      "8414",
+      "8672",
+      "8673",
+      "8674",
+      "8602",
+      "8603",
+      "8604",
+      "8612",
+      "8613",
+      "8614",
+      "1372",
+      "1373",
+      "1374"
     ],
     "frases": [
-      "12h - MALUCA - BA - Resultado do dia 03/09/2026 (Quinta-feira)\nDeu Dezena, Palpite 2191 no 6º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 03/09/2026 (Quinta-feira)\nDeu Dezena, Palpite 2591 no 6º Prêmio!",
-      "12h - MALUCA - BA - Resultado do dia 03/09/2026 (Quinta-feira)\nDeu Dezena, Palpite 2891 no 6º Prêmio!"
+      "15h - MALUCA - BA - Resultado do dia 03/09/2026 (Quinta-feira)\nDeu Dezena, Palpite 0012 no 1º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 03/09/2026 (Quinta-feira)\nDeu Milhar, Palpite 0112 no 1º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 03/09/2026 (Quinta-feira)\nDeu Dezena, Palpite 0412 no 1º Prêmio!"
     ]
   },
   "BAHIA": {
@@ -71,7 +71,11 @@ const palpites = {
       "3821",
       "3824"
     ],
-    "frases": []
+    "frases": [
+      "12h - BA - Resultado do dia 03/09/2026 (Quinta-feira)\nDeu Dezena, Palpite 1952 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 03/09/2026 (Quinta-feira)\nDeu Dezena, Palpite 1752 no 4º Prêmio!",
+      "12h - BA - Resultado do dia 03/09/2026 (Quinta-feira)\nDeu Dezena, Palpite 1252 no 4º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
