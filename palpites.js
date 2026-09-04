@@ -32,7 +32,23 @@ const palpites = {
       "1123",
       "1128"
     ],
-    "frases": []
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 6195 no 3º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 6695 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6695 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6895 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9195 no 3º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6190 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6690 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6890 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9190 no 8º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6170 no 9º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6670 no 9º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 6870 no 9º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 04/09/2026 (Sexta-feira)\nDeu Dezena, Palpite 0755 no 9º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 04/09/2026 (Sexta-feira)\nDeu Dezena, Palpite 0155 no 9º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 04/09/2026 (Sexta-feira)\nDeu Dezena, Palpite 0655 no 9º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -67,7 +83,19 @@ const palpites = {
       "1537",
       "1539"
     ],
-    "frases": []
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 9652 no 5º Prêmio!",
+      "' + title + '\nDeu Milhar, Palpite 9752 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 9852 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0652 no 5º Prêmio!",
+      "12h - BA - Resultado do dia 04/09/2026 (Sexta-feira)\nDeu Dezena, Palpite 7070 no 2º Prêmio!",
+      "12h - BA - Resultado do dia 04/09/2026 (Sexta-feira)\nDeu Dezena, Palpite 7970 no 2º Prêmio!",
+      "12h - BA - Resultado do dia 04/09/2026 (Sexta-feira)\nDeu Dezena, Palpite 7270 no 2º Prêmio!",
+      "15h - BA - Resultado do dia 04/09/2026 (Sexta-feira)\nDeu Dezena, Palpite 1620 no 3º Prêmio!",
+      "15h - BA - Resultado do dia 04/09/2026 (Sexta-feira)\nDeu Dezena, Palpite 1920 no 3º Prêmio!",
+      "15h - BA - Resultado do dia 04/09/2026 (Sexta-feira)\nDeu Dezena, Palpite 1120 no 3º Prêmio!",
+      "15h - BA - Resultado do dia 04/09/2026 (Sexta-feira)\nDeu Dezena, Palpite 5620 no 3º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
@@ -402,53 +430,45 @@ const palpites = {
   },
   "PT SP": {
     "palpites": [
-      "0436",
-      "0435",
-      "0430",
-      "0496",
-      "0495",
-      "0490",
-      "0416",
-      "0415",
-      "0410",
-      "0036",
-      "0035",
-      "0030",
-      "0096",
-      "0095",
-      "0090",
-      "0016",
-      "0015",
-      "0010",
-      "0336",
-      "0335",
-      "0330",
-      "0396",
-      "0395",
-      "0390",
-      "0316",
-      "0315",
-      "0310",
-      "7436",
-      "7435",
-      "7430"
+      "5101",
+      "5105",
+      "5102",
+      "5131",
+      "5135",
+      "5132",
+      "5121",
+      "5125",
+      "5122",
+      "5801",
+      "5805",
+      "5802",
+      "5831",
+      "5835",
+      "5832",
+      "5821",
+      "5825",
+      "5822",
+      "5901",
+      "5905",
+      "5902",
+      "5931",
+      "5935",
+      "5932",
+      "5921",
+      "5925",
+      "5922",
+      "4101",
+      "4105",
+      "4102"
     ],
     "frases": [
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Centena, Palpite 1104 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1104 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1704 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1004 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1164 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1764 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Centena, Palpite 1064 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 10hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 1064 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 7347 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 7147 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 7447 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 6347 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 6784 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 6684 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 17hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 6584 no 2º Prêmio!"
+      "Resultado do Jogo do Bicho SP, 19hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0495 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 19hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0095 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 19hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0395 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 19hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0430 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 19hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0030 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 19hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0330 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 19hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 7430 no 8º Prêmio!"
     ]
   }
 };
