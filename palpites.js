@@ -33,6 +33,9 @@ const palpites = {
       "6100"
     ],
     "frases": [
+      "' + title + '\nDeu Dezena, Palpite 2051 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2251 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2551 no 7º Prêmio!",
       "12h - MALUCA - BA - Resultado do dia 07/09/2026 (Segunda-feira)\nDeu Dezena, Palpite 0481 no 10º Prêmio!",
       "12h - MALUCA - BA - Resultado do dia 07/09/2026 (Segunda-feira)\nDeu Dezena, Palpite 0581 no 10º Prêmio!",
       "12h - MALUCA - BA - Resultado do dia 07/09/2026 (Segunda-feira)\nDeu Dezena, Palpite 0681 no 10º Prêmio!"
@@ -71,7 +74,12 @@ const palpites = {
       "7079",
       "7070"
     ],
-    "frases": []
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 2415 no 9º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 2915 no 9º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2915 no 9º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 2015 no 9º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
@@ -207,27 +215,17 @@ const palpites = {
       "5900"
     ],
     "frases": [
-      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0012 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0312 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Centena, Palpite 0412 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0412 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Centena, Palpite 0032 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0032 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0332 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 0432 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 1051 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 1451 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 1251 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 1052 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 1452 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 1252 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho PB, Paratodos 10:45\nDeu Dezena, Palpite 5034 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho PB, Paratodos 10:45\nDeu Dezena, Palpite 5134 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho PB, Paratodos 10:45\nDeu Dezena, Palpite 5434 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho PB, Paratodos 10:45\nDeu Dezena, Palpite 7034 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho PB, Paratodos 12:45\nDeu Dezena, Palpite 0188 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho PB, Paratodos 12:45\nDeu Dezena, Palpite 0088 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho PB, Paratodos 12:45\nDeu Dezena, Palpite 0388 no 7º Prêmio!"
+      "Resultado do Jogo do Bicho PB, Paratodos 12:45\nDeu Dezena, Palpite 1901 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 12:45\nDeu Milhar, Palpite 1801 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 12:45\nDeu Dezena, Palpite 1001 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 12:45\nDeu Dezena, Palpite 5901 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 12:45\nDeu Dezena, Palpite 1936 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 12:45\nDeu Centena, Palpite 1836 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 12:45\nDeu Dezena, Palpite 1836 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 12:45\nDeu Dezena, Palpite 1036 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 12:45\nDeu Dezena, Palpite 1916 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 12:45\nDeu Dezena, Palpite 1816 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 12:45\nDeu Milhar, Palpite 1016 no 9º Prêmio!"
     ]
   },
   "PT RIO": {
