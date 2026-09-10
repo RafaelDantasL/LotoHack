@@ -110,45 +110,6 @@ const palpites = {
     ],
     "frases": []
   },
-  "LOTEP": {
-    "palpites": [
-      "0751",
-      "0756",
-      "0753",
-      "0791",
-      "0796",
-      "0793",
-      "0701",
-      "0706",
-      "0703",
-      "0351",
-      "0356",
-      "0353",
-      "0391",
-      "0396",
-      "0393",
-      "0301",
-      "0306",
-      "0303",
-      "0851",
-      "0856",
-      "0853",
-      "0891",
-      "0896",
-      "0893",
-      "0801",
-      "0806",
-      "0803",
-      "1751",
-      "1756",
-      "1753"
-    ],
-    "frases": [
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 2916 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 2216 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 2416 no 9º Prêmio!"
-    ]
-  },
   "LOOK/GOIAS": {
     "palpites": [
       "0511",
@@ -208,6 +169,41 @@ const palpites = {
       "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 3511 no 6º Prêmio!",
       "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 0411 no 6º Prêmio!"
     ]
+  },
+  "LOTEP": {
+    "palpites": [
+      "6660",
+      "6666",
+      "6664",
+      "6640",
+      "6646",
+      "6644",
+      "6670",
+      "6676",
+      "6674",
+      "6060",
+      "6066",
+      "6064",
+      "6040",
+      "6046",
+      "6044",
+      "6070",
+      "6076",
+      "6074",
+      "6360",
+      "6366",
+      "6364",
+      "6340",
+      "6346",
+      "6344",
+      "6370",
+      "6376",
+      "6374",
+      "0660",
+      "0666",
+      "0664"
+    ],
+    "frases": []
   },
   "PT RIO": {
     "palpites": [
