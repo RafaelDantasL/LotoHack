@@ -147,7 +147,12 @@ const palpites = {
       "4306",
       "4307"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Centena, Palpite 0326 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 0326 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 0126 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 0426 no 5º Prêmio!"
+    ]
   },
   "LOTEP": {
     "palpites": [
@@ -182,7 +187,11 @@ const palpites = {
       "1348",
       "1340"
     ],
-    "frases": []
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 3221 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3421 no 7º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3021 no 7º Prêmio!"
+    ]
   },
   "PT RIO": {
     "palpites": [
