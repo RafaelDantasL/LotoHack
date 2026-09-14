@@ -67,7 +67,58 @@ const palpites = {
       "1893",
       "1895"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 3401 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 3001 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 3301 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 4401 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 3405 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 3005 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 3305 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 4405 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 1115 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 1815 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 1015 no 8º Prêmio!"
+    ]
+  },
+  "LOTEP": {
+    "palpites": [
+      "4090",
+      "4094",
+      "4098",
+      "4030",
+      "4034",
+      "4038",
+      "4000",
+      "4004",
+      "4008",
+      "4390",
+      "4394",
+      "4398",
+      "4330",
+      "4334",
+      "4338",
+      "4300",
+      "4304",
+      "4308",
+      "4190",
+      "4194",
+      "4198",
+      "4130",
+      "4134",
+      "4138",
+      "4100",
+      "4104",
+      "4108",
+      "2090",
+      "2094",
+      "2098"
+    ],
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 0030 no 9º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0930 no 9º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 0130 no 9º Prêmio!"
+    ]
   },
   "BAHIA MALUCA": {
     "palpites": [
@@ -136,41 +187,6 @@ const palpites = {
       "0282",
       "0280",
       "0281"
-    ],
-    "frases": []
-  },
-  "LOTEP": {
-    "palpites": [
-      "0021",
-      "0024",
-      "0020",
-      "0031",
-      "0034",
-      "0030",
-      "0061",
-      "0064",
-      "0060",
-      "0921",
-      "0924",
-      "0920",
-      "0931",
-      "0934",
-      "0930",
-      "0961",
-      "0964",
-      "0960",
-      "0121",
-      "0124",
-      "0120",
-      "0131",
-      "0134",
-      "0130",
-      "0161",
-      "0164",
-      "0160",
-      "1021",
-      "1024",
-      "1020"
     ],
     "frases": []
   },
