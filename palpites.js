@@ -109,45 +109,6 @@ const palpites = {
     ],
     "frases": []
   },
-  "LOTEP": {
-    "palpites": [
-      "1793",
-      "1795",
-      "1797",
-      "1713",
-      "1715",
-      "1717",
-      "1743",
-      "1745",
-      "1747",
-      "1193",
-      "1195",
-      "1197",
-      "1113",
-      "1115",
-      "1117",
-      "1143",
-      "1145",
-      "1147",
-      "1393",
-      "1395",
-      "1397",
-      "1313",
-      "1315",
-      "1317",
-      "1343",
-      "1345",
-      "1347",
-      "7793",
-      "7795",
-      "7797"
-    ],
-    "frases": [
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 4410 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 4710 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 4010 no 6º Prêmio!"
-    ]
-  },
   "LOOK/GOIAS": {
     "palpites": [
       "0118",
@@ -189,6 +150,49 @@ const palpites = {
       "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 8038 no 1º Prêmio!",
       "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 8538 no 1º Prêmio!",
       "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 8338 no 1º Prêmio!"
+    ]
+  },
+  "LOTEP": {
+    "palpites": [
+      "8577",
+      "8574",
+      "8570",
+      "8517",
+      "8514",
+      "8510",
+      "8527",
+      "8524",
+      "8520",
+      "8677",
+      "8674",
+      "8670",
+      "8617",
+      "8614",
+      "8610",
+      "8627",
+      "8624",
+      "8620",
+      "8877",
+      "8874",
+      "8870",
+      "8817",
+      "8814",
+      "8810",
+      "8827",
+      "8824",
+      "8820",
+      "5577",
+      "5574",
+      "5570"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 1717 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 1117 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 1317 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Centena, Palpite 1717 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 1717 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 1117 no 8º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 1317 no 8º Prêmio!"
     ]
   },
   "PT RIO": {
