@@ -32,7 +32,15 @@ const palpites = {
       "1633",
       "1630"
     ],
-    "frases": []
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 3037 no 10º Prêmio!",
+      "' + title + '\nDeu Centena, Palpite 3737 no 10º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3737 no 10º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 3937 no 10º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 15/09/2026 (Terça-feira)\nDeu Dezena, Palpite 6472 no 9º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 15/09/2026 (Terça-feira)\nDeu Dezena, Palpite 6172 no 9º Prêmio!",
+      "12h - MALUCA - BA - Resultado do dia 15/09/2026 (Terça-feira)\nDeu Dezena, Palpite 6072 no 9º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -67,7 +75,13 @@ const palpites = {
       "1331",
       "1333"
     ],
-    "frases": []
+    "frases": [
+      "12h - BA - Resultado do dia 15/09/2026 (Terça-feira)\nDeu Dezena, Palpite 3179 no 7º Prêmio!",
+      "12h - BA - Resultado do dia 15/09/2026 (Terça-feira)\nDeu Dezena, Palpite 3279 no 7º Prêmio!",
+      "12h - BA - Resultado do dia 15/09/2026 (Terça-feira)\nDeu Centena, Palpite 3579 no 7º Prêmio!",
+      "12h - BA - Resultado do dia 15/09/2026 (Terça-feira)\nDeu Dezena, Palpite 3579 no 7º Prêmio!",
+      "12h - BA - Resultado do dia 15/09/2026 (Terça-feira)\nDeu Dezena, Palpite 6179 no 7º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
@@ -336,37 +350,42 @@ const palpites = {
   },
   "PT SP": {
     "palpites": [
-      "5308",
-      "5301",
-      "5305",
-      "5318",
-      "5311",
-      "5315",
-      "5328",
-      "5321",
-      "5325",
-      "5508",
-      "5501",
-      "5505",
-      "5518",
-      "5511",
-      "5515",
-      "5528",
-      "5521",
-      "5525",
-      "5008",
-      "5001",
-      "5005",
-      "5018",
-      "5011",
-      "5015",
-      "5028",
-      "5021",
-      "5025",
-      "6308",
-      "6301",
-      "6305"
+      "8893",
+      "8894",
+      "8898",
+      "8863",
+      "8864",
+      "8868",
+      "8803",
+      "8804",
+      "8808",
+      "8993",
+      "8994",
+      "8998",
+      "8963",
+      "8964",
+      "8968",
+      "8903",
+      "8904",
+      "8908",
+      "8293",
+      "8294",
+      "8298",
+      "8263",
+      "8264",
+      "8268",
+      "8203",
+      "8204",
+      "8208",
+      "3893",
+      "3894",
+      "3898"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 5308 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 5508 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 5008 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES, 1º ao 10º\nDeu Dezena, Palpite 6308 no 1º Prêmio!"
+    ]
   }
 };
