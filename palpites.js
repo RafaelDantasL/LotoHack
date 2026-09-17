@@ -67,7 +67,51 @@ const palpites = {
       "5140",
       "5143"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 9630 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 9230 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Centena, Palpite 9430 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 9430 no 10º Prêmio!"
+    ]
+  },
+  "LOTEP": {
+    "palpites": [
+      "1385",
+      "1386",
+      "1387",
+      "1315",
+      "1316",
+      "1317",
+      "1355",
+      "1356",
+      "1357",
+      "1585",
+      "1586",
+      "1587",
+      "1515",
+      "1516",
+      "1517",
+      "1555",
+      "1556",
+      "1557",
+      "1085",
+      "1086",
+      "1087",
+      "1015",
+      "1016",
+      "1017",
+      "1055",
+      "1056",
+      "1057",
+      "7385",
+      "7386",
+      "7387"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 7576 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 7776 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 7976 no 5º Prêmio!"
+    ]
   },
   "BAHIA MALUCA": {
     "palpites": [
@@ -136,41 +180,6 @@ const palpites = {
       "2086",
       "2085",
       "2080"
-    ],
-    "frases": []
-  },
-  "LOTEP": {
-    "palpites": [
-      "7596",
-      "7599",
-      "7591",
-      "7566",
-      "7569",
-      "7561",
-      "7576",
-      "7579",
-      "7571",
-      "7796",
-      "7799",
-      "7791",
-      "7766",
-      "7769",
-      "7761",
-      "7776",
-      "7779",
-      "7771",
-      "7996",
-      "7999",
-      "7991",
-      "7966",
-      "7969",
-      "7961",
-      "7976",
-      "7979",
-      "7971",
-      "3596",
-      "3599",
-      "3591"
     ],
     "frases": []
   },
