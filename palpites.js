@@ -68,9 +68,52 @@ const palpites = {
       "2032"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 0795 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 0995 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 0495 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 5795 no 1º Prêmio!",
       "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 0590 no 5º Prêmio!",
       "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 0190 no 5º Prêmio!",
       "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 0990 no 5º Prêmio!"
+    ]
+  },
+  "LOTEP": {
+    "palpites": [
+      "4006",
+      "4004",
+      "4000",
+      "4046",
+      "4044",
+      "4040",
+      "4066",
+      "4064",
+      "4060",
+      "4406",
+      "4404",
+      "4400",
+      "4446",
+      "4444",
+      "4440",
+      "4466",
+      "4464",
+      "4460",
+      "4306",
+      "4304",
+      "4300",
+      "4346",
+      "4344",
+      "4340",
+      "4366",
+      "4364",
+      "4360",
+      "3006",
+      "3004",
+      "3000"
+    ],
+    "frases": [
+      "' + title + '\nDeu Dezena, Palpite 7330 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 7730 no 5º Prêmio!",
+      "' + title + '\nDeu Dezena, Palpite 7930 no 5º Prêmio!"
     ]
   },
   "BAHIA MALUCA": {
@@ -140,41 +183,6 @@ const palpites = {
       "1578",
       "1579",
       "1570"
-    ],
-    "frases": []
-  },
-  "LOTEP": {
-    "palpites": [
-      "7382",
-      "7388",
-      "7380",
-      "7332",
-      "7338",
-      "7330",
-      "7372",
-      "7378",
-      "7370",
-      "7782",
-      "7788",
-      "7780",
-      "7732",
-      "7738",
-      "7730",
-      "7772",
-      "7778",
-      "7770",
-      "7982",
-      "7988",
-      "7980",
-      "7932",
-      "7938",
-      "7930",
-      "7972",
-      "7978",
-      "7970",
-      "9382",
-      "9388",
-      "9380"
     ],
     "frases": []
   },
