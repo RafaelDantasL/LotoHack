@@ -33,6 +33,9 @@ const palpites = {
       "6108"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 5213 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 5013 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h, 1º ao 10º\nDeu Dezena, Palpite 5313 no 7º Prêmio!",
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 8818 no 6º Prêmio!",
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 8918 no 6º Prêmio!",
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 8018 no 6º Prêmio!",
@@ -40,6 +43,45 @@ const palpites = {
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 8989 no 9º Prêmio!",
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 8089 no 9º Prêmio!",
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 3889 no 9º Prêmio!"
+    ]
+  },
+  "PT RIO": {
+    "palpites": [
+      "1650",
+      "1656",
+      "1658",
+      "1620",
+      "1626",
+      "1628",
+      "1640",
+      "1646",
+      "1648",
+      "1250",
+      "1256",
+      "1258",
+      "1220",
+      "1226",
+      "1228",
+      "1240",
+      "1246",
+      "1248",
+      "1550",
+      "1556",
+      "1558",
+      "1520",
+      "1526",
+      "1528",
+      "1540",
+      "1546",
+      "1548",
+      "8650",
+      "8656",
+      "8658"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 1420 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 1820 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT, 1º ao 10º\nDeu Dezena, Palpite 1120 no 5º Prêmio!"
     ]
   },
   "BAHIA MALUCA": {
@@ -179,41 +221,6 @@ const palpites = {
       "4301",
       "4303",
       "4300"
-    ],
-    "frases": []
-  },
-  "PT RIO": {
-    "palpites": [
-      "1401",
-      "1400",
-      "1405",
-      "1491",
-      "1490",
-      "1495",
-      "1421",
-      "1420",
-      "1425",
-      "1801",
-      "1800",
-      "1805",
-      "1891",
-      "1890",
-      "1895",
-      "1821",
-      "1820",
-      "1825",
-      "1101",
-      "1100",
-      "1105",
-      "1191",
-      "1190",
-      "1195",
-      "1121",
-      "1120",
-      "1125",
-      "6401",
-      "6400",
-      "6405"
     ],
     "frases": []
   },
