@@ -127,7 +127,20 @@ const palpites = {
       "1392",
       "1396"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho PARATODOS - CE, 18:30\nDeu Dezena, Palpite 9311 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 18:30\nDeu Centena, Palpite 9611 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 18:30\nDeu Dezena, Palpite 9611 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 18:30\nDeu Dezena, Palpite 9911 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 18:30\nDeu Dezena, Palpite 9391 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 18:30\nDeu Dezena, Palpite 9691 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 18:30\nDeu Centena, Palpite 9991 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 18:30\nDeu Dezena, Palpite 9991 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 18:30\nDeu Dezena, Palpite 1391 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 18:30\nDeu Dezena, Palpite 9302 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 18:30\nDeu Dezena, Palpite 9602 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 18:30\nDeu Dezena, Palpite 9902 no 10º Prêmio!"
+    ]
   },
   "LOOK/GOIAS": {
     "palpites": [
