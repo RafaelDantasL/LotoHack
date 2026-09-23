@@ -73,6 +73,47 @@ const palpites = {
       "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 3081 no 3º Prêmio!"
     ]
   },
+  "LOTEP": {
+    "palpites": [
+      "3486",
+      "3485",
+      "3481",
+      "3406",
+      "3405",
+      "3401",
+      "3436",
+      "3435",
+      "3431",
+      "3286",
+      "3285",
+      "3281",
+      "3206",
+      "3205",
+      "3201",
+      "3236",
+      "3235",
+      "3231",
+      "3786",
+      "3785",
+      "3781",
+      "3706",
+      "3705",
+      "3701",
+      "3736",
+      "3735",
+      "3731",
+      "0486",
+      "0485",
+      "0481"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Centena, Palpite 6202 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 6202 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 6402 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 6002 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Milhar, Palpite 0202 no 5º Prêmio!"
+    ]
+  },
   "BAHIA MALUCA": {
     "palpites": [
       "3013",
@@ -140,41 +181,6 @@ const palpites = {
       "0233",
       "0236",
       "0238"
-    ],
-    "frases": []
-  },
-  "LOTEP": {
-    "palpites": [
-      "6203",
-      "6202",
-      "6200",
-      "6233",
-      "6232",
-      "6230",
-      "6213",
-      "6212",
-      "6210",
-      "6403",
-      "6402",
-      "6400",
-      "6433",
-      "6432",
-      "6430",
-      "6413",
-      "6412",
-      "6410",
-      "6003",
-      "6002",
-      "6000",
-      "6033",
-      "6032",
-      "6030",
-      "6013",
-      "6012",
-      "6010",
-      "0203",
-      "0202",
-      "0200"
     ],
     "frases": []
   },
