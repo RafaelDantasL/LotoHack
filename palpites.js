@@ -75,6 +75,50 @@ const palpites = {
       "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 8161 no 3º Prêmio!"
     ]
   },
+  "LOTEP": {
+    "palpites": [
+      "0235",
+      "0230",
+      "0231",
+      "0295",
+      "0290",
+      "0291",
+      "0215",
+      "0210",
+      "0211",
+      "0035",
+      "0030",
+      "0031",
+      "0095",
+      "0090",
+      "0091",
+      "0015",
+      "0010",
+      "0011",
+      "0135",
+      "0130",
+      "0131",
+      "0195",
+      "0190",
+      "0191",
+      "0115",
+      "0110",
+      "0111",
+      "3235",
+      "3230",
+      "3231"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 2530 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 2330 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Centena, Palpite 2030 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 2030 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Centena, Palpite 2532 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 2532 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 2332 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 2032 no 6º Prêmio!"
+    ]
+  },
   "BAHIA MALUCA": {
     "palpites": [
       "0450",
@@ -142,41 +186,6 @@ const palpites = {
       "8340",
       "8341",
       "8342"
-    ],
-    "frases": []
-  },
-  "LOTEP": {
-    "palpites": [
-      "2544",
-      "2540",
-      "2542",
-      "2564",
-      "2560",
-      "2562",
-      "2534",
-      "2530",
-      "2532",
-      "2344",
-      "2340",
-      "2342",
-      "2364",
-      "2360",
-      "2362",
-      "2334",
-      "2330",
-      "2332",
-      "2044",
-      "2040",
-      "2042",
-      "2064",
-      "2060",
-      "2062",
-      "2034",
-      "2030",
-      "2032",
-      "5544",
-      "5540",
-      "5542"
     ],
     "frases": []
   },
