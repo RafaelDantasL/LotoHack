@@ -32,7 +32,22 @@ const palpites = {
       "1260",
       "1264"
     ],
-    "frases": []
+    "frases": [
+      "10h - MALUCA - Resultado do dia 26/09/2026 (Sábado)\nDeu Dezena, Palpite 2170 no 6º Prêmio!",
+      "10h - MALUCA - Resultado do dia 26/09/2026 (Sábado)\nDeu Dezena, Palpite 2370 no 6º Prêmio!",
+      "10h - MALUCA - Resultado do dia 26/09/2026 (Sábado)\nDeu Centena, Palpite 2770 no 6º Prêmio!",
+      "10h - MALUCA - Resultado do dia 26/09/2026 (Sábado)\nDeu Dezena, Palpite 2770 no 6º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 26/09/2026 (Sábado)\nDeu Dezena, Palpite 8690 no 1º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 26/09/2026 (Sábado)\nDeu Dezena, Palpite 8890 no 1º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 26/09/2026 (Sábado)\nDeu Centena, Palpite 8090 no 1º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 26/09/2026 (Sábado)\nDeu Dezena, Palpite 8090 no 1º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 26/09/2026 (Sábado)\nDeu Dezena, Palpite 8615 no 3º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 26/09/2026 (Sábado)\nDeu Dezena, Palpite 8815 no 3º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 26/09/2026 (Sábado)\nDeu Dezena, Palpite 8015 no 3º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 26/09/2026 (Sábado)\nDeu Dezena, Palpite 8617 no 6º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 26/09/2026 (Sábado)\nDeu Dezena, Palpite 8817 no 6º Prêmio!",
+      "15h - MALUCA - BA - Resultado do dia 26/09/2026 (Sábado)\nDeu Dezena, Palpite 8017 no 6º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -67,7 +82,20 @@ const palpites = {
       "2023",
       "2028"
     ],
-    "frases": []
+    "frases": [
+      "10h - BA - Resultado do dia 26/09/2026 (Sábado)\nDeu Dezena, Palpite 8247 no 8º Prêmio!",
+      "10h - BA - Resultado do dia 26/09/2026 (Sábado)\nDeu Dezena, Palpite 8147 no 8º Prêmio!",
+      "10h - BA - Resultado do dia 26/09/2026 (Sábado)\nDeu Centena, Palpite 8047 no 8º Prêmio!",
+      "10h - BA - Resultado do dia 26/09/2026 (Sábado)\nDeu Dezena, Palpite 8047 no 8º Prêmio!",
+      "12h - BA - Resultado do dia 26/09/2026 (Sábado)\nDeu Dezena, Palpite 3233 no 1º Prêmio!",
+      "12h - BA - Resultado do dia 26/09/2026 (Sábado)\nDeu Dezena, Palpite 3333 no 1º Prêmio!",
+      "12h - BA - Resultado do dia 26/09/2026 (Sábado)\nDeu Dezena, Palpite 3433 no 1º Prêmio!",
+      "12h - BA - Resultado do dia 26/09/2026 (Sábado)\nDeu Dezena, Palpite 4233 no 1º Prêmio!",
+      "15h - BA - Resultado do dia 26/09/2026 (Sábado)\nDeu Dezena, Palpite 7150 no 2º Prêmio!",
+      "15h - BA - Resultado do dia 26/09/2026 (Sábado)\nDeu Dezena, Palpite 7650 no 2º Prêmio!",
+      "15h - BA - Resultado do dia 26/09/2026 (Sábado)\nDeu Dezena, Palpite 7850 no 2º Prêmio!",
+      "15h - BA - Resultado do dia 26/09/2026 (Sábado)\nDeu Dezena, Palpite 0150 no 2º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
@@ -378,43 +406,41 @@ const palpites = {
   },
   "PT RIO": {
     "palpites": [
-      "4237",
-      "4230",
-      "4232",
-      "4257",
-      "4250",
-      "4252",
-      "4267",
-      "4260",
-      "4262",
-      "4037",
-      "4030",
-      "4032",
-      "4057",
-      "4050",
-      "4052",
-      "4067",
-      "4060",
-      "4062",
-      "4137",
-      "4130",
-      "4132",
-      "4157",
-      "4150",
-      "4152",
-      "4167",
-      "4160",
-      "4162",
-      "6237",
-      "6230",
-      "6232"
+      "5366",
+      "5363",
+      "5361",
+      "5376",
+      "5373",
+      "5371",
+      "5396",
+      "5393",
+      "5391",
+      "5666",
+      "5663",
+      "5661",
+      "5676",
+      "5673",
+      "5671",
+      "5696",
+      "5693",
+      "5691",
+      "5166",
+      "5163",
+      "5161",
+      "5176",
+      "5173",
+      "5171",
+      "5196",
+      "5193",
+      "5191",
+      "8366",
+      "8363",
+      "8361"
     ],
     "frases": [
-      "Resultado do Jogo do Bicho RJ, 11:20, PTM, 1º ao 10º\nDeu Centena, Palpite 3331 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 11:20, PTM, 1º ao 10º\nDeu Dezena, Palpite 3331 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 11:20, PTM, 1º ao 10º\nDeu Dezena, Palpite 3831 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 11:20, PTM, 1º ao 10º\nDeu Dezena, Palpite 3031 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 11:20, PTM, 1º ao 10º\nDeu Milhar, Palpite 6331 no 2º Prêmio!"
+      "Resultado do Jogo do Bicho RJ, 19:30, PTN, 1º ao 10º\nDeu Dezena, Palpite 4252 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 19:30, PTN, 1º ao 10º\nDeu Dezena, Palpite 4052 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 19:30, PTN, 1º ao 10º\nDeu Dezena, Palpite 4152 no 6º Prêmio!"
     ]
   },
   "PT SP": {
