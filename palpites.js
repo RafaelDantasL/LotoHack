@@ -32,7 +32,12 @@ const palpites = {
       "0168",
       "0162"
     ],
-    "frases": []
+    "frases": [
+      "19h - MALUCA - BA - Resultado do dia 25/09/2026 (Sexta-feira)\nDeu Dezena, Palpite 0456 no 10º Prêmio!",
+      "19h - MALUCA - BA - Resultado do dia 25/09/2026 (Sexta-feira)\nDeu Dezena, Palpite 0256 no 10º Prêmio!",
+      "19h - MALUCA - BA - Resultado do dia 25/09/2026 (Sexta-feira)\nDeu Dezena, Palpite 0356 no 10º Prêmio!",
+      "19h - MALUCA - BA - Resultado do dia 25/09/2026 (Sexta-feira)\nDeu Dezena, Palpite 5456 no 10º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -68,9 +73,57 @@ const palpites = {
       "1202"
     ],
     "frases": [
+      "19h - BA - Resultado do dia 25/09/2026 (Sexta-feira)\nDeu Dezena, Palpite 6341 no 4º Prêmio!",
+      "19h - BA - Resultado do dia 25/09/2026 (Sexta-feira)\nDeu Dezena, Palpite 6441 no 4º Prêmio!",
+      "19h - BA - Resultado do dia 25/09/2026 (Sexta-feira)\nDeu Centena, Palpite 6541 no 4º Prêmio!",
+      "19h - BA - Resultado do dia 25/09/2026 (Sexta-feira)\nDeu Dezena, Palpite 6541 no 4º Prêmio!",
+      "19h - BA - Resultado do dia 25/09/2026 (Sexta-feira)\nDeu Dezena, Palpite 8341 no 4º Prêmio!",
+      "19h - BA - Resultado do dia 25/09/2026 (Sexta-feira)\nDeu Centena, Palpite 6350 no 8º Prêmio!",
+      "19h - BA - Resultado do dia 25/09/2026 (Sexta-feira)\nDeu Dezena, Palpite 6350 no 8º Prêmio!",
+      "19h - BA - Resultado do dia 25/09/2026 (Sexta-feira)\nDeu Dezena, Palpite 6450 no 8º Prêmio!",
+      "19h - BA - Resultado do dia 25/09/2026 (Sexta-feira)\nDeu Dezena, Palpite 6550 no 8º Prêmio!",
       "21h - BA - Resultado do dia 25/09/2026 (Sexta-feira)\nDeu Dezena, Palpite 9507 no 4º Prêmio!",
       "21h - BA - Resultado do dia 25/09/2026 (Sexta-feira)\nDeu Dezena, Palpite 9307 no 4º Prêmio!",
       "21h - BA - Resultado do dia 25/09/2026 (Sexta-feira)\nDeu Dezena, Palpite 9707 no 4º Prêmio!"
+    ]
+  },
+  "LOTECE": {
+    "palpites": [
+      "2507",
+      "2506",
+      "2500",
+      "2597",
+      "2596",
+      "2590",
+      "2517",
+      "2516",
+      "2510",
+      "2907",
+      "2906",
+      "2900",
+      "2997",
+      "2996",
+      "2990",
+      "2917",
+      "2916",
+      "2910",
+      "2007",
+      "2006",
+      "2000",
+      "2097",
+      "2096",
+      "2090",
+      "2017",
+      "2016",
+      "2010",
+      "9507",
+      "9506",
+      "9500"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho PARATODOS - CE, 19:40\nDeu Dezena, Palpite 7401 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 19:40\nDeu Dezena, Palpite 7501 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho PARATODOS - CE, 19:40\nDeu Dezena, Palpite 7801 no 10º Prêmio!"
     ]
   },
   "LOOK/GOIAS": {
@@ -107,6 +160,16 @@ const palpites = {
       "0848"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 18h\nDeu Dezena, Palpite 2642 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 18h\nDeu Dezena, Palpite 2142 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 18h\nDeu Dezena, Palpite 2242 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 18h\nDeu Centena, Palpite 2668 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 18h\nDeu Dezena, Palpite 2668 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 18h\nDeu Dezena, Palpite 2168 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 18h\nDeu Dezena, Palpite 2268 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 18h\nDeu Dezena, Palpite 2668 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 18h\nDeu Dezena, Palpite 2168 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 18h\nDeu Dezena, Palpite 2268 no 4º Prêmio!",
       "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 18h\nDeu Centena, Palpite 1842 no 1º Prêmio!",
       "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 18h\nDeu Dezena, Palpite 1842 no 1º Prêmio!",
       "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 18h\nDeu Dezena, Palpite 1942 no 1º Prêmio!",
@@ -131,5 +194,88 @@ const palpites = {
       "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 18h\nDeu Dezena, Palpite 1915 no 6º Prêmio!",
       "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 18h\nDeu Dezena, Palpite 1515 no 6º Prêmio!"
     ]
+  },
+  "LOTEP": {
+    "palpites": [
+      "1380",
+      "1383",
+      "1385",
+      "1330",
+      "1333",
+      "1335",
+      "1340",
+      "1343",
+      "1345",
+      "1080",
+      "1083",
+      "1085",
+      "1030",
+      "1033",
+      "1035",
+      "1040",
+      "1043",
+      "1045",
+      "1280",
+      "1283",
+      "1285",
+      "1230",
+      "1233",
+      "1235",
+      "1240",
+      "1243",
+      "1245",
+      "3380",
+      "3383",
+      "3385"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 19:05\nDeu Dezena, Palpite 2540 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 19:05\nDeu Dezena, Palpite 2340 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 19:05\nDeu Dezena, Palpite 2040 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 19:05\nDeu Dezena, Palpite 5540 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 20:00\nDeu Dezena, Palpite 4950 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 20:00\nDeu Dezena, Palpite 4350 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 20:00\nDeu Centena, Palpite 4450 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 20:00\nDeu Dezena, Palpite 4450 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 20:00\nDeu Dezena, Palpite 4990 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 20:00\nDeu Dezena, Palpite 4390 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 20:00\nDeu Dezena, Palpite 4490 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 20:00\nDeu Dezena, Palpite 0990 no 9º Prêmio!"
+    ]
+  },
+  "PT RIO": {
+    "palpites": [
+      "6134",
+      "6135",
+      "6132",
+      "6154",
+      "6155",
+      "6152",
+      "6194",
+      "6195",
+      "6192",
+      "6934",
+      "6935",
+      "6932",
+      "6954",
+      "6955",
+      "6952",
+      "6994",
+      "6995",
+      "6992",
+      "6234",
+      "6235",
+      "6232",
+      "6254",
+      "6255",
+      "6252",
+      "6294",
+      "6295",
+      "6292",
+      "5134",
+      "5135",
+      "5132"
+    ],
+    "frases": []
   }
 };
