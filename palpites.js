@@ -67,6 +67,46 @@ const palpites = {
       "2631",
       "2638"
     ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 4868 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Centena, Palpite 4068 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 4068 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 4168 no 3º Prêmio!"
+    ]
+  },
+  "LOTEP": {
+    "palpites": [
+      "5629",
+      "5620",
+      "5622",
+      "5639",
+      "5630",
+      "5632",
+      "5609",
+      "5600",
+      "5602",
+      "5729",
+      "5720",
+      "5722",
+      "5739",
+      "5730",
+      "5732",
+      "5709",
+      "5700",
+      "5702",
+      "5929",
+      "5920",
+      "5922",
+      "5939",
+      "5930",
+      "5932",
+      "5909",
+      "5900",
+      "5902",
+      "6629",
+      "6620",
+      "6622"
+    ],
     "frases": []
   },
   "BAHIA MALUCA": {
@@ -136,41 +176,6 @@ const palpites = {
       "3704",
       "3705",
       "3700"
-    ],
-    "frases": []
-  },
-  "LOTEP": {
-    "palpites": [
-      "2017",
-      "2018",
-      "2010",
-      "2047",
-      "2048",
-      "2040",
-      "2057",
-      "2058",
-      "2050",
-      "2317",
-      "2318",
-      "2310",
-      "2347",
-      "2348",
-      "2340",
-      "2357",
-      "2358",
-      "2350",
-      "2517",
-      "2518",
-      "2510",
-      "2547",
-      "2548",
-      "2540",
-      "2557",
-      "2558",
-      "2550",
-      "0017",
-      "0018",
-      "0010"
     ],
     "frases": []
   },
