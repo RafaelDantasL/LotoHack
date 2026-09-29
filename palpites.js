@@ -32,7 +32,15 @@ const palpites = {
       "5692",
       "5693"
     ],
-    "frases": []
+    "frases": [
+      "10h - MALUCA - Resultado do dia 29/09/2026 (Terça-feira)\nDeu Dezena, Palpite 6026 no 4º Prêmio!",
+      "10h - MALUCA - Resultado do dia 29/09/2026 (Terça-feira)\nDeu Dezena, Palpite 6326 no 4º Prêmio!",
+      "10h - MALUCA - Resultado do dia 29/09/2026 (Terça-feira)\nDeu Dezena, Palpite 6726 no 4º Prêmio!",
+      "10h - MALUCA - Resultado do dia 29/09/2026 (Terça-feira)\nDeu Dezena, Palpite 6011 no 6º Prêmio!",
+      "10h - MALUCA - Resultado do dia 29/09/2026 (Terça-feira)\nDeu Dezena, Palpite 6311 no 6º Prêmio!",
+      "10h - MALUCA - Resultado do dia 29/09/2026 (Terça-feira)\nDeu Dezena, Palpite 6711 no 6º Prêmio!",
+      "10h - MALUCA - Resultado do dia 29/09/2026 (Terça-feira)\nDeu Dezena, Palpite 7011 no 6º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -180,38 +188,51 @@ const palpites = {
   },
   "LOTEP": {
     "palpites": [
-      "1151",
-      "1155",
-      "1157",
-      "1131",
-      "1135",
       "1137",
-      "1161",
-      "1165",
-      "1167",
-      "1451",
-      "1455",
-      "1457",
-      "1431",
-      "1435",
-      "1437",
-      "1461",
-      "1465",
-      "1467",
-      "1351",
-      "1355",
-      "1357",
-      "1331",
-      "1335",
+      "1132",
+      "1138",
+      "1177",
+      "1172",
+      "1178",
+      "1197",
+      "1192",
+      "1198",
+      "1237",
+      "1232",
+      "1238",
+      "1277",
+      "1272",
+      "1278",
+      "1297",
+      "1292",
+      "1298",
       "1337",
-      "1361",
-      "1365",
-      "1367",
-      "3151",
-      "3155",
-      "3157"
+      "1332",
+      "1338",
+      "1377",
+      "1372",
+      "1378",
+      "1397",
+      "1392",
+      "1398",
+      "3137",
+      "3132",
+      "3138"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 12:45\nDeu Dezena, Palpite 1131 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 12:45\nDeu Dezena, Palpite 1431 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 12:45\nDeu Centena, Palpite 1331 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 12:45\nDeu Dezena, Palpite 1331 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 12:45\nDeu Centena, Palpite 1137 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 12:45\nDeu Dezena, Palpite 1137 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 12:45\nDeu Dezena, Palpite 1437 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 12:45\nDeu Dezena, Palpite 1337 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 12:45\nDeu Dezena, Palpite 1157 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 12:45\nDeu Dezena, Palpite 1457 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 12:45\nDeu Dezena, Palpite 1357 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 12:45\nDeu Dezena, Palpite 3157 no 10º Prêmio!"
+    ]
   },
   "PT RIO": {
     "palpites": [
