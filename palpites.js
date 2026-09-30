@@ -67,7 +67,61 @@ const palpites = {
       "1635",
       "1630"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 9818 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 9218 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 9318 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 9898 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 9298 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 9398 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 1898 no 5º Prêmio!"
+    ]
+  },
+  "LOTEP": {
+    "palpites": [
+      "3410",
+      "3411",
+      "3413",
+      "3440",
+      "3441",
+      "3443",
+      "3470",
+      "3471",
+      "3473",
+      "3610",
+      "3611",
+      "3613",
+      "3640",
+      "3641",
+      "3643",
+      "3670",
+      "3671",
+      "3673",
+      "3710",
+      "3711",
+      "3713",
+      "3740",
+      "3741",
+      "3743",
+      "3770",
+      "3771",
+      "3773",
+      "1410",
+      "1411",
+      "1413"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 4213 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Centena, Palpite 4413 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 4413 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 4013 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 3213 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 4210 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 4410 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Centena, Palpite 4010 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 4010 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 3210 no 10º Prêmio!"
+    ]
   },
   "BAHIA MALUCA": {
     "palpites": [
@@ -136,41 +190,6 @@ const palpites = {
       "6420",
       "6428",
       "6422"
-    ],
-    "frases": []
-  },
-  "LOTEP": {
-    "palpites": [
-      "4213",
-      "4210",
-      "4214",
-      "4263",
-      "4260",
-      "4264",
-      "4293",
-      "4290",
-      "4294",
-      "4413",
-      "4410",
-      "4414",
-      "4463",
-      "4460",
-      "4464",
-      "4493",
-      "4490",
-      "4494",
-      "4013",
-      "4010",
-      "4014",
-      "4063",
-      "4060",
-      "4064",
-      "4093",
-      "4090",
-      "4094",
-      "3213",
-      "3210",
-      "3214"
     ],
     "frases": []
   },
