@@ -67,7 +67,55 @@ const palpites = {
       "1191",
       "1192"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Centena, Palpite 0001 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 0001 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 0301 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h, 1º ao 10º\nDeu Dezena, Palpite 0501 no 6º Prêmio!"
+    ]
+  },
+  "LOTEP": {
+    "palpites": [
+      "1033",
+      "1037",
+      "1030",
+      "1063",
+      "1067",
+      "1060",
+      "1083",
+      "1087",
+      "1080",
+      "1333",
+      "1337",
+      "1330",
+      "1363",
+      "1367",
+      "1360",
+      "1383",
+      "1387",
+      "1380",
+      "1733",
+      "1737",
+      "1730",
+      "1763",
+      "1767",
+      "1760",
+      "1783",
+      "1787",
+      "1780",
+      "2033",
+      "2037",
+      "2030"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 3230 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 3430 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 3130 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 3273 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 3473 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 3173 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 2273 no 9º Prêmio!"
+    ]
   },
   "BAHIA MALUCA": {
     "palpites": [
@@ -136,41 +184,6 @@ const palpites = {
       "0312",
       "0315",
       "0317"
-    ],
-    "frases": []
-  },
-  "LOTEP": {
-    "palpites": [
-      "3273",
-      "3276",
-      "3270",
-      "3233",
-      "3236",
-      "3230",
-      "3293",
-      "3296",
-      "3290",
-      "3473",
-      "3476",
-      "3470",
-      "3433",
-      "3436",
-      "3430",
-      "3493",
-      "3496",
-      "3490",
-      "3173",
-      "3176",
-      "3170",
-      "3133",
-      "3136",
-      "3130",
-      "3193",
-      "3196",
-      "3190",
-      "2273",
-      "2276",
-      "2270"
     ],
     "frases": []
   },
