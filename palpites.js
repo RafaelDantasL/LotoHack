@@ -32,7 +32,15 @@ const palpites = {
       "5189",
       "5180"
     ],
-    "frases": []
+    "frases": [
+      "10h - MALUCA - Resultado do dia 04/10/2026 (Domingo)\nDeu Dezena, Palpite 9622 no 3º Prêmio!",
+      "10h - MALUCA - Resultado do dia 04/10/2026 (Domingo)\nDeu Dezena, Palpite 9222 no 3º Prêmio!",
+      "10h - MALUCA - Resultado do dia 04/10/2026 (Domingo)\nDeu Dezena, Palpite 9122 no 3º Prêmio!",
+      "10h - MALUCA - Resultado do dia 04/10/2026 (Domingo)\nDeu Dezena, Palpite 9662 no 9º Prêmio!",
+      "10h - MALUCA - Resultado do dia 04/10/2026 (Domingo)\nDeu Dezena, Palpite 9262 no 9º Prêmio!",
+      "10h - MALUCA - Resultado do dia 04/10/2026 (Domingo)\nDeu Dezena, Palpite 9162 no 9º Prêmio!",
+      "10h - MALUCA - Resultado do dia 04/10/2026 (Domingo)\nDeu Dezena, Palpite 4662 no 9º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -68,51 +76,35 @@ const palpites = {
       "9011"
     ],
     "frases": [
+      "10h - BA - Resultado do dia 04/10/2026 (Domingo)\nDeu Dezena, Palpite 2261 no 1º Prêmio!",
+      "10h - BA - Resultado do dia 04/10/2026 (Domingo)\nDeu Dezena, Palpite 2761 no 1º Prêmio!",
+      "10h - BA - Resultado do dia 04/10/2026 (Domingo)\nDeu Dezena, Palpite 2861 no 1º Prêmio!",
+      "10h - BA - Resultado do dia 04/10/2026 (Domingo)\nDeu Dezena, Palpite 6261 no 1º Prêmio!",
+      "10h - BA - Resultado do dia 04/10/2026 (Domingo)\nDeu Dezena, Palpite 2261 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 04/10/2026 (Domingo)\nDeu Dezena, Palpite 2761 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 04/10/2026 (Domingo)\nDeu Dezena, Palpite 2861 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 04/10/2026 (Domingo)\nDeu Dezena, Palpite 6261 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 04/10/2026 (Domingo)\nDeu Milhar, Palpite 2261 no 3º Prêmio!",
+      "10h - BA - Resultado do dia 04/10/2026 (Domingo)\nDeu Dezena, Palpite 2761 no 3º Prêmio!",
+      "10h - BA - Resultado do dia 04/10/2026 (Domingo)\nDeu Dezena, Palpite 2861 no 3º Prêmio!",
+      "10h - BA - Resultado do dia 04/10/2026 (Domingo)\nDeu Centena, Palpite 6261 no 3º Prêmio!",
+      "10h - BA - Resultado do dia 04/10/2026 (Domingo)\nDeu Dezena, Palpite 6261 no 3º Prêmio!",
+      "10h - BA - Resultado do dia 04/10/2026 (Domingo)\nDeu Dezena, Palpite 2291 no 7º Prêmio!",
+      "10h - BA - Resultado do dia 04/10/2026 (Domingo)\nDeu Dezena, Palpite 2791 no 7º Prêmio!",
+      "10h - BA - Resultado do dia 04/10/2026 (Domingo)\nDeu Dezena, Palpite 2891 no 7º Prêmio!",
+      "10h - BA - Resultado do dia 04/10/2026 (Domingo)\nDeu Dezena, Palpite 2204 no 8º Prêmio!",
+      "10h - BA - Resultado do dia 04/10/2026 (Domingo)\nDeu Dezena, Palpite 2704 no 8º Prêmio!",
+      "10h - BA - Resultado do dia 04/10/2026 (Domingo)\nDeu Centena, Palpite 2804 no 8º Prêmio!",
+      "10h - BA - Resultado do dia 04/10/2026 (Domingo)\nDeu Dezena, Palpite 2804 no 8º Prêmio!",
+      "10h - BA - Resultado do dia 04/10/2026 (Domingo)\nDeu Dezena, Palpite 2201 no 9º Prêmio!",
+      "10h - BA - Resultado do dia 04/10/2026 (Domingo)\nDeu Milhar, Palpite 2701 no 9º Prêmio!",
+      "10h - BA - Resultado do dia 04/10/2026 (Domingo)\nDeu Dezena, Palpite 2801 no 9º Prêmio!",
       "12h - BA - Resultado do dia 04/10/2026 (Domingo)\nDeu Dezena, Palpite 1111 no 5º Prêmio!",
       "12h - BA - Resultado do dia 04/10/2026 (Domingo)\nDeu Dezena, Palpite 1211 no 5º Prêmio!",
       "12h - BA - Resultado do dia 04/10/2026 (Domingo)\nDeu Dezena, Palpite 1911 no 5º Prêmio!",
       "12h - BA - Resultado do dia 04/10/2026 (Domingo)\nDeu Dezena, Palpite 1111 no 6º Prêmio!",
       "12h - BA - Resultado do dia 04/10/2026 (Domingo)\nDeu Dezena, Palpite 1211 no 6º Prêmio!",
       "12h - BA - Resultado do dia 04/10/2026 (Domingo)\nDeu Dezena, Palpite 1911 no 6º Prêmio!"
-    ]
-  },
-  "PT SP": {
-    "palpites": [
-      "7810",
-      "7811",
-      "7812",
-      "7840",
-      "7841",
-      "7842",
-      "7850",
-      "7851",
-      "7852",
-      "7110",
-      "7111",
-      "7112",
-      "7140",
-      "7141",
-      "7142",
-      "7150",
-      "7151",
-      "7152",
-      "7210",
-      "7211",
-      "7212",
-      "7240",
-      "7241",
-      "7242",
-      "7250",
-      "7251",
-      "7252",
-      "0810",
-      "0811",
-      "0812"
-    ],
-    "frases": [
-      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 9463 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 9963 no 6º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 12:00 - PTSP\nDeu Dezena, Palpite 9063 no 6º Prêmio!"
     ]
   },
   "LOTECE": {
@@ -241,6 +233,47 @@ const palpites = {
       "1110"
     ],
     "frases": []
+  },
+  "PT SP": {
+    "palpites": [
+      "0270",
+      "0271",
+      "0273",
+      "0290",
+      "0291",
+      "0293",
+      "0210",
+      "0211",
+      "0213",
+      "0370",
+      "0371",
+      "0373",
+      "0390",
+      "0391",
+      "0393",
+      "0310",
+      "0311",
+      "0313",
+      "0670",
+      "0671",
+      "0673",
+      "0690",
+      "0691",
+      "0693",
+      "0610",
+      "0611",
+      "0613",
+      "6270",
+      "6271",
+      "6273"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 7811 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 7111 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Centena, Palpite 7211 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 7211 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 13hs - PTSP, 1º ao 10º\nDeu Dezena, Palpite 0811 no 4º Prêmio!"
+    ]
   },
   "PT RIO": {
     "palpites": [
