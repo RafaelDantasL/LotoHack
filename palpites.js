@@ -114,48 +114,6 @@ const palpites = {
       "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 9896 no 4º Prêmio!"
     ]
   },
-  "LOTEP": {
-    "palpites": [
-      "8925",
-      "8924",
-      "8927",
-      "8975",
-      "8974",
-      "8977",
-      "8945",
-      "8944",
-      "8947",
-      "8525",
-      "8524",
-      "8527",
-      "8575",
-      "8574",
-      "8577",
-      "8545",
-      "8544",
-      "8547",
-      "8025",
-      "8024",
-      "8027",
-      "8075",
-      "8074",
-      "8077",
-      "8045",
-      "8044",
-      "8047",
-      "9925",
-      "9924",
-      "9927"
-    ],
-    "frases": [
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 0676 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 0776 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 0076 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 0674 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 0774 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45\nDeu Dezena, Palpite 0074 no 8º Prêmio!"
-    ]
-  },
   "LOOK/GOIAS": {
     "palpites": [
       "0621",
@@ -215,6 +173,45 @@ const palpites = {
       "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Centena, Palpite 2121 no 6º Prêmio!",
       "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 2121 no 6º Prêmio!",
       "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 4521 no 6º Prêmio!"
+    ]
+  },
+  "LOTEP": {
+    "palpites": [
+      "3895",
+      "3894",
+      "3898",
+      "3845",
+      "3844",
+      "3848",
+      "3805",
+      "3804",
+      "3808",
+      "3495",
+      "3494",
+      "3498",
+      "3445",
+      "3444",
+      "3448",
+      "3405",
+      "3404",
+      "3408",
+      "3195",
+      "3194",
+      "3198",
+      "3145",
+      "3144",
+      "3148",
+      "3105",
+      "3104",
+      "3108",
+      "4895",
+      "4894",
+      "4898"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 8945 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 8545 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 8045 no 4º Prêmio!"
     ]
   },
   "PT RIO": {
