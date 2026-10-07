@@ -113,41 +113,6 @@ const palpites = {
       "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 4274 no 3º Prêmio!"
     ]
   },
-  "LOTEP": {
-    "palpites": [
-      "4035",
-      "4034",
-      "4036",
-      "4045",
-      "4044",
-      "4046",
-      "4055",
-      "4054",
-      "4056",
-      "4335",
-      "4334",
-      "4336",
-      "4345",
-      "4344",
-      "4346",
-      "4355",
-      "4354",
-      "4356",
-      "4535",
-      "4534",
-      "4536",
-      "4545",
-      "4544",
-      "4546",
-      "4555",
-      "4554",
-      "4556",
-      "1035",
-      "1034",
-      "1036"
-    ],
-    "frases": []
-  },
   "LOOK/GOIAS": {
     "palpites": [
       "3809",
@@ -194,6 +159,50 @@ const palpites = {
       "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 9209 no 1º Prêmio!",
       "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 9309 no 1º Prêmio!",
       "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 9509 no 1º Prêmio!"
+    ]
+  },
+  "LOTEP": {
+    "palpites": [
+      "4884",
+      "4885",
+      "4881",
+      "4834",
+      "4835",
+      "4831",
+      "4844",
+      "4845",
+      "4841",
+      "4284",
+      "4285",
+      "4281",
+      "4234",
+      "4235",
+      "4231",
+      "4244",
+      "4245",
+      "4241",
+      "4584",
+      "4585",
+      "4581",
+      "4534",
+      "4535",
+      "4531",
+      "4544",
+      "4545",
+      "4541",
+      "3884",
+      "3885",
+      "3881"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 4035 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 4335 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 4535 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 1035 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 4034 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 4334 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Milhar, Palpite 4534 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 1034 no 6º Prêmio!"
     ]
   },
   "PT RIO": {
