@@ -2116,6 +2116,77 @@ const resultado = {
   ],
   "LOTEP": [
     {
+      "titulo": "Resultado do Jogo do Bicho PB, Paratodos 20:00",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "7863",
+          "16",
+          "Leão"
+        ],
+        [
+          "2º",
+          "1283",
+          "21",
+          "Touro"
+        ],
+        [
+          "3º",
+          "2033",
+          "09",
+          "Cobra"
+        ],
+        [
+          "4º",
+          "7346",
+          "12",
+          "Elefante"
+        ],
+        [
+          "5º",
+          "2544",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "6º",
+          "7127",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "7º",
+          "8203",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "8º",
+          "6834",
+          "09",
+          "Cobra"
+        ],
+        [
+          "9º",
+          "3336",
+          "09",
+          "Cobra"
+        ],
+        [
+          "10º",
+          "6569",
+          "18",
+          "Porco"
+        ]
+      ]
+    },
+    {
       "titulo": "Resultado do Jogo do Bicho PB, Paratodos 09:45",
       "conteudo": [
         [
