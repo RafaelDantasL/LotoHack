@@ -1,6 +1,77 @@
 const resultado = {
   "BAHIA MALUCA": [
     {
+      "titulo": "21h - MALUCA - BA - Resultado do dia 08/10/2026 (Quinta-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "0593",
+          "24",
+          "Veado"
+        ],
+        [
+          "2º",
+          "4615",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "3º",
+          "9781",
+          "21",
+          "Touro"
+        ],
+        [
+          "4º",
+          "8413",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "5º",
+          "4901",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "6º",
+          "6584",
+          "21",
+          "Touro"
+        ],
+        [
+          "7º",
+          "1657",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "8º",
+          "0816",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "9º",
+          "9966",
+          "17",
+          "Macaco"
+        ],
+        [
+          "10º",
+          "6041",
+          "11",
+          "Cavalo"
+        ]
+      ]
+    },
+    {
       "titulo": "19h - MALUCA - BA - Resultado do dia 08/10/2026 (Quinta-feira)",
       "conteudo": [
         [
@@ -286,6 +357,77 @@ const resultado = {
     }
   ],
   "BAHIA": [
+    {
+      "titulo": "21h - BA - Resultado do dia 08/10/2026 (Quinta-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "8940",
+          "10",
+          "Coelho"
+        ],
+        [
+          "2º",
+          "4765",
+          "17",
+          "Macaco"
+        ],
+        [
+          "3º",
+          "1819",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "4º",
+          "3153",
+          "14",
+          "Gato"
+        ],
+        [
+          "5º",
+          "1094",
+          "24",
+          "Veado"
+        ],
+        [
+          "6º",
+          "9016",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "7º",
+          "9865",
+          "17",
+          "Macaco"
+        ],
+        [
+          "8º",
+          "6158",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "9º",
+          "6674",
+          "19",
+          "Pavão"
+        ],
+        [
+          "10º",
+          "1406",
+          "02",
+          "Águia"
+        ]
+      ]
+    },
     {
       "titulo": "19h - BA - Resultado do dia 08/10/2026 (Quinta-feira)",
       "conteudo": [
