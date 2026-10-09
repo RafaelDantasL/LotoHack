@@ -1285,6 +1285,100 @@ const resultado = {
   ],
   "LOOK/GOIAS": [
     {
+      "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 21h",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "4075",
+          "19",
+          "Pavão"
+        ],
+        [
+          "2º",
+          "4365",
+          "17",
+          "Macaco"
+        ],
+        [
+          "3º",
+          "4263",
+          "16",
+          "Leão"
+        ],
+        [
+          "4º",
+          "7981",
+          "21",
+          "Touro"
+        ],
+        [
+          "5º",
+          "6634",
+          "09",
+          "Cobra"
+        ],
+        [
+          "6º · Soma6º prêmio, soma",
+          "7318",
+          "",
+          ""
+        ],
+        [
+          "7º · Mult.7º prêmio, multiplicação",
+          "787",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 21h",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "6º",
+          "4447",
+          "12",
+          "Elefante"
+        ],
+        [
+          "7º",
+          "0329",
+          "08",
+          "Camelo"
+        ],
+        [
+          "8º",
+          "7668",
+          "17",
+          "Macaco"
+        ],
+        [
+          "9º",
+          "5531",
+          "08",
+          "Camelo"
+        ],
+        [
+          "10º",
+          "5293",
+          "24",
+          "Veado"
+        ]
+      ]
+    },
+    {
       "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 18h",
       "conteudo": [
         [
