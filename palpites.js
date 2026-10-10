@@ -33,10 +33,26 @@ const palpites = {
       "4008"
     ],
     "frases": [
-      "10h - MALUCA - Resultado do dia 10/10/2026 (Sábado)\nDeu Centena, Palpite 2007 no 7º Prêmio!",
-      "10h - MALUCA - Resultado do dia 10/10/2026 (Sábado)\nDeu Dezena, Palpite 2007 no 7º Prêmio!",
-      "10h - MALUCA - Resultado do dia 10/10/2026 (Sábado)\nDeu Dezena, Palpite 2207 no 7º Prêmio!",
-      "10h - MALUCA - Resultado do dia 10/10/2026 (Sábado)\nDeu Dezena, Palpite 2407 no 7º Prêmio!"
+      "10h - MALUCA - Resultado do dia 10/10/2026 (Sábado)\nDeu Dezena, Palpite 1010 no 5º Prêmio!",
+      "10h - MALUCA - Resultado do dia 10/10/2026 (Sábado)\nDeu Dezena, Palpite 1210 no 5º Prêmio!",
+      "10h - MALUCA - Resultado do dia 10/10/2026 (Sábado)\nDeu Dezena, Palpite 1410 no 5º Prêmio!",
+      "10h - MALUCA - Resultado do dia 10/10/2026 (Sábado)\nDeu Milhar, Palpite 1007 no 7º Prêmio!",
+      "10h - MALUCA - Resultado do dia 10/10/2026 (Sábado)\nDeu Dezena, Palpite 1207 no 7º Prêmio!",
+      "10h - MALUCA - Resultado do dia 10/10/2026 (Sábado)\nDeu Dezena, Palpite 1407 no 7º Prêmio!",
+      "10h - MALUCA - Resultado do dia 10/10/2026 (Sábado)\nDeu Centena, Palpite 4007 no 7º Prêmio!",
+      "10h - MALUCA - Resultado do dia 10/10/2026 (Sábado)\nDeu Dezena, Palpite 4007 no 7º Prêmio!",
+      "10h - MALUCA - Resultado do dia 10/10/2026 (Sábado)\nDeu Dezena, Palpite 1008 no 8º Prêmio!",
+      "10h - MALUCA - Resultado do dia 10/10/2026 (Sábado)\nDeu Dezena, Palpite 1208 no 8º Prêmio!",
+      "10h - MALUCA - Resultado do dia 10/10/2026 (Sábado)\nDeu Centena, Palpite 1408 no 8º Prêmio!",
+      "10h - MALUCA - Resultado do dia 10/10/2026 (Sábado)\nDeu Dezena, Palpite 1408 no 8º Prêmio!",
+      "10h - MALUCA - Resultado do dia 10/10/2026 (Sábado)\nDeu Dezena, Palpite 4008 no 8º Prêmio!",
+      "10h - MALUCA - Resultado do dia 10/10/2026 (Sábado)\nDeu Dezena, Palpite 1098 no 9º Prêmio!",
+      "10h - MALUCA - Resultado do dia 10/10/2026 (Sábado)\nDeu Centena, Palpite 1298 no 9º Prêmio!",
+      "10h - MALUCA - Resultado do dia 10/10/2026 (Sábado)\nDeu Dezena, Palpite 1298 no 9º Prêmio!",
+      "10h - MALUCA - Resultado do dia 10/10/2026 (Sábado)\nDeu Dezena, Palpite 1498 no 9º Prêmio!",
+      "10h - MALUCA - Resultado do dia 10/10/2026 (Sábado)\nDeu Dezena, Palpite 1097 no 10º Prêmio!",
+      "10h - MALUCA - Resultado do dia 10/10/2026 (Sábado)\nDeu Dezena, Palpite 1297 no 10º Prêmio!",
+      "10h - MALUCA - Resultado do dia 10/10/2026 (Sábado)\nDeu Dezena, Palpite 1497 no 10º Prêmio!"
     ]
   },
   "BAHIA": {
