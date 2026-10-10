@@ -1,6 +1,77 @@
 const resultado = {
   "BAHIA MALUCA": [
     {
+      "titulo": "21h - MALUCA - BA - Resultado do dia 09/10/2026 (Sexta-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "4693",
+          "24",
+          "Veado"
+        ],
+        [
+          "2º",
+          "1298",
+          "25",
+          "Vaca"
+        ],
+        [
+          "3º",
+          "7831",
+          "08",
+          "Camelo"
+        ],
+        [
+          "4º",
+          "3961",
+          "16",
+          "Leão"
+        ],
+        [
+          "5º",
+          "5282",
+          "21",
+          "Touro"
+        ],
+        [
+          "6º",
+          "6047",
+          "12",
+          "Elefante"
+        ],
+        [
+          "7º",
+          "4213",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "8º",
+          "0945",
+          "12",
+          "Elefante"
+        ],
+        [
+          "9º",
+          "0228",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "10º",
+          "1491",
+          "23",
+          "Urso"
+        ]
+      ]
+    },
+    {
       "titulo": "19h - MALUCA - BA - Resultado do dia 09/10/2026 (Sexta-feira)",
       "conteudo": [
         [
@@ -286,6 +357,77 @@ const resultado = {
     }
   ],
   "BAHIA": [
+    {
+      "titulo": "21h - BA - Resultado do dia 09/10/2026 (Sexta-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "3714",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "2º",
+          "9826",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "3º",
+          "6399",
+          "25",
+          "Vaca"
+        ],
+        [
+          "4º",
+          "1183",
+          "21",
+          "Touro"
+        ],
+        [
+          "5º",
+          "2825",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "6º",
+          "0046",
+          "12",
+          "Elefante"
+        ],
+        [
+          "7º",
+          "2920",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "8º",
+          "2414",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "9º",
+          "8537",
+          "10",
+          "Coelho"
+        ],
+        [
+          "10º",
+          "1941",
+          "11",
+          "Cavalo"
+        ]
+      ]
+    },
     {
       "titulo": "19h - BA - Resultado do dia 09/10/2026 (Sexta-feira)",
       "conteudo": [
@@ -1284,6 +1426,100 @@ const resultado = {
     }
   ],
   "LOOK/GOIAS": [
+    {
+      "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 21h",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "0670",
+          "18",
+          "Porco"
+        ],
+        [
+          "2º",
+          "2253",
+          "14",
+          "Gato"
+        ],
+        [
+          "3º",
+          "6395",
+          "24",
+          "Veado"
+        ],
+        [
+          "4º",
+          "4387",
+          "22",
+          "Tigre"
+        ],
+        [
+          "5º",
+          "4127",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "6º · Soma6º prêmio, soma",
+          "7832",
+          "",
+          ""
+        ],
+        [
+          "7º · Mult.7º prêmio, multiplicação",
+          "509",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 21h",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "6º",
+          "0264",
+          "16",
+          "Leão"
+        ],
+        [
+          "7º",
+          "6233",
+          "09",
+          "Cobra"
+        ],
+        [
+          "8º",
+          "7598",
+          "25",
+          "Vaca"
+        ],
+        [
+          "9º",
+          "0357",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "10º",
+          "2284",
+          "21",
+          "Touro"
+        ]
+      ]
+    },
     {
       "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 18h",
       "conteudo": [
