@@ -1,6 +1,77 @@
 const resultado = {
   "BAHIA MALUCA": [
     {
+      "titulo": "12h - MALUCA - BA - Resultado do dia 10/10/2026 (Sábado)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "7860",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "2º",
+          "4570",
+          "18",
+          "Porco"
+        ],
+        [
+          "3º",
+          "0914",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "4º",
+          "3796",
+          "24",
+          "Veado"
+        ],
+        [
+          "5º",
+          "5697",
+          "25",
+          "Vaca"
+        ],
+        [
+          "6º",
+          "2436",
+          "09",
+          "Cobra"
+        ],
+        [
+          "7º",
+          "2284",
+          "21",
+          "Touro"
+        ],
+        [
+          "8º",
+          "9413",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "9º",
+          "6346",
+          "12",
+          "Elefante"
+        ],
+        [
+          "10º",
+          "3925",
+          "07",
+          "Carneiro"
+        ]
+      ]
+    },
+    {
       "titulo": "10h - MALUCA - Resultado do dia 10/10/2026 (Sábado)",
       "conteudo": [
         [
@@ -73,6 +144,77 @@ const resultado = {
     }
   ],
   "BAHIA": [
+    {
+      "titulo": "12h - BA - Resultado do dia 10/10/2026 (Sábado)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "3047",
+          "12",
+          "Elefante"
+        ],
+        [
+          "2º",
+          "7958",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "3º",
+          "9176",
+          "19",
+          "Pavão"
+        ],
+        [
+          "4º",
+          "6400",
+          "25",
+          "Vaca"
+        ],
+        [
+          "5º",
+          "7965",
+          "17",
+          "Macaco"
+        ],
+        [
+          "6º",
+          "6922",
+          "06",
+          "Cabra"
+        ],
+        [
+          "7º",
+          "3424",
+          "06",
+          "Cabra"
+        ],
+        [
+          "8º",
+          "4183",
+          "21",
+          "Touro"
+        ],
+        [
+          "9º",
+          "6346",
+          "12",
+          "Elefante"
+        ],
+        [
+          "10º",
+          "5293",
+          "24",
+          "Veado"
+        ]
+      ]
+    },
     {
       "titulo": "10h - BA - Resultado do dia 10/10/2026 (Sábado)",
       "conteudo": [
@@ -1156,6 +1298,59 @@ const resultado = {
     }
   ],
   "PT SP": [
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 12:00 - PTSP",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "1208",
+          "02",
+          "Águia"
+        ],
+        [
+          "2º",
+          "7759",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "3º",
+          "5269",
+          "18",
+          "Porco"
+        ],
+        [
+          "4º",
+          "1656",
+          "14",
+          "Gato"
+        ],
+        [
+          "5º",
+          "6967",
+          "17",
+          "Macaco"
+        ],
+        [
+          "6º · Soma6º prêmio, soma",
+          "2859",
+          "",
+          ""
+        ],
+        [
+          "7º · Mult.7º prêmio, multiplicação",
+          "372",
+          "",
+          ""
+        ]
+      ]
+    },
     {
       "titulo": "Resultado do Jogo do Bicho SP, 10hs - PTSP",
       "conteudo": [
