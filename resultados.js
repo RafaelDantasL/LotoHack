@@ -1,6 +1,77 @@
 const resultado = {
   "BAHIA MALUCA": [
     {
+      "titulo": "21h - MALUCA - BA - Resultado do dia 10/10/2026 (Sábado)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "0435",
+          "09",
+          "Cobra"
+        ],
+        [
+          "2º",
+          "0376",
+          "19",
+          "Pavão"
+        ],
+        [
+          "3º",
+          "5977",
+          "20",
+          "Peru"
+        ],
+        [
+          "4º",
+          "4371",
+          "18",
+          "Porco"
+        ],
+        [
+          "5º",
+          "6010",
+          "03",
+          "Burro"
+        ],
+        [
+          "6º",
+          "1555",
+          "14",
+          "Gato"
+        ],
+        [
+          "7º",
+          "2247",
+          "12",
+          "Elefante"
+        ],
+        [
+          "8º",
+          "8743",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "9º",
+          "9978",
+          "20",
+          "Peru"
+        ],
+        [
+          "10º",
+          "8596",
+          "24",
+          "Veado"
+        ]
+      ]
+    },
+    {
       "titulo": "19h - MALUCA - BA - Resultado do dia 10/10/2026 (Sábado)",
       "conteudo": [
         [
@@ -286,6 +357,77 @@ const resultado = {
     }
   ],
   "BAHIA": [
+    {
+      "titulo": "21h - BA - Resultado do dia 10/10/2026 (Sábado)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "4500",
+          "25",
+          "Vaca"
+        ],
+        [
+          "2º",
+          "3934",
+          "09",
+          "Cobra"
+        ],
+        [
+          "3º",
+          "7773",
+          "19",
+          "Pavão"
+        ],
+        [
+          "4º",
+          "1765",
+          "17",
+          "Macaco"
+        ],
+        [
+          "5º",
+          "0106",
+          "02",
+          "Águia"
+        ],
+        [
+          "6º",
+          "9821",
+          "06",
+          "Cabra"
+        ],
+        [
+          "7º",
+          "9725",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "8º",
+          "7445",
+          "12",
+          "Elefante"
+        ],
+        [
+          "9º",
+          "8375",
+          "19",
+          "Pavão"
+        ],
+        [
+          "10º",
+          "6958",
+          "15",
+          "Jacaré"
+        ]
+      ]
+    },
     {
       "titulo": "19h - BA - Resultado do dia 10/10/2026 (Sábado)",
       "conteudo": [
