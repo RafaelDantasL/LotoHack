@@ -715,6 +715,77 @@ const resultado = {
   ],
   "LOTECE": [
     {
+      "titulo": "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "7938",
+          "10",
+          "Coelho"
+        ],
+        [
+          "2º",
+          "7688",
+          "22",
+          "Tigre"
+        ],
+        [
+          "3º",
+          "8465",
+          "17",
+          "Macaco"
+        ],
+        [
+          "4º",
+          "8497",
+          "25",
+          "Vaca"
+        ],
+        [
+          "5º",
+          "3167",
+          "17",
+          "Macaco"
+        ],
+        [
+          "6º",
+          "6300",
+          "25",
+          "Vaca"
+        ],
+        [
+          "7º",
+          "1513",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "8º",
+          "0227",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "9º",
+          "2084",
+          "21",
+          "Touro"
+        ],
+        [
+          "10º",
+          "5524",
+          "06",
+          "Cabra"
+        ]
+      ]
+    },
+    {
       "titulo": "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)",
       "conteudo": [
         [
@@ -924,6 +995,77 @@ const resultado = {
           "0989",
           "23",
           "Urso"
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho PARATODOS - CE, 18:30",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "5900",
+          "25",
+          "Vaca"
+        ],
+        [
+          "2º",
+          "8168",
+          "17",
+          "Macaco"
+        ],
+        [
+          "3º",
+          "1667",
+          "17",
+          "Macaco"
+        ],
+        [
+          "4º",
+          "0313",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "5º",
+          "0257",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "6º",
+          "9414",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "7º",
+          "5764",
+          "16",
+          "Leão"
+        ],
+        [
+          "8º",
+          "2538",
+          "10",
+          "Coelho"
+        ],
+        [
+          "9º",
+          "5352",
+          "13",
+          "Galo"
+        ],
+        [
+          "10º",
+          "9227",
+          "07",
+          "Carneiro"
         ]
       ]
     },
@@ -1868,6 +2010,59 @@ const resultado = {
           "4051",
           "13",
           "Galo"
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 21h",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "7282",
+          "21",
+          "Touro"
+        ],
+        [
+          "2º",
+          "2003",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "3º",
+          "4168",
+          "17",
+          "Macaco"
+        ],
+        [
+          "4º",
+          "5400",
+          "25",
+          "Vaca"
+        ],
+        [
+          "5º",
+          "0459",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "6º · Soma6º prêmio, soma",
+          "9312",
+          "",
+          ""
+        ],
+        [
+          "7º · Mult.7º prêmio, multiplicação",
+          "585",
+          "",
+          ""
         ]
       ]
     },
