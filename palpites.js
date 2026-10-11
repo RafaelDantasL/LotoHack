@@ -33,13 +33,23 @@ const palpites = {
       "6621"
     ],
     "frases": [
-      "10h - MALUCA - Resultado do dia 11/10/2026 (Domingo)\nDeu Dezena, Palpite 1098 no 3º Prêmio!",
-      "10h - MALUCA - Resultado do dia 11/10/2026 (Domingo)\nDeu Dezena, Palpite 1298 no 3º Prêmio!",
-      "10h - MALUCA - Resultado do dia 11/10/2026 (Domingo)\nDeu Dezena, Palpite 1498 no 3º Prêmio!",
-      "10h - MALUCA - Resultado do dia 11/10/2026 (Domingo)\nDeu Dezena, Palpite 1000 no 9º Prêmio!",
-      "10h - MALUCA - Resultado do dia 11/10/2026 (Domingo)\nDeu Dezena, Palpite 1200 no 9º Prêmio!",
-      "10h - MALUCA - Resultado do dia 11/10/2026 (Domingo)\nDeu Dezena, Palpite 1400 no 9º Prêmio!",
-      "10h - MALUCA - Resultado do dia 11/10/2026 (Domingo)\nDeu Dezena, Palpite 4000 no 9º Prêmio!"
+      "10h - MALUCA - Resultado do dia 11/10/2026 (Domingo)\nDeu Centena, Palpite 3620 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 11/10/2026 (Domingo)\nDeu Dezena, Palpite 3620 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 11/10/2026 (Domingo)\nDeu Dezena, Palpite 3520 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 11/10/2026 (Domingo)\nDeu Dezena, Palpite 3820 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 11/10/2026 (Domingo)\nDeu Milhar, Palpite 6620 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 11/10/2026 (Domingo)\nDeu Dezena, Palpite 3620 no 5º Prêmio!",
+      "10h - MALUCA - Resultado do dia 11/10/2026 (Domingo)\nDeu Milhar, Palpite 3520 no 5º Prêmio!",
+      "10h - MALUCA - Resultado do dia 11/10/2026 (Domingo)\nDeu Dezena, Palpite 3820 no 5º Prêmio!",
+      "10h - MALUCA - Resultado do dia 11/10/2026 (Domingo)\nDeu Dezena, Palpite 6620 no 5º Prêmio!",
+      "10h - MALUCA - Resultado do dia 11/10/2026 (Domingo)\nDeu Dezena, Palpite 3622 no 7º Prêmio!",
+      "10h - MALUCA - Resultado do dia 11/10/2026 (Domingo)\nDeu Dezena, Palpite 3522 no 7º Prêmio!",
+      "10h - MALUCA - Resultado do dia 11/10/2026 (Domingo)\nDeu Dezena, Palpite 3822 no 7º Prêmio!",
+      "10h - MALUCA - Resultado do dia 11/10/2026 (Domingo)\nDeu Dezena, Palpite 6622 no 7º Prêmio!",
+      "10h - MALUCA - Resultado do dia 11/10/2026 (Domingo)\nDeu Dezena, Palpite 3600 no 9º Prêmio!",
+      "10h - MALUCA - Resultado do dia 11/10/2026 (Domingo)\nDeu Dezena, Palpite 3500 no 9º Prêmio!",
+      "10h - MALUCA - Resultado do dia 11/10/2026 (Domingo)\nDeu Centena, Palpite 3800 no 9º Prêmio!",
+      "10h - MALUCA - Resultado do dia 11/10/2026 (Domingo)\nDeu Dezena, Palpite 3800 no 9º Prêmio!"
     ]
   },
   "BAHIA": {
