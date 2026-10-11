@@ -1595,6 +1595,194 @@ const resultado = {
           "Tigre"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 09hs - PTSP",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "6401",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "2º",
+          "1044",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "3º",
+          "0629",
+          "08",
+          "Camelo"
+        ],
+        [
+          "4º",
+          "3735",
+          "09",
+          "Cobra"
+        ],
+        [
+          "5º",
+          "3216",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "6º · Soma6º prêmio, soma",
+          "5025",
+          "",
+          ""
+        ],
+        [
+          "7º · Mult.7º prêmio, multiplicação",
+          "682",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 09hs - PTSP",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "6º",
+          "6103",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "7º",
+          "4067",
+          "17",
+          "Macaco"
+        ],
+        [
+          "8º",
+          "0423",
+          "06",
+          "Cabra"
+        ],
+        [
+          "9º",
+          "1495",
+          "24",
+          "Veado"
+        ],
+        [
+          "10º",
+          "7113",
+          "04",
+          "Borboleta"
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 08hs - PTSP",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "3850",
+          "13",
+          "Galo"
+        ],
+        [
+          "2º",
+          "6491",
+          "23",
+          "Urso"
+        ],
+        [
+          "3º",
+          "9152",
+          "13",
+          "Galo"
+        ],
+        [
+          "4º",
+          "4739",
+          "10",
+          "Coelho"
+        ],
+        [
+          "5º",
+          "2637",
+          "10",
+          "Coelho"
+        ],
+        [
+          "6º · Soma6º prêmio, soma",
+          "6869",
+          "",
+          ""
+        ],
+        [
+          "7º · Mult.7º prêmio, multiplicação",
+          "990",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 08hs - PTSP",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "6º",
+          "3694",
+          "24",
+          "Veado"
+        ],
+        [
+          "7º",
+          "8417",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "8º",
+          "5953",
+          "14",
+          "Gato"
+        ],
+        [
+          "9º",
+          "0129",
+          "08",
+          "Camelo"
+        ],
+        [
+          "10º",
+          "5062",
+          "16",
+          "Leão"
+        ]
+      ]
     }
   ]
 };
