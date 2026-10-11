@@ -328,10 +328,6 @@ const palpites = {
       "0013",
       "0014"
     ],
-    "frases": [
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 5053 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 5153 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 5453 no 3º Prêmio!"
-    ]
+    "frases": []
   }
 };
