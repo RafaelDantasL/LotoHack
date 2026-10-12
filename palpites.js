@@ -33,6 +33,9 @@ const palpites = {
       "0017"
     ],
     "frases": [
+      "10h - MALUCA - Resultado do dia 12/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 3601 no 2º Prêmio!",
+      "10h - MALUCA - Resultado do dia 12/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 3501 no 2º Prêmio!",
+      "10h - MALUCA - Resultado do dia 12/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 3801 no 2º Prêmio!",
       "10h - MALUCA - Resultado do dia 12/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 5072 no 7º Prêmio!",
       "10h - MALUCA - Resultado do dia 12/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 5272 no 7º Prêmio!",
       "10h - MALUCA - Resultado do dia 12/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 5472 no 7º Prêmio!",
@@ -81,6 +84,17 @@ const palpites = {
       "9050"
     ],
     "frases": [
+      "10h - BA - Resultado do dia 12/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 0916 no 4º Prêmio!",
+      "10h - BA - Resultado do dia 12/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 0616 no 4º Prêmio!",
+      "10h - BA - Resultado do dia 12/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 0116 no 4º Prêmio!",
+      "10h - BA - Resultado do dia 12/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 0923 no 9º Prêmio!",
+      "10h - BA - Resultado do dia 12/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 0623 no 9º Prêmio!",
+      "10h - BA - Resultado do dia 12/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 0123 no 9º Prêmio!",
+      "10h - BA - Resultado do dia 12/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 6923 no 9º Prêmio!",
+      "10h - BA - Resultado do dia 12/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 0922 no 10º Prêmio!",
+      "10h - BA - Resultado do dia 12/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 0622 no 10º Prêmio!",
+      "10h - BA - Resultado do dia 12/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 0122 no 10º Prêmio!",
+      "10h - BA - Resultado do dia 12/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 6922 no 10º Prêmio!",
       "10h - BA - Resultado do dia 12/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 4003 no 5º Prêmio!",
       "10h - BA - Resultado do dia 12/10/2026 (Segunda-feira)\nDeu Centena, Palpite 4103 no 5º Prêmio!",
       "10h - BA - Resultado do dia 12/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 4103 no 5º Prêmio!",
