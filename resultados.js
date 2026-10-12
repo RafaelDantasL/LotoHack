@@ -147,7 +147,7 @@ const resultado = {
   ],
   "LOTECE": [
     {
-      "titulo": "Resultado do Jogo do Bicho A FEDERAL DO BRASIL CE - Ceará Federal",
+      "titulo": "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)",
       "conteudo": [
         [
           "Prêmio",
@@ -157,187 +157,63 @@ const resultado = {
         ],
         [
           "1º",
-          "9795",
+          "7763",
+          "16",
+          "Leão"
+        ],
+        [
+          "2º",
+          "3196",
           "24",
           "Veado"
         ],
         [
-          "2º",
-          "5844",
-          "11",
-          "Cavalo"
-        ],
-        [
           "3º",
-          "8905",
-          "02",
-          "Águia"
+          "7747",
+          "12",
+          "Elefante"
         ],
         [
           "4º",
-          "2440",
-          "10",
-          "Coelho"
+          "1052",
+          "13",
+          "Galo"
         ],
         [
           "5º",
-          "1501",
-          "01",
-          "Avestruz"
-        ],
-        [
-          "6º · Soma6º prêmio, soma",
-          "8485",
-          "",
-          ""
-        ],
-        [
-          "7º · Mult.7º prêmio, multiplicação",
-          "481",
-          "",
-          ""
-        ]
-      ]
-    },
-    {
-      "titulo": "Resultado do Jogo do Bicho PARATODOS - CE, 12:45",
-      "conteudo": [
-        [
-          "Prêmio",
-          "Milhar",
-          "Grupo",
-          "Bicho"
-        ],
-        [
-          "1º",
-          "7403",
-          "01",
-          "Avestruz"
-        ],
-        [
-          "2º",
-          "5543",
-          "11",
-          "Cavalo"
-        ],
-        [
-          "3º",
-          "6185",
-          "22",
-          "Tigre"
-        ],
-        [
-          "4º",
-          "9587",
-          "22",
-          "Tigre"
-        ],
-        [
-          "5º",
-          "2515",
+          "3614",
           "04",
           "Borboleta"
         ],
         [
           "6º",
-          "8939",
-          "10",
-          "Coelho"
-        ],
-        [
-          "7º",
-          "1463",
-          "16",
-          "Leão"
-        ],
-        [
-          "8º",
-          "0247",
-          "12",
-          "Elefante"
-        ],
-        [
-          "9º",
-          "7443",
-          "11",
-          "Cavalo"
-        ],
-        [
-          "10º",
-          "1788",
-          "22",
-          "Tigre"
-        ]
-      ]
-    },
-    {
-      "titulo": "Resultado do Jogo do Bicho PARATODOS - CE, 10:45",
-      "conteudo": [
-        [
-          "Prêmio",
-          "Milhar",
-          "Grupo",
-          "Bicho"
-        ],
-        [
-          "1º",
-          "9393",
+          "2294",
           "24",
           "Veado"
         ],
         [
-          "2º",
-          "3984",
-          "21",
-          "Touro"
-        ],
-        [
-          "3º",
-          "9954",
-          "14",
-          "Gato"
-        ],
-        [
-          "4º",
-          "7542",
-          "11",
-          "Cavalo"
-        ],
-        [
-          "5º",
-          "2068",
-          "17",
-          "Macaco"
-        ],
-        [
-          "6º",
-          "5592",
-          "23",
-          "Urso"
-        ],
-        [
           "7º",
-          "6382",
-          "21",
-          "Touro"
+          "2008",
+          "02",
+          "Águia"
         ],
         [
           "8º",
-          "7386",
-          "22",
-          "Tigre"
+          "4682",
+          "21",
+          "Touro"
         ],
         [
           "9º",
-          "8192",
-          "23",
-          "Urso"
+          "2024",
+          "06",
+          "Cabra"
         ],
         [
           "10º",
-          "2863",
-          "16",
-          "Leão"
+          "3419",
+          "05",
+          "Cachorro"
         ]
       ]
     }
