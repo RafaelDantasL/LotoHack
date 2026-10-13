@@ -1,6 +1,77 @@
 const resultado = {
   "BAHIA MALUCA": [
     {
+      "titulo": "21h - MALUCA - BA - Resultado do dia 12/10/2026 (Segunda-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "1951",
+          "13",
+          "Galo"
+        ],
+        [
+          "2º",
+          "4649",
+          "13",
+          "Galo"
+        ],
+        [
+          "3º",
+          "0229",
+          "08",
+          "Camelo"
+        ],
+        [
+          "4º",
+          "8562",
+          "16",
+          "Leão"
+        ],
+        [
+          "5º",
+          "2088",
+          "22",
+          "Tigre"
+        ],
+        [
+          "6º",
+          "8653",
+          "14",
+          "Gato"
+        ],
+        [
+          "7º",
+          "9289",
+          "23",
+          "Urso"
+        ],
+        [
+          "8º",
+          "4471",
+          "18",
+          "Porco"
+        ],
+        [
+          "9º",
+          "2551",
+          "13",
+          "Galo"
+        ],
+        [
+          "10º",
+          "6155",
+          "14",
+          "Gato"
+        ]
+      ]
+    },
+    {
       "titulo": "19h - MALUCA - BA - Resultado do dia 12/10/2026 (Segunda-feira)",
       "conteudo": [
         [
@@ -286,6 +357,77 @@ const resultado = {
     }
   ],
   "BAHIA": [
+    {
+      "titulo": "21h - BA - Resultado do dia 12/10/2026 (Segunda-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "8041",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "2º",
+          "5269",
+          "18",
+          "Porco"
+        ],
+        [
+          "3º",
+          "6245",
+          "12",
+          "Elefante"
+        ],
+        [
+          "4º",
+          "2991",
+          "23",
+          "Urso"
+        ],
+        [
+          "5º",
+          "8802",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "6º",
+          "2498",
+          "25",
+          "Vaca"
+        ],
+        [
+          "7º",
+          "5426",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "8º",
+          "5785",
+          "22",
+          "Tigre"
+        ],
+        [
+          "9º",
+          "1193",
+          "24",
+          "Veado"
+        ],
+        [
+          "10º",
+          "5516",
+          "04",
+          "Borboleta"
+        ]
+      ]
+    },
     {
       "titulo": "19h - BA - Resultado do dia 12/10/2026 (Segunda-feira)",
       "conteudo": [
@@ -853,6 +995,77 @@ const resultado = {
           "3419",
           "05",
           "Cachorro"
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho PARATODOS - CE, 19:40",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "3975",
+          "19",
+          "Pavão"
+        ],
+        [
+          "2º",
+          "4330",
+          "08",
+          "Camelo"
+        ],
+        [
+          "3º",
+          "3853",
+          "14",
+          "Gato"
+        ],
+        [
+          "4º",
+          "6104",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "5º",
+          "9258",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "6º",
+          "5673",
+          "19",
+          "Pavão"
+        ],
+        [
+          "7º",
+          "4841",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "8º",
+          "7472",
+          "18",
+          "Porco"
+        ],
+        [
+          "9º",
+          "7719",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "10º",
+          "0494",
+          "24",
+          "Veado"
         ]
       ]
     },
