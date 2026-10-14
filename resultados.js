@@ -1,6 +1,77 @@
 const resultado = {
   "BAHIA MALUCA": [
     {
+      "titulo": "21h - MALUCA - BA - Resultado do dia 13/10/2026 (Terça-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "2290",
+          "23",
+          "Urso"
+        ],
+        [
+          "2º",
+          "4104",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "3º",
+          "0262",
+          "16",
+          "Leão"
+        ],
+        [
+          "4º",
+          "9710",
+          "03",
+          "Burro"
+        ],
+        [
+          "5º",
+          "9412",
+          "03",
+          "Burro"
+        ],
+        [
+          "6º",
+          "1479",
+          "20",
+          "Peru"
+        ],
+        [
+          "7º",
+          "6594",
+          "24",
+          "Veado"
+        ],
+        [
+          "8º",
+          "1683",
+          "21",
+          "Touro"
+        ],
+        [
+          "9º",
+          "9843",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "10º",
+          "7331",
+          "08",
+          "Camelo"
+        ]
+      ]
+    },
+    {
       "titulo": "19h - MALUCA - BA - Resultado do dia 13/10/2026 (Terça-feira)",
       "conteudo": [
         [
@@ -286,6 +357,77 @@ const resultado = {
     }
   ],
   "BAHIA": [
+    {
+      "titulo": "21h - BA - Resultado do dia 13/10/2026 (Terça-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "9042",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "2º",
+          "7212",
+          "03",
+          "Burro"
+        ],
+        [
+          "3º",
+          "1609",
+          "03",
+          "Burro"
+        ],
+        [
+          "4º",
+          "0240",
+          "10",
+          "Coelho"
+        ],
+        [
+          "5º",
+          "2149",
+          "13",
+          "Galo"
+        ],
+        [
+          "6º",
+          "9161",
+          "16",
+          "Leão"
+        ],
+        [
+          "7º",
+          "8654",
+          "14",
+          "Gato"
+        ],
+        [
+          "8º",
+          "4897",
+          "25",
+          "Vaca"
+        ],
+        [
+          "9º",
+          "3349",
+          "13",
+          "Galo"
+        ],
+        [
+          "10º",
+          "1337",
+          "10",
+          "Coelho"
+        ]
+      ]
+    },
     {
       "titulo": "19h - BA - Resultado do dia 13/10/2026 (Terça-feira)",
       "conteudo": [
