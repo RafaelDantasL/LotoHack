@@ -1382,6 +1382,59 @@ const resultado = {
           "Carneiro"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "8669",
+          "18",
+          "Porco"
+        ],
+        [
+          "2º",
+          "1099",
+          "25",
+          "Vaca"
+        ],
+        [
+          "3º",
+          "2161",
+          "16",
+          "Leão"
+        ],
+        [
+          "4º",
+          "9785",
+          "22",
+          "Tigre"
+        ],
+        [
+          "5º",
+          "5878",
+          "20",
+          "Peru"
+        ],
+        [
+          "6º · Soma6º prêmio, soma",
+          "7592",
+          "",
+          ""
+        ],
+        [
+          "7º · Mult.7º prêmio, multiplicação",
+          "527",
+          "",
+          ""
+        ]
+      ]
     }
   ],
   "LOTEP": [
