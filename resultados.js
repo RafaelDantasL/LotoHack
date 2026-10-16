@@ -287,6 +287,77 @@ const resultado = {
   ],
   "BAHIA": [
     {
+      "titulo": "19h - BA - Resultado do dia 15/10/2026 (Quinta-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "4737",
+          "10",
+          "Coelho"
+        ],
+        [
+          "2º",
+          "5954",
+          "14",
+          "Gato"
+        ],
+        [
+          "3º",
+          "7601",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "4º",
+          "0777",
+          "20",
+          "Peru"
+        ],
+        [
+          "5º",
+          "6786",
+          "22",
+          "Tigre"
+        ],
+        [
+          "6º",
+          "6467",
+          "17",
+          "Macaco"
+        ],
+        [
+          "7º",
+          "6457",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "8º",
+          "5519",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "9º",
+          "1047",
+          "12",
+          "Elefante"
+        ],
+        [
+          "10º",
+          "6339",
+          "10",
+          "Coelho"
+        ]
+      ]
+    },
+    {
       "titulo": "15h - BA - Resultado do dia 15/10/2026 (Quinta-feira)",
       "conteudo": [
         [
