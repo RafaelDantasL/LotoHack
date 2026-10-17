@@ -1,6 +1,77 @@
 const resultado = {
   "BAHIA MALUCA": [
     {
+      "titulo": "21h - MALUCA - BA - Resultado do dia 16/10/2026 (Sexta-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "0354",
+          "14",
+          "Gato"
+        ],
+        [
+          "2º",
+          "2522",
+          "06",
+          "Cabra"
+        ],
+        [
+          "3º",
+          "7020",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "4º",
+          "9554",
+          "14",
+          "Gato"
+        ],
+        [
+          "5º",
+          "6484",
+          "21",
+          "Touro"
+        ],
+        [
+          "6º",
+          "9031",
+          "08",
+          "Camelo"
+        ],
+        [
+          "7º",
+          "9998",
+          "25",
+          "Vaca"
+        ],
+        [
+          "8º",
+          "8949",
+          "13",
+          "Galo"
+        ],
+        [
+          "9º",
+          "2864",
+          "16",
+          "Leão"
+        ],
+        [
+          "10º",
+          "9627",
+          "07",
+          "Carneiro"
+        ]
+      ]
+    },
+    {
       "titulo": "19h - MALUCA - BA - Resultado do dia 16/10/2026 (Sexta-feira)",
       "conteudo": [
         [
@@ -286,6 +357,77 @@ const resultado = {
     }
   ],
   "BAHIA": [
+    {
+      "titulo": "21h - BA - Resultado do dia 16/10/2026 (Sexta-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "9720",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "2º",
+          "5053",
+          "14",
+          "Gato"
+        ],
+        [
+          "3º",
+          "5225",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "4º",
+          "4024",
+          "06",
+          "Cabra"
+        ],
+        [
+          "5º",
+          "4846",
+          "12",
+          "Elefante"
+        ],
+        [
+          "6º",
+          "2899",
+          "25",
+          "Vaca"
+        ],
+        [
+          "7º",
+          "8990",
+          "23",
+          "Urso"
+        ],
+        [
+          "8º",
+          "6493",
+          "24",
+          "Veado"
+        ],
+        [
+          "9º",
+          "4981",
+          "21",
+          "Touro"
+        ],
+        [
+          "10º",
+          "7269",
+          "18",
+          "Porco"
+        ]
+      ]
+    },
     {
       "titulo": "19h - BA - Resultado do dia 16/10/2026 (Sexta-feira)",
       "conteudo": [
