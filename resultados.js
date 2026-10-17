@@ -433,6 +433,100 @@ const resultado = {
   ],
   "LOOK/GOIAS": [
     {
+      "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 11h",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "4456",
+          "14",
+          "Gato"
+        ],
+        [
+          "2º",
+          "9347",
+          "12",
+          "Elefante"
+        ],
+        [
+          "3º",
+          "5274",
+          "19",
+          "Pavão"
+        ],
+        [
+          "4º",
+          "2616",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "5º",
+          "6240",
+          "10",
+          "Coelho"
+        ],
+        [
+          "6º · Soma6º prêmio, soma",
+          "7933",
+          "",
+          ""
+        ],
+        [
+          "7º · Mult.7º prêmio, multiplicação",
+          "650",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 11h",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "6º",
+          "4952",
+          "13",
+          "Galo"
+        ],
+        [
+          "7º",
+          "4326",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "8º",
+          "5471",
+          "18",
+          "Porco"
+        ],
+        [
+          "9º",
+          "6746",
+          "12",
+          "Elefante"
+        ],
+        [
+          "10º",
+          "9428",
+          "07",
+          "Carneiro"
+        ]
+      ]
+    },
+    {
       "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h",
       "conteudo": [
         [
@@ -885,6 +979,77 @@ const resultado = {
           "5346",
           "12",
           "Elefante"
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho LOTEP - PB, 10:45",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "5140",
+          "10",
+          "Coelho"
+        ],
+        [
+          "2º",
+          "2956",
+          "14",
+          "Gato"
+        ],
+        [
+          "3º",
+          "5204",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "4º",
+          "7116",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "5º",
+          "0426",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "6º",
+          "5257",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "7º",
+          "1921",
+          "06",
+          "Cabra"
+        ],
+        [
+          "8º",
+          "4501",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "9º",
+          "0646",
+          "12",
+          "Elefante"
+        ],
+        [
+          "10º",
+          "3167",
+          "17",
+          "Macaco"
         ]
       ]
     }
