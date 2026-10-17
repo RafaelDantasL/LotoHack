@@ -68,10 +68,32 @@ const palpites = {
       "9166"
     ],
     "frases": [
-      "10h - BA - Resultado do dia 17/10/2026 (Sábado)\nDeu Dezena, Palpite 1194 no 3º Prêmio!",
-      "10h - BA - Resultado do dia 17/10/2026 (Sábado)\nDeu Dezena, Palpite 1894 no 3º Prêmio!",
-      "10h - BA - Resultado do dia 17/10/2026 (Sábado)\nDeu Dezena, Palpite 1094 no 3º Prêmio!",
-      "10h - BA - Resultado do dia 17/10/2026 (Sábado)\nDeu Dezena, Palpite 7194 no 3º Prêmio!"
+      "10h - BA - Resultado do dia 17/10/2026 (Sábado)\nDeu Centena, Palpite 5114 no 1º Prêmio!",
+      "10h - BA - Resultado do dia 17/10/2026 (Sábado)\nDeu Dezena, Palpite 5114 no 1º Prêmio!",
+      "10h - BA - Resultado do dia 17/10/2026 (Sábado)\nDeu Dezena, Palpite 5514 no 1º Prêmio!",
+      "10h - BA - Resultado do dia 17/10/2026 (Sábado)\nDeu Dezena, Palpite 5814 no 1º Prêmio!",
+      "10h - BA - Resultado do dia 17/10/2026 (Sábado)\nDeu Centena, Palpite 5116 no 5º Prêmio!",
+      "10h - BA - Resultado do dia 17/10/2026 (Sábado)\nDeu Dezena, Palpite 5116 no 5º Prêmio!",
+      "10h - BA - Resultado do dia 17/10/2026 (Sábado)\nDeu Dezena, Palpite 5516 no 5º Prêmio!",
+      "10h - BA - Resultado do dia 17/10/2026 (Sábado)\nDeu Dezena, Palpite 5816 no 5º Prêmio!",
+      "10h - BA - Resultado do dia 17/10/2026 (Sábado)\nDeu Dezena, Palpite 5161 no 6º Prêmio!",
+      "10h - BA - Resultado do dia 17/10/2026 (Sábado)\nDeu Dezena, Palpite 5561 no 6º Prêmio!",
+      "10h - BA - Resultado do dia 17/10/2026 (Sábado)\nDeu Dezena, Palpite 5861 no 6º Prêmio!",
+      "10h - BA - Resultado do dia 17/10/2026 (Sábado)\nDeu Dezena, Palpite 9161 no 6º Prêmio!",
+      "10h - BA - Resultado do dia 17/10/2026 (Sábado)\nDeu Dezena, Palpite 5164 no 8º Prêmio!",
+      "10h - BA - Resultado do dia 17/10/2026 (Sábado)\nDeu Dezena, Palpite 5564 no 8º Prêmio!",
+      "10h - BA - Resultado do dia 17/10/2026 (Sábado)\nDeu Milhar, Palpite 5864 no 8º Prêmio!",
+      "10h - BA - Resultado do dia 17/10/2026 (Sábado)\nDeu Dezena, Palpite 9164 no 8º Prêmio!",
+      "10h - BA - Resultado do dia 17/10/2026 (Sábado)\nDeu Dezena, Palpite 5166 no 9º Prêmio!",
+      "10h - BA - Resultado do dia 17/10/2026 (Sábado)\nDeu Dezena, Palpite 5566 no 9º Prêmio!",
+      "10h - BA - Resultado do dia 17/10/2026 (Sábado)\nDeu Centena, Palpite 5866 no 9º Prêmio!",
+      "10h - BA - Resultado do dia 17/10/2026 (Sábado)\nDeu Dezena, Palpite 5866 no 9º Prêmio!",
+      "10h - BA - Resultado do dia 17/10/2026 (Sábado)\nDeu Dezena, Palpite 9166 no 9º Prêmio!",
+      "10h - BA - Resultado do dia 17/10/2026 (Sábado)\nDeu Dezena, Palpite 5161 no 10º Prêmio!",
+      "10h - BA - Resultado do dia 17/10/2026 (Sábado)\nDeu Centena, Palpite 5561 no 10º Prêmio!",
+      "10h - BA - Resultado do dia 17/10/2026 (Sábado)\nDeu Dezena, Palpite 5561 no 10º Prêmio!",
+      "10h - BA - Resultado do dia 17/10/2026 (Sábado)\nDeu Dezena, Palpite 5861 no 10º Prêmio!",
+      "10h - BA - Resultado do dia 17/10/2026 (Sábado)\nDeu Dezena, Palpite 9161 no 10º Prêmio!"
     ]
   },
   "LOTECE": {
