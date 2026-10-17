@@ -108,28 +108,6 @@ const palpites = {
       "1022"
     ],
     "frases": [
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 9128 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 9528 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 9628 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 0128 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 9165 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 9565 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 9665 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 9122 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 9522 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Centena, Palpite 9622 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 9622 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 0122 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Milhar, Palpite 9185 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 9585 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 9685 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 9182 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 9582 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 9682 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 9168 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Centena, Palpite 9568 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 9568 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 9668 no 5º Prêmio!",
       "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 0023 no 2º Prêmio!",
       "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 0223 no 2º Prêmio!",
       "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Centena, Palpite 0323 no 2º Prêmio!",
@@ -144,6 +122,41 @@ const palpites = {
       "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 0321 no 6º Prêmio!",
       "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 1021 no 6º Prêmio!"
     ]
+  },
+  "LOTECE": {
+    "palpites": [
+      "3401",
+      "3403",
+      "3407",
+      "3481",
+      "3483",
+      "3487",
+      "3491",
+      "3493",
+      "3497",
+      "3701",
+      "3703",
+      "3707",
+      "3781",
+      "3783",
+      "3787",
+      "3791",
+      "3793",
+      "3797",
+      "3901",
+      "3903",
+      "3907",
+      "3981",
+      "3983",
+      "3987",
+      "3991",
+      "3993",
+      "3997",
+      "7401",
+      "7403",
+      "7407"
+    ],
+    "frases": []
   },
   "LOTEP": {
     "palpites": [
@@ -248,6 +261,9 @@ const palpites = {
       "0088"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 1735 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 1235 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 1435 no 4º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Milhar, Palpite 8087 no 2º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 8187 no 2º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 8487 no 2º Prêmio!",
@@ -265,41 +281,6 @@ const palpites = {
       "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 8175 no 5º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 8475 no 5º Prêmio!"
     ]
-  },
-  "LOTECE": {
-    "palpites": [
-      "3401",
-      "3403",
-      "3407",
-      "3481",
-      "3483",
-      "3487",
-      "3491",
-      "3493",
-      "3497",
-      "3701",
-      "3703",
-      "3707",
-      "3781",
-      "3783",
-      "3787",
-      "3791",
-      "3793",
-      "3797",
-      "3901",
-      "3903",
-      "3907",
-      "3981",
-      "3983",
-      "3987",
-      "3991",
-      "3993",
-      "3997",
-      "7401",
-      "7403",
-      "7407"
-    ],
-    "frases": []
   },
   "PT SP": {
     "palpites": [
