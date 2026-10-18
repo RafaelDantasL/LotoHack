@@ -32,7 +32,22 @@ const palpites = {
       "2123",
       "2120"
     ],
-    "frases": []
+    "frases": [
+      "10h - MALUCA - Resultado do dia 18/10/2026 (Domingo)\nDeu Centena, Palpite 9123 no 2º Prêmio!",
+      "10h - MALUCA - Resultado do dia 18/10/2026 (Domingo)\nDeu Dezena, Palpite 9123 no 2º Prêmio!",
+      "10h - MALUCA - Resultado do dia 18/10/2026 (Domingo)\nDeu Dezena, Palpite 9423 no 2º Prêmio!",
+      "10h - MALUCA - Resultado do dia 18/10/2026 (Domingo)\nDeu Dezena, Palpite 9023 no 2º Prêmio!",
+      "10h - MALUCA - Resultado do dia 18/10/2026 (Domingo)\nDeu Centena, Palpite 2123 no 2º Prêmio!",
+      "10h - MALUCA - Resultado do dia 18/10/2026 (Domingo)\nDeu Dezena, Palpite 2123 no 2º Prêmio!",
+      "10h - MALUCA - Resultado do dia 18/10/2026 (Domingo)\nDeu Dezena, Palpite 9160 no 4º Prêmio!",
+      "10h - MALUCA - Resultado do dia 18/10/2026 (Domingo)\nDeu Dezena, Palpite 9460 no 4º Prêmio!",
+      "10h - MALUCA - Resultado do dia 18/10/2026 (Domingo)\nDeu Milhar, Palpite 9060 no 4º Prêmio!",
+      "10h - MALUCA - Resultado do dia 18/10/2026 (Domingo)\nDeu Milhar, Palpite 9123 no 6º Prêmio!",
+      "10h - MALUCA - Resultado do dia 18/10/2026 (Domingo)\nDeu Dezena, Palpite 9423 no 6º Prêmio!",
+      "10h - MALUCA - Resultado do dia 18/10/2026 (Domingo)\nDeu Dezena, Palpite 9023 no 6º Prêmio!",
+      "10h - MALUCA - Resultado do dia 18/10/2026 (Domingo)\nDeu Centena, Palpite 2123 no 6º Prêmio!",
+      "10h - MALUCA - Resultado do dia 18/10/2026 (Domingo)\nDeu Dezena, Palpite 2123 no 6º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -68,6 +83,9 @@ const palpites = {
       "1629"
     ],
     "frases": [
+      "10h - BA - Resultado do dia 18/10/2026 (Domingo)\nDeu Dezena, Palpite 5111 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 18/10/2026 (Domingo)\nDeu Dezena, Palpite 5511 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 18/10/2026 (Domingo)\nDeu Dezena, Palpite 5811 no 2º Prêmio!",
       "10h - BA - Resultado do dia 18/10/2026 (Domingo)\nDeu Centena, Palpite 0662 no 1º Prêmio!",
       "10h - BA - Resultado do dia 18/10/2026 (Domingo)\nDeu Dezena, Palpite 0662 no 1º Prêmio!",
       "10h - BA - Resultado do dia 18/10/2026 (Domingo)\nDeu Dezena, Palpite 0062 no 1º Prêmio!",
