@@ -1,6 +1,77 @@
 const resultado = {
   "BAHIA MALUCA": [
     {
+      "titulo": "21h - MALUCA - BA - Resultado do dia 17/10/2026 (Sábado)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "4400",
+          "25",
+          "Vaca"
+        ],
+        [
+          "2º",
+          "0004",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "3º",
+          "7358",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "4º",
+          "3141",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "5º",
+          "8380",
+          "20",
+          "Peru"
+        ],
+        [
+          "6º",
+          "7667",
+          "17",
+          "Macaco"
+        ],
+        [
+          "7º",
+          "5618",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "8º",
+          "7422",
+          "06",
+          "Cabra"
+        ],
+        [
+          "9º",
+          "1075",
+          "19",
+          "Pavão"
+        ],
+        [
+          "10º",
+          "4726",
+          "07",
+          "Carneiro"
+        ]
+      ]
+    },
+    {
       "titulo": "19h - MALUCA - BA - Resultado do dia 17/10/2026 (Sábado)",
       "conteudo": [
         [
@@ -286,6 +357,77 @@ const resultado = {
     }
   ],
   "BAHIA": [
+    {
+      "titulo": "21h - BA - Resultado do dia 17/10/2026 (Sábado)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "3704",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "2º",
+          "1304",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "3º",
+          "4500",
+          "25",
+          "Vaca"
+        ],
+        [
+          "4º",
+          "1840",
+          "10",
+          "Coelho"
+        ],
+        [
+          "5º",
+          "0838",
+          "10",
+          "Coelho"
+        ],
+        [
+          "6º",
+          "1757",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "7º",
+          "0466",
+          "17",
+          "Macaco"
+        ],
+        [
+          "8º",
+          "7216",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "9º",
+          "5287",
+          "22",
+          "Tigre"
+        ],
+        [
+          "10º",
+          "6274",
+          "19",
+          "Pavão"
+        ]
+      ]
+    },
     {
       "titulo": "19h - BA - Resultado do dia 17/10/2026 (Sábado)",
       "conteudo": [
@@ -2566,6 +2708,100 @@ const resultado = {
     }
   ],
   "PT RIO": [
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 21:20, CORUJA",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "3278",
+          "20",
+          "Peru"
+        ],
+        [
+          "2º",
+          "8543",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "3º",
+          "7969",
+          "18",
+          "Porco"
+        ],
+        [
+          "4º",
+          "4618",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "5º",
+          "3070",
+          "18",
+          "Porco"
+        ],
+        [
+          "6º · Soma6º prêmio, soma",
+          "7478",
+          "",
+          ""
+        ],
+        [
+          "7º · Mult.7º prêmio, multiplicação",
+          "003",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 21:20, CORUJA",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "6º",
+          "3874",
+          "19",
+          "Pavão"
+        ],
+        [
+          "7º",
+          "2596",
+          "24",
+          "Veado"
+        ],
+        [
+          "8º",
+          "7461",
+          "16",
+          "Leão"
+        ],
+        [
+          "9º",
+          "8398",
+          "25",
+          "Vaca"
+        ],
+        [
+          "10º",
+          "9807",
+          "02",
+          "Águia"
+        ]
+      ]
+    },
     {
       "titulo": "Resultado do Jogo do Bicho RJ, 19:30, PTN",
       "conteudo": [
