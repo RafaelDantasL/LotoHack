@@ -1,4 +1,53 @@
 const palpites = {
+  "BAHIA MALUCA": {
+    "palpites": [
+      "3116",
+      "3110",
+      "3111",
+      "3166",
+      "3160",
+      "3161",
+      "3126",
+      "3120",
+      "3121",
+      "3016",
+      "3010",
+      "3011",
+      "3066",
+      "3060",
+      "3061",
+      "3026",
+      "3020",
+      "3021",
+      "3216",
+      "3210",
+      "3211",
+      "3266",
+      "3260",
+      "3261",
+      "3226",
+      "3220",
+      "3221",
+      "7116",
+      "7110",
+      "7111"
+    ],
+    "frases": [
+      "10h - MALUCA - Resultado do dia 19/10/2026 (Segunda-feira)\nDeu Milhar, Palpite 3116 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 19/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 3016 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 19/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 3216 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 19/10/2026 (Segunda-feira)\nDeu Centena, Palpite 7116 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 19/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 7116 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 19/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 3111 no 3º Prêmio!",
+      "10h - MALUCA - Resultado do dia 19/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 3011 no 3º Prêmio!",
+      "10h - MALUCA - Resultado do dia 19/10/2026 (Segunda-feira)\nDeu Centena, Palpite 3211 no 3º Prêmio!",
+      "10h - MALUCA - Resultado do dia 19/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 3211 no 3º Prêmio!",
+      "10h - MALUCA - Resultado do dia 19/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 7111 no 3º Prêmio!",
+      "10h - MALUCA - Resultado do dia 19/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 3166 no 6º Prêmio!",
+      "10h - MALUCA - Resultado do dia 19/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 3066 no 6º Prêmio!",
+      "10h - MALUCA - Resultado do dia 19/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 3266 no 6º Prêmio!"
+    ]
+  },
   "BAHIA": {
     "palpites": [
       "1106",
@@ -33,9 +82,28 @@ const palpites = {
       "2103"
     ],
     "frases": [
-      "10h - BA - Resultado do dia 19/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 0661 no 3º Prêmio!",
-      "10h - BA - Resultado do dia 19/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 0061 no 3º Prêmio!",
-      "10h - BA - Resultado do dia 19/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 0361 no 3º Prêmio!"
+      "10h - BA - Resultado do dia 19/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 1101 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 19/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 1701 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 19/10/2026 (Segunda-feira)\nDeu Milhar, Palpite 1201 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 19/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 2101 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 19/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 1133 no 6º Prêmio!",
+      "10h - BA - Resultado do dia 19/10/2026 (Segunda-feira)\nDeu Centena, Palpite 1733 no 6º Prêmio!",
+      "10h - BA - Resultado do dia 19/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 1733 no 6º Prêmio!",
+      "10h - BA - Resultado do dia 19/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 1233 no 6º Prêmio!",
+      "10h - BA - Resultado do dia 19/10/2026 (Segunda-feira)\nDeu Centena, Palpite 1106 no 7º Prêmio!",
+      "10h - BA - Resultado do dia 19/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 1106 no 7º Prêmio!",
+      "10h - BA - Resultado do dia 19/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 1706 no 7º Prêmio!",
+      "10h - BA - Resultado do dia 19/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 1206 no 7º Prêmio!",
+      "10h - BA - Resultado do dia 19/10/2026 (Segunda-feira)\nDeu Centena, Palpite 2106 no 7º Prêmio!",
+      "10h - BA - Resultado do dia 19/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 2106 no 7º Prêmio!",
+      "10h - BA - Resultado do dia 19/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 1146 no 8º Prêmio!",
+      "10h - BA - Resultado do dia 19/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 1746 no 8º Prêmio!",
+      "10h - BA - Resultado do dia 19/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 1246 no 8º Prêmio!",
+      "10h - BA - Resultado do dia 19/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 1106 no 9º Prêmio!",
+      "10h - BA - Resultado do dia 19/10/2026 (Segunda-feira)\nDeu Centena, Palpite 1706 no 9º Prêmio!",
+      "10h - BA - Resultado do dia 19/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 1706 no 9º Prêmio!",
+      "10h - BA - Resultado do dia 19/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 1206 no 9º Prêmio!",
+      "10h - BA - Resultado do dia 19/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 2106 no 9º Prêmio!"
     ]
   },
   "LOTECE": {
@@ -320,6 +388,23 @@ const palpites = {
       "2223"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 5937 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 5137 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 5237 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0937 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Milhar, Palpite 1221 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 1321 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 1521 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Centena, Palpite 2221 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 2221 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 1229 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 1329 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 1529 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 2229 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 1219 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Centena, Palpite 1319 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 1319 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 1519 no 5º Prêmio!",
       "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Milhar, Palpite 1221 no 1º Prêmio!",
       "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 1321 no 1º Prêmio!",
       "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 1521 no 1º Prêmio!",
@@ -333,45 +418,6 @@ const palpites = {
       "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Centena, Palpite 1319 no 5º Prêmio!",
       "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 1319 no 5º Prêmio!",
       "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 1519 no 5º Prêmio!"
-    ]
-  },
-  "BAHIA MALUCA": {
-    "palpites": [
-      "3116",
-      "3110",
-      "3111",
-      "3166",
-      "3160",
-      "3161",
-      "3126",
-      "3120",
-      "3121",
-      "3016",
-      "3010",
-      "3011",
-      "3066",
-      "3060",
-      "3061",
-      "3026",
-      "3020",
-      "3021",
-      "3216",
-      "3210",
-      "3211",
-      "3266",
-      "3260",
-      "3261",
-      "3226",
-      "3220",
-      "3221",
-      "7116",
-      "7110",
-      "7111"
-    ],
-    "frases": [
-      "10h - MALUCA - Resultado do dia 19/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 9163 no 5º Prêmio!",
-      "10h - MALUCA - Resultado do dia 19/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 9463 no 5º Prêmio!",
-      "10h - MALUCA - Resultado do dia 19/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 9063 no 5º Prêmio!"
     ]
   }
 };
