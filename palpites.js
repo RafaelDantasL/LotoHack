@@ -102,6 +102,46 @@ const palpites = {
       "0115",
       "0116"
     ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 3116 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Milhar, Palpite 3416 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 3616 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 0116 no 5º Prêmio!"
+    ]
+  },
+  "LOTECE": {
+    "palpites": [
+      "7037",
+      "7035",
+      "7030",
+      "7057",
+      "7055",
+      "7050",
+      "7097",
+      "7095",
+      "7090",
+      "7337",
+      "7335",
+      "7330",
+      "7357",
+      "7355",
+      "7350",
+      "7397",
+      "7395",
+      "7390",
+      "7537",
+      "7535",
+      "7530",
+      "7557",
+      "7555",
+      "7550",
+      "7597",
+      "7595",
+      "7590",
+      "2037",
+      "2035",
+      "2030"
+    ],
     "frases": []
   },
   "LOTEP": {
@@ -136,6 +176,41 @@ const palpites = {
       "5244",
       "5242",
       "5240"
+    ],
+    "frases": []
+  },
+  "PT RIO": {
+    "palpites": [
+      "5315",
+      "5312",
+      "5313",
+      "5345",
+      "5342",
+      "5343",
+      "5365",
+      "5362",
+      "5363",
+      "5515",
+      "5512",
+      "5513",
+      "5545",
+      "5542",
+      "5543",
+      "5565",
+      "5562",
+      "5563",
+      "5615",
+      "5612",
+      "5613",
+      "5645",
+      "5642",
+      "5643",
+      "5665",
+      "5662",
+      "5663",
+      "2315",
+      "2312",
+      "2313"
     ],
     "frases": []
   },
