@@ -45,6 +45,45 @@ const palpites = {
       "10h - MALUCA - Resultado do dia 20/10/2026 (Terça-feira)\nDeu Dezena, Palpite 3945 no 10º Prêmio!"
     ]
   },
+  "PT RIO": {
+    "palpites": [
+      "5902",
+      "5905",
+      "5907",
+      "5922",
+      "5925",
+      "5927",
+      "5962",
+      "5965",
+      "5967",
+      "5102",
+      "5105",
+      "5107",
+      "5122",
+      "5125",
+      "5127",
+      "5162",
+      "5165",
+      "5167",
+      "5702",
+      "5705",
+      "5707",
+      "5722",
+      "5725",
+      "5727",
+      "5762",
+      "5765",
+      "5767",
+      "0902",
+      "0905",
+      "0907"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 5965 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 5165 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Milhar, Palpite 5765 no 2º Prêmio!"
+    ]
+  },
   "BAHIA": {
     "palpites": [
       "1303",
@@ -509,57 +548,6 @@ const palpites = {
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Centena, Palpite 2474 no 9º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 2474 no 9º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 2174 no 9º Prêmio!"
-    ]
-  },
-  "PT RIO": {
-    "palpites": [
-      "5902",
-      "5905",
-      "5907",
-      "5922",
-      "5925",
-      "5927",
-      "5962",
-      "5965",
-      "5967",
-      "5102",
-      "5105",
-      "5107",
-      "5122",
-      "5125",
-      "5127",
-      "5162",
-      "5165",
-      "5167",
-      "5702",
-      "5705",
-      "5707",
-      "5722",
-      "5725",
-      "5727",
-      "5762",
-      "5765",
-      "5767",
-      "0902",
-      "0905",
-      "0907"
-    ],
-    "frases": [
-      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 5365 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 5565 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 5665 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 5965 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 5165 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Milhar, Palpite 5765 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 5965 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 5165 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Milhar, Palpite 5765 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 5965 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 5165 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Milhar, Palpite 5765 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 5965 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 5165 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Milhar, Palpite 5765 no 2º Prêmio!"
     ]
   },
   "PT SP": {
