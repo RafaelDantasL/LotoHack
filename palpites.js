@@ -32,7 +32,71 @@ const palpites = {
       "8424",
       "8421"
     ],
-    "frases": []
+    "frases": [
+      "10h - MALUCA - Resultado do dia 21/10/2026 (Quarta-feira)\nDeu Dezena, Palpite 3444 no 2º Prêmio!",
+      "10h - MALUCA - Resultado do dia 21/10/2026 (Quarta-feira)\nDeu Dezena, Palpite 3044 no 2º Prêmio!",
+      "10h - MALUCA - Resultado do dia 21/10/2026 (Quarta-feira)\nDeu Centena, Palpite 3744 no 2º Prêmio!",
+      "10h - MALUCA - Resultado do dia 21/10/2026 (Quarta-feira)\nDeu Dezena, Palpite 3744 no 2º Prêmio!",
+      "10h - MALUCA - Resultado do dia 21/10/2026 (Quarta-feira)\nDeu Dezena, Palpite 3463 no 6º Prêmio!",
+      "10h - MALUCA - Resultado do dia 21/10/2026 (Quarta-feira)\nDeu Centena, Palpite 3063 no 6º Prêmio!",
+      "10h - MALUCA - Resultado do dia 21/10/2026 (Quarta-feira)\nDeu Dezena, Palpite 3063 no 6º Prêmio!",
+      "10h - MALUCA - Resultado do dia 21/10/2026 (Quarta-feira)\nDeu Dezena, Palpite 3763 no 6º Prêmio!",
+      "10h - MALUCA - Resultado do dia 21/10/2026 (Quarta-feira)\nDeu Centena, Palpite 3423 no 8º Prêmio!",
+      "10h - MALUCA - Resultado do dia 21/10/2026 (Quarta-feira)\nDeu Dezena, Palpite 3423 no 8º Prêmio!",
+      "10h - MALUCA - Resultado do dia 21/10/2026 (Quarta-feira)\nDeu Dezena, Palpite 3023 no 8º Prêmio!",
+      "10h - MALUCA - Resultado do dia 21/10/2026 (Quarta-feira)\nDeu Dezena, Palpite 3723 no 8º Prêmio!",
+      "10h - MALUCA - Resultado do dia 21/10/2026 (Quarta-feira)\nDeu Centena, Palpite 8423 no 8º Prêmio!",
+      "10h - MALUCA - Resultado do dia 21/10/2026 (Quarta-feira)\nDeu Dezena, Palpite 8423 no 8º Prêmio!",
+      "10h - MALUCA - Resultado do dia 21/10/2026 (Quarta-feira)\nDeu Dezena, Palpite 3424 no 9º Prêmio!",
+      "10h - MALUCA - Resultado do dia 21/10/2026 (Quarta-feira)\nDeu Dezena, Palpite 3024 no 9º Prêmio!",
+      "10h - MALUCA - Resultado do dia 21/10/2026 (Quarta-feira)\nDeu Dezena, Palpite 3724 no 9º Prêmio!",
+      "10h - MALUCA - Resultado do dia 21/10/2026 (Quarta-feira)\nDeu Dezena, Palpite 8424 no 9º Prêmio!"
+    ]
+  },
+  "PT SP": {
+    "palpites": [
+      "0450",
+      "0452",
+      "0453",
+      "0420",
+      "0422",
+      "0423",
+      "0430",
+      "0432",
+      "0433",
+      "0850",
+      "0852",
+      "0853",
+      "0820",
+      "0822",
+      "0823",
+      "0830",
+      "0832",
+      "0833",
+      "0550",
+      "0552",
+      "0553",
+      "0520",
+      "0522",
+      "0523",
+      "0530",
+      "0532",
+      "0533",
+      "2450",
+      "2452",
+      "2453"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Milhar, Palpite 0452 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0852 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0552 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Centena, Palpite 2452 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 2452 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Centena, Palpite 0423 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0423 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0823 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0523 no 3º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -371,55 +435,6 @@ const palpites = {
       "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 1246 no 4º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 1446 no 4º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Milhar, Palpite 1546 no 4º Prêmio!"
-    ]
-  },
-  "PT SP": {
-    "palpites": [
-      "0450",
-      "0452",
-      "0453",
-      "0420",
-      "0422",
-      "0423",
-      "0430",
-      "0432",
-      "0433",
-      "0850",
-      "0852",
-      "0853",
-      "0820",
-      "0822",
-      "0823",
-      "0830",
-      "0832",
-      "0833",
-      "0550",
-      "0552",
-      "0553",
-      "0520",
-      "0522",
-      "0523",
-      "0530",
-      "0532",
-      "0533",
-      "2450",
-      "2452",
-      "2453"
-    ],
-    "frases": [
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0940 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0340 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Centena, Palpite 0540 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0540 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Milhar, Palpite 0452 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0852 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0552 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Centena, Palpite 2452 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 2452 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Centena, Palpite 0423 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0423 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0823 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0523 no 3º Prêmio!"
     ]
   }
 };
