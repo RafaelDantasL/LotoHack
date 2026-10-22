@@ -182,19 +182,6 @@ const palpites = {
       "2094"
     ],
     "frases": [
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 7265 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 7465 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 7565 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 7224 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 7424 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Milhar, Palpite 7524 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 3224 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Centena, Palpite 7226 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 7226 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 7426 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 7526 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Centena, Palpite 3226 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 3226 no 4º Prêmio!",
       "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Centena, Palpite 0011 no 3º Prêmio!",
       "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 0011 no 3º Prêmio!",
       "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 0111 no 3º Prêmio!",
@@ -307,6 +294,13 @@ const palpites = {
       "5043"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 1216 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 1416 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 1516 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 2216 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 1240 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 1440 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 1540 no 2º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 9040 no 2º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Centena, Palpite 9140 no 2º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 9140 no 2º Prêmio!",
