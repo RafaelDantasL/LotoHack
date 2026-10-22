@@ -1,6 +1,77 @@
 const resultado = {
   "BAHIA MALUCA": [
     {
+      "titulo": "21h - MALUCA - BA - Resultado do dia 21/10/2026 (Quarta-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "3509",
+          "03",
+          "Burro"
+        ],
+        [
+          "2º",
+          "5859",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "3º",
+          "5631",
+          "08",
+          "Camelo"
+        ],
+        [
+          "4º",
+          "4698",
+          "25",
+          "Vaca"
+        ],
+        [
+          "5º",
+          "9943",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "6º",
+          "7566",
+          "17",
+          "Macaco"
+        ],
+        [
+          "7º",
+          "7681",
+          "21",
+          "Touro"
+        ],
+        [
+          "8º",
+          "3225",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "9º",
+          "6031",
+          "08",
+          "Camelo"
+        ],
+        [
+          "10º",
+          "0577",
+          "20",
+          "Peru"
+        ]
+      ]
+    },
+    {
       "titulo": "20h FEDERAL - MALUCA - BA - Resultado do dia 21/10/2026 (Quarta-feira)",
       "conteudo": [
         [
@@ -286,6 +357,77 @@ const resultado = {
     }
   ],
   "BAHIA": [
+    {
+      "titulo": "21h - BA - Resultado do dia 21/10/2026 (Quarta-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "4553",
+          "14",
+          "Gato"
+        ],
+        [
+          "2º",
+          "6685",
+          "22",
+          "Tigre"
+        ],
+        [
+          "3º",
+          "9350",
+          "13",
+          "Galo"
+        ],
+        [
+          "4º",
+          "8199",
+          "25",
+          "Vaca"
+        ],
+        [
+          "5º",
+          "3499",
+          "25",
+          "Vaca"
+        ],
+        [
+          "6º",
+          "6377",
+          "20",
+          "Peru"
+        ],
+        [
+          "7º",
+          "0265",
+          "17",
+          "Macaco"
+        ],
+        [
+          "8º",
+          "3286",
+          "22",
+          "Tigre"
+        ],
+        [
+          "9º",
+          "1516",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "10º",
+          "7750",
+          "13",
+          "Galo"
+        ]
+      ]
+    },
     {
       "titulo": "20h FEDERAL - BA - Resultado do dia 21/10/2026 (Quarta-feira)",
       "conteudo": [
@@ -1002,6 +1144,100 @@ const resultado = {
           "7939",
           "10",
           "Coelho"
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 21h",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "3497",
+          "25",
+          "Vaca"
+        ],
+        [
+          "2º",
+          "0366",
+          "17",
+          "Macaco"
+        ],
+        [
+          "3º",
+          "9821",
+          "06",
+          "Cabra"
+        ],
+        [
+          "4º",
+          "1091",
+          "23",
+          "Urso"
+        ],
+        [
+          "5º",
+          "0863",
+          "16",
+          "Leão"
+        ],
+        [
+          "6º · Soma6º prêmio, soma",
+          "5638",
+          "",
+          ""
+        ],
+        [
+          "7º · Mult.7º prêmio, multiplicação",
+          "279",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 21h",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "6º",
+          "3091",
+          "23",
+          "Urso"
+        ],
+        [
+          "7º",
+          "4380",
+          "20",
+          "Peru"
+        ],
+        [
+          "8º",
+          "9629",
+          "08",
+          "Camelo"
+        ],
+        [
+          "9º",
+          "7611",
+          "03",
+          "Burro"
+        ],
+        [
+          "10º",
+          "0349",
+          "13",
+          "Galo"
         ]
       ]
     },
