@@ -358,6 +358,77 @@ const resultado = {
   ],
   "BAHIA": [
     {
+      "titulo": "21h - BA - Resultado do dia 21/10/2026 (Quarta-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "4553",
+          "14",
+          "Gato"
+        ],
+        [
+          "2º",
+          "6685",
+          "22",
+          "Tigre"
+        ],
+        [
+          "3º",
+          "9350",
+          "13",
+          "Galo"
+        ],
+        [
+          "4º",
+          "8199",
+          "25",
+          "Vaca"
+        ],
+        [
+          "5º",
+          "3499",
+          "25",
+          "Vaca"
+        ],
+        [
+          "6º",
+          "6377",
+          "20",
+          "Peru"
+        ],
+        [
+          "7º",
+          "0265",
+          "17",
+          "Macaco"
+        ],
+        [
+          "8º",
+          "3286",
+          "22",
+          "Tigre"
+        ],
+        [
+          "9º",
+          "1516",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "10º",
+          "7750",
+          "13",
+          "Galo"
+        ]
+      ]
+    },
+    {
       "titulo": "20h FEDERAL - BA - Resultado do dia 21/10/2026 (Quarta-feira)",
       "conteudo": [
         [
