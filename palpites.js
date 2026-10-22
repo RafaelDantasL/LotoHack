@@ -32,45 +32,20 @@ const palpites = {
       "3224",
       "3225"
     ],
-    "frases": []
-  },
-  "PT SP": {
-    "palpites": [
-      "2716",
-      "2712",
-      "2715",
-      "2776",
-      "2772",
-      "2775",
-      "2726",
-      "2722",
-      "2725",
-      "2416",
-      "2412",
-      "2415",
-      "2476",
-      "2472",
-      "2475",
-      "2426",
-      "2422",
-      "2425",
-      "2616",
-      "2612",
-      "2615",
-      "2676",
-      "2672",
-      "2675",
-      "2626",
-      "2622",
-      "2625",
-      "3716",
-      "3712",
-      "3715"
-    ],
     "frases": [
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 3472 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 3372 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 3572 no 5º Prêmio!"
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 7265 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 7465 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 7565 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 7224 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 7424 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Milhar, Palpite 7524 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 3224 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Centena, Palpite 7226 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 7226 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 7426 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 7526 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Centena, Palpite 3226 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 3226 no 4º Prêmio!"
     ]
   },
   "BAHIA MALUCA": {
@@ -304,6 +279,45 @@ const palpites = {
       "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 1416 no 1º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 1516 no 1º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 2216 no 1º Prêmio!"
+    ]
+  },
+  "PT SP": {
+    "palpites": [
+      "2716",
+      "2712",
+      "2715",
+      "2776",
+      "2772",
+      "2775",
+      "2726",
+      "2722",
+      "2725",
+      "2416",
+      "2412",
+      "2415",
+      "2476",
+      "2472",
+      "2475",
+      "2426",
+      "2422",
+      "2425",
+      "2616",
+      "2612",
+      "2615",
+      "2676",
+      "2672",
+      "2675",
+      "2626",
+      "2622",
+      "2625",
+      "3716",
+      "3712",
+      "3715"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 3472 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 3372 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 3572 no 5º Prêmio!"
     ]
   }
 };
