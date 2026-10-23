@@ -287,6 +287,77 @@ const resultado = {
   ],
   "BAHIA": [
     {
+      "titulo": "21h - BA - Resultado do dia 22/10/2026 (Quinta-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "6415",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "2º",
+          "5213",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "3º",
+          "9622",
+          "06",
+          "Cabra"
+        ],
+        [
+          "4º",
+          "1261",
+          "16",
+          "Leão"
+        ],
+        [
+          "5º",
+          "4942",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "6º",
+          "8203",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "7º",
+          "0763",
+          "16",
+          "Leão"
+        ],
+        [
+          "8º",
+          "8474",
+          "19",
+          "Pavão"
+        ],
+        [
+          "9º",
+          "4995",
+          "24",
+          "Veado"
+        ],
+        [
+          "10º",
+          "4534",
+          "09",
+          "Cobra"
+        ]
+      ]
+    },
+    {
       "titulo": "19h - BA - Resultado do dia 22/10/2026 (Quinta-feira)",
       "conteudo": [
         [
