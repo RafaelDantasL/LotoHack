@@ -1484,6 +1484,100 @@ const resultado = {
   ],
   "PT SP": [
     {
+      "titulo": "Resultado do Jogo do Bicho SP, 10hs - PTSP",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "2747",
+          "12",
+          "Elefante"
+        ],
+        [
+          "2º",
+          "5013",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "3º",
+          "4313",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "4º",
+          "2807",
+          "02",
+          "Águia"
+        ],
+        [
+          "5º",
+          "9625",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "6º · Soma6º prêmio, soma",
+          "4505",
+          "",
+          ""
+        ],
+        [
+          "7º · Mult.7º prêmio, multiplicação",
+          "770",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 10hs - PTSP",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "6º",
+          "2542",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "7º",
+          "7038",
+          "10",
+          "Coelho"
+        ],
+        [
+          "8º",
+          "4110",
+          "03",
+          "Burro"
+        ],
+        [
+          "9º",
+          "7337",
+          "10",
+          "Coelho"
+        ],
+        [
+          "10º",
+          "5532",
+          "08",
+          "Camelo"
+        ]
+      ]
+    },
+    {
       "titulo": "Resultado do Jogo do Bicho SP, 08hs - PTSP",
       "conteudo": [
         [
