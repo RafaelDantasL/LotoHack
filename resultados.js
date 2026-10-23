@@ -1659,6 +1659,59 @@ const resultado = {
       ]
     },
     {
+      "titulo": "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 21h",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "4014",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "2º",
+          "9666",
+          "17",
+          "Macaco"
+        ],
+        [
+          "3º",
+          "4503",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "4º",
+          "5230",
+          "08",
+          "Camelo"
+        ],
+        [
+          "5º",
+          "4028",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "6º · Soma6º prêmio, soma",
+          "7441",
+          "",
+          ""
+        ],
+        [
+          "7º · Mult.7º prêmio, multiplicação",
+          "799",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
       "titulo": "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 18h",
       "conteudo": [
         [
