@@ -1,6 +1,77 @@
 const resultado = {
   "BAHIA MALUCA": [
     {
+      "titulo": "12h - MALUCA - BA - Resultado do dia 24/10/2026 (Sábado)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "3485",
+          "22",
+          "Tigre"
+        ],
+        [
+          "2º",
+          "6667",
+          "17",
+          "Macaco"
+        ],
+        [
+          "3º",
+          "6035",
+          "09",
+          "Cobra"
+        ],
+        [
+          "4º",
+          "1350",
+          "13",
+          "Galo"
+        ],
+        [
+          "5º",
+          "8457",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "6º",
+          "4926",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "7º",
+          "1748",
+          "12",
+          "Elefante"
+        ],
+        [
+          "8º",
+          "7986",
+          "22",
+          "Tigre"
+        ],
+        [
+          "9º",
+          "3181",
+          "21",
+          "Touro"
+        ],
+        [
+          "10º",
+          "2954",
+          "14",
+          "Gato"
+        ]
+      ]
+    },
+    {
       "titulo": "10h - MALUCA - Resultado do dia 24/10/2026 (Sábado)",
       "conteudo": [
         [
@@ -73,6 +144,77 @@ const resultado = {
     }
   ],
   "BAHIA": [
+    {
+      "titulo": "12h - BA - Resultado do dia 24/10/2026 (Sábado)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "1663",
+          "16",
+          "Leão"
+        ],
+        [
+          "2º",
+          "3064",
+          "16",
+          "Leão"
+        ],
+        [
+          "3º",
+          "5368",
+          "17",
+          "Macaco"
+        ],
+        [
+          "4º",
+          "0575",
+          "19",
+          "Pavão"
+        ],
+        [
+          "5º",
+          "7548",
+          "12",
+          "Elefante"
+        ],
+        [
+          "6º",
+          "3714",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "7º",
+          "1979",
+          "20",
+          "Peru"
+        ],
+        [
+          "8º",
+          "8842",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "9º",
+          "1686",
+          "22",
+          "Tigre"
+        ],
+        [
+          "10º",
+          "4592",
+          "23",
+          "Urso"
+        ]
+      ]
+    },
     {
       "titulo": "10h - BA - Resultado do dia 24/10/2026 (Sábado)",
       "conteudo": [
@@ -147,7 +289,7 @@ const resultado = {
   ],
   "LOTECE": [
     {
-      "titulo": "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)",
+      "titulo": "Resultado do Jogo do Bicho LOTECE - CE, 12:00 (manhã)",
       "conteudo": [
         [
           "Prêmio",
@@ -157,281 +299,162 @@ const resultado = {
         ],
         [
           "1º",
-          "2850",
-          "13",
-          "Galo"
+          "9592",
+          "23",
+          "Urso"
         ],
         [
           "2º",
-          "9099",
-          "25",
-          "Vaca"
-        ],
-        [
-          "3º",
-          "1538",
+          "4838",
           "10",
           "Coelho"
         ],
         [
+          "3º",
+          "5705",
+          "02",
+          "Águia"
+        ],
+        [
           "4º",
-          "3863",
-          "16",
-          "Leão"
+          "2977",
+          "20",
+          "Peru"
         ],
         [
           "5º",
-          "5229",
-          "08",
-          "Camelo"
+          "7592",
+          "23",
+          "Urso"
         ],
         [
           "6º",
-          "2547",
-          "12",
-          "Elefante"
+          "5743",
+          "11",
+          "Cavalo"
         ],
         [
           "7º",
-          "7262",
-          "16",
-          "Leão"
+          "8552",
+          "13",
+          "Galo"
         ],
         [
           "8º",
-          "6514",
+          "5313",
           "04",
           "Borboleta"
         ],
         [
           "9º",
-          "1894",
-          "24",
-          "Veado"
+          "2409",
+          "03",
+          "Burro"
         ],
         [
           "10º",
-          "0885",
-          "22",
-          "Tigre"
-        ]
-      ]
-    },
-    {
-      "titulo": "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)",
-      "conteudo": [
-        [
-          "Prêmio",
-          "Milhar",
-          "Grupo",
-          "Bicho"
-        ],
-        [
-          "1º",
-          "0017",
-          "05",
-          "Cachorro"
-        ],
-        [
-          "2º",
-          "6526",
-          "07",
-          "Carneiro"
-        ],
-        [
-          "3º",
-          "7543",
-          "11",
-          "Cavalo"
-        ],
-        [
-          "4º",
-          "1635",
-          "09",
-          "Cobra"
-        ],
-        [
-          "5º",
-          "9557",
-          "15",
-          "Jacaré"
-        ],
-        [
-          "6º",
-          "0570",
-          "18",
-          "Porco"
-        ],
-        [
-          "7º",
-          "1077",
-          "20",
-          "Peru"
-        ],
-        [
-          "8º",
-          "6075",
+          "1073",
           "19",
           "Pavão"
-        ],
-        [
-          "9º",
-          "3818",
-          "05",
-          "Cachorro"
-        ],
-        [
-          "10º",
-          "7380",
-          "20",
-          "Peru"
-        ]
-      ]
-    },
-    {
-      "titulo": "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)",
-      "conteudo": [
-        [
-          "Prêmio",
-          "Milhar",
-          "Grupo",
-          "Bicho"
-        ],
-        [
-          "1º",
-          "3996",
-          "24",
-          "Veado"
-        ],
-        [
-          "2º",
-          "3834",
-          "09",
-          "Cobra"
-        ],
-        [
-          "3º",
-          "0470",
-          "18",
-          "Porco"
-        ],
-        [
-          "4º",
-          "9982",
-          "21",
-          "Touro"
-        ],
-        [
-          "5º",
-          "5000",
-          "25",
-          "Vaca"
-        ],
-        [
-          "6º",
-          "9038",
-          "10",
-          "Coelho"
-        ],
-        [
-          "7º",
-          "8898",
-          "25",
-          "Vaca"
-        ],
-        [
-          "8º",
-          "5540",
-          "10",
-          "Coelho"
-        ],
-        [
-          "9º",
-          "2521",
-          "06",
-          "Cabra"
-        ],
-        [
-          "10º",
-          "2508",
-          "02",
-          "Águia"
-        ]
-      ]
-    },
-    {
-      "titulo": "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)",
-      "conteudo": [
-        [
-          "Prêmio",
-          "Milhar",
-          "Grupo",
-          "Bicho"
-        ],
-        [
-          "1º",
-          "4638",
-          "10",
-          "Coelho"
-        ],
-        [
-          "2º",
-          "4396",
-          "24",
-          "Veado"
-        ],
-        [
-          "3º",
-          "3270",
-          "18",
-          "Porco"
-        ],
-        [
-          "4º",
-          "3983",
-          "21",
-          "Touro"
-        ],
-        [
-          "5º",
-          "8602",
-          "01",
-          "Avestruz"
-        ],
-        [
-          "6º",
-          "2859",
-          "15",
-          "Jacaré"
-        ],
-        [
-          "7º",
-          "7579",
-          "20",
-          "Peru"
-        ],
-        [
-          "8º",
-          "4468",
-          "17",
-          "Macaco"
-        ],
-        [
-          "9º",
-          "7652",
-          "13",
-          "Galo"
-        ],
-        [
-          "10º",
-          "3171",
-          "18",
-          "Porco"
         ]
       ]
     }
   ],
   "LOOK/GOIAS": [
+    {
+      "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 11h",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "1634",
+          "09",
+          "Cobra"
+        ],
+        [
+          "2º",
+          "0865",
+          "17",
+          "Macaco"
+        ],
+        [
+          "3º",
+          "3294",
+          "24",
+          "Veado"
+        ],
+        [
+          "4º",
+          "0199",
+          "25",
+          "Vaca"
+        ],
+        [
+          "5º",
+          "6833",
+          "09",
+          "Cobra"
+        ],
+        [
+          "6º · Soma6º prêmio, soma",
+          "2825",
+          "",
+          ""
+        ],
+        [
+          "7º · Mult.7º prêmio, multiplicação",
+          "413",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 11h",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "6º",
+          "1030",
+          "08",
+          "Camelo"
+        ],
+        [
+          "7º",
+          "6821",
+          "06",
+          "Cabra"
+        ],
+        [
+          "8º",
+          "3699",
+          "25",
+          "Vaca"
+        ],
+        [
+          "9º",
+          "4549",
+          "13",
+          "Galo"
+        ],
+        [
+          "10º",
+          "8924",
+          "06",
+          "Cabra"
+        ]
+      ]
+    },
     {
       "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h",
       "conteudo": [
@@ -617,6 +640,59 @@ const resultado = {
           "4624",
           "06",
           "Cabra"
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 11h",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "7992",
+          "23",
+          "Urso"
+        ],
+        [
+          "2º",
+          "6548",
+          "12",
+          "Elefante"
+        ],
+        [
+          "3º",
+          "3251",
+          "13",
+          "Galo"
+        ],
+        [
+          "4º",
+          "3565",
+          "17",
+          "Macaco"
+        ],
+        [
+          "5º",
+          "9014",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "6º · Soma6º prêmio, soma",
+          "0370",
+          "",
+          ""
+        ],
+        [
+          "7º · Mult.7º prêmio, multiplicação",
+          "331",
+          "",
+          ""
         ]
       ]
     },
@@ -961,6 +1037,100 @@ const resultado = {
     }
   ],
   "PT RIO": [
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 11:20, PTM",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "7213",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "2º",
+          "8543",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "3º",
+          "1709",
+          "03",
+          "Burro"
+        ],
+        [
+          "4º",
+          "5533",
+          "09",
+          "Cobra"
+        ],
+        [
+          "5º",
+          "1507",
+          "02",
+          "Águia"
+        ],
+        [
+          "6º · Soma6º prêmio, soma",
+          "4505",
+          "",
+          ""
+        ],
+        [
+          "7º · Mult.7º prêmio, multiplicação",
+          "620",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 11:20, PTM",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "6º",
+          "7815",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "7º",
+          "2575",
+          "19",
+          "Pavão"
+        ],
+        [
+          "8º",
+          "1403",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "9º",
+          "3393",
+          "24",
+          "Veado"
+        ],
+        [
+          "10º",
+          "9691",
+          "23",
+          "Urso"
+        ]
+      ]
+    },
     {
       "titulo": "Resultado do Jogo do Bicho RJ, 09:20, PT",
       "conteudo": [
