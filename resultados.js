@@ -214,6 +214,77 @@ const resultado = {
       ]
     },
     {
+      "titulo": "21h FEDERAL - MALUCA - BA - Resultado do dia 24/10/2026 (Sábado)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "3607",
+          "02",
+          "Águia"
+        ],
+        [
+          "2º",
+          "8044",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "3º",
+          "3011",
+          "03",
+          "Burro"
+        ],
+        [
+          "4º",
+          "4754",
+          "14",
+          "Gato"
+        ],
+        [
+          "5º",
+          "5039",
+          "10",
+          "Coelho"
+        ],
+        [
+          "6º",
+          "4568",
+          "17",
+          "Macaco"
+        ],
+        [
+          "7º",
+          "8484",
+          "21",
+          "Touro"
+        ],
+        [
+          "8º",
+          "9317",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "9º",
+          "6821",
+          "06",
+          "Cabra"
+        ],
+        [
+          "10º",
+          "4516",
+          "04",
+          "Borboleta"
+        ]
+      ]
+    },
+    {
       "titulo": "10h - MALUCA - Resultado do dia 24/10/2026 (Sábado)",
       "conteudo": [
         [
