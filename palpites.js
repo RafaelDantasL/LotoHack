@@ -143,49 +143,6 @@ const palpites = {
       "10h - BA - Resultado do dia 25/10/2026 (Domingo)\nDeu Dezena, Palpite 3238 no 10º Prêmio!"
     ]
   },
-  "PT RIO": {
-    "palpites": [
-      "8543",
-      "8545",
-      "8546",
-      "8503",
-      "8505",
-      "8506",
-      "8553",
-      "8555",
-      "8556",
-      "8843",
-      "8845",
-      "8846",
-      "8803",
-      "8805",
-      "8806",
-      "8853",
-      "8855",
-      "8856",
-      "8043",
-      "8045",
-      "8046",
-      "8003",
-      "8005",
-      "8006",
-      "8053",
-      "8055",
-      "8056",
-      "2543",
-      "2545",
-      "2546"
-    ],
-    "frases": [
-      "Resultado do Jogo do Bicho RJ, 14:20, PT\nDeu Dezena, Palpite 0047 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 14:20, PT\nDeu Dezena, Palpite 0447 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 14:20, PT\nDeu Dezena, Palpite 0747 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 14:20, PT\nDeu Dezena, Palpite 0006 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 14:20, PT\nDeu Dezena, Palpite 0406 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 14:20, PT\nDeu Dezena, Palpite 0706 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 14:20, PT\nDeu Dezena, Palpite 2006 no 5º Prêmio!"
-    ]
-  },
   "LOTECE": {
     "palpites": [
       "5502",
@@ -353,6 +310,49 @@ const palpites = {
       "7127"
     ],
     "frases": []
+  },
+  "PT RIO": {
+    "palpites": [
+      "8543",
+      "8545",
+      "8546",
+      "8503",
+      "8505",
+      "8506",
+      "8553",
+      "8555",
+      "8556",
+      "8843",
+      "8845",
+      "8846",
+      "8803",
+      "8805",
+      "8806",
+      "8853",
+      "8855",
+      "8856",
+      "8043",
+      "8045",
+      "8046",
+      "8003",
+      "8005",
+      "8006",
+      "8053",
+      "8055",
+      "8056",
+      "2543",
+      "2545",
+      "2546"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho RJ, 14:20, PT\nDeu Dezena, Palpite 0047 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 14:20, PT\nDeu Dezena, Palpite 0447 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 14:20, PT\nDeu Dezena, Palpite 0747 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 14:20, PT\nDeu Dezena, Palpite 0006 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 14:20, PT\nDeu Dezena, Palpite 0406 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 14:20, PT\nDeu Dezena, Palpite 0706 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 14:20, PT\nDeu Dezena, Palpite 2006 no 5º Prêmio!"
+    ]
   },
   "PT SP": {
     "palpites": [
