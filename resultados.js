@@ -500,6 +500,77 @@ const resultado = {
       ]
     },
     {
+      "titulo": "21h FEDERAL - BA - Resultado do dia 24/10/2026 (Sábado)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "4383",
+          "21",
+          "Touro"
+        ],
+        [
+          "2º",
+          "7006",
+          "02",
+          "Águia"
+        ],
+        [
+          "3º",
+          "5140",
+          "10",
+          "Coelho"
+        ],
+        [
+          "4º",
+          "4147",
+          "12",
+          "Elefante"
+        ],
+        [
+          "5º",
+          "9305",
+          "02",
+          "Águia"
+        ],
+        [
+          "6º",
+          "6984",
+          "21",
+          "Touro"
+        ],
+        [
+          "7º",
+          "8345",
+          "12",
+          "Elefante"
+        ],
+        [
+          "8º",
+          "2186",
+          "22",
+          "Tigre"
+        ],
+        [
+          "9º",
+          "1748",
+          "12",
+          "Elefante"
+        ],
+        [
+          "10º",
+          "6154",
+          "14",
+          "Gato"
+        ]
+      ]
+    },
+    {
       "titulo": "10h - BA - Resultado do dia 24/10/2026 (Sábado)",
       "conteudo": [
         [
