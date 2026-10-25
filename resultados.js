@@ -1517,6 +1517,59 @@ const resultado = {
       ]
     },
     {
+      "titulo": "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 21h",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "6018",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "2º",
+          "5109",
+          "03",
+          "Burro"
+        ],
+        [
+          "3º",
+          "7919",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "4º",
+          "8853",
+          "14",
+          "Gato"
+        ],
+        [
+          "5º",
+          "1799",
+          "25",
+          "Vaca"
+        ],
+        [
+          "6º · Soma6º prêmio, soma",
+          "9698",
+          "",
+          ""
+        ],
+        [
+          "7º · Mult.7º prêmio, multiplicação",
+          "745",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
       "titulo": "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 19h",
       "conteudo": [
         [
@@ -1783,6 +1836,77 @@ const resultado = {
     }
   ],
   "LOTEP": [
+    {
+      "titulo": "Resultado do Jogo do Bicho PB - FEDERAL",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "4383",
+          "21",
+          "Touro"
+        ],
+        [
+          "2º",
+          "7006",
+          "02",
+          "Águia"
+        ],
+        [
+          "3º",
+          "5140",
+          "10",
+          "Coelho"
+        ],
+        [
+          "4º",
+          "4147",
+          "12",
+          "Elefante"
+        ],
+        [
+          "5º",
+          "9305",
+          "02",
+          "Águia"
+        ],
+        [
+          "6º",
+          "4754",
+          "14",
+          "Gato"
+        ],
+        [
+          "7º",
+          "3011",
+          "03",
+          "Burro"
+        ],
+        [
+          "8º",
+          "8044",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "9º",
+          "3607",
+          "02",
+          "Águia"
+        ],
+        [
+          "10º",
+          "9397",
+          "25",
+          "Vaca"
+        ]
+      ]
+    },
     {
       "titulo": "Resultado do Jogo do Bicho LOTEP - PB, 18h",
       "conteudo": [
