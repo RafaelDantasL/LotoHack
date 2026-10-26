@@ -534,6 +534,77 @@ const resultado = {
       ]
     },
     {
+      "titulo": "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "9928",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "2º",
+          "5556",
+          "14",
+          "Gato"
+        ],
+        [
+          "3º",
+          "1823",
+          "06",
+          "Cabra"
+        ],
+        [
+          "4º",
+          "1440",
+          "10",
+          "Coelho"
+        ],
+        [
+          "5º",
+          "5390",
+          "23",
+          "Urso"
+        ],
+        [
+          "6º",
+          "9511",
+          "03",
+          "Burro"
+        ],
+        [
+          "7º",
+          "9584",
+          "21",
+          "Touro"
+        ],
+        [
+          "8º",
+          "2524",
+          "06",
+          "Cabra"
+        ],
+        [
+          "9º",
+          "8630",
+          "08",
+          "Camelo"
+        ],
+        [
+          "10º",
+          "4386",
+          "22",
+          "Tigre"
+        ]
+      ]
+    },
+    {
       "titulo": "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45",
       "conteudo": [
         [
@@ -601,6 +672,77 @@ const resultado = {
           "9992",
           "23",
           "Urso"
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho LOTEP - PB, 10:45",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "4731",
+          "08",
+          "Camelo"
+        ],
+        [
+          "2º",
+          "5628",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "3º",
+          "7128",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "4º",
+          "0884",
+          "21",
+          "Touro"
+        ],
+        [
+          "5º",
+          "4963",
+          "16",
+          "Leão"
+        ],
+        [
+          "6º",
+          "4570",
+          "18",
+          "Porco"
+        ],
+        [
+          "7º",
+          "7618",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "8º",
+          "3228",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "9º",
+          "1884",
+          "21",
+          "Touro"
+        ],
+        [
+          "10º",
+          "0634",
+          "09",
+          "Cobra"
         ]
       ]
     }
