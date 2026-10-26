@@ -32,7 +32,23 @@ const palpites = {
       "3828",
       "3829"
     ],
-    "frases": []
+    "frases": [
+      "10h - MALUCA - Resultado do dia 26/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 2828 no 2º Prêmio!",
+      "10h - MALUCA - Resultado do dia 26/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 2228 no 2º Prêmio!",
+      "10h - MALUCA - Resultado do dia 26/10/2026 (Segunda-feira)\nDeu Centena, Palpite 2328 no 2º Prêmio!",
+      "10h - MALUCA - Resultado do dia 26/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 2328 no 2º Prêmio!",
+      "10h - MALUCA - Resultado do dia 26/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 3828 no 2º Prêmio!",
+      "10h - MALUCA - Resultado do dia 26/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 2873 no 5º Prêmio!",
+      "10h - MALUCA - Resultado do dia 26/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 2273 no 5º Prêmio!",
+      "10h - MALUCA - Resultado do dia 26/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 2373 no 5º Prêmio!",
+      "10h - MALUCA - Resultado do dia 26/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 2878 no 9º Prêmio!",
+      "10h - MALUCA - Resultado do dia 26/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 2278 no 9º Prêmio!",
+      "10h - MALUCA - Resultado do dia 26/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 2378 no 9º Prêmio!",
+      "10h - MALUCA - Resultado do dia 26/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 2829 no 10º Prêmio!",
+      "10h - MALUCA - Resultado do dia 26/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 2229 no 10º Prêmio!",
+      "10h - MALUCA - Resultado do dia 26/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 2329 no 10º Prêmio!",
+      "10h - MALUCA - Resultado do dia 26/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 3829 no 10º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -68,6 +84,12 @@ const palpites = {
       "8231"
     ],
     "frases": [
+      "10h - BA - Resultado do dia 26/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 3038 no 7º Prêmio!",
+      "10h - BA - Resultado do dia 26/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 3138 no 7º Prêmio!",
+      "10h - BA - Resultado do dia 26/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 3238 no 7º Prêmio!",
+      "10h - BA - Resultado do dia 26/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 3030 no 9º Prêmio!",
+      "10h - BA - Resultado do dia 26/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 3130 no 9º Prêmio!",
+      "10h - BA - Resultado do dia 26/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 3230 no 9º Prêmio!",
       "10h - BA - Resultado do dia 26/10/2026 (Segunda-feira)\nDeu Centena, Palpite 7232 no 2º Prêmio!",
       "10h - BA - Resultado do dia 26/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 7232 no 2º Prêmio!",
       "10h - BA - Resultado do dia 26/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 7832 no 2º Prêmio!",
@@ -83,55 +105,6 @@ const palpites = {
       "10h - BA - Resultado do dia 26/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 7830 no 9º Prêmio!",
       "10h - BA - Resultado do dia 26/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 7130 no 9º Prêmio!",
       "10h - BA - Resultado do dia 26/10/2026 (Segunda-feira)\nDeu Dezena, Palpite 8230 no 9º Prêmio!"
-    ]
-  },
-  "PT SP": {
-    "palpites": [
-      "9175",
-      "9172",
-      "9174",
-      "9135",
-      "9132",
-      "9134",
-      "9165",
-      "9162",
-      "9164",
-      "9475",
-      "9472",
-      "9474",
-      "9435",
-      "9432",
-      "9434",
-      "9465",
-      "9462",
-      "9464",
-      "9075",
-      "9072",
-      "9074",
-      "9035",
-      "9032",
-      "9034",
-      "9065",
-      "9062",
-      "9064",
-      "0175",
-      "0172",
-      "0174"
-    ],
-    "frases": [
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Milhar, Palpite 9172 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 9472 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 9072 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Centena, Palpite 0172 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0172 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 9164 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Milhar, Palpite 9464 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 9064 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 9175 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 9475 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Centena, Palpite 9075 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 9075 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0175 no 3º Prêmio!"
     ]
   },
   "LOTECE": {
@@ -372,6 +345,68 @@ const palpites = {
       "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 0123 no 4º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 0223 no 4º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 1023 no 4º Prêmio!"
+    ]
+  },
+  "PT SP": {
+    "palpites": [
+      "9175",
+      "9172",
+      "9174",
+      "9135",
+      "9132",
+      "9134",
+      "9165",
+      "9162",
+      "9164",
+      "9475",
+      "9472",
+      "9474",
+      "9435",
+      "9432",
+      "9434",
+      "9465",
+      "9462",
+      "9464",
+      "9075",
+      "9072",
+      "9074",
+      "9035",
+      "9032",
+      "9034",
+      "9065",
+      "9062",
+      "9064",
+      "0175",
+      "0172",
+      "0174"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Milhar, Palpite 9172 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 9472 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 9072 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Centena, Palpite 0172 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0172 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 9164 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Milhar, Palpite 9464 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 9064 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 9175 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 9475 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Centena, Palpite 9075 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 9075 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0175 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Milhar, Palpite 9172 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 9472 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 9072 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Centena, Palpite 0172 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0172 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 9164 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Milhar, Palpite 9464 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 9064 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 9175 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 9475 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Centena, Palpite 9075 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 9075 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0175 no 3º Prêmio!"
     ]
   }
 };
