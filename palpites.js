@@ -33,10 +33,25 @@ const palpites = {
       "7421"
     ],
     "frases": [
-      "10h - MALUCA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Dezena, Palpite 2823 no 8º Prêmio!",
-      "10h - MALUCA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Dezena, Palpite 2223 no 8º Prêmio!",
-      "10h - MALUCA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Dezena, Palpite 2323 no 8º Prêmio!",
-      "10h - MALUCA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Dezena, Palpite 3823 no 8º Prêmio!"
+      "10h - MALUCA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Dezena, Palpite 1487 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Dezena, Palpite 1687 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Milhar, Palpite 1787 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Centena, Palpite 1433 no 4º Prêmio!",
+      "10h - MALUCA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Dezena, Palpite 1433 no 4º Prêmio!",
+      "10h - MALUCA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Dezena, Palpite 1633 no 4º Prêmio!",
+      "10h - MALUCA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Dezena, Palpite 1733 no 4º Prêmio!",
+      "10h - MALUCA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Dezena, Palpite 1431 no 6º Prêmio!",
+      "10h - MALUCA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Dezena, Palpite 1631 no 6º Prêmio!",
+      "10h - MALUCA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Dezena, Palpite 1731 no 6º Prêmio!",
+      "10h - MALUCA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Centena, Palpite 1487 no 7º Prêmio!",
+      "10h - MALUCA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Dezena, Palpite 1487 no 7º Prêmio!",
+      "10h - MALUCA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Dezena, Palpite 1687 no 7º Prêmio!",
+      "10h - MALUCA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Dezena, Palpite 1787 no 7º Prêmio!",
+      "10h - MALUCA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Dezena, Palpite 1423 no 8º Prêmio!",
+      "10h - MALUCA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Centena, Palpite 1623 no 8º Prêmio!",
+      "10h - MALUCA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Dezena, Palpite 1623 no 8º Prêmio!",
+      "10h - MALUCA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Dezena, Palpite 1723 no 8º Prêmio!",
+      "10h - MALUCA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Dezena, Palpite 7423 no 8º Prêmio!"
     ]
   },
   "BAHIA": {
@@ -73,14 +88,29 @@ const palpites = {
       "7243"
     ],
     "frases": [
-      "10h - BA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Milhar, Palpite 7231 no 1º Prêmio!",
-      "10h - BA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Dezena, Palpite 7831 no 1º Prêmio!",
-      "10h - BA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Dezena, Palpite 7131 no 1º Prêmio!",
-      "10h - BA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Centena, Palpite 8231 no 1º Prêmio!",
-      "10h - BA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Dezena, Palpite 8231 no 1º Prêmio!",
+      "10h - BA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Dezena, Palpite 3247 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Dezena, Palpite 3547 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Centena, Palpite 3647 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Dezena, Palpite 3647 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Dezena, Palpite 7247 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Dezena, Palpite 3207 no 4º Prêmio!",
+      "10h - BA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Dezena, Palpite 3507 no 4º Prêmio!",
+      "10h - BA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Dezena, Palpite 3607 no 4º Prêmio!",
+      "10h - BA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Dezena, Palpite 3247 no 5º Prêmio!",
+      "10h - BA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Dezena, Palpite 3547 no 5º Prêmio!",
+      "10h - BA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Dezena, Palpite 3647 no 5º Prêmio!",
+      "10h - BA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Dezena, Palpite 7247 no 5º Prêmio!",
+      "10h - BA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Dezena, Palpite 3241 no 7º Prêmio!",
+      "10h - BA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Dezena, Palpite 3541 no 7º Prêmio!",
+      "10h - BA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Centena, Palpite 3641 no 7º Prêmio!",
+      "10h - BA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Dezena, Palpite 3641 no 7º Prêmio!",
       "10h - BA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Dezena, Palpite 7241 no 7º Prêmio!",
-      "10h - BA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Dezena, Palpite 7841 no 7º Prêmio!",
-      "10h - BA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Dezena, Palpite 7141 no 7º Prêmio!"
+      "10h - BA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Dezena, Palpite 3271 no 9º Prêmio!",
+      "10h - BA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Dezena, Palpite 3571 no 9º Prêmio!",
+      "10h - BA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Dezena, Palpite 3671 no 9º Prêmio!",
+      "10h - BA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Dezena, Palpite 3271 no 10º Prêmio!",
+      "10h - BA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Dezena, Palpite 3571 no 10º Prêmio!",
+      "10h - BA - Resultado do dia 27/10/2026 (Terça-feira)\nDeu Dezena, Palpite 3671 no 10º Prêmio!"
     ]
   },
   "LOTECE": {
@@ -351,6 +381,18 @@ const palpites = {
       "0437"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 9437 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 9037 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 9337 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0437 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 9434 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Milhar, Palpite 9034 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 9334 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0434 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Centena, Palpite 9474 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 9474 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 9074 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 9374 no 5º Prêmio!",
       "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 9437 no 1º Prêmio!",
       "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 9037 no 1º Prêmio!",
       "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 9337 no 1º Prêmio!",
