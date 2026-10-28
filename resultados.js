@@ -220,6 +220,100 @@ const resultado = {
   ],
   "LOOK/GOIAS": [
     {
+      "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 11h",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "4348",
+          "12",
+          "Elefante"
+        ],
+        [
+          "2º",
+          "3909",
+          "03",
+          "Burro"
+        ],
+        [
+          "3º",
+          "6869",
+          "18",
+          "Porco"
+        ],
+        [
+          "4º",
+          "5685",
+          "22",
+          "Tigre"
+        ],
+        [
+          "5º",
+          "5057",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "6º · Soma6º prêmio, soma",
+          "5868",
+          "",
+          ""
+        ],
+        [
+          "7º · Mult.7º prêmio, multiplicação",
+          "996",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 11h",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "6º",
+          "4365",
+          "17",
+          "Macaco"
+        ],
+        [
+          "7º",
+          "3986",
+          "22",
+          "Tigre"
+        ],
+        [
+          "8º",
+          "4068",
+          "17",
+          "Macaco"
+        ],
+        [
+          "9º",
+          "8995",
+          "24",
+          "Veado"
+        ],
+        [
+          "10º",
+          "7282",
+          "21",
+          "Touro"
+        ]
+      ]
+    },
+    {
       "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h",
       "conteudo": [
         [
@@ -530,6 +624,77 @@ const resultado = {
           "6736",
           "09",
           "Cobra"
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho LOTEP - PB, 10:45",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "1294",
+          "24",
+          "Veado"
+        ],
+        [
+          "2º",
+          "4477",
+          "20",
+          "Peru"
+        ],
+        [
+          "3º",
+          "1656",
+          "14",
+          "Gato"
+        ],
+        [
+          "4º",
+          "0862",
+          "16",
+          "Leão"
+        ],
+        [
+          "5º",
+          "1433",
+          "09",
+          "Cobra"
+        ],
+        [
+          "6º",
+          "1410",
+          "03",
+          "Burro"
+        ],
+        [
+          "7º",
+          "2468",
+          "17",
+          "Macaco"
+        ],
+        [
+          "8º",
+          "9756",
+          "14",
+          "Gato"
+        ],
+        [
+          "9º",
+          "4762",
+          "16",
+          "Leão"
+        ],
+        [
+          "10º",
+          "8118",
+          "05",
+          "Cachorro"
         ]
       ]
     },
