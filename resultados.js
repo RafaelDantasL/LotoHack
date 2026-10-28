@@ -1,6 +1,77 @@
 const resultado = {
   "BAHIA MALUCA": [
     {
+      "titulo": "21h - MALUCA - BA - Resultado do dia 27/10/2026 (Terça-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "2076",
+          "19",
+          "Pavão"
+        ],
+        [
+          "2º",
+          "1781",
+          "21",
+          "Touro"
+        ],
+        [
+          "3º",
+          "2946",
+          "12",
+          "Elefante"
+        ],
+        [
+          "4º",
+          "6189",
+          "23",
+          "Urso"
+        ],
+        [
+          "5º",
+          "2327",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "6º",
+          "9625",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "7º",
+          "3942",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "8º",
+          "2648",
+          "12",
+          "Elefante"
+        ],
+        [
+          "9º",
+          "8948",
+          "12",
+          "Elefante"
+        ],
+        [
+          "10º",
+          "8040",
+          "10",
+          "Coelho"
+        ]
+      ]
+    },
+    {
       "titulo": "19h - MALUCA - BA - Resultado do dia 27/10/2026 (Terça-feira)",
       "conteudo": [
         [
@@ -1584,6 +1655,59 @@ const resultado = {
           "7308",
           "02",
           "Águia"
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 21h",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "1756",
+          "14",
+          "Gato"
+        ],
+        [
+          "2º",
+          "9828",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "3º",
+          "1059",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "4º",
+          "8338",
+          "10",
+          "Coelho"
+        ],
+        [
+          "5º",
+          "9045",
+          "12",
+          "Elefante"
+        ],
+        [
+          "6º · Soma6º prêmio, soma",
+          "0026",
+          "",
+          ""
+        ],
+        [
+          "7º · Mult.7º prêmio, multiplicação",
+          "257",
+          "",
+          ""
         ]
       ]
     },
