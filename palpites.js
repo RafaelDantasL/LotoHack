@@ -33,6 +33,9 @@ const palpites = {
       "9056"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 3143 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Milhar, Palpite 3243 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 3543 no 5º Prêmio!",
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 3053 no 2º Prêmio!",
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 3153 no 2º Prêmio!",
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 3253 no 2º Prêmio!",
@@ -44,6 +47,45 @@ const palpites = {
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 3043 no 5º Prêmio!",
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 3143 no 5º Prêmio!",
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Milhar, Palpite 3243 no 5º Prêmio!"
+    ]
+  },
+  "PT RIO": {
+    "palpites": [
+      "0231",
+      "0235",
+      "0236",
+      "0201",
+      "0205",
+      "0206",
+      "0241",
+      "0245",
+      "0246",
+      "0431",
+      "0435",
+      "0436",
+      "0401",
+      "0405",
+      "0406",
+      "0441",
+      "0445",
+      "0446",
+      "0531",
+      "0535",
+      "0536",
+      "0501",
+      "0505",
+      "0506",
+      "0541",
+      "0545",
+      "0546",
+      "3231",
+      "3235",
+      "3236"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 2861 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 2361 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 3861 no 5º Prêmio!"
     ]
   }
 };
