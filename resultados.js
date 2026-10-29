@@ -1,6 +1,77 @@
 const resultado = {
   "BAHIA MALUCA": [
     {
+      "titulo": "12h - MALUCA - BA - Resultado do dia 29/10/2026 (Quinta-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "9838",
+          "10",
+          "Coelho"
+        ],
+        [
+          "2º",
+          "4813",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "3º",
+          "5846",
+          "12",
+          "Elefante"
+        ],
+        [
+          "4º",
+          "9444",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "5º",
+          "7158",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "6º",
+          "8369",
+          "18",
+          "Porco"
+        ],
+        [
+          "7º",
+          "5349",
+          "13",
+          "Galo"
+        ],
+        [
+          "8º",
+          "4333",
+          "09",
+          "Cobra"
+        ],
+        [
+          "9º",
+          "2810",
+          "03",
+          "Burro"
+        ],
+        [
+          "10º",
+          "0265",
+          "17",
+          "Macaco"
+        ]
+      ]
+    },
+    {
       "titulo": "10h - MALUCA - Resultado do dia 29/10/2026 (Quinta-feira)",
       "conteudo": [
         [
@@ -73,6 +144,77 @@ const resultado = {
     }
   ],
   "BAHIA": [
+    {
+      "titulo": "12h - BA - Resultado do dia 29/10/2026 (Quinta-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "9549",
+          "13",
+          "Galo"
+        ],
+        [
+          "2º",
+          "4888",
+          "22",
+          "Tigre"
+        ],
+        [
+          "3º",
+          "4413",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "4º",
+          "4638",
+          "10",
+          "Coelho"
+        ],
+        [
+          "5º",
+          "8517",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "6º",
+          "2458",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "7º",
+          "8333",
+          "09",
+          "Cobra"
+        ],
+        [
+          "8º",
+          "1346",
+          "12",
+          "Elefante"
+        ],
+        [
+          "9º",
+          "0399",
+          "25",
+          "Vaca"
+        ],
+        [
+          "10º",
+          "5620",
+          "05",
+          "Cachorro"
+        ]
+      ]
+    },
     {
       "titulo": "10h - BA - Resultado do dia 29/10/2026 (Quinta-feira)",
       "conteudo": [
@@ -1085,6 +1227,59 @@ const resultado = {
     }
   ],
   "PT SP": [
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 12:00 - PTSP",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "9137",
+          "10",
+          "Coelho"
+        ],
+        [
+          "2º",
+          "9113",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "3º",
+          "3766",
+          "17",
+          "Macaco"
+        ],
+        [
+          "4º",
+          "2805",
+          "02",
+          "Águia"
+        ],
+        [
+          "5º",
+          "1523",
+          "06",
+          "Cabra"
+        ],
+        [
+          "6º · Soma6º prêmio, soma",
+          "6344",
+          "",
+          ""
+        ],
+        [
+          "7º · Mult.7º prêmio, multiplicação",
+          "265",
+          "",
+          ""
+        ]
+      ]
+    },
     {
       "titulo": "Resultado do Jogo do Bicho SP, 10hs - PTSP",
       "conteudo": [
