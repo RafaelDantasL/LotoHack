@@ -33,6 +33,10 @@ const palpites = {
       "6971"
     ],
     "frases": [
+      "10h - MALUCA - Resultado do dia 30/10/2026 (Sexta-feira)\nDeu Dezena, Palpite 1234 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 30/10/2026 (Sexta-feira)\nDeu Dezena, Palpite 1434 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 30/10/2026 (Sexta-feira)\nDeu Dezena, Palpite 1834 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 30/10/2026 (Sexta-feira)\nDeu Dezena, Palpite 6234 no 1º Prêmio!",
       "10h - MALUCA - Resultado do dia 30/10/2026 (Sexta-feira)\nDeu Centena, Palpite 3974 no 5º Prêmio!",
       "10h - MALUCA - Resultado do dia 30/10/2026 (Sexta-feira)\nDeu Dezena, Palpite 3974 no 5º Prêmio!",
       "10h - MALUCA - Resultado do dia 30/10/2026 (Sexta-feira)\nDeu Dezena, Palpite 3374 no 5º Prêmio!",
@@ -90,6 +94,12 @@ const palpites = {
       "9791"
     ],
     "frases": [
+      "10h - BA - Resultado do dia 30/10/2026 (Sexta-feira)\nDeu Dezena, Palpite 3289 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 30/10/2026 (Sexta-feira)\nDeu Dezena, Palpite 3389 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 30/10/2026 (Sexta-feira)\nDeu Dezena, Palpite 3189 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 30/10/2026 (Sexta-feira)\nDeu Dezena, Palpite 3285 no 8º Prêmio!",
+      "10h - BA - Resultado do dia 30/10/2026 (Sexta-feira)\nDeu Dezena, Palpite 3385 no 8º Prêmio!",
+      "10h - BA - Resultado do dia 30/10/2026 (Sexta-feira)\nDeu Dezena, Palpite 3185 no 8º Prêmio!",
       "10h - BA - Resultado do dia 30/10/2026 (Sexta-feira)\nDeu Milhar, Palpite 4789 no 2º Prêmio!",
       "10h - BA - Resultado do dia 30/10/2026 (Sexta-feira)\nDeu Dezena, Palpite 4389 no 2º Prêmio!",
       "10h - BA - Resultado do dia 30/10/2026 (Sexta-feira)\nDeu Dezena, Palpite 4089 no 2º Prêmio!",
@@ -249,37 +259,13 @@ const palpites = {
       "1820"
     ],
     "frases": [
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Centena, Palpite 1706 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 1706 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 1206 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 1106 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Milhar, Palpite 0595 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 0795 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 0095 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 0566 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 0766 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 0066 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 5566 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 0595 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 0795 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Centena, Palpite 0095 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 0095 no 7º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 0561 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 0761 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 0061 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 5561 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 0561 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Centena, Palpite 0761 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 0761 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 0061 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 5561 no 9º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 0506 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Centena, Palpite 0706 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 0706 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 0006 no 10º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 0596 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 0796 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 0096 no 5º Prêmio!"
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 8826 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 8926 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 8026 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 1826 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 8862 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Milhar, Palpite 8962 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 8062 no 9º Prêmio!"
     ]
   },
   "PT RIO": {
