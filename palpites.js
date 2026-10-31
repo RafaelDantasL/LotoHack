@@ -32,29 +32,7 @@ const palpites = {
       "8027",
       "8020"
     ],
-    "frases": [
-      "10h - MALUCA - Resultado do dia 30/10/2026 (Sexta-feira)\nDeu Centena, Palpite 3974 no 5º Prêmio!",
-      "10h - MALUCA - Resultado do dia 30/10/2026 (Sexta-feira)\nDeu Dezena, Palpite 3974 no 5º Prêmio!",
-      "10h - MALUCA - Resultado do dia 30/10/2026 (Sexta-feira)\nDeu Dezena, Palpite 3374 no 5º Prêmio!",
-      "10h - MALUCA - Resultado do dia 30/10/2026 (Sexta-feira)\nDeu Dezena, Palpite 3474 no 5º Prêmio!",
-      "10h - MALUCA - Resultado do dia 30/10/2026 (Sexta-feira)\nDeu Centena, Palpite 6974 no 5º Prêmio!",
-      "10h - MALUCA - Resultado do dia 30/10/2026 (Sexta-feira)\nDeu Dezena, Palpite 6974 no 5º Prêmio!",
-      "10h - MALUCA - Resultado do dia 30/10/2026 (Sexta-feira)\nDeu Dezena, Palpite 3989 no 7º Prêmio!",
-      "10h - MALUCA - Resultado do dia 30/10/2026 (Sexta-feira)\nDeu Centena, Palpite 3389 no 7º Prêmio!",
-      "10h - MALUCA - Resultado do dia 30/10/2026 (Sexta-feira)\nDeu Dezena, Palpite 3389 no 7º Prêmio!",
-      "10h - MALUCA - Resultado do dia 30/10/2026 (Sexta-feira)\nDeu Dezena, Palpite 3489 no 7º Prêmio!",
-      "10h - MALUCA - Resultado do dia 30/10/2026 (Sexta-feira)\nDeu Dezena, Palpite 3971 no 8º Prêmio!",
-      "10h - MALUCA - Resultado do dia 30/10/2026 (Sexta-feira)\nDeu Milhar, Palpite 3371 no 8º Prêmio!",
-      "10h - MALUCA - Resultado do dia 30/10/2026 (Sexta-feira)\nDeu Dezena, Palpite 3471 no 8º Prêmio!",
-      "10h - MALUCA - Resultado do dia 30/10/2026 (Sexta-feira)\nDeu Dezena, Palpite 6971 no 8º Prêmio!",
-      "10h - MALUCA - Resultado do dia 30/10/2026 (Sexta-feira)\nDeu Dezena, Palpite 3974 no 9º Prêmio!",
-      "10h - MALUCA - Resultado do dia 30/10/2026 (Sexta-feira)\nDeu Dezena, Palpite 3374 no 9º Prêmio!",
-      "10h - MALUCA - Resultado do dia 30/10/2026 (Sexta-feira)\nDeu Dezena, Palpite 3474 no 9º Prêmio!",
-      "10h - MALUCA - Resultado do dia 30/10/2026 (Sexta-feira)\nDeu Dezena, Palpite 6974 no 9º Prêmio!",
-      "10h - MALUCA - Resultado do dia 30/10/2026 (Sexta-feira)\nDeu Milhar, Palpite 3909 no 10º Prêmio!",
-      "10h - MALUCA - Resultado do dia 30/10/2026 (Sexta-feira)\nDeu Dezena, Palpite 3309 no 10º Prêmio!",
-      "10h - MALUCA - Resultado do dia 30/10/2026 (Sexta-feira)\nDeu Dezena, Palpite 3409 no 10º Prêmio!"
-    ]
+    "frases": []
   },
   "BAHIA": {
     "palpites": [
@@ -96,6 +74,41 @@ const palpites = {
       "10h - BA - Resultado do dia 31/10/2026 (Sábado)\nDeu Dezena, Palpite 4099 no 4º Prêmio!",
       "10h - BA - Resultado do dia 31/10/2026 (Sábado)\nDeu Dezena, Palpite 9799 no 4º Prêmio!"
     ]
+  },
+  "LOTECE": {
+    "palpites": [
+      "0757",
+      "0758",
+      "0759",
+      "0707",
+      "0708",
+      "0709",
+      "0727",
+      "0728",
+      "0729",
+      "0357",
+      "0358",
+      "0359",
+      "0307",
+      "0308",
+      "0309",
+      "0327",
+      "0328",
+      "0329",
+      "0057",
+      "0058",
+      "0059",
+      "0007",
+      "0008",
+      "0009",
+      "0027",
+      "0028",
+      "0029",
+      "3757",
+      "3758",
+      "3759"
+    ],
+    "frases": []
   },
   "LOOK/GOIAS": {
     "palpites": [
@@ -186,13 +199,6 @@ const palpites = {
       "4868"
     ],
     "frases": [
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Centena, Palpite 8866 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 8866 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 8966 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 8066 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 8866 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 8966 no 8º Prêmio!",
-      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 8066 no 8º Prêmio!",
       "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 0804 no 1º Prêmio!",
       "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Centena, Palpite 0004 no 1º Prêmio!",
       "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 0004 no 1º Prêmio!",
@@ -284,6 +290,9 @@ const palpites = {
       "0835"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0541 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0141 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0641 no 1º Prêmio!",
       "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Milhar, Palpite 8941 no 1º Prêmio!",
       "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 8841 no 1º Prêmio!",
       "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Centena, Palpite 0941 no 1º Prêmio!",
