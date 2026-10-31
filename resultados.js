@@ -1,6 +1,77 @@
 const resultado = {
   "BAHIA MALUCA": [
     {
+      "titulo": "21h - MALUCA - BA - Resultado do dia 30/10/2026 (Sexta-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "1650",
+          "13",
+          "Galo"
+        ],
+        [
+          "2º",
+          "8314",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "3º",
+          "0763",
+          "16",
+          "Leão"
+        ],
+        [
+          "4º",
+          "8195",
+          "24",
+          "Veado"
+        ],
+        [
+          "5º",
+          "2215",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "6º",
+          "7662",
+          "16",
+          "Leão"
+        ],
+        [
+          "7º",
+          "9847",
+          "12",
+          "Elefante"
+        ],
+        [
+          "8º",
+          "8709",
+          "03",
+          "Burro"
+        ],
+        [
+          "9º",
+          "6684",
+          "21",
+          "Touro"
+        ],
+        [
+          "10º",
+          "4056",
+          "14",
+          "Gato"
+        ]
+      ]
+    },
+    {
       "titulo": "19h - MALUCA - BA - Resultado do dia 30/10/2026 (Sexta-feira)",
       "conteudo": [
         [
@@ -2637,6 +2708,100 @@ const resultado = {
     }
   ],
   "PT RIO": [
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 21:20, CORUJA",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "5480",
+          "20",
+          "Peru"
+        ],
+        [
+          "2º",
+          "4846",
+          "12",
+          "Elefante"
+        ],
+        [
+          "3º",
+          "1003",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "4º",
+          "0311",
+          "03",
+          "Burro"
+        ],
+        [
+          "5º",
+          "4582",
+          "21",
+          "Touro"
+        ],
+        [
+          "6º · Soma6º prêmio, soma",
+          "6222",
+          "",
+          ""
+        ],
+        [
+          "7º · Mult.7º prêmio, multiplicação",
+          "556",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 21:20, CORUJA",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "6º",
+          "5410",
+          "03",
+          "Burro"
+        ],
+        [
+          "7º",
+          "4803",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "8º",
+          "8401",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "9º",
+          "0631",
+          "08",
+          "Camelo"
+        ],
+        [
+          "10º",
+          "5467",
+          "17",
+          "Macaco"
+        ]
+      ]
+    },
     {
       "titulo": "Resultado do Jogo do Bicho RJ, 18:20, PTN",
       "conteudo": [
