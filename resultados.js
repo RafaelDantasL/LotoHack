@@ -74,6 +74,77 @@ const resultado = {
   ],
   "BAHIA": [
     {
+      "titulo": "11h FEDERAL - BA - Resultado do dia 01/11/2026 (Domingo)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "6338",
+          "10",
+          "Coelho"
+        ],
+        [
+          "2º",
+          "1871",
+          "18",
+          "Porco"
+        ],
+        [
+          "3º",
+          "4389",
+          "23",
+          "Urso"
+        ],
+        [
+          "4º",
+          "2267",
+          "17",
+          "Macaco"
+        ],
+        [
+          "5º",
+          "0022",
+          "06",
+          "Cabra"
+        ],
+        [
+          "6º",
+          "1553",
+          "14",
+          "Gato"
+        ],
+        [
+          "7º",
+          "4163",
+          "16",
+          "Leão"
+        ],
+        [
+          "8º",
+          "0103",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "9º",
+          "4888",
+          "22",
+          "Tigre"
+        ],
+        [
+          "10º",
+          "9089",
+          "23",
+          "Urso"
+        ]
+      ]
+    },
+    {
       "titulo": "10h - BA - Resultado do dia 01/11/2026 (Domingo)",
       "conteudo": [
         [
@@ -574,6 +645,59 @@ const resultado = {
           "8246",
           "12",
           "Elefante"
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 11h",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "9011",
+          "03",
+          "Burro"
+        ],
+        [
+          "2º",
+          "5647",
+          "12",
+          "Elefante"
+        ],
+        [
+          "3º",
+          "3789",
+          "23",
+          "Urso"
+        ],
+        [
+          "4º",
+          "2846",
+          "12",
+          "Elefante"
+        ],
+        [
+          "5º",
+          "0010",
+          "03",
+          "Burro"
+        ],
+        [
+          "6º · Soma6º prêmio, soma",
+          "1303",
+          "",
+          ""
+        ],
+        [
+          "7º · Mult.7º prêmio, multiplicação",
+          "885",
+          "",
+          ""
         ]
       ]
     },
