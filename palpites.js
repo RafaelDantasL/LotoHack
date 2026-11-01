@@ -33,6 +33,12 @@ const palpites = {
       "0830"
     ],
     "frases": [
+      "10h - MALUCA - Resultado do dia 01/11/2026 (Domingo)\nDeu Dezena, Palpite 5037 no 3º Prêmio!",
+      "10h - MALUCA - Resultado do dia 01/11/2026 (Domingo)\nDeu Dezena, Palpite 5537 no 3º Prêmio!",
+      "10h - MALUCA - Resultado do dia 01/11/2026 (Domingo)\nDeu Dezena, Palpite 5837 no 3º Prêmio!",
+      "10h - MALUCA - Resultado do dia 01/11/2026 (Domingo)\nDeu Dezena, Palpite 5030 no 10º Prêmio!",
+      "10h - MALUCA - Resultado do dia 01/11/2026 (Domingo)\nDeu Dezena, Palpite 5530 no 10º Prêmio!",
+      "10h - MALUCA - Resultado do dia 01/11/2026 (Domingo)\nDeu Dezena, Palpite 5830 no 10º Prêmio!",
       "10h - MALUCA - Resultado do dia 01/11/2026 (Domingo)\nDeu Dezena, Palpite 2872 no 5º Prêmio!",
       "10h - MALUCA - Resultado do dia 01/11/2026 (Domingo)\nDeu Milhar, Palpite 2072 no 5º Prêmio!",
       "10h - MALUCA - Resultado do dia 01/11/2026 (Domingo)\nDeu Dezena, Palpite 2272 no 5º Prêmio!",
