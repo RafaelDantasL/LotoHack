@@ -1,6 +1,77 @@
 const resultado = {
   "BAHIA MALUCA": [
     {
+      "titulo": "21h - MALUCA - BA - Resultado do dia 31/10/2026 (Sábado)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "9701",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "2º",
+          "4587",
+          "22",
+          "Tigre"
+        ],
+        [
+          "3º",
+          "2086",
+          "22",
+          "Tigre"
+        ],
+        [
+          "4º",
+          "4162",
+          "16",
+          "Leão"
+        ],
+        [
+          "5º",
+          "1249",
+          "13",
+          "Galo"
+        ],
+        [
+          "6º",
+          "7821",
+          "06",
+          "Cabra"
+        ],
+        [
+          "7º",
+          "2164",
+          "16",
+          "Leão"
+        ],
+        [
+          "8º",
+          "3726",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "9º",
+          "2608",
+          "02",
+          "Águia"
+        ],
+        [
+          "10º",
+          "4457",
+          "15",
+          "Jacaré"
+        ]
+      ]
+    },
+    {
       "titulo": "19h - MALUCA - BA - Resultado do dia 31/10/2026 (Sábado)",
       "conteudo": [
         [
