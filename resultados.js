@@ -516,6 +516,77 @@ const resultado = {
       ]
     },
     {
+      "titulo": "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "3571",
+          "18",
+          "Porco"
+        ],
+        [
+          "2º",
+          "9982",
+          "21",
+          "Touro"
+        ],
+        [
+          "3º",
+          "3831",
+          "08",
+          "Camelo"
+        ],
+        [
+          "4º",
+          "6037",
+          "10",
+          "Coelho"
+        ],
+        [
+          "5º",
+          "0906",
+          "02",
+          "Águia"
+        ],
+        [
+          "6º",
+          "3936",
+          "09",
+          "Cobra"
+        ],
+        [
+          "7º",
+          "5980",
+          "20",
+          "Peru"
+        ],
+        [
+          "8º",
+          "7833",
+          "09",
+          "Cobra"
+        ],
+        [
+          "9º",
+          "1217",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "10º",
+          "3293",
+          "24",
+          "Veado"
+        ]
+      ]
+    },
+    {
       "titulo": "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45",
       "conteudo": [
         [
@@ -583,6 +654,77 @@ const resultado = {
           "0765",
           "17",
           "Macaco"
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho LOTEP - PB, 10:45",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "0270",
+          "18",
+          "Porco"
+        ],
+        [
+          "2º",
+          "2978",
+          "20",
+          "Peru"
+        ],
+        [
+          "3º",
+          "6628",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "4º",
+          "6790",
+          "23",
+          "Urso"
+        ],
+        [
+          "5º",
+          "1880",
+          "20",
+          "Peru"
+        ],
+        [
+          "6º",
+          "0266",
+          "17",
+          "Macaco"
+        ],
+        [
+          "7º",
+          "2967",
+          "17",
+          "Macaco"
+        ],
+        [
+          "8º",
+          "7729",
+          "08",
+          "Camelo"
+        ],
+        [
+          "9º",
+          "0880",
+          "20",
+          "Peru"
+        ],
+        [
+          "10º",
+          "0388",
+          "22",
+          "Tigre"
         ]
       ]
     }
