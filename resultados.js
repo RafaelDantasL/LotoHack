@@ -147,7 +147,7 @@ const resultado = {
   ],
   "LOTECE": [
     {
-      "titulo": "Resultado do Jogo do Bicho A FEDERAL DO BRASIL CE - Ceará Federal",
+      "titulo": "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)",
       "conteudo": [
         [
           "Prêmio",
@@ -157,45 +157,63 @@ const resultado = {
         ],
         [
           "1º",
-          "6338",
-          "10",
-          "Coelho"
+          "8258",
+          "15",
+          "Jacaré"
         ],
         [
           "2º",
-          "1871",
-          "18",
-          "Porco"
-        ],
-        [
-          "3º",
-          "4389",
-          "23",
-          "Urso"
-        ],
-        [
-          "4º",
-          "2267",
+          "9968",
           "17",
           "Macaco"
         ],
         [
+          "3º",
+          "7882",
+          "21",
+          "Touro"
+        ],
+        [
+          "4º",
+          "3148",
+          "12",
+          "Elefante"
+        ],
+        [
           "5º",
-          "0022",
-          "06",
-          "Cabra"
+          "9084",
+          "21",
+          "Touro"
         ],
         [
-          "6º · Soma6º prêmio, soma",
-          "4887",
-          "",
-          ""
+          "6º",
+          "9855",
+          "14",
+          "Gato"
         ],
         [
-          "7º · Mult.7º prêmio, multiplicação",
-          "408",
-          "",
-          ""
+          "7º",
+          "6564",
+          "16",
+          "Leão"
+        ],
+        [
+          "8º",
+          "5069",
+          "18",
+          "Porco"
+        ],
+        [
+          "9º",
+          "4600",
+          "25",
+          "Vaca"
+        ],
+        [
+          "10º",
+          "9579",
+          "20",
+          "Peru"
         ]
       ]
     }
@@ -583,6 +601,77 @@ const resultado = {
           "0314",
           "04",
           "Borboleta"
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho LOTEP - PB, 10:45",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "2731",
+          "08",
+          "Camelo"
+        ],
+        [
+          "2º",
+          "5474",
+          "19",
+          "Pavão"
+        ],
+        [
+          "3º",
+          "0224",
+          "06",
+          "Cabra"
+        ],
+        [
+          "4º",
+          "9151",
+          "13",
+          "Galo"
+        ],
+        [
+          "5º",
+          "6700",
+          "25",
+          "Vaca"
+        ],
+        [
+          "6º",
+          "2509",
+          "03",
+          "Burro"
+        ],
+        [
+          "7º",
+          "7421",
+          "06",
+          "Cabra"
+        ],
+        [
+          "8º",
+          "3725",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "9º",
+          "1441",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "10º",
+          "9376",
+          "19",
+          "Pavão"
         ]
       ]
     }
