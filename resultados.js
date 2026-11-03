@@ -287,6 +287,77 @@ const resultado = {
   ],
   "BAHIA": [
     {
+      "titulo": "21h - BA - Resultado do dia 02/11/2026 (Segunda-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "0397",
+          "25",
+          "Vaca"
+        ],
+        [
+          "2º",
+          "2348",
+          "12",
+          "Elefante"
+        ],
+        [
+          "3º",
+          "5696",
+          "24",
+          "Veado"
+        ],
+        [
+          "4º",
+          "2686",
+          "22",
+          "Tigre"
+        ],
+        [
+          "5º",
+          "7895",
+          "24",
+          "Veado"
+        ],
+        [
+          "6º",
+          "5976",
+          "19",
+          "Pavão"
+        ],
+        [
+          "7º",
+          "5059",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "8º",
+          "5570",
+          "18",
+          "Porco"
+        ],
+        [
+          "9º",
+          "0175",
+          "19",
+          "Pavão"
+        ],
+        [
+          "10º",
+          "1560",
+          "15",
+          "Jacaré"
+        ]
+      ]
+    },
+    {
       "titulo": "19h - BA - Resultado do dia 02/11/2026 (Segunda-feira)",
       "conteudo": [
         [
