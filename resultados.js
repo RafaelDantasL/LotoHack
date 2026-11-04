@@ -1,6 +1,77 @@
 const resultado = {
   "BAHIA MALUCA": [
     {
+      "titulo": "21h - MALUCA - BA - Resultado do dia 03/11/2026 (Terça-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "9747",
+          "12",
+          "Elefante"
+        ],
+        [
+          "2º",
+          "4833",
+          "09",
+          "Cobra"
+        ],
+        [
+          "3º",
+          "1299",
+          "25",
+          "Vaca"
+        ],
+        [
+          "4º",
+          "2280",
+          "20",
+          "Peru"
+        ],
+        [
+          "5º",
+          "1051",
+          "13",
+          "Galo"
+        ],
+        [
+          "6º",
+          "4786",
+          "22",
+          "Tigre"
+        ],
+        [
+          "7º",
+          "1850",
+          "13",
+          "Galo"
+        ],
+        [
+          "8º",
+          "1252",
+          "13",
+          "Galo"
+        ],
+        [
+          "9º",
+          "0311",
+          "03",
+          "Burro"
+        ],
+        [
+          "10º",
+          "9120",
+          "05",
+          "Cachorro"
+        ]
+      ]
+    },
+    {
       "titulo": "19h - MALUCA - BA - Resultado do dia 03/11/2026 (Terça-feira)",
       "conteudo": [
         [
@@ -286,6 +357,77 @@ const resultado = {
     }
   ],
   "BAHIA": [
+    {
+      "titulo": "21h - BA - Resultado do dia 03/11/2026 (Terça-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "2149",
+          "13",
+          "Galo"
+        ],
+        [
+          "2º",
+          "2287",
+          "22",
+          "Tigre"
+        ],
+        [
+          "3º",
+          "8934",
+          "09",
+          "Cobra"
+        ],
+        [
+          "4º",
+          "0937",
+          "10",
+          "Coelho"
+        ],
+        [
+          "5º",
+          "1501",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "6º",
+          "0114",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "7º",
+          "3287",
+          "22",
+          "Tigre"
+        ],
+        [
+          "8º",
+          "1558",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "9º",
+          "1206",
+          "02",
+          "Águia"
+        ],
+        [
+          "10º",
+          "0219",
+          "05",
+          "Cachorro"
+        ]
+      ]
+    },
     {
       "titulo": "19h - BA - Resultado do dia 03/11/2026 (Terça-feira)",
       "conteudo": [
