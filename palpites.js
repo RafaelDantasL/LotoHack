@@ -170,6 +170,53 @@ const palpites = {
       "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 3813 no 6º Prêmio!"
     ]
   },
+  "LOTEP": {
+    "palpites": [
+      "3217",
+      "3210",
+      "3212",
+      "3277",
+      "3270",
+      "3272",
+      "3207",
+      "3200",
+      "3202",
+      "3917",
+      "3910",
+      "3912",
+      "3977",
+      "3970",
+      "3972",
+      "3907",
+      "3900",
+      "3902",
+      "3017",
+      "3010",
+      "3012",
+      "3077",
+      "3070",
+      "3072",
+      "3007",
+      "3000",
+      "3002",
+      "7217",
+      "7210",
+      "7212"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 5585 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Centena, Palpite 5685 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 5685 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 5185 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 5595 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Centena, Palpite 5695 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 5695 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 5195 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 5595 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 5695 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 5195 no 9º Prêmio!"
+    ]
+  },
   "PT RIO": {
     "palpites": [
       "8262",
@@ -227,6 +274,58 @@ const palpites = {
       "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Centena, Palpite 2262 no 4º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 2262 no 4º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 2162 no 4º Prêmio!"
+    ]
+  },
+  "PT SP": {
+    "palpites": [
+      "6636",
+      "6631",
+      "6637",
+      "6666",
+      "6661",
+      "6667",
+      "6676",
+      "6671",
+      "6677",
+      "6236",
+      "6231",
+      "6237",
+      "6266",
+      "6261",
+      "6267",
+      "6276",
+      "6271",
+      "6277",
+      "6436",
+      "6431",
+      "6437",
+      "6466",
+      "6461",
+      "6467",
+      "6476",
+      "6471",
+      "6477",
+      "7636",
+      "7631",
+      "7637"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 6667 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Centena, Palpite 6267 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 6267 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 6467 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 6636 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 6236 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 6436 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 7636 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 6631 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 6231 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Centena, Palpite 6431 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 6431 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 7631 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Milhar, Palpite 6676 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 6276 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 6476 no 5º Prêmio!"
     ]
   }
 };
