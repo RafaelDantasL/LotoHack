@@ -114,41 +114,6 @@ const palpites = {
       "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 4031 no 8º Prêmio!"
     ]
   },
-  "LOTEP": {
-    "palpites": [
-      "0409",
-      "0400",
-      "0403",
-      "0419",
-      "0410",
-      "0413",
-      "0429",
-      "0420",
-      "0423",
-      "0209",
-      "0200",
-      "0203",
-      "0219",
-      "0210",
-      "0213",
-      "0229",
-      "0220",
-      "0223",
-      "0309",
-      "0300",
-      "0303",
-      "0319",
-      "0310",
-      "0313",
-      "0329",
-      "0320",
-      "0323",
-      "1409",
-      "1400",
-      "1403"
-    ],
-    "frases": []
-  },
   "LOOK/GOIAS": {
     "palpites": [
       "2632",
@@ -197,6 +162,45 @@ const palpites = {
       "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 6032 no 4º Prêmio!",
       "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 6632 no 4º Prêmio!",
       "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 6732 no 4º Prêmio!"
+    ]
+  },
+  "LOTEP": {
+    "palpites": [
+      "0409",
+      "0400",
+      "0403",
+      "0419",
+      "0410",
+      "0413",
+      "0429",
+      "0420",
+      "0423",
+      "0209",
+      "0200",
+      "0203",
+      "0219",
+      "0210",
+      "0213",
+      "0229",
+      "0220",
+      "0223",
+      "0309",
+      "0300",
+      "0303",
+      "0319",
+      "0310",
+      "0313",
+      "0329",
+      "0320",
+      "0323",
+      "1409",
+      "1400",
+      "1403"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 0419 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 0219 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 0319 no 6º Prêmio!"
     ]
   },
   "PT RIO": {
