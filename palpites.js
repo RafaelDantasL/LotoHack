@@ -33,9 +33,6 @@ const palpites = {
       "4011"
     ],
     "frases": [
-      "10h - MALUCA - Resultado do dia 07/11/2026 (Sábado)\nDeu Dezena, Palpite 5668 no 3º Prêmio!",
-      "10h - MALUCA - Resultado do dia 07/11/2026 (Sábado)\nDeu Dezena, Palpite 5468 no 3º Prêmio!",
-      "10h - MALUCA - Resultado do dia 07/11/2026 (Sábado)\nDeu Dezena, Palpite 5868 no 3º Prêmio!",
       "10h - MALUCA - Resultado do dia 07/11/2026 (Sábado)\nDeu Dezena, Palpite 1026 no 4º Prêmio!",
       "10h - MALUCA - Resultado do dia 07/11/2026 (Sábado)\nDeu Milhar, Palpite 1226 no 4º Prêmio!",
       "10h - MALUCA - Resultado do dia 07/11/2026 (Sábado)\nDeu Dezena, Palpite 1526 no 4º Prêmio!",
@@ -91,9 +88,6 @@ const palpites = {
       "2181"
     ],
     "frases": [
-      "10h - BA - Resultado do dia 07/11/2026 (Sábado)\nDeu Dezena, Palpite 6905 no 3º Prêmio!",
-      "10h - BA - Resultado do dia 07/11/2026 (Sábado)\nDeu Dezena, Palpite 6005 no 3º Prêmio!",
-      "10h - BA - Resultado do dia 07/11/2026 (Sábado)\nDeu Dezena, Palpite 6205 no 3º Prêmio!",
       "10h - BA - Resultado do dia 07/11/2026 (Sábado)\nDeu Dezena, Palpite 6180 no 2º Prêmio!",
       "10h - BA - Resultado do dia 07/11/2026 (Sábado)\nDeu Dezena, Palpite 6580 no 2º Prêmio!",
       "10h - BA - Resultado do dia 07/11/2026 (Sábado)\nDeu Centena, Palpite 6780 no 2º Prêmio!",
@@ -147,6 +141,15 @@ const palpites = {
       "3401"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho LOTECE - CE, 12:00 (manhã)\nDeu Dezena, Palpite 3380 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 12:00 (manhã)\nDeu Centena, Palpite 3480 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 12:00 (manhã)\nDeu Dezena, Palpite 3480 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 12:00 (manhã)\nDeu Dezena, Palpite 3780 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 12:00 (manhã)\nDeu Dezena, Palpite 3320 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 12:00 (manhã)\nDeu Centena, Palpite 3420 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 12:00 (manhã)\nDeu Dezena, Palpite 3420 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 12:00 (manhã)\nDeu Dezena, Palpite 3720 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 12:00 (manhã)\nDeu Dezena, Palpite 8320 no 9º Prêmio!",
       "Resultado do Jogo do Bicho LOTECE - CE, 12:00 (manhã)\nDeu Dezena, Palpite 0413 no 5º Prêmio!",
       "Resultado do Jogo do Bicho LOTECE - CE, 12:00 (manhã)\nDeu Dezena, Palpite 0113 no 5º Prêmio!",
       "Resultado do Jogo do Bicho LOTECE - CE, 12:00 (manhã)\nDeu Centena, Palpite 0913 no 5º Prêmio!",
