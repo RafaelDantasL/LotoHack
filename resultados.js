@@ -814,6 +814,59 @@ const resultado = {
           "Borboleta"
         ]
       ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "4913",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "2º",
+          "2905",
+          "02",
+          "Águia"
+        ],
+        [
+          "3º",
+          "6180",
+          "20",
+          "Peru"
+        ],
+        [
+          "4º",
+          "7255",
+          "14",
+          "Gato"
+        ],
+        [
+          "5º",
+          "4107",
+          "02",
+          "Águia"
+        ],
+        [
+          "6º · Soma6º prêmio, soma",
+          "5360",
+          "",
+          ""
+        ],
+        [
+          "7º · Mult.7º prêmio, multiplicação",
+          "272",
+          "",
+          ""
+        ]
+      ]
     }
   ],
   "LOTEP": [
