@@ -1,7 +1,7 @@
 const resultado = {
   "BAHIA MALUCA": [
     {
-      "titulo": "21h - MALUCA - BA - Resultado do dia 09/11/2026 (Segunda-feira)",
+      "titulo": "10h - MALUCA - Resultado do dia 10/11/2026 (Terça-feira)",
       "conteudo": [
         [
           "Prêmio",
@@ -11,347 +11,63 @@ const resultado = {
         ],
         [
           "1º",
-          "3432",
-          "08",
-          "Camelo"
-        ],
-        [
-          "2º",
-          "9344",
-          "11",
-          "Cavalo"
-        ],
-        [
-          "3º",
-          "2997",
+          "9597",
           "25",
           "Vaca"
         ],
         [
-          "4º",
-          "8909",
-          "03",
-          "Burro"
-        ],
-        [
-          "5º",
-          "7941",
-          "11",
-          "Cavalo"
-        ],
-        [
-          "6º",
-          "1562",
-          "16",
-          "Leão"
-        ],
-        [
-          "7º",
-          "6631",
-          "08",
-          "Camelo"
-        ],
-        [
-          "8º",
-          "6801",
-          "01",
-          "Avestruz"
-        ],
-        [
-          "9º",
-          "0468",
-          "17",
-          "Macaco"
-        ],
-        [
-          "10º",
-          "7709",
-          "03",
-          "Burro"
-        ]
-      ]
-    },
-    {
-      "titulo": "19h - MALUCA - BA - Resultado do dia 09/11/2026 (Segunda-feira)",
-      "conteudo": [
-        [
-          "Prêmio",
-          "Milhar",
-          "Grupo",
-          "Bicho"
-        ],
-        [
-          "1º",
-          "4290",
-          "23",
-          "Urso"
-        ],
-        [
           "2º",
-          "8979",
-          "20",
-          "Peru"
-        ],
-        [
-          "3º",
-          "6242",
-          "11",
-          "Cavalo"
-        ],
-        [
-          "4º",
-          "0382",
-          "21",
-          "Touro"
-        ],
-        [
-          "5º",
-          "1797",
-          "25",
-          "Vaca"
-        ],
-        [
-          "6º",
-          "9546",
-          "12",
-          "Elefante"
-        ],
-        [
-          "7º",
-          "7095",
-          "24",
-          "Veado"
-        ],
-        [
-          "8º",
-          "3496",
-          "24",
-          "Veado"
-        ],
-        [
-          "9º",
-          "0220",
-          "05",
-          "Cachorro"
-        ],
-        [
-          "10º",
-          "9199",
-          "25",
-          "Vaca"
-        ]
-      ]
-    },
-    {
-      "titulo": "15h - MALUCA - BA - Resultado do dia 09/11/2026 (Segunda-feira)",
-      "conteudo": [
-        [
-          "Prêmio",
-          "Milhar",
-          "Grupo",
-          "Bicho"
-        ],
-        [
-          "1º",
-          "0880",
-          "20",
-          "Peru"
-        ],
-        [
-          "2º",
-          "1270",
-          "18",
-          "Porco"
-        ],
-        [
-          "3º",
-          "2839",
-          "10",
-          "Coelho"
-        ],
-        [
-          "4º",
-          "7289",
-          "23",
-          "Urso"
-        ],
-        [
-          "5º",
-          "2704",
-          "01",
-          "Avestruz"
-        ],
-        [
-          "6º",
-          "2803",
-          "01",
-          "Avestruz"
-        ],
-        [
-          "7º",
-          "7943",
-          "11",
-          "Cavalo"
-        ],
-        [
-          "8º",
-          "5470",
-          "18",
-          "Porco"
-        ],
-        [
-          "9º",
-          "8191",
-          "23",
-          "Urso"
-        ],
-        [
-          "10º",
-          "5067",
-          "17",
-          "Macaco"
-        ]
-      ]
-    },
-    {
-      "titulo": "12h - MALUCA - BA - Resultado do dia 09/11/2026 (Segunda-feira)",
-      "conteudo": [
-        [
-          "Prêmio",
-          "Milhar",
-          "Grupo",
-          "Bicho"
-        ],
-        [
-          "1º",
-          "2793",
-          "24",
-          "Veado"
-        ],
-        [
-          "2º",
-          "4816",
-          "04",
-          "Borboleta"
-        ],
-        [
-          "3º",
-          "8561",
-          "16",
-          "Leão"
-        ],
-        [
-          "4º",
-          "5382",
-          "21",
-          "Touro"
-        ],
-        [
-          "5º",
-          "6425",
-          "07",
-          "Carneiro"
-        ],
-        [
-          "6º",
-          "2931",
-          "08",
-          "Camelo"
-        ],
-        [
-          "7º",
-          "0275",
-          "19",
-          "Pavão"
-        ],
-        [
-          "8º",
-          "9165",
-          "17",
-          "Macaco"
-        ],
-        [
-          "9º",
-          "6634",
+          "2735",
           "09",
           "Cobra"
         ],
         [
-          "10º",
-          "1347",
+          "3º",
+          "5646",
           "12",
           "Elefante"
-        ]
-      ]
-    },
-    {
-      "titulo": "10h - MALUCA - Resultado do dia 09/11/2026 (Segunda-feira)",
-      "conteudo": [
-        [
-          "Prêmio",
-          "Milhar",
-          "Grupo",
-          "Bicho"
         ],
         [
-          "1º",
-          "8554",
+          "4º",
+          "3427",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "5º",
+          "0853",
           "14",
           "Gato"
         ],
         [
-          "2º",
-          "3411",
-          "03",
-          "Burro"
-        ],
-        [
-          "3º",
-          "2700",
-          "25",
-          "Vaca"
-        ],
-        [
-          "4º",
-          "4998",
-          "25",
-          "Vaca"
-        ],
-        [
-          "5º",
-          "9764",
-          "16",
-          "Leão"
-        ],
-        [
           "6º",
-          "7047",
-          "12",
-          "Elefante"
+          "5701",
+          "01",
+          "Avestruz"
         ],
         [
           "7º",
-          "1540",
-          "10",
-          "Coelho"
+          "2617",
+          "05",
+          "Cachorro"
         ],
         [
           "8º",
-          "3743",
+          "4643",
           "11",
           "Cavalo"
         ],
         [
           "9º",
-          "3016",
-          "04",
-          "Borboleta"
+          "3452",
+          "13",
+          "Galo"
         ],
         [
           "10º",
-          "9409",
-          "03",
-          "Burro"
+          "6740",
+          "10",
+          "Coelho"
         ]
       ]
     }
@@ -1483,6 +1199,100 @@ const resultado = {
     }
   ],
   "PT SP": [
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 10hs - PTSP",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "2167",
+          "17",
+          "Macaco"
+        ],
+        [
+          "2º",
+          "0924",
+          "06",
+          "Cabra"
+        ],
+        [
+          "3º",
+          "5331",
+          "08",
+          "Camelo"
+        ],
+        [
+          "4º",
+          "1813",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "5º",
+          "3807",
+          "02",
+          "Águia"
+        ],
+        [
+          "6º · Soma6º prêmio, soma",
+          "4042",
+          "",
+          ""
+        ],
+        [
+          "7º · Mult.7º prêmio, multiplicação",
+          "002",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 10hs - PTSP",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "6º",
+          "2051",
+          "13",
+          "Galo"
+        ],
+        [
+          "7º",
+          "1938",
+          "10",
+          "Coelho"
+        ],
+        [
+          "8º",
+          "6231",
+          "08",
+          "Camelo"
+        ],
+        [
+          "9º",
+          "7413",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "10º",
+          "1675",
+          "19",
+          "Pavão"
+        ]
+      ]
+    },
     {
       "titulo": "Resultado do Jogo do Bicho SP, 08hs - PTSP",
       "conteudo": [
