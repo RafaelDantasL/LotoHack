@@ -1974,476 +1974,6 @@ const resultado = {
   ],
   "PT RIO": [
     {
-      "titulo": "Resultado do Jogo do Bicho RJ, 21:20, CORUJA",
-      "conteudo": [
-        [
-          "Prêmio",
-          "Milhar",
-          "Grupo",
-          "Bicho"
-        ],
-        [
-          "1º",
-          "1040",
-          "10",
-          "Coelho"
-        ],
-        [
-          "2º",
-          "3285",
-          "22",
-          "Tigre"
-        ],
-        [
-          "3º",
-          "3619",
-          "05",
-          "Cachorro"
-        ],
-        [
-          "4º",
-          "3031",
-          "08",
-          "Camelo"
-        ],
-        [
-          "5º",
-          "8383",
-          "21",
-          "Touro"
-        ],
-        [
-          "6º · Soma6º prêmio, soma",
-          "9358",
-          "",
-          ""
-        ],
-        [
-          "7º · Mult.7º prêmio, multiplicação",
-          "416",
-          "",
-          ""
-        ]
-      ]
-    },
-    {
-      "titulo": "Resultado do Jogo do Bicho RJ, 21:20, CORUJA",
-      "conteudo": [
-        [
-          "Prêmio",
-          "Milhar",
-          "Grupo",
-          "Bicho"
-        ],
-        [
-          "6º",
-          "1333",
-          "09",
-          "Cobra"
-        ],
-        [
-          "7º",
-          "0260",
-          "15",
-          "Jacaré"
-        ],
-        [
-          "8º",
-          "4813",
-          "04",
-          "Borboleta"
-        ],
-        [
-          "9º",
-          "0591",
-          "23",
-          "Urso"
-        ],
-        [
-          "10º",
-          "6355",
-          "14",
-          "Gato"
-        ]
-      ]
-    },
-    {
-      "titulo": "Resultado do Jogo do Bicho RJ, 18:20, PTN",
-      "conteudo": [
-        [
-          "Prêmio",
-          "Milhar",
-          "Grupo",
-          "Bicho"
-        ],
-        [
-          "1º",
-          "2626",
-          "07",
-          "Carneiro"
-        ],
-        [
-          "2º",
-          "1763",
-          "16",
-          "Leão"
-        ],
-        [
-          "3º",
-          "3797",
-          "25",
-          "Vaca"
-        ],
-        [
-          "4º",
-          "8050",
-          "13",
-          "Galo"
-        ],
-        [
-          "5º",
-          "4831",
-          "08",
-          "Camelo"
-        ],
-        [
-          "6º · Soma6º prêmio, soma",
-          "1067",
-          "",
-          ""
-        ],
-        [
-          "7º · Mult.7º prêmio, multiplicação",
-          "629",
-          "",
-          ""
-        ]
-      ]
-    },
-    {
-      "titulo": "Resultado do Jogo do Bicho RJ, 18:20, PTN",
-      "conteudo": [
-        [
-          "Prêmio",
-          "Milhar",
-          "Grupo",
-          "Bicho"
-        ],
-        [
-          "6º",
-          "2138",
-          "10",
-          "Coelho"
-        ],
-        [
-          "7º",
-          "6770",
-          "18",
-          "Porco"
-        ],
-        [
-          "8º",
-          "2695",
-          "24",
-          "Veado"
-        ],
-        [
-          "9º",
-          "6370",
-          "18",
-          "Porco"
-        ],
-        [
-          "10º",
-          "9040",
-          "10",
-          "Coelho"
-        ]
-      ]
-    },
-    {
-      "titulo": "Resultado do Jogo do Bicho RJ, 16:00, PTV",
-      "conteudo": [
-        [
-          "Prêmio",
-          "Milhar",
-          "Grupo",
-          "Bicho"
-        ],
-        [
-          "1º",
-          "2198",
-          "25",
-          "Vaca"
-        ],
-        [
-          "2º",
-          "8164",
-          "16",
-          "Leão"
-        ],
-        [
-          "3º",
-          "4839",
-          "10",
-          "Coelho"
-        ],
-        [
-          "4º",
-          "8034",
-          "09",
-          "Cobra"
-        ],
-        [
-          "5º",
-          "7201",
-          "01",
-          "Avestruz"
-        ],
-        [
-          "6º · Soma6º prêmio, soma",
-          "0436",
-          "",
-          ""
-        ],
-        [
-          "7º · Mult.7º prêmio, multiplicação",
-          "944",
-          "",
-          ""
-        ]
-      ]
-    },
-    {
-      "titulo": "Resultado do Jogo do Bicho RJ, 16:00, PTV",
-      "conteudo": [
-        [
-          "Prêmio",
-          "Milhar",
-          "Grupo",
-          "Bicho"
-        ],
-        [
-          "6º",
-          "2848",
-          "12",
-          "Elefante"
-        ],
-        [
-          "7º",
-          "1180",
-          "20",
-          "Peru"
-        ],
-        [
-          "8º",
-          "9633",
-          "09",
-          "Cobra"
-        ],
-        [
-          "9º",
-          "8494",
-          "24",
-          "Veado"
-        ],
-        [
-          "10º",
-          "2591",
-          "23",
-          "Urso"
-        ]
-      ]
-    },
-    {
-      "titulo": "Resultado do Jogo do Bicho RJ, 14:20, PT",
-      "conteudo": [
-        [
-          "Prêmio",
-          "Milhar",
-          "Grupo",
-          "Bicho"
-        ],
-        [
-          "1º",
-          "8967",
-          "17",
-          "Macaco"
-        ],
-        [
-          "2º",
-          "8784",
-          "21",
-          "Touro"
-        ],
-        [
-          "3º",
-          "8093",
-          "24",
-          "Veado"
-        ],
-        [
-          "4º",
-          "8250",
-          "13",
-          "Galo"
-        ],
-        [
-          "5º",
-          "0408",
-          "02",
-          "Águia"
-        ],
-        [
-          "6º · Soma6º prêmio, soma",
-          "4502",
-          "",
-          ""
-        ],
-        [
-          "7º · Mult.7º prêmio, multiplicação",
-          "766",
-          "",
-          ""
-        ]
-      ]
-    },
-    {
-      "titulo": "Resultado do Jogo do Bicho RJ, 14:20, PT",
-      "conteudo": [
-        [
-          "Prêmio",
-          "Milhar",
-          "Grupo",
-          "Bicho"
-        ],
-        [
-          "6º",
-          "8888",
-          "22",
-          "Tigre"
-        ],
-        [
-          "7º",
-          "9702",
-          "01",
-          "Avestruz"
-        ],
-        [
-          "8º",
-          "6895",
-          "24",
-          "Veado"
-        ],
-        [
-          "9º",
-          "7430",
-          "08",
-          "Camelo"
-        ],
-        [
-          "10º",
-          "7417",
-          "05",
-          "Cachorro"
-        ]
-      ]
-    },
-    {
-      "titulo": "Resultado do Jogo do Bicho RJ, 11:20, PTM",
-      "conteudo": [
-        [
-          "Prêmio",
-          "Milhar",
-          "Grupo",
-          "Bicho"
-        ],
-        [
-          "1º",
-          "9931",
-          "08",
-          "Camelo"
-        ],
-        [
-          "2º",
-          "0867",
-          "17",
-          "Macaco"
-        ],
-        [
-          "3º",
-          "9320",
-          "05",
-          "Cachorro"
-        ],
-        [
-          "4º",
-          "6070",
-          "18",
-          "Porco"
-        ],
-        [
-          "5º",
-          "4782",
-          "21",
-          "Touro"
-        ],
-        [
-          "6º · Soma6º prêmio, soma",
-          "0970",
-          "",
-          ""
-        ],
-        [
-          "7º · Mult.7º prêmio, multiplicação",
-          "610",
-          "",
-          ""
-        ]
-      ]
-    },
-    {
-      "titulo": "Resultado do Jogo do Bicho RJ, 11:20, PTM",
-      "conteudo": [
-        [
-          "Prêmio",
-          "Milhar",
-          "Grupo",
-          "Bicho"
-        ],
-        [
-          "6º",
-          "9096",
-          "24",
-          "Veado"
-        ],
-        [
-          "7º",
-          "9830",
-          "08",
-          "Camelo"
-        ],
-        [
-          "8º",
-          "3627",
-          "07",
-          "Carneiro"
-        ],
-        [
-          "9º",
-          "1700",
-          "25",
-          "Vaca"
-        ],
-        [
-          "10º",
-          "5223",
-          "06",
-          "Cabra"
-        ]
-      ]
-    },
-    {
       "titulo": "Resultado do Jogo do Bicho RJ, 09:20, PT",
       "conteudo": [
         [
@@ -2454,37 +1984,37 @@ const resultado = {
         ],
         [
           "1º",
-          "1704",
-          "01",
-          "Avestruz"
-        ],
-        [
-          "2º",
-          "1257",
-          "15",
-          "Jacaré"
-        ],
-        [
-          "3º",
-          "0493",
-          "24",
-          "Veado"
-        ],
-        [
-          "4º",
-          "4829",
+          "2730",
           "08",
           "Camelo"
         ],
         [
+          "2º",
+          "8843",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "3º",
+          "8123",
+          "06",
+          "Cabra"
+        ],
+        [
+          "4º",
+          "5473",
+          "19",
+          "Pavão"
+        ],
+        [
           "5º",
-          "6677",
-          "20",
-          "Peru"
+          "0737",
+          "10",
+          "Coelho"
         ],
         [
           "6º · Soma6º prêmio, soma",
-          "4960",
+          "5906",
           "",
           ""
         ],
@@ -2507,33 +2037,33 @@ const resultado = {
         ],
         [
           "6º",
-          "1104",
-          "01",
-          "Avestruz"
+          "2885",
+          "22",
+          "Tigre"
         ],
         [
           "7º",
-          "7248",
-          "12",
-          "Elefante"
+          "7814",
+          "04",
+          "Borboleta"
         ],
         [
           "8º",
-          "0592",
-          "23",
-          "Urso"
+          "3427",
+          "07",
+          "Carneiro"
         ],
         [
           "9º",
-          "4739",
-          "10",
-          "Coelho"
+          "0333",
+          "09",
+          "Cobra"
         ],
         [
           "10º",
-          "8643",
-          "11",
-          "Cavalo"
+          "0365",
+          "17",
+          "Macaco"
         ]
       ]
     }
