@@ -33,10 +33,21 @@ const palpites = {
       "1819"
     ],
     "frases": [
-      "10h - MALUCA - Resultado do dia 12/11/2026 (Quinta-feira)\nDeu Dezena, Palpite 2120 no 10º Prêmio!",
-      "10h - MALUCA - Resultado do dia 12/11/2026 (Quinta-feira)\nDeu Dezena, Palpite 2220 no 10º Prêmio!",
-      "10h - MALUCA - Resultado do dia 12/11/2026 (Quinta-feira)\nDeu Dezena, Palpite 2320 no 10º Prêmio!",
-      "10h - MALUCA - Resultado do dia 12/11/2026 (Quinta-feira)\nDeu Dezena, Palpite 6120 no 10º Prêmio!"
+      "10h - MALUCA - Resultado do dia 12/11/2026 (Quinta-feira)\nDeu Dezena, Palpite 9814 no 7º Prêmio!",
+      "10h - MALUCA - Resultado do dia 12/11/2026 (Quinta-feira)\nDeu Milhar, Palpite 9414 no 7º Prêmio!",
+      "10h - MALUCA - Resultado do dia 12/11/2026 (Quinta-feira)\nDeu Dezena, Palpite 9714 no 7º Prêmio!",
+      "10h - MALUCA - Resultado do dia 12/11/2026 (Quinta-feira)\nDeu Dezena, Palpite 1814 no 7º Prêmio!",
+      "10h - MALUCA - Resultado do dia 12/11/2026 (Quinta-feira)\nDeu Dezena, Palpite 9860 no 8º Prêmio!",
+      "10h - MALUCA - Resultado do dia 12/11/2026 (Quinta-feira)\nDeu Dezena, Palpite 9460 no 8º Prêmio!",
+      "10h - MALUCA - Resultado do dia 12/11/2026 (Quinta-feira)\nDeu Dezena, Palpite 9760 no 8º Prêmio!",
+      "10h - MALUCA - Resultado do dia 12/11/2026 (Quinta-feira)\nDeu Centena, Palpite 9869 no 9º Prêmio!",
+      "10h - MALUCA - Resultado do dia 12/11/2026 (Quinta-feira)\nDeu Dezena, Palpite 9869 no 9º Prêmio!",
+      "10h - MALUCA - Resultado do dia 12/11/2026 (Quinta-feira)\nDeu Dezena, Palpite 9469 no 9º Prêmio!",
+      "10h - MALUCA - Resultado do dia 12/11/2026 (Quinta-feira)\nDeu Dezena, Palpite 9769 no 9º Prêmio!",
+      "10h - MALUCA - Resultado do dia 12/11/2026 (Quinta-feira)\nDeu Dezena, Palpite 9820 no 10º Prêmio!",
+      "10h - MALUCA - Resultado do dia 12/11/2026 (Quinta-feira)\nDeu Dezena, Palpite 9420 no 10º Prêmio!",
+      "10h - MALUCA - Resultado do dia 12/11/2026 (Quinta-feira)\nDeu Centena, Palpite 9720 no 10º Prêmio!",
+      "10h - MALUCA - Resultado do dia 12/11/2026 (Quinta-feira)\nDeu Dezena, Palpite 9720 no 10º Prêmio!"
     ]
   },
   "BAHIA": {
@@ -91,50 +102,6 @@ const palpites = {
       "10h - BA - Resultado do dia 12/11/2026 (Quinta-feira)\nDeu Dezena, Palpite 0344 no 9º Prêmio!",
       "10h - BA - Resultado do dia 12/11/2026 (Quinta-feira)\nDeu Dezena, Palpite 0544 no 9º Prêmio!",
       "10h - BA - Resultado do dia 12/11/2026 (Quinta-feira)\nDeu Dezena, Palpite 0844 no 9º Prêmio!"
-    ]
-  },
-  "PT SP": {
-    "palpites": [
-      "0731",
-      "0732",
-      "0736",
-      "0721",
-      "0722",
-      "0726",
-      "0741",
-      "0742",
-      "0746",
-      "0531",
-      "0532",
-      "0536",
-      "0521",
-      "0522",
-      "0526",
-      "0541",
-      "0542",
-      "0546",
-      "0631",
-      "0632",
-      "0636",
-      "0621",
-      "0622",
-      "0626",
-      "0641",
-      "0642",
-      "0646",
-      "1731",
-      "1732",
-      "1736"
-    ],
-    "frases": [
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0736 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Centena, Palpite 0536 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0536 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0636 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 1736 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0741 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0541 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0641 no 4º Prêmio!"
     ]
   },
   "LOTECE": {
@@ -376,6 +343,58 @@ const palpites = {
       "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 2229 no 5º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Centena, Palpite 4029 no 5º Prêmio!",
       "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 4029 no 5º Prêmio!"
+    ]
+  },
+  "PT SP": {
+    "palpites": [
+      "0731",
+      "0732",
+      "0736",
+      "0721",
+      "0722",
+      "0726",
+      "0741",
+      "0742",
+      "0746",
+      "0531",
+      "0532",
+      "0536",
+      "0521",
+      "0522",
+      "0526",
+      "0541",
+      "0542",
+      "0546",
+      "0631",
+      "0632",
+      "0636",
+      "0621",
+      "0622",
+      "0626",
+      "0641",
+      "0642",
+      "0646",
+      "1731",
+      "1732",
+      "1736"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0736 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Centena, Palpite 0536 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0536 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0636 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 1736 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0741 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0541 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0641 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0736 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Centena, Palpite 0536 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0536 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0636 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 1736 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0741 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0541 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0641 no 4º Prêmio!"
     ]
   }
 };
