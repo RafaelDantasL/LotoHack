@@ -534,6 +534,77 @@ const resultado = {
       ]
     },
     {
+      "titulo": "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "9155",
+          "14",
+          "Gato"
+        ],
+        [
+          "2º",
+          "8706",
+          "02",
+          "Águia"
+        ],
+        [
+          "3º",
+          "0037",
+          "10",
+          "Coelho"
+        ],
+        [
+          "4º",
+          "7427",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "5º",
+          "0202",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "6º",
+          "9807",
+          "02",
+          "Águia"
+        ],
+        [
+          "7º",
+          "1704",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "8º",
+          "5032",
+          "08",
+          "Camelo"
+        ],
+        [
+          "9º",
+          "5677",
+          "20",
+          "Peru"
+        ],
+        [
+          "10º",
+          "7747",
+          "12",
+          "Elefante"
+        ]
+      ]
+    },
+    {
       "titulo": "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45",
       "conteudo": [
         [
@@ -601,6 +672,77 @@ const resultado = {
           "0169",
           "18",
           "Porco"
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho LOTEP - PB, 10:45",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "9325",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "2º",
+          "6862",
+          "16",
+          "Leão"
+        ],
+        [
+          "3º",
+          "2023",
+          "06",
+          "Cabra"
+        ],
+        [
+          "4º",
+          "4238",
+          "10",
+          "Coelho"
+        ],
+        [
+          "5º",
+          "0454",
+          "14",
+          "Gato"
+        ],
+        [
+          "6º",
+          "9624",
+          "06",
+          "Cabra"
+        ],
+        [
+          "7º",
+          "3802",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "8º",
+          "2623",
+          "06",
+          "Cabra"
+        ],
+        [
+          "9º",
+          "5238",
+          "10",
+          "Coelho"
+        ],
+        [
+          "10º",
+          "4189",
+          "23",
+          "Urso"
         ]
       ]
     }
