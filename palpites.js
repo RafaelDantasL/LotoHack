@@ -1,4 +1,47 @@
 const palpites = {
+  "BAHIA": {
+    "palpites": [
+      "0244",
+      "0240",
+      "0242",
+      "0234",
+      "0230",
+      "0232",
+      "0254",
+      "0250",
+      "0252",
+      "0344",
+      "0340",
+      "0342",
+      "0334",
+      "0330",
+      "0332",
+      "0354",
+      "0350",
+      "0352",
+      "0444",
+      "0440",
+      "0442",
+      "0434",
+      "0430",
+      "0432",
+      "0454",
+      "0450",
+      "0452",
+      "6244",
+      "6240",
+      "6242"
+    ],
+    "frases": [
+      "10h - BA - Resultado do dia 13/11/2026 (Sexta-feira)\nDeu Dezena, Palpite 0391 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 13/11/2026 (Sexta-feira)\nDeu Dezena, Palpite 0591 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 13/11/2026 (Sexta-feira)\nDeu Centena, Palpite 0891 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 13/11/2026 (Sexta-feira)\nDeu Dezena, Palpite 0891 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 13/11/2026 (Sexta-feira)\nDeu Dezena, Palpite 0344 no 6º Prêmio!",
+      "10h - BA - Resultado do dia 13/11/2026 (Sexta-feira)\nDeu Dezena, Palpite 0544 no 6º Prêmio!",
+      "10h - BA - Resultado do dia 13/11/2026 (Sexta-feira)\nDeu Dezena, Palpite 0844 no 6º Prêmio!"
+    ]
+  },
   "BAHIA MALUCA": {
     "palpites": [
       "9810",
@@ -34,38 +77,38 @@ const palpites = {
     ],
     "frases": []
   },
-  "BAHIA": {
+  "LOTECE": {
     "palpites": [
-      "0311",
-      "0314",
-      "0319",
-      "0341",
-      "0344",
-      "0349",
-      "0391",
-      "0394",
-      "0399",
-      "0511",
-      "0514",
-      "0519",
-      "0541",
-      "0544",
-      "0549",
-      "0591",
-      "0594",
-      "0599",
-      "0811",
-      "0814",
-      "0819",
-      "0841",
-      "0844",
-      "0849",
-      "0891",
-      "0894",
-      "0899",
-      "9311",
-      "9314",
-      "9319"
+      "8304",
+      "8307",
+      "8308",
+      "8314",
+      "8317",
+      "8318",
+      "8324",
+      "8327",
+      "8328",
+      "8804",
+      "8807",
+      "8808",
+      "8814",
+      "8817",
+      "8818",
+      "8824",
+      "8827",
+      "8828",
+      "8704",
+      "8707",
+      "8708",
+      "8714",
+      "8717",
+      "8718",
+      "8724",
+      "8727",
+      "8728",
+      "7304",
+      "7307",
+      "7308"
     ],
     "frases": []
   },
@@ -164,7 +207,13 @@ const palpites = {
       "4165",
       "4166"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Centena, Palpite 8821 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 8821 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 8121 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 8021 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Milhar, Palpite 1821 no 2º Prêmio!"
+    ]
   },
   "PT RIO": {
     "palpites": [
