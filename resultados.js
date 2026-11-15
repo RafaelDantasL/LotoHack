@@ -1,6 +1,77 @@
 const resultado = {
   "BAHIA MALUCA": [
     {
+      "titulo": "12h - MALUCA - BA - Resultado do dia 15/11/2026 (Domingo)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "0329",
+          "08",
+          "Camelo"
+        ],
+        [
+          "2º",
+          "8195",
+          "24",
+          "Veado"
+        ],
+        [
+          "3º",
+          "4586",
+          "22",
+          "Tigre"
+        ],
+        [
+          "4º",
+          "2769",
+          "18",
+          "Porco"
+        ],
+        [
+          "5º",
+          "2200",
+          "25",
+          "Vaca"
+        ],
+        [
+          "6º",
+          "5362",
+          "16",
+          "Leão"
+        ],
+        [
+          "7º",
+          "6439",
+          "10",
+          "Coelho"
+        ],
+        [
+          "8º",
+          "0038",
+          "10",
+          "Coelho"
+        ],
+        [
+          "9º",
+          "1862",
+          "16",
+          "Leão"
+        ],
+        [
+          "10º",
+          "2505",
+          "02",
+          "Águia"
+        ]
+      ]
+    },
+    {
       "titulo": "10h - MALUCA - Resultado do dia 15/11/2026 (Domingo)",
       "conteudo": [
         [
@@ -73,6 +144,77 @@ const resultado = {
     }
   ],
   "BAHIA": [
+    {
+      "titulo": "12h - BA - Resultado do dia 15/11/2026 (Domingo)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "2480",
+          "20",
+          "Peru"
+        ],
+        [
+          "2º",
+          "7513",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "3º",
+          "6892",
+          "23",
+          "Urso"
+        ],
+        [
+          "4º",
+          "9659",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "5º",
+          "0022",
+          "06",
+          "Cabra"
+        ],
+        [
+          "6º",
+          "1065",
+          "17",
+          "Macaco"
+        ],
+        [
+          "7º",
+          "8043",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "8º",
+          "6336",
+          "09",
+          "Cobra"
+        ],
+        [
+          "9º",
+          "2892",
+          "23",
+          "Urso"
+        ],
+        [
+          "10º",
+          "5052",
+          "13",
+          "Galo"
+        ]
+      ]
+    },
     {
       "titulo": "10h - BA - Resultado do dia 15/11/2026 (Domingo)",
       "conteudo": [
@@ -711,6 +853,59 @@ const resultado = {
           "9369",
           "18",
           "Porco"
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 11h",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "3776",
+          "19",
+          "Pavão"
+        ],
+        [
+          "2º",
+          "8871",
+          "18",
+          "Porco"
+        ],
+        [
+          "3º",
+          "9532",
+          "08",
+          "Camelo"
+        ],
+        [
+          "4º",
+          "9754",
+          "14",
+          "Gato"
+        ],
+        [
+          "5º",
+          "2054",
+          "14",
+          "Gato"
+        ],
+        [
+          "6º · Soma6º prêmio, soma",
+          "3987",
+          "",
+          ""
+        ],
+        [
+          "7º · Mult.7º prêmio, multiplicação",
+          "496",
+          "",
+          ""
         ]
       ]
     },
@@ -1621,6 +1816,59 @@ const resultado = {
     }
   ],
   "PT SP": [
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 12:00 - PTSP",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "8737",
+          "10",
+          "Coelho"
+        ],
+        [
+          "2º",
+          "3815",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "3º",
+          "8442",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "4º",
+          "4200",
+          "25",
+          "Vaca"
+        ],
+        [
+          "5º",
+          "5885",
+          "22",
+          "Tigre"
+        ],
+        [
+          "6º · Soma6º prêmio, soma",
+          "1079",
+          "",
+          ""
+        ],
+        [
+          "7º · Mult.7º prêmio, multiplicação",
+          "331",
+          "",
+          ""
+        ]
+      ]
+    },
     {
       "titulo": "Resultado do Jogo do Bicho SP, 10hs - PTSP",
       "conteudo": [
