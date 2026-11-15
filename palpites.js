@@ -33,6 +33,13 @@ const palpites = {
       "6110"
     ],
     "frases": [
+      "10h - MALUCA - Resultado do dia 15/11/2026 (Domingo)\nDeu Dezena, Palpite 1210 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 15/11/2026 (Domingo)\nDeu Dezena, Palpite 1510 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 15/11/2026 (Domingo)\nDeu Dezena, Palpite 1010 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 15/11/2026 (Domingo)\nDeu Dezena, Palpite 8210 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 15/11/2026 (Domingo)\nDeu Dezena, Palpite 1292 no 7º Prêmio!",
+      "10h - MALUCA - Resultado do dia 15/11/2026 (Domingo)\nDeu Dezena, Palpite 1592 no 7º Prêmio!",
+      "10h - MALUCA - Resultado do dia 15/11/2026 (Domingo)\nDeu Dezena, Palpite 1092 no 7º Prêmio!",
       "10h - MALUCA - Resultado do dia 15/11/2026 (Domingo)\nDeu Dezena, Palpite 5110 no 1º Prêmio!",
       "10h - MALUCA - Resultado do dia 15/11/2026 (Domingo)\nDeu Dezena, Palpite 5210 no 1º Prêmio!",
       "10h - MALUCA - Resultado do dia 15/11/2026 (Domingo)\nDeu Dezena, Palpite 5310 no 1º Prêmio!",
@@ -99,41 +106,6 @@ const palpites = {
       "10h - BA - Resultado do dia 15/11/2026 (Domingo)\nDeu Dezena, Palpite 1136 no 10º Prêmio!",
       "10h - BA - Resultado do dia 15/11/2026 (Domingo)\nDeu Dezena, Palpite 1336 no 10º Prêmio!"
     ]
-  },
-  "LOTECE": {
-    "palpites": [
-      "0629",
-      "0627",
-      "0620",
-      "0609",
-      "0607",
-      "0600",
-      "0689",
-      "0687",
-      "0680",
-      "0129",
-      "0127",
-      "0120",
-      "0109",
-      "0107",
-      "0100",
-      "0189",
-      "0187",
-      "0180",
-      "0229",
-      "0227",
-      "0220",
-      "0209",
-      "0207",
-      "0200",
-      "0289",
-      "0287",
-      "0280",
-      "2629",
-      "2627",
-      "2620"
-    ],
-    "frases": []
   },
   "LOOK/GOIAS": {
     "palpites": [
@@ -285,41 +257,6 @@ const palpites = {
       "Resultado do Jogo do Bicho PB, Paratodos 09:45\nDeu Dezena, Palpite 6166 no 7º Prêmio!"
     ]
   },
-  "PT RIO": {
-    "palpites": [
-      "3121",
-      "3126",
-      "3127",
-      "3101",
-      "3106",
-      "3107",
-      "3161",
-      "3166",
-      "3167",
-      "3421",
-      "3426",
-      "3427",
-      "3401",
-      "3406",
-      "3407",
-      "3461",
-      "3466",
-      "3467",
-      "3521",
-      "3526",
-      "3527",
-      "3501",
-      "3506",
-      "3507",
-      "3561",
-      "3566",
-      "3567",
-      "0121",
-      "0126",
-      "0127"
-    ],
-    "frases": []
-  },
   "PT SP": {
     "palpites": [
       "4244",
@@ -354,10 +291,6 @@ const palpites = {
       "1248"
     ],
     "frases": [
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 1043 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 1143 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Milhar, Palpite 1443 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 2043 no 4º Prêmio!",
       "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Milhar, Palpite 4248 no 2º Prêmio!",
       "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 4348 no 2º Prêmio!",
       "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 4448 no 2º Prêmio!",
@@ -375,5 +308,75 @@ const palpites = {
       "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Milhar, Palpite 4354 no 5º Prêmio!",
       "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 4454 no 5º Prêmio!"
     ]
+  },
+  "LOTECE": {
+    "palpites": [
+      "0629",
+      "0627",
+      "0620",
+      "0609",
+      "0607",
+      "0600",
+      "0689",
+      "0687",
+      "0680",
+      "0129",
+      "0127",
+      "0120",
+      "0109",
+      "0107",
+      "0100",
+      "0189",
+      "0187",
+      "0180",
+      "0229",
+      "0227",
+      "0220",
+      "0209",
+      "0207",
+      "0200",
+      "0289",
+      "0287",
+      "0280",
+      "2629",
+      "2627",
+      "2620"
+    ],
+    "frases": []
+  },
+  "PT RIO": {
+    "palpites": [
+      "3121",
+      "3126",
+      "3127",
+      "3101",
+      "3106",
+      "3107",
+      "3161",
+      "3166",
+      "3167",
+      "3421",
+      "3426",
+      "3427",
+      "3401",
+      "3406",
+      "3407",
+      "3461",
+      "3466",
+      "3467",
+      "3521",
+      "3526",
+      "3527",
+      "3501",
+      "3506",
+      "3507",
+      "3561",
+      "3566",
+      "3567",
+      "0121",
+      "0126",
+      "0127"
+    ],
+    "frases": []
   }
 };
