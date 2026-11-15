@@ -48,5 +48,45 @@ const palpites = {
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Centena, Palpite 1515 no 4º Prêmio!",
       "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 1515 no 4º Prêmio!"
     ]
+  },
+  "LOTEP": {
+    "palpites": [
+      "7992",
+      "7994",
+      "7998",
+      "7972",
+      "7974",
+      "7978",
+      "7912",
+      "7914",
+      "7918",
+      "7792",
+      "7794",
+      "7798",
+      "7772",
+      "7774",
+      "7778",
+      "7712",
+      "7714",
+      "7718",
+      "7892",
+      "7894",
+      "7898",
+      "7872",
+      "7874",
+      "7878",
+      "7812",
+      "7814",
+      "7818",
+      "0992",
+      "0994",
+      "0998"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 3128 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 3428 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 3028 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 1128 no 10º Prêmio!"
+    ]
   }
 };
