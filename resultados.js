@@ -147,272 +147,6 @@ const resultado = {
   ],
   "LOTECE": [
     {
-      "titulo": "Resultado do Jogo do Bicho A FEDERAL DO BRASIL CE - Ceará Federal",
-      "conteudo": [
-        [
-          "Prêmio",
-          "Milhar",
-          "Grupo",
-          "Bicho"
-        ],
-        [
-          "1º",
-          "2545",
-          "12",
-          "Elefante"
-        ],
-        [
-          "2º",
-          "5170",
-          "18",
-          "Porco"
-        ],
-        [
-          "3º",
-          "7177",
-          "20",
-          "Peru"
-        ],
-        [
-          "4º",
-          "3440",
-          "10",
-          "Coelho"
-        ],
-        [
-          "5º",
-          "4040",
-          "10",
-          "Coelho"
-        ],
-        [
-          "6º · Soma6º prêmio, soma",
-          "2372",
-          "",
-          ""
-        ],
-        [
-          "7º · Mult.7º prêmio, multiplicação",
-          "057",
-          "",
-          ""
-        ]
-      ]
-    },
-    {
-      "titulo": "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)",
-      "conteudo": [
-        [
-          "Prêmio",
-          "Milhar",
-          "Grupo",
-          "Bicho"
-        ],
-        [
-          "1º",
-          "8612",
-          "03",
-          "Burro"
-        ],
-        [
-          "2º",
-          "5235",
-          "09",
-          "Cobra"
-        ],
-        [
-          "3º",
-          "0253",
-          "14",
-          "Gato"
-        ],
-        [
-          "4º",
-          "8482",
-          "21",
-          "Touro"
-        ],
-        [
-          "5º",
-          "6116",
-          "04",
-          "Borboleta"
-        ],
-        [
-          "6º",
-          "0671",
-          "18",
-          "Porco"
-        ],
-        [
-          "7º",
-          "9373",
-          "19",
-          "Pavão"
-        ],
-        [
-          "8º",
-          "3234",
-          "09",
-          "Cobra"
-        ],
-        [
-          "9º",
-          "7148",
-          "12",
-          "Elefante"
-        ],
-        [
-          "10º",
-          "2063",
-          "16",
-          "Leão"
-        ]
-      ]
-    },
-    {
-      "titulo": "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)",
-      "conteudo": [
-        [
-          "Prêmio",
-          "Milhar",
-          "Grupo",
-          "Bicho"
-        ],
-        [
-          "1º",
-          "3569",
-          "18",
-          "Porco"
-        ],
-        [
-          "2º",
-          "9869",
-          "18",
-          "Porco"
-        ],
-        [
-          "3º",
-          "9904",
-          "01",
-          "Avestruz"
-        ],
-        [
-          "4º",
-          "7029",
-          "08",
-          "Camelo"
-        ],
-        [
-          "5º",
-          "0845",
-          "12",
-          "Elefante"
-        ],
-        [
-          "6º",
-          "7475",
-          "19",
-          "Pavão"
-        ],
-        [
-          "7º",
-          "2611",
-          "03",
-          "Burro"
-        ],
-        [
-          "8º",
-          "0552",
-          "13",
-          "Galo"
-        ],
-        [
-          "9º",
-          "1515",
-          "04",
-          "Borboleta"
-        ],
-        [
-          "10º",
-          "9112",
-          "03",
-          "Burro"
-        ]
-      ]
-    },
-    {
-      "titulo": "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)",
-      "conteudo": [
-        [
-          "Prêmio",
-          "Milhar",
-          "Grupo",
-          "Bicho"
-        ],
-        [
-          "1º",
-          "2006",
-          "02",
-          "Águia"
-        ],
-        [
-          "2º",
-          "8445",
-          "12",
-          "Elefante"
-        ],
-        [
-          "3º",
-          "2281",
-          "21",
-          "Touro"
-        ],
-        [
-          "4º",
-          "6715",
-          "04",
-          "Borboleta"
-        ],
-        [
-          "5º",
-          "2632",
-          "08",
-          "Camelo"
-        ],
-        [
-          "6º",
-          "8837",
-          "10",
-          "Coelho"
-        ],
-        [
-          "7º",
-          "6391",
-          "23",
-          "Urso"
-        ],
-        [
-          "8º",
-          "8587",
-          "22",
-          "Tigre"
-        ],
-        [
-          "9º",
-          "4191",
-          "23",
-          "Urso"
-        ],
-        [
-          "10º",
-          "2059",
-          "15",
-          "Jacaré"
-        ]
-      ]
-    },
-    {
       "titulo": "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)",
       "conteudo": [
         [
@@ -423,116 +157,63 @@ const resultado = {
         ],
         [
           "1º",
-          "6431",
-          "08",
-          "Camelo"
-        ],
-        [
-          "2º",
-          "5751",
-          "13",
-          "Galo"
-        ],
-        [
-          "3º",
-          "2352",
-          "13",
-          "Galo"
-        ],
-        [
-          "4º",
-          "2885",
-          "22",
-          "Tigre"
-        ],
-        [
-          "5º",
-          "1179",
-          "20",
-          "Peru"
-        ],
-        [
-          "6º",
-          "3004",
-          "01",
-          "Avestruz"
-        ],
-        [
-          "7º",
-          "9744",
-          "11",
-          "Cavalo"
-        ],
-        [
-          "8º",
-          "2854",
-          "14",
-          "Gato"
-        ],
-        [
-          "9º",
-          "8630",
-          "08",
-          "Camelo"
-        ],
-        [
-          "10º",
-          "0138",
-          "10",
-          "Coelho"
-        ]
-      ]
-    },
-    {
-      "titulo": "Resultado do Jogo do Bicho A FEDERAL DO BRASIL CE - Ceará Federal",
-      "conteudo": [
-        [
-          "Prêmio",
-          "Milhar",
-          "Grupo",
-          "Bicho"
-        ],
-        [
-          "1º",
-          "2545",
-          "12",
-          "Elefante"
-        ],
-        [
-          "2º",
-          "5170",
+          "8969",
           "18",
           "Porco"
         ],
         [
+          "2º",
+          "1268",
+          "17",
+          "Macaco"
+        ],
+        [
           "3º",
-          "7177",
-          "20",
-          "Peru"
+          "0811",
+          "03",
+          "Burro"
         ],
         [
           "4º",
-          "3440",
-          "10",
-          "Coelho"
+          "3512",
+          "03",
+          "Burro"
         ],
         [
           "5º",
-          "4040",
-          "10",
-          "Coelho"
+          "5134",
+          "09",
+          "Cobra"
         ],
         [
-          "6º · Soma6º prêmio, soma",
-          "2372",
-          "",
-          ""
+          "6º",
+          "4644",
+          "11",
+          "Cavalo"
         ],
         [
-          "7º · Mult.7º prêmio, multiplicação",
-          "057",
-          "",
-          ""
+          "7º",
+          "5300",
+          "25",
+          "Vaca"
+        ],
+        [
+          "8º",
+          "9202",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "9º",
+          "6154",
+          "14",
+          "Gato"
+        ],
+        [
+          "10º",
+          "8594",
+          "24",
+          "Veado"
         ]
       ]
     }
@@ -853,6 +534,77 @@ const resultado = {
       ]
     },
     {
+      "titulo": "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "8802",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "2º",
+          "2312",
+          "03",
+          "Burro"
+        ],
+        [
+          "3º",
+          "1517",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "4º",
+          "7153",
+          "14",
+          "Gato"
+        ],
+        [
+          "5º",
+          "0947",
+          "12",
+          "Elefante"
+        ],
+        [
+          "6º",
+          "8217",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "7º",
+          "8351",
+          "13",
+          "Galo"
+        ],
+        [
+          "8º",
+          "0115",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "9º",
+          "2273",
+          "19",
+          "Pavão"
+        ],
+        [
+          "10º",
+          "9687",
+          "22",
+          "Tigre"
+        ]
+      ]
+    },
+    {
       "titulo": "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45",
       "conteudo": [
         [
@@ -920,6 +672,77 @@ const resultado = {
           "6777",
           "20",
           "Peru"
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho LOTEP - PB, 10:45",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "7943",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "2º",
+          "6094",
+          "24",
+          "Veado"
+        ],
+        [
+          "3º",
+          "4628",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "4º",
+          "3625",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "5º",
+          "6806",
+          "02",
+          "Águia"
+        ],
+        [
+          "6º",
+          "7643",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "7º",
+          "9066",
+          "17",
+          "Macaco"
+        ],
+        [
+          "8º",
+          "4922",
+          "06",
+          "Cabra"
+        ],
+        [
+          "9º",
+          "3485",
+          "22",
+          "Tigre"
+        ],
+        [
+          "10º",
+          "4212",
+          "03",
+          "Burro"
         ]
       ]
     }
