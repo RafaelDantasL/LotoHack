@@ -112,6 +112,53 @@ const palpites = {
       "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 5560 no 9º Prêmio!"
     ]
   },
+  "LOOK/GOIAS": {
+    "palpites": [
+      "7018",
+      "7011",
+      "7014",
+      "7068",
+      "7061",
+      "7064",
+      "7058",
+      "7051",
+      "7054",
+      "7218",
+      "7211",
+      "7214",
+      "7268",
+      "7261",
+      "7264",
+      "7258",
+      "7251",
+      "7254",
+      "7318",
+      "7311",
+      "7314",
+      "7368",
+      "7361",
+      "7364",
+      "7358",
+      "7351",
+      "7354",
+      "9018",
+      "9011",
+      "9014"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 0205 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 0405 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 0505 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 1205 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 0247 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Centena, Palpite 0447 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 0447 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 0547 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 0217 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 0417 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 0517 no 5º Prêmio!"
+    ]
+  },
   "LOTEP": {
     "palpites": [
       "7758",
@@ -163,53 +210,6 @@ const palpites = {
       "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 7558 no 7º Prêmio!",
       "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 7058 no 7º Prêmio!",
       "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Milhar, Palpite 5758 no 7º Prêmio!"
-    ]
-  },
-  "LOOK/GOIAS": {
-    "palpites": [
-      "7018",
-      "7011",
-      "7014",
-      "7068",
-      "7061",
-      "7064",
-      "7058",
-      "7051",
-      "7054",
-      "7218",
-      "7211",
-      "7214",
-      "7268",
-      "7261",
-      "7264",
-      "7258",
-      "7251",
-      "7254",
-      "7318",
-      "7311",
-      "7314",
-      "7368",
-      "7361",
-      "7364",
-      "7358",
-      "7351",
-      "7354",
-      "9018",
-      "9011",
-      "9014"
-    ],
-    "frases": [
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 0205 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 0405 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 0505 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 1205 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 0247 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Centena, Palpite 0447 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 0447 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 0547 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 0217 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 0417 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 0517 no 5º Prêmio!"
     ]
   },
   "PT RIO": {
