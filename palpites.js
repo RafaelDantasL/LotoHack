@@ -32,6 +32,53 @@ const palpites = {
       "9011",
       "9014"
     ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 0205 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 0405 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 0505 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 1205 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 0247 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Centena, Palpite 0447 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 0447 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 0547 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 0217 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 0417 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 0517 no 5º Prêmio!"
+    ]
+  },
+  "LOTEP": {
+    "palpites": [
+      "7758",
+      "7750",
+      "7756",
+      "7798",
+      "7790",
+      "7796",
+      "7708",
+      "7700",
+      "7706",
+      "7558",
+      "7550",
+      "7556",
+      "7598",
+      "7590",
+      "7596",
+      "7508",
+      "7500",
+      "7506",
+      "7058",
+      "7050",
+      "7056",
+      "7098",
+      "7090",
+      "7096",
+      "7008",
+      "7000",
+      "7006",
+      "5758",
+      "5750",
+      "5756"
+    ],
     "frases": []
   }
 };
