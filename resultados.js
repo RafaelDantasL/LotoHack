@@ -287,6 +287,77 @@ const resultado = {
   ],
   "BAHIA": [
     {
+      "titulo": "21h - BA - Resultado do dia 17/11/2026 (Terça-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "6670",
+          "18",
+          "Porco"
+        ],
+        [
+          "2º",
+          "9112",
+          "03",
+          "Burro"
+        ],
+        [
+          "3º",
+          "2121",
+          "06",
+          "Cabra"
+        ],
+        [
+          "4º",
+          "9774",
+          "19",
+          "Pavão"
+        ],
+        [
+          "5º",
+          "9462",
+          "16",
+          "Leão"
+        ],
+        [
+          "6º",
+          "1512",
+          "03",
+          "Burro"
+        ],
+        [
+          "7º",
+          "5084",
+          "21",
+          "Touro"
+        ],
+        [
+          "8º",
+          "6011",
+          "03",
+          "Burro"
+        ],
+        [
+          "9º",
+          "5390",
+          "23",
+          "Urso"
+        ],
+        [
+          "10º",
+          "0212",
+          "03",
+          "Burro"
+        ]
+      ]
+    },
+    {
       "titulo": "19h - BA - Resultado do dia 17/11/2026 (Terça-feira)",
       "conteudo": [
         [
@@ -858,6 +929,100 @@ const resultado = {
     }
   ],
   "LOOK/GOIAS": [
+    {
+      "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 21h",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "9963",
+          "16",
+          "Leão"
+        ],
+        [
+          "2º",
+          "1425",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "3º",
+          "0291",
+          "23",
+          "Urso"
+        ],
+        [
+          "4º",
+          "4269",
+          "18",
+          "Porco"
+        ],
+        [
+          "5º",
+          "5015",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "6º · Soma6º prêmio, soma",
+          "0963",
+          "",
+          ""
+        ],
+        [
+          "7º · Mult.7º prêmio, multiplicação",
+          "197",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 21h",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "6º",
+          "9104",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "7º",
+          "9422",
+          "06",
+          "Cabra"
+        ],
+        [
+          "8º",
+          "6296",
+          "24",
+          "Veado"
+        ],
+        [
+          "9º",
+          "3519",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "10º",
+          "9304",
+          "01",
+          "Avestruz"
+        ]
+      ]
+    },
     {
       "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 18h",
       "conteudo": [
