@@ -32,7 +32,20 @@ const palpites = {
       "0081",
       "0084"
     ],
-    "frases": []
+    "frases": [
+      "10h - MALUCA - Resultado do dia 18/11/2026 (Quarta-feira)\nDeu Dezena, Palpite 6044 no 2º Prêmio!",
+      "10h - MALUCA - Resultado do dia 18/11/2026 (Quarta-feira)\nDeu Dezena, Palpite 6144 no 2º Prêmio!",
+      "10h - MALUCA - Resultado do dia 18/11/2026 (Quarta-feira)\nDeu Centena, Palpite 6544 no 2º Prêmio!",
+      "10h - MALUCA - Resultado do dia 18/11/2026 (Quarta-feira)\nDeu Dezena, Palpite 6544 no 2º Prêmio!",
+      "10h - MALUCA - Resultado do dia 18/11/2026 (Quarta-feira)\nDeu Dezena, Palpite 6081 no 9º Prêmio!",
+      "10h - MALUCA - Resultado do dia 18/11/2026 (Quarta-feira)\nDeu Dezena, Palpite 6181 no 9º Prêmio!",
+      "10h - MALUCA - Resultado do dia 18/11/2026 (Quarta-feira)\nDeu Milhar, Palpite 6581 no 9º Prêmio!",
+      "10h - MALUCA - Resultado do dia 18/11/2026 (Quarta-feira)\nDeu Dezena, Palpite 0081 no 9º Prêmio!",
+      "10h - MALUCA - Resultado do dia 18/11/2026 (Quarta-feira)\nDeu Dezena, Palpite 6081 no 10º Prêmio!",
+      "10h - MALUCA - Resultado do dia 18/11/2026 (Quarta-feira)\nDeu Dezena, Palpite 6181 no 10º Prêmio!",
+      "10h - MALUCA - Resultado do dia 18/11/2026 (Quarta-feira)\nDeu Dezena, Palpite 6581 no 10º Prêmio!",
+      "10h - MALUCA - Resultado do dia 18/11/2026 (Quarta-feira)\nDeu Dezena, Palpite 0081 no 10º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
