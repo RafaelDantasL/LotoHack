@@ -1,39 +1,4 @@
 const palpites = {
-  "LOTECE": {
-    "palpites": [
-      "3690",
-      "3691",
-      "3693",
-      "3600",
-      "3601",
-      "3603",
-      "3660",
-      "3661",
-      "3663",
-      "3090",
-      "3091",
-      "3093",
-      "3000",
-      "3001",
-      "3003",
-      "3060",
-      "3061",
-      "3063",
-      "3790",
-      "3791",
-      "3793",
-      "3700",
-      "3701",
-      "3703",
-      "3760",
-      "3761",
-      "3763",
-      "8690",
-      "8691",
-      "8693"
-    ],
-    "frases": []
-  },
   "LOOK/GOIAS": {
     "palpites": [
       "3706",
@@ -68,5 +33,45 @@ const palpites = {
       "1602"
     ],
     "frases": []
+  },
+  "PT SP": {
+    "palpites": [
+      "8221",
+      "8222",
+      "8224",
+      "8211",
+      "8212",
+      "8214",
+      "8241",
+      "8242",
+      "8244",
+      "8021",
+      "8022",
+      "8024",
+      "8011",
+      "8012",
+      "8014",
+      "8041",
+      "8042",
+      "8044",
+      "8621",
+      "8622",
+      "8624",
+      "8611",
+      "8612",
+      "8614",
+      "8641",
+      "8642",
+      "8644",
+      "9221",
+      "9222",
+      "9224"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 5012 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Centena, Palpite 5212 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 5212 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 5312 no 3º Prêmio!"
+    ]
   }
 };
