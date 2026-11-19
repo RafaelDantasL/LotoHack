@@ -142,29 +142,15 @@ const palpites = {
       "0432"
     ],
     "frases": [
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Milhar, Palpite 3746 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 3646 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Centena, Palpite 1746 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 1746 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Milhar, Palpite 3719 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 3619 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Centena, Palpite 1719 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 1719 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Milhar, Palpite 3749 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 3649 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Centena, Palpite 1749 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 1749 no 3º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 3702 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Centena, Palpite 3602 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 3602 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 1702 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Centena, Palpite 1602 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 1602 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Centena, Palpite 3706 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 3706 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 3606 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Milhar, Palpite 1706 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho LOOK - GOIÁS, 07h\nDeu Dezena, Palpite 1606 no 5º Prêmio!"
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 3432 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 3132 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Centena, Palpite 3232 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 3232 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 0432 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Centena, Palpite 3413 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 3413 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 3113 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 09h\nDeu Dezena, Palpite 3213 no 4º Prêmio!"
     ]
   },
   "LOTEP": {
@@ -200,7 +186,32 @@ const palpites = {
       "7783",
       "7789"
     ],
-    "frases": []
+    "frases": [
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 7758 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 7558 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Centena, Palpite 7058 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 7058 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 5758 no 10º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Centena, Palpite 0230 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 0230 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 0430 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 0730 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Milhar, Palpite 3230 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 0214 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 0414 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 0714 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Centena, Palpite 0203 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 0203 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 0403 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 0703 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 0233 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 0433 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 0733 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 3233 no 6º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 0204 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 0404 no 9º Prêmio!",
+      "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 9:45\nDeu Dezena, Palpite 0704 no 9º Prêmio!"
+    ]
   },
   "PT RIO": {
     "palpites": [
