@@ -2709,6 +2709,100 @@ const resultado = {
   ],
   "PT RIO": [
     {
+      "titulo": "Resultado do Jogo do Bicho RJ, 21:20, CORUJA",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "5365",
+          "17",
+          "Macaco"
+        ],
+        [
+          "2º",
+          "0532",
+          "08",
+          "Camelo"
+        ],
+        [
+          "3º",
+          "7064",
+          "16",
+          "Leão"
+        ],
+        [
+          "4º",
+          "3047",
+          "12",
+          "Elefante"
+        ],
+        [
+          "5º",
+          "1905",
+          "02",
+          "Águia"
+        ],
+        [
+          "6º · Soma6º prêmio, soma",
+          "7913",
+          "",
+          ""
+        ],
+        [
+          "7º · Mult.7º prêmio, multiplicação",
+          "854",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 21:20, CORUJA",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "6º",
+          "5073",
+          "19",
+          "Pavão"
+        ],
+        [
+          "7º",
+          "3500",
+          "25",
+          "Vaca"
+        ],
+        [
+          "8º",
+          "6364",
+          "16",
+          "Leão"
+        ],
+        [
+          "9º",
+          "5247",
+          "12",
+          "Elefante"
+        ],
+        [
+          "10º",
+          "8097",
+          "25",
+          "Vaca"
+        ]
+      ]
+    },
+    {
       "titulo": "Resultado do Jogo do Bicho RJ, 16:00, PTV",
       "conteudo": [
         [
