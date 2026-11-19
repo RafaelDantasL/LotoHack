@@ -1,6 +1,77 @@
 const resultado = {
   "BAHIA MALUCA": [
     {
+      "titulo": "21h - MALUCA - BA - Resultado do dia 18/11/2026 (Quarta-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "6192",
+          "23",
+          "Urso"
+        ],
+        [
+          "2º",
+          "7445",
+          "12",
+          "Elefante"
+        ],
+        [
+          "3º",
+          "4124",
+          "06",
+          "Cabra"
+        ],
+        [
+          "4º",
+          "8683",
+          "21",
+          "Touro"
+        ],
+        [
+          "5º",
+          "5311",
+          "03",
+          "Burro"
+        ],
+        [
+          "6º",
+          "2595",
+          "24",
+          "Veado"
+        ],
+        [
+          "7º",
+          "8447",
+          "12",
+          "Elefante"
+        ],
+        [
+          "8º",
+          "4641",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "9º",
+          "3964",
+          "16",
+          "Leão"
+        ],
+        [
+          "10º",
+          "6521",
+          "06",
+          "Cabra"
+        ]
+      ]
+    },
+    {
       "titulo": "19h - MALUCA - BA - Resultado do dia 18/11/2026 (Quarta-feira)",
       "conteudo": [
         [
@@ -286,6 +357,77 @@ const resultado = {
     }
   ],
   "BAHIA": [
+    {
+      "titulo": "21h - BA - Resultado do dia 18/11/2026 (Quarta-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "8476",
+          "19",
+          "Pavão"
+        ],
+        [
+          "2º",
+          "6141",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "3º",
+          "8249",
+          "13",
+          "Galo"
+        ],
+        [
+          "4º",
+          "3452",
+          "13",
+          "Galo"
+        ],
+        [
+          "5º",
+          "1135",
+          "09",
+          "Cobra"
+        ],
+        [
+          "6º",
+          "3482",
+          "21",
+          "Touro"
+        ],
+        [
+          "7º",
+          "9645",
+          "12",
+          "Elefante"
+        ],
+        [
+          "8º",
+          "6449",
+          "13",
+          "Galo"
+        ],
+        [
+          "9º",
+          "4175",
+          "19",
+          "Pavão"
+        ],
+        [
+          "10º",
+          "1256",
+          "14",
+          "Gato"
+        ]
+      ]
+    },
     {
       "titulo": "19h - BA - Resultado do dia 18/11/2026 (Quarta-feira)",
       "conteudo": [
