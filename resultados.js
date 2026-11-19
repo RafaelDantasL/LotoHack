@@ -220,6 +220,100 @@ const resultado = {
   ],
   "LOOK/GOIAS": [
     {
+      "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 11h",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "1642",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "2º",
+          "6393",
+          "24",
+          "Veado"
+        ],
+        [
+          "3º",
+          "2464",
+          "16",
+          "Leão"
+        ],
+        [
+          "4º",
+          "1829",
+          "08",
+          "Camelo"
+        ],
+        [
+          "5º",
+          "2894",
+          "24",
+          "Veado"
+        ],
+        [
+          "6º · Soma6º prêmio, soma",
+          "5222",
+          "",
+          ""
+        ],
+        [
+          "7º · Mult.7º prêmio, multiplicação",
+          "497",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 11h",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "6º",
+          "1621",
+          "06",
+          "Cabra"
+        ],
+        [
+          "7º",
+          "6348",
+          "12",
+          "Elefante"
+        ],
+        [
+          "8º",
+          "4962",
+          "16",
+          "Leão"
+        ],
+        [
+          "9º",
+          "2349",
+          "13",
+          "Galo"
+        ],
+        [
+          "10º",
+          "0502",
+          "01",
+          "Avestruz"
+        ]
+      ]
+    },
+    {
       "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h",
       "conteudo": [
         [
@@ -672,6 +766,77 @@ const resultado = {
           "9058",
           "15",
           "Jacaré"
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho LOTEP - PB, 10:45",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "8871",
+          "18",
+          "Porco"
+        ],
+        [
+          "2º",
+          "8799",
+          "25",
+          "Vaca"
+        ],
+        [
+          "3º",
+          "8783",
+          "21",
+          "Touro"
+        ],
+        [
+          "4º",
+          "0531",
+          "08",
+          "Camelo"
+        ],
+        [
+          "5º",
+          "3416",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "6º",
+          "8880",
+          "20",
+          "Peru"
+        ],
+        [
+          "7º",
+          "8775",
+          "19",
+          "Pavão"
+        ],
+        [
+          "8º",
+          "7983",
+          "21",
+          "Touro"
+        ],
+        [
+          "9º",
+          "1931",
+          "08",
+          "Camelo"
+        ],
+        [
+          "10º",
+          "7969",
+          "18",
+          "Porco"
         ]
       ]
     }
