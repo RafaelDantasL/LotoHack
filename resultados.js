@@ -220,6 +220,100 @@ const resultado = {
   ],
   "LOOK/GOIAS": [
     {
+      "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 11h",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "1260",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "2º",
+          "6970",
+          "18",
+          "Porco"
+        ],
+        [
+          "3º",
+          "1933",
+          "09",
+          "Cobra"
+        ],
+        [
+          "4º",
+          "4220",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "5º",
+          "5292",
+          "23",
+          "Urso"
+        ],
+        [
+          "6º · Soma6º prêmio, soma",
+          "9675",
+          "",
+          ""
+        ],
+        [
+          "7º · Mult.7º prêmio, multiplicação",
+          "782",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 11h",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "6º",
+          "1614",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "7º",
+          "2992",
+          "23",
+          "Urso"
+        ],
+        [
+          "8º",
+          "6732",
+          "08",
+          "Camelo"
+        ],
+        [
+          "9º",
+          "0030",
+          "08",
+          "Camelo"
+        ],
+        [
+          "10º",
+          "1043",
+          "11",
+          "Cavalo"
+        ]
+      ]
+    },
+    {
       "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 09h",
       "conteudo": [
         [
@@ -404,6 +498,59 @@ const resultado = {
           "5890",
           "23",
           "Urso"
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho BOA SORTE - GOIÁS, 11h",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "1066",
+          "17",
+          "Macaco"
+        ],
+        [
+          "2º",
+          "8193",
+          "24",
+          "Veado"
+        ],
+        [
+          "3º",
+          "8537",
+          "10",
+          "Coelho"
+        ],
+        [
+          "4º",
+          "6450",
+          "13",
+          "Galo"
+        ],
+        [
+          "5º",
+          "7131",
+          "08",
+          "Camelo"
+        ],
+        [
+          "6º · Soma6º prêmio, soma",
+          "1377",
+          "",
+          ""
+        ],
+        [
+          "7º · Mult.7º prêmio, multiplicação",
+          "733",
+          "",
+          ""
         ]
       ]
     },
@@ -676,7 +823,7 @@ const resultado = {
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho LOTEP - PB, 10:45",
+      "titulo": "Resultado do Jogo do Bicho PB, Paratodos 10:45",
       "conteudo": [
         [
           "Prêmio",
@@ -748,6 +895,100 @@ const resultado = {
     }
   ],
   "PT RIO": [
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 11:20, PTM",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "0746",
+          "12",
+          "Elefante"
+        ],
+        [
+          "2º",
+          "9974",
+          "19",
+          "Pavão"
+        ],
+        [
+          "3º",
+          "4209",
+          "03",
+          "Burro"
+        ],
+        [
+          "4º",
+          "7883",
+          "21",
+          "Touro"
+        ],
+        [
+          "5º",
+          "6369",
+          "18",
+          "Porco"
+        ],
+        [
+          "6º · Soma6º prêmio, soma",
+          "9181",
+          "",
+          ""
+        ],
+        [
+          "7º · Mult.7º prêmio, multiplicação",
+          "440",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho RJ, 11:20, PTM",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "6º",
+          "0947",
+          "12",
+          "Elefante"
+        ],
+        [
+          "7º",
+          "7928",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "8º",
+          "4708",
+          "02",
+          "Águia"
+        ],
+        [
+          "9º",
+          "6493",
+          "24",
+          "Veado"
+        ],
+        [
+          "10º",
+          "9257",
+          "15",
+          "Jacaré"
+        ]
+      ]
+    },
     {
       "titulo": "Resultado do Jogo do Bicho RJ, 09:20, PT",
       "conteudo": [
