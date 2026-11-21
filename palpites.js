@@ -33,12 +33,26 @@ const palpites = {
       "2313"
     ],
     "frases": [
-      "10h - MALUCA - Resultado do dia 21/11/2026 (Sábado)\nDeu Centena, Palpite 8509 no 4º Prêmio!",
-      "10h - MALUCA - Resultado do dia 21/11/2026 (Sábado)\nDeu Dezena, Palpite 8509 no 4º Prêmio!",
-      "10h - MALUCA - Resultado do dia 21/11/2026 (Sábado)\nDeu Dezena, Palpite 8009 no 4º Prêmio!",
-      "10h - MALUCA - Resultado do dia 21/11/2026 (Sábado)\nDeu Dezena, Palpite 8109 no 4º Prêmio!",
-      "10h - MALUCA - Resultado do dia 21/11/2026 (Sábado)\nDeu Centena, Palpite 9509 no 4º Prêmio!",
-      "10h - MALUCA - Resultado do dia 21/11/2026 (Sábado)\nDeu Dezena, Palpite 9509 no 4º Prêmio!"
+      "10h - MALUCA - Resultado do dia 21/11/2026 (Sábado)\nDeu Dezena, Palpite 3317 no 2º Prêmio!",
+      "10h - MALUCA - Resultado do dia 21/11/2026 (Sábado)\nDeu Dezena, Palpite 3817 no 2º Prêmio!",
+      "10h - MALUCA - Resultado do dia 21/11/2026 (Sábado)\nDeu Dezena, Palpite 3017 no 2º Prêmio!",
+      "10h - MALUCA - Resultado do dia 21/11/2026 (Sábado)\nDeu Dezena, Palpite 2317 no 2º Prêmio!",
+      "10h - MALUCA - Resultado do dia 21/11/2026 (Sábado)\nDeu Dezena, Palpite 3337 no 3º Prêmio!",
+      "10h - MALUCA - Resultado do dia 21/11/2026 (Sábado)\nDeu Centena, Palpite 3837 no 3º Prêmio!",
+      "10h - MALUCA - Resultado do dia 21/11/2026 (Sábado)\nDeu Dezena, Palpite 3837 no 3º Prêmio!",
+      "10h - MALUCA - Resultado do dia 21/11/2026 (Sábado)\nDeu Dezena, Palpite 3037 no 3º Prêmio!",
+      "10h - MALUCA - Resultado do dia 21/11/2026 (Sábado)\nDeu Dezena, Palpite 3317 no 8º Prêmio!",
+      "10h - MALUCA - Resultado do dia 21/11/2026 (Sábado)\nDeu Centena, Palpite 3817 no 8º Prêmio!",
+      "10h - MALUCA - Resultado do dia 21/11/2026 (Sábado)\nDeu Dezena, Palpite 3817 no 8º Prêmio!",
+      "10h - MALUCA - Resultado do dia 21/11/2026 (Sábado)\nDeu Dezena, Palpite 3017 no 8º Prêmio!",
+      "10h - MALUCA - Resultado do dia 21/11/2026 (Sábado)\nDeu Dezena, Palpite 2317 no 8º Prêmio!",
+      "10h - MALUCA - Resultado do dia 21/11/2026 (Sábado)\nDeu Milhar, Palpite 3331 no 9º Prêmio!",
+      "10h - MALUCA - Resultado do dia 21/11/2026 (Sábado)\nDeu Dezena, Palpite 3831 no 9º Prêmio!",
+      "10h - MALUCA - Resultado do dia 21/11/2026 (Sábado)\nDeu Dezena, Palpite 3031 no 9º Prêmio!",
+      "10h - MALUCA - Resultado do dia 21/11/2026 (Sábado)\nDeu Centena, Palpite 3393 no 10º Prêmio!",
+      "10h - MALUCA - Resultado do dia 21/11/2026 (Sábado)\nDeu Dezena, Palpite 3393 no 10º Prêmio!",
+      "10h - MALUCA - Resultado do dia 21/11/2026 (Sábado)\nDeu Dezena, Palpite 3893 no 10º Prêmio!",
+      "10h - MALUCA - Resultado do dia 21/11/2026 (Sábado)\nDeu Dezena, Palpite 3093 no 10º Prêmio!"
     ]
   },
   "BAHIA": {
@@ -75,9 +89,30 @@ const palpites = {
       "0733"
     ],
     "frases": [
-      "10h - BA - Resultado do dia 21/11/2026 (Sábado)\nDeu Dezena, Palpite 9008 no 7º Prêmio!",
-      "10h - BA - Resultado do dia 21/11/2026 (Sábado)\nDeu Dezena, Palpite 9108 no 7º Prêmio!",
-      "10h - BA - Resultado do dia 21/11/2026 (Sábado)\nDeu Dezena, Palpite 9708 no 7º Prêmio!"
+      "10h - BA - Resultado do dia 21/11/2026 (Sábado)\nDeu Dezena, Palpite 3771 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 21/11/2026 (Sábado)\nDeu Centena, Palpite 3871 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 21/11/2026 (Sábado)\nDeu Dezena, Palpite 3871 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 21/11/2026 (Sábado)\nDeu Dezena, Palpite 3971 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 21/11/2026 (Sábado)\nDeu Centena, Palpite 3774 no 4º Prêmio!",
+      "10h - BA - Resultado do dia 21/11/2026 (Sábado)\nDeu Dezena, Palpite 3774 no 4º Prêmio!",
+      "10h - BA - Resultado do dia 21/11/2026 (Sábado)\nDeu Dezena, Palpite 3874 no 4º Prêmio!",
+      "10h - BA - Resultado do dia 21/11/2026 (Sábado)\nDeu Dezena, Palpite 3974 no 4º Prêmio!",
+      "10h - BA - Resultado do dia 21/11/2026 (Sábado)\nDeu Dezena, Palpite 3733 no 5º Prêmio!",
+      "10h - BA - Resultado do dia 21/11/2026 (Sábado)\nDeu Dezena, Palpite 3833 no 5º Prêmio!",
+      "10h - BA - Resultado do dia 21/11/2026 (Sábado)\nDeu Centena, Palpite 3933 no 5º Prêmio!",
+      "10h - BA - Resultado do dia 21/11/2026 (Sábado)\nDeu Dezena, Palpite 3933 no 5º Prêmio!",
+      "10h - BA - Resultado do dia 21/11/2026 (Sábado)\nDeu Dezena, Palpite 0733 no 5º Prêmio!",
+      "10h - BA - Resultado do dia 21/11/2026 (Sábado)\nDeu Dezena, Palpite 3764 no 8º Prêmio!",
+      "10h - BA - Resultado do dia 21/11/2026 (Sábado)\nDeu Dezena, Palpite 3864 no 8º Prêmio!",
+      "10h - BA - Resultado do dia 21/11/2026 (Sábado)\nDeu Dezena, Palpite 3964 no 8º Prêmio!",
+      "10h - BA - Resultado do dia 21/11/2026 (Sábado)\nDeu Centena, Palpite 3771 no 9º Prêmio!",
+      "10h - BA - Resultado do dia 21/11/2026 (Sábado)\nDeu Dezena, Palpite 3771 no 9º Prêmio!",
+      "10h - BA - Resultado do dia 21/11/2026 (Sábado)\nDeu Dezena, Palpite 3871 no 9º Prêmio!",
+      "10h - BA - Resultado do dia 21/11/2026 (Sábado)\nDeu Dezena, Palpite 3971 no 9º Prêmio!",
+      "10h - BA - Resultado do dia 21/11/2026 (Sábado)\nDeu Dezena, Palpite 3734 no 10º Prêmio!",
+      "10h - BA - Resultado do dia 21/11/2026 (Sábado)\nDeu Dezena, Palpite 3834 no 10º Prêmio!",
+      "10h - BA - Resultado do dia 21/11/2026 (Sábado)\nDeu Milhar, Palpite 3934 no 10º Prêmio!",
+      "10h - BA - Resultado do dia 21/11/2026 (Sábado)\nDeu Dezena, Palpite 0734 no 10º Prêmio!"
     ]
   },
   "LOTECE": {
@@ -335,6 +370,9 @@ const palpites = {
       "5503"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Milhar, Palpite 0513 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0113 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0213 no 2º Prêmio!",
       "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Milhar, Palpite 0513 no 2º Prêmio!",
       "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0113 no 2º Prêmio!",
       "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0213 no 2º Prêmio!"
