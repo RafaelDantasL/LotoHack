@@ -1,6 +1,77 @@
 const resultado = {
   "BAHIA MALUCA": [
     {
+      "titulo": "12h - MALUCA - BA - Resultado do dia 21/11/2026 (Sábado)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "1251",
+          "13",
+          "Galo"
+        ],
+        [
+          "2º",
+          "2898",
+          "25",
+          "Vaca"
+        ],
+        [
+          "3º",
+          "5218",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "4º",
+          "0364",
+          "16",
+          "Leão"
+        ],
+        [
+          "5º",
+          "3481",
+          "21",
+          "Touro"
+        ],
+        [
+          "6º",
+          "4627",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "7º",
+          "0933",
+          "09",
+          "Cobra"
+        ],
+        [
+          "8º",
+          "1228",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "9º",
+          "6461",
+          "16",
+          "Leão"
+        ],
+        [
+          "10º",
+          "1945",
+          "12",
+          "Elefante"
+        ]
+      ]
+    },
+    {
       "titulo": "10h - MALUCA - Resultado do dia 21/11/2026 (Sábado)",
       "conteudo": [
         [
@@ -73,6 +144,77 @@ const resultado = {
     }
   ],
   "BAHIA": [
+    {
+      "titulo": "12h - BA - Resultado do dia 21/11/2026 (Sábado)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "0521",
+          "06",
+          "Cabra"
+        ],
+        [
+          "2º",
+          "3282",
+          "21",
+          "Touro"
+        ],
+        [
+          "3º",
+          "6195",
+          "24",
+          "Veado"
+        ],
+        [
+          "4º",
+          "4881",
+          "21",
+          "Touro"
+        ],
+        [
+          "5º",
+          "1843",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "6º",
+          "6104",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "7º",
+          "4296",
+          "24",
+          "Veado"
+        ],
+        [
+          "8º",
+          "6232",
+          "08",
+          "Camelo"
+        ],
+        [
+          "9º",
+          "1837",
+          "10",
+          "Coelho"
+        ],
+        [
+          "10º",
+          "5491",
+          "23",
+          "Urso"
+        ]
+      ]
+    },
     {
       "titulo": "10h - BA - Resultado do dia 21/11/2026 (Sábado)",
       "conteudo": [
@@ -147,7 +289,7 @@ const resultado = {
   ],
   "LOTECE": [
     {
-      "titulo": "Resultado do Jogo do Bicho LOTECE - CE, 19:00 (noite)",
+      "titulo": "Resultado do Jogo do Bicho LOTECE - CE, 12:00 (manhã)",
       "conteudo": [
         [
           "Prêmio",
@@ -157,276 +299,63 @@ const resultado = {
         ],
         [
           "1º",
-          "1502",
-          "01",
-          "Avestruz"
-        ],
-        [
-          "2º",
-          "2073",
-          "19",
-          "Pavão"
-        ],
-        [
-          "3º",
-          "8809",
-          "03",
-          "Burro"
-        ],
-        [
-          "4º",
-          "4753",
-          "14",
-          "Gato"
-        ],
-        [
-          "5º",
-          "5979",
-          "20",
-          "Peru"
-        ],
-        [
-          "6º",
-          "5983",
-          "21",
-          "Touro"
-        ],
-        [
-          "7º",
-          "9013",
-          "04",
-          "Borboleta"
-        ],
-        [
-          "8º",
-          "5362",
-          "16",
-          "Leão"
-        ],
-        [
-          "9º",
-          "8547",
-          "12",
-          "Elefante"
-        ],
-        [
-          "10º",
-          "4236",
-          "09",
-          "Cobra"
-        ]
-      ]
-    },
-    {
-      "titulo": "Resultado do Jogo do Bicho LOTECE - CE, 15:45 (tarde II)",
-      "conteudo": [
-        [
-          "Prêmio",
-          "Milhar",
-          "Grupo",
-          "Bicho"
-        ],
-        [
-          "1º",
-          "0478",
-          "20",
-          "Peru"
-        ],
-        [
-          "2º",
-          "2964",
-          "16",
-          "Leão"
-        ],
-        [
-          "3º",
-          "0771",
-          "18",
-          "Porco"
-        ],
-        [
-          "4º",
-          "6968",
-          "17",
-          "Macaco"
-        ],
-        [
-          "5º",
-          "9747",
-          "12",
-          "Elefante"
-        ],
-        [
-          "6º",
-          "3286",
-          "22",
-          "Tigre"
-        ],
-        [
-          "7º",
-          "9873",
-          "19",
-          "Pavão"
-        ],
-        [
-          "8º",
-          "3107",
-          "02",
-          "Águia"
-        ],
-        [
-          "9º",
-          "7754",
-          "14",
-          "Gato"
-        ],
-        [
-          "10º",
-          "2668",
-          "17",
-          "Macaco"
-        ]
-      ]
-    },
-    {
-      "titulo": "Resultado do Jogo do Bicho LOTECE - CE, 14:00 (tarde)",
-      "conteudo": [
-        [
-          "Prêmio",
-          "Milhar",
-          "Grupo",
-          "Bicho"
-        ],
-        [
-          "1º",
-          "9120",
-          "05",
-          "Cachorro"
-        ],
-        [
-          "2º",
-          "7738",
-          "10",
-          "Coelho"
-        ],
-        [
-          "3º",
-          "2169",
-          "18",
-          "Porco"
-        ],
-        [
-          "4º",
-          "4638",
-          "10",
-          "Coelho"
-        ],
-        [
-          "5º",
-          "3328",
-          "07",
-          "Carneiro"
-        ],
-        [
-          "6º",
-          "8376",
-          "19",
-          "Pavão"
-        ],
-        [
-          "7º",
-          "4898",
+          "7799",
           "25",
           "Vaca"
         ],
         [
-          "8º",
-          "9425",
-          "07",
-          "Carneiro"
-        ],
-        [
-          "9º",
-          "0702",
-          "01",
-          "Avestruz"
-        ],
-        [
-          "10º",
-          "6458",
-          "15",
-          "Jacaré"
-        ]
-      ]
-    },
-    {
-      "titulo": "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)",
-      "conteudo": [
-        [
-          "Prêmio",
-          "Milhar",
-          "Grupo",
-          "Bicho"
-        ],
-        [
-          "1º",
-          "9642",
+          "2º",
+          "7444",
           "11",
           "Cavalo"
-        ],
-        [
-          "2º",
-          "8492",
-          "23",
-          "Urso"
         ],
         [
           "3º",
-          "8242",
-          "11",
-          "Cavalo"
+          "1308",
+          "02",
+          "Águia"
         ],
         [
           "4º",
-          "4941",
-          "11",
-          "Cavalo"
+          "7646",
+          "12",
+          "Elefante"
         ],
         [
           "5º",
-          "8044",
-          "11",
-          "Cavalo"
-        ],
-        [
-          "6º",
-          "4417",
+          "4820",
           "05",
           "Cachorro"
         ],
         [
+          "6º",
+          "6452",
+          "13",
+          "Galo"
+        ],
+        [
           "7º",
-          "0986",
-          "22",
-          "Tigre"
+          "9019",
+          "05",
+          "Cachorro"
         ],
         [
           "8º",
-          "3072",
-          "18",
-          "Porco"
+          "3301",
+          "01",
+          "Avestruz"
         ],
         [
           "9º",
-          "8436",
-          "09",
-          "Cobra"
+          "9151",
+          "13",
+          "Galo"
         ],
         [
           "10º",
-          "2160",
-          "15",
-          "Jacaré"
+          "8817",
+          "05",
+          "Cachorro"
         ]
       ]
     }
@@ -894,6 +823,77 @@ const resultado = {
       ]
     },
     {
+      "titulo": "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 12:45",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "5393",
+          "24",
+          "Veado"
+        ],
+        [
+          "2º",
+          "2007",
+          "02",
+          "Águia"
+        ],
+        [
+          "3º",
+          "9063",
+          "16",
+          "Leão"
+        ],
+        [
+          "4º",
+          "4695",
+          "24",
+          "Veado"
+        ],
+        [
+          "5º",
+          "3945",
+          "12",
+          "Elefante"
+        ],
+        [
+          "6º",
+          "5294",
+          "24",
+          "Veado"
+        ],
+        [
+          "7º",
+          "3006",
+          "02",
+          "Águia"
+        ],
+        [
+          "8º",
+          "9069",
+          "18",
+          "Porco"
+        ],
+        [
+          "9º",
+          "3735",
+          "09",
+          "Cobra"
+        ],
+        [
+          "10º",
+          "6207",
+          "02",
+          "Águia"
+        ]
+      ]
+    },
+    {
       "titulo": "Resultado do Jogo do Bicho CAMPINA GRANDE - PB, 10:45",
       "conteudo": [
         [
@@ -1032,6 +1032,77 @@ const resultado = {
           "2325",
           "07",
           "Carneiro"
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho LOTEP - PB, 12:45",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "9461",
+          "16",
+          "Leão"
+        ],
+        [
+          "2º",
+          "1332",
+          "08",
+          "Camelo"
+        ],
+        [
+          "3º",
+          "2409",
+          "03",
+          "Burro"
+        ],
+        [
+          "4º",
+          "3600",
+          "25",
+          "Vaca"
+        ],
+        [
+          "5º",
+          "4215",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "6º",
+          "9123",
+          "06",
+          "Cabra"
+        ],
+        [
+          "7º",
+          "4346",
+          "12",
+          "Elefante"
+        ],
+        [
+          "8º",
+          "6300",
+          "25",
+          "Vaca"
+        ],
+        [
+          "9º",
+          "1290",
+          "23",
+          "Urso"
+        ],
+        [
+          "10º",
+          "2076",
+          "19",
+          "Pavão"
         ]
       ]
     },
@@ -1298,6 +1369,59 @@ const resultado = {
     }
   ],
   "PT SP": [
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 12:00 - PTSP",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "1481",
+          "21",
+          "Touro"
+        ],
+        [
+          "2º",
+          "2172",
+          "18",
+          "Porco"
+        ],
+        [
+          "3º",
+          "6077",
+          "20",
+          "Peru"
+        ],
+        [
+          "4º",
+          "3042",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "5º",
+          "3233",
+          "09",
+          "Cobra"
+        ],
+        [
+          "6º · Soma6º prêmio, soma",
+          "6005",
+          "",
+          ""
+        ],
+        [
+          "7º · Mult.7º prêmio, multiplicação",
+          "216",
+          "",
+          ""
+        ]
+      ]
+    },
     {
       "titulo": "Resultado do Jogo do Bicho SP, 10hs - PTSP",
       "conteudo": [
