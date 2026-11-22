@@ -33,9 +33,23 @@ const palpites = {
       "6039"
     ],
     "frases": [
-      "10h - MALUCA - Resultado do dia 22/11/2026 (Domingo)\nDeu Dezena, Palpite 3337 no 8º Prêmio!",
-      "10h - MALUCA - Resultado do dia 22/11/2026 (Domingo)\nDeu Dezena, Palpite 3837 no 8º Prêmio!",
-      "10h - MALUCA - Resultado do dia 22/11/2026 (Domingo)\nDeu Dezena, Palpite 3037 no 8º Prêmio!"
+      "10h - MALUCA - Resultado do dia 22/11/2026 (Domingo)\nDeu Milhar, Palpite 9024 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 22/11/2026 (Domingo)\nDeu Dezena, Palpite 9524 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 22/11/2026 (Domingo)\nDeu Dezena, Palpite 9924 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 22/11/2026 (Domingo)\nDeu Dezena, Palpite 9069 no 3º Prêmio!",
+      "10h - MALUCA - Resultado do dia 22/11/2026 (Domingo)\nDeu Dezena, Palpite 9569 no 3º Prêmio!",
+      "10h - MALUCA - Resultado do dia 22/11/2026 (Domingo)\nDeu Dezena, Palpite 9969 no 3º Prêmio!",
+      "10h - MALUCA - Resultado do dia 22/11/2026 (Domingo)\nDeu Dezena, Palpite 9028 no 5º Prêmio!",
+      "10h - MALUCA - Resultado do dia 22/11/2026 (Domingo)\nDeu Dezena, Palpite 9528 no 5º Prêmio!",
+      "10h - MALUCA - Resultado do dia 22/11/2026 (Domingo)\nDeu Dezena, Palpite 9928 no 5º Prêmio!",
+      "10h - MALUCA - Resultado do dia 22/11/2026 (Domingo)\nDeu Dezena, Palpite 9034 no 6º Prêmio!",
+      "10h - MALUCA - Resultado do dia 22/11/2026 (Domingo)\nDeu Dezena, Palpite 9534 no 6º Prêmio!",
+      "10h - MALUCA - Resultado do dia 22/11/2026 (Domingo)\nDeu Dezena, Palpite 9934 no 6º Prêmio!",
+      "10h - MALUCA - Resultado do dia 22/11/2026 (Domingo)\nDeu Dezena, Palpite 6034 no 6º Prêmio!",
+      "10h - MALUCA - Resultado do dia 22/11/2026 (Domingo)\nDeu Centena, Palpite 9068 no 9º Prêmio!",
+      "10h - MALUCA - Resultado do dia 22/11/2026 (Domingo)\nDeu Dezena, Palpite 9068 no 9º Prêmio!",
+      "10h - MALUCA - Resultado do dia 22/11/2026 (Domingo)\nDeu Dezena, Palpite 9568 no 9º Prêmio!",
+      "10h - MALUCA - Resultado do dia 22/11/2026 (Domingo)\nDeu Dezena, Palpite 9968 no 9º Prêmio!"
     ]
   },
   "BAHIA": {
@@ -72,6 +86,14 @@ const palpites = {
       "0950"
     ],
     "frases": [
+      "10h - BA - Resultado do dia 22/11/2026 (Domingo)\nDeu Dezena, Palpite 3764 no 4º Prêmio!",
+      "10h - BA - Resultado do dia 22/11/2026 (Domingo)\nDeu Dezena, Palpite 3864 no 4º Prêmio!",
+      "10h - BA - Resultado do dia 22/11/2026 (Domingo)\nDeu Centena, Palpite 3964 no 4º Prêmio!",
+      "10h - BA - Resultado do dia 22/11/2026 (Domingo)\nDeu Dezena, Palpite 3964 no 4º Prêmio!",
+      "10h - BA - Resultado do dia 22/11/2026 (Domingo)\nDeu Dezena, Palpite 3771 no 7º Prêmio!",
+      "10h - BA - Resultado do dia 22/11/2026 (Domingo)\nDeu Dezena, Palpite 3871 no 7º Prêmio!",
+      "10h - BA - Resultado do dia 22/11/2026 (Domingo)\nDeu Centena, Palpite 3971 no 7º Prêmio!",
+      "10h - BA - Resultado do dia 22/11/2026 (Domingo)\nDeu Dezena, Palpite 3971 no 7º Prêmio!",
       "10h - BA - Resultado do dia 22/11/2026 (Domingo)\nDeu Dezena, Palpite 6959 no 1º Prêmio!",
       "10h - BA - Resultado do dia 22/11/2026 (Domingo)\nDeu Dezena, Palpite 6259 no 1º Prêmio!",
       "10h - BA - Resultado do dia 22/11/2026 (Domingo)\nDeu Dezena, Palpite 6359 no 1º Prêmio!",
