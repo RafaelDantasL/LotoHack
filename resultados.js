@@ -2446,7 +2446,7 @@ const resultado = {
   ],
   "PT SP": [
     {
-      "titulo": "Resultado do Jogo do Bicho SP, 20hs - PTN SP",
+      "titulo": "Resultado do Jogo do Bicho SP, 08hs - PTSP",
       "conteudo": [
         [
           "Prêmio",
@@ -2456,50 +2456,50 @@ const resultado = {
         ],
         [
           "1º",
-          "8464",
-          "16",
-          "Leão"
+          "3926",
+          "07",
+          "Carneiro"
         ],
         [
           "2º",
-          "6077",
-          "20",
-          "Peru"
+          "7892",
+          "23",
+          "Urso"
         ],
         [
           "3º",
-          "6495",
-          "24",
-          "Veado"
+          "1527",
+          "07",
+          "Carneiro"
         ],
         [
           "4º",
-          "3697",
-          "25",
-          "Vaca"
+          "9986",
+          "22",
+          "Tigre"
         ],
         [
           "5º",
-          "6280",
-          "20",
-          "Peru"
+          "6534",
+          "09",
+          "Cobra"
         ],
         [
           "6º · Soma6º prêmio, soma",
-          "1013",
+          "9865",
           "",
           ""
         ],
         [
           "7º · Mult.7º prêmio, multiplicação",
-          "435",
+          "983",
           "",
           ""
         ]
       ]
     },
     {
-      "titulo": "Resultado do Jogo do Bicho SP, 20hs - PTN SP",
+      "titulo": "Resultado do Jogo do Bicho SP, 08hs - PTSP",
       "conteudo": [
         [
           "Prêmio",
@@ -2509,650 +2509,33 @@ const resultado = {
         ],
         [
           "6º",
-          "8663",
-          "16",
-          "Leão"
+          "3719",
+          "05",
+          "Cachorro"
         ],
         [
           "7º",
-          "4046",
+          "9859",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "8º",
+          "2928",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "9º",
+          "6276",
+          "19",
+          "Pavão"
+        ],
+        [
+          "10º",
+          "2647",
           "12",
           "Elefante"
-        ],
-        [
-          "8º",
-          "6799",
-          "25",
-          "Vaca"
-        ],
-        [
-          "9º",
-          "4757",
-          "15",
-          "Jacaré"
-        ],
-        [
-          "10º",
-          "5278",
-          "20",
-          "Peru"
-        ]
-      ]
-    },
-    {
-      "titulo": "Resultado do Jogo do Bicho SP, 18hs - PTSP",
-      "conteudo": [
-        [
-          "Prêmio",
-          "Milhar",
-          "Grupo",
-          "Bicho"
-        ],
-        [
-          "1º",
-          "9136",
-          "09",
-          "Cobra"
-        ],
-        [
-          "2º",
-          "9576",
-          "19",
-          "Pavão"
-        ],
-        [
-          "3º",
-          "3511",
-          "03",
-          "Burro"
-        ],
-        [
-          "4º",
-          "3730",
-          "08",
-          "Camelo"
-        ],
-        [
-          "5º",
-          "8167",
-          "17",
-          "Macaco"
-        ],
-        [
-          "6º · Soma6º prêmio, soma",
-          "4120",
-          "",
-          ""
-        ],
-        [
-          "7º · Mult.7º prêmio, multiplicação",
-          "486",
-          "",
-          ""
-        ]
-      ]
-    },
-    {
-      "titulo": "Resultado do Jogo do Bicho SP, 18hs - PTSP",
-      "conteudo": [
-        [
-          "Prêmio",
-          "Milhar",
-          "Grupo",
-          "Bicho"
-        ],
-        [
-          "6º",
-          "9933",
-          "09",
-          "Cobra"
-        ],
-        [
-          "7º",
-          "1557",
-          "15",
-          "Jacaré"
-        ],
-        [
-          "8º",
-          "3713",
-          "04",
-          "Borboleta"
-        ],
-        [
-          "9º",
-          "6610",
-          "03",
-          "Burro"
-        ],
-        [
-          "10º",
-          "5933",
-          "09",
-          "Cobra"
-        ]
-      ]
-    },
-    {
-      "titulo": "Resultado do Jogo do Bicho SP, 17hs - PTSP",
-      "conteudo": [
-        [
-          "Prêmio",
-          "Milhar",
-          "Grupo",
-          "Bicho"
-        ],
-        [
-          "1º",
-          "2674",
-          "19",
-          "Pavão"
-        ],
-        [
-          "2º",
-          "5032",
-          "08",
-          "Camelo"
-        ],
-        [
-          "3º",
-          "6282",
-          "21",
-          "Touro"
-        ],
-        [
-          "4º",
-          "0819",
-          "05",
-          "Cachorro"
-        ],
-        [
-          "5º",
-          "7750",
-          "13",
-          "Galo"
-        ],
-        [
-          "6º · Soma6º prêmio, soma",
-          "2557",
-          "",
-          ""
-        ],
-        [
-          "7º · Mult.7º prêmio, multiplicação",
-          "455",
-          "",
-          ""
-        ]
-      ]
-    },
-    {
-      "titulo": "Resultado do Jogo do Bicho SP, 17hs - PTSP",
-      "conteudo": [
-        [
-          "Prêmio",
-          "Milhar",
-          "Grupo",
-          "Bicho"
-        ],
-        [
-          "6º",
-          "2560",
-          "15",
-          "Jacaré"
-        ],
-        [
-          "7º",
-          "6028",
-          "07",
-          "Carneiro"
-        ],
-        [
-          "8º",
-          "7381",
-          "21",
-          "Touro"
-        ],
-        [
-          "9º",
-          "4229",
-          "08",
-          "Camelo"
-        ],
-        [
-          "10º",
-          "2755",
-          "14",
-          "Gato"
-        ]
-      ]
-    },
-    {
-      "titulo": "Resultado do Jogo do Bicho SP, 13hs - PTSP",
-      "conteudo": [
-        [
-          "Prêmio",
-          "Milhar",
-          "Grupo",
-          "Bicho"
-        ],
-        [
-          "1º",
-          "5782",
-          "21",
-          "Touro"
-        ],
-        [
-          "2º",
-          "5884",
-          "21",
-          "Touro"
-        ],
-        [
-          "3º",
-          "1005",
-          "02",
-          "Águia"
-        ],
-        [
-          "4º",
-          "8826",
-          "07",
-          "Carneiro"
-        ],
-        [
-          "5º",
-          "6380",
-          "20",
-          "Peru"
-        ],
-        [
-          "6º · Soma6º prêmio, soma",
-          "7877",
-          "",
-          ""
-        ],
-        [
-          "7º · Mult.7º prêmio, multiplicação",
-          "021",
-          "",
-          ""
-        ]
-      ]
-    },
-    {
-      "titulo": "Resultado do Jogo do Bicho SP, 13hs - PTSP",
-      "conteudo": [
-        [
-          "Prêmio",
-          "Milhar",
-          "Grupo",
-          "Bicho"
-        ],
-        [
-          "6º",
-          "5518",
-          "05",
-          "Cachorro"
-        ],
-        [
-          "7º",
-          "7808",
-          "02",
-          "Águia"
-        ],
-        [
-          "8º",
-          "8802",
-          "01",
-          "Avestruz"
-        ],
-        [
-          "9º",
-          "2456",
-          "14",
-          "Gato"
-        ],
-        [
-          "10º",
-          "2461",
-          "16",
-          "Leão"
-        ]
-      ]
-    },
-    {
-      "titulo": "Resultado do Jogo do Bicho SP, 12:00 - PTSP",
-      "conteudo": [
-        [
-          "Prêmio",
-          "Milhar",
-          "Grupo",
-          "Bicho"
-        ],
-        [
-          "1º",
-          "1481",
-          "21",
-          "Touro"
-        ],
-        [
-          "2º",
-          "2172",
-          "18",
-          "Porco"
-        ],
-        [
-          "3º",
-          "6077",
-          "20",
-          "Peru"
-        ],
-        [
-          "4º",
-          "3042",
-          "11",
-          "Cavalo"
-        ],
-        [
-          "5º",
-          "3233",
-          "09",
-          "Cobra"
-        ],
-        [
-          "6º · Soma6º prêmio, soma",
-          "6005",
-          "",
-          ""
-        ],
-        [
-          "7º · Mult.7º prêmio, multiplicação",
-          "216",
-          "",
-          ""
-        ]
-      ]
-    },
-    {
-      "titulo": "Resultado do Jogo do Bicho SP, 10hs - PTSP",
-      "conteudo": [
-        [
-          "Prêmio",
-          "Milhar",
-          "Grupo",
-          "Bicho"
-        ],
-        [
-          "1º",
-          "0008",
-          "02",
-          "Águia"
-        ],
-        [
-          "2º",
-          "7182",
-          "21",
-          "Touro"
-        ],
-        [
-          "3º",
-          "6729",
-          "08",
-          "Camelo"
-        ],
-        [
-          "4º",
-          "6907",
-          "02",
-          "Águia"
-        ],
-        [
-          "5º",
-          "7973",
-          "19",
-          "Pavão"
-        ],
-        [
-          "6º · Soma6º prêmio, soma",
-          "8799",
-          "",
-          ""
-        ],
-        [
-          "7º · Mult.7º prêmio, multiplicação",
-          "057",
-          "",
-          ""
-        ]
-      ]
-    },
-    {
-      "titulo": "Resultado do Jogo do Bicho SP, 10hs - PTSP",
-      "conteudo": [
-        [
-          "Prêmio",
-          "Milhar",
-          "Grupo",
-          "Bicho"
-        ],
-        [
-          "6º",
-          "0766",
-          "17",
-          "Macaco"
-        ],
-        [
-          "7º",
-          "0179",
-          "20",
-          "Peru"
-        ],
-        [
-          "8º",
-          "0820",
-          "05",
-          "Cachorro"
-        ],
-        [
-          "9º",
-          "8297",
-          "25",
-          "Vaca"
-        ],
-        [
-          "10º",
-          "8861",
-          "16",
-          "Leão"
-        ]
-      ]
-    },
-    {
-      "titulo": "Resultado do Jogo do Bicho SP, 08hs - PTSP",
-      "conteudo": [
-        [
-          "Prêmio",
-          "Milhar",
-          "Grupo",
-          "Bicho"
-        ],
-        [
-          "1º",
-          "9055",
-          "14",
-          "Gato"
-        ],
-        [
-          "2º",
-          "1525",
-          "07",
-          "Carneiro"
-        ],
-        [
-          "3º",
-          "5189",
-          "23",
-          "Urso"
-        ],
-        [
-          "4º",
-          "4320",
-          "05",
-          "Cachorro"
-        ],
-        [
-          "5º",
-          "9979",
-          "20",
-          "Peru"
-        ],
-        [
-          "6º · Soma6º prêmio, soma",
-          "0068",
-          "",
-          ""
-        ],
-        [
-          "7º · Mult.7º prêmio, multiplicação",
-          "808",
-          "",
-          ""
-        ]
-      ]
-    },
-    {
-      "titulo": "Resultado do Jogo do Bicho SP, 08hs - PTSP",
-      "conteudo": [
-        [
-          "Prêmio",
-          "Milhar",
-          "Grupo",
-          "Bicho"
-        ],
-        [
-          "6º",
-          "9154",
-          "14",
-          "Gato"
-        ],
-        [
-          "7º",
-          "0513",
-          "04",
-          "Borboleta"
-        ],
-        [
-          "8º",
-          "5282",
-          "21",
-          "Touro"
-        ],
-        [
-          "9º",
-          "5590",
-          "23",
-          "Urso"
-        ],
-        [
-          "10º",
-          "0607",
-          "02",
-          "Águia"
-        ]
-      ]
-    },
-    {
-      "titulo": "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES",
-      "conteudo": [
-        [
-          "Prêmio",
-          "Milhar",
-          "Grupo",
-          "Bicho"
-        ],
-        [
-          "1º",
-          "1574",
-          "19",
-          "Pavão"
-        ],
-        [
-          "2º",
-          "4784",
-          "21",
-          "Touro"
-        ],
-        [
-          "3º",
-          "7350",
-          "13",
-          "Galo"
-        ],
-        [
-          "4º",
-          "6314",
-          "04",
-          "Borboleta"
-        ],
-        [
-          "5º",
-          "2349",
-          "13",
-          "Galo"
-        ],
-        [
-          "6º · Soma6º prêmio, soma",
-          "2371",
-          "",
-          ""
-        ],
-        [
-          "7º · Mult.7º prêmio, multiplicação",
-          "530",
-          "",
-          ""
-        ]
-      ]
-    },
-    {
-      "titulo": "Resultado do Jogo do Bicho SP, 15:30 - BANDEIRANTES",
-      "conteudo": [
-        [
-          "Prêmio",
-          "Milhar",
-          "Grupo",
-          "Bicho"
-        ],
-        [
-          "6º",
-          "1476",
-          "19",
-          "Pavão"
-        ],
-        [
-          "7º",
-          "5733",
-          "09",
-          "Cobra"
-        ],
-        [
-          "8º",
-          "7851",
-          "13",
-          "Galo"
-        ],
-        [
-          "9º",
-          "4404",
-          "01",
-          "Avestruz"
-        ],
-        [
-          "10º",
-          "1835",
-          "09",
-          "Cobra"
         ]
       ]
     }
