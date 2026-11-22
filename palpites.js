@@ -1,4 +1,87 @@
 const palpites = {
+  "BAHIA MALUCA": {
+    "palpites": [
+      "9034",
+      "9038",
+      "9039",
+      "9064",
+      "9068",
+      "9069",
+      "9024",
+      "9028",
+      "9029",
+      "9534",
+      "9538",
+      "9539",
+      "9564",
+      "9568",
+      "9569",
+      "9524",
+      "9528",
+      "9529",
+      "9934",
+      "9938",
+      "9939",
+      "9964",
+      "9968",
+      "9969",
+      "9924",
+      "9928",
+      "9929",
+      "6034",
+      "6038",
+      "6039"
+    ],
+    "frases": [
+      "10h - MALUCA - Resultado do dia 22/11/2026 (Domingo)\nDeu Dezena, Palpite 3337 no 8º Prêmio!",
+      "10h - MALUCA - Resultado do dia 22/11/2026 (Domingo)\nDeu Dezena, Palpite 3837 no 8º Prêmio!",
+      "10h - MALUCA - Resultado do dia 22/11/2026 (Domingo)\nDeu Dezena, Palpite 3037 no 8º Prêmio!"
+    ]
+  },
+  "PT SP": {
+    "palpites": [
+      "2219",
+      "2216",
+      "2217",
+      "2229",
+      "2226",
+      "2227",
+      "2249",
+      "2246",
+      "2247",
+      "2619",
+      "2616",
+      "2617",
+      "2629",
+      "2626",
+      "2627",
+      "2649",
+      "2646",
+      "2647",
+      "2719",
+      "2716",
+      "2717",
+      "2729",
+      "2726",
+      "2727",
+      "2749",
+      "2746",
+      "2747",
+      "3219",
+      "3216",
+      "3217"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 2219 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 2619 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Centena, Palpite 2719 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 2719 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 3219 no 1º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 2247 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Milhar, Palpite 2647 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 2747 no 5º Prêmio!"
+    ]
+  },
   "BAHIA": {
     "palpites": [
       "6954",
@@ -42,41 +125,6 @@ const palpites = {
       "10h - BA - Resultado do dia 22/11/2026 (Domingo)\nDeu Centena, Palpite 3971 no 7º Prêmio!",
       "10h - BA - Resultado do dia 22/11/2026 (Domingo)\nDeu Dezena, Palpite 3971 no 7º Prêmio!"
     ]
-  },
-  "BAHIA MALUCA": {
-    "palpites": [
-      "3317",
-      "3311",
-      "3313",
-      "3337",
-      "3331",
-      "3333",
-      "3397",
-      "3391",
-      "3393",
-      "3817",
-      "3811",
-      "3813",
-      "3837",
-      "3831",
-      "3833",
-      "3897",
-      "3891",
-      "3893",
-      "3017",
-      "3011",
-      "3013",
-      "3037",
-      "3031",
-      "3033",
-      "3097",
-      "3091",
-      "3093",
-      "2317",
-      "2311",
-      "2313"
-    ],
-    "frases": []
   },
   "LOTECE": {
     "palpites": [
@@ -233,49 +281,5 @@ const palpites = {
       "2084"
     ],
     "frases": []
-  },
-  "PT SP": {
-    "palpites": [
-      "2219",
-      "2216",
-      "2217",
-      "2229",
-      "2226",
-      "2227",
-      "2249",
-      "2246",
-      "2247",
-      "2619",
-      "2616",
-      "2617",
-      "2629",
-      "2626",
-      "2627",
-      "2649",
-      "2646",
-      "2647",
-      "2719",
-      "2716",
-      "2717",
-      "2729",
-      "2726",
-      "2727",
-      "2749",
-      "2746",
-      "2747",
-      "3219",
-      "3216",
-      "3217"
-    ],
-    "frases": [
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 2219 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 2619 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Centena, Palpite 2719 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 2719 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 3219 no 1º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 2247 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Milhar, Palpite 2647 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 2747 no 5º Prêmio!"
-    ]
   }
 };
