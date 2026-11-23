@@ -1,6 +1,77 @@
 const resultado = {
   "BAHIA MALUCA": [
     {
+      "titulo": "12h - MALUCA - BA - Resultado do dia 23/11/2026 (Segunda-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "2062",
+          "16",
+          "Leão"
+        ],
+        [
+          "2º",
+          "3382",
+          "21",
+          "Touro"
+        ],
+        [
+          "3º",
+          "0788",
+          "22",
+          "Tigre"
+        ],
+        [
+          "4º",
+          "8216",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "5º",
+          "5240",
+          "10",
+          "Coelho"
+        ],
+        [
+          "6º",
+          "0454",
+          "14",
+          "Gato"
+        ],
+        [
+          "7º",
+          "8488",
+          "22",
+          "Tigre"
+        ],
+        [
+          "8º",
+          "6206",
+          "02",
+          "Águia"
+        ],
+        [
+          "9º",
+          "6419",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "10º",
+          "0680",
+          "20",
+          "Peru"
+        ]
+      ]
+    },
+    {
       "titulo": "10h - MALUCA - Resultado do dia 23/11/2026 (Segunda-feira)",
       "conteudo": [
         [
@@ -73,6 +144,77 @@ const resultado = {
     }
   ],
   "BAHIA": [
+    {
+      "titulo": "12h - BA - Resultado do dia 23/11/2026 (Segunda-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "8032",
+          "08",
+          "Camelo"
+        ],
+        [
+          "2º",
+          "2730",
+          "08",
+          "Camelo"
+        ],
+        [
+          "3º",
+          "1886",
+          "22",
+          "Tigre"
+        ],
+        [
+          "4º",
+          "6822",
+          "06",
+          "Cabra"
+        ],
+        [
+          "5º",
+          "0425",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "6º",
+          "6680",
+          "20",
+          "Peru"
+        ],
+        [
+          "7º",
+          "4244",
+          "11",
+          "Cavalo"
+        ],
+        [
+          "8º",
+          "1085",
+          "22",
+          "Tigre"
+        ],
+        [
+          "9º",
+          "9684",
+          "21",
+          "Touro"
+        ],
+        [
+          "10º",
+          "0860",
+          "15",
+          "Jacaré"
+        ]
+      ]
+    },
     {
       "titulo": "10h - BA - Resultado do dia 23/11/2026 (Segunda-feira)",
       "conteudo": [
@@ -1085,6 +1227,59 @@ const resultado = {
     }
   ],
   "PT SP": [
+    {
+      "titulo": "Resultado do Jogo do Bicho SP, 12:00 - PTSP",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "5720",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "2º",
+          "0369",
+          "18",
+          "Porco"
+        ],
+        [
+          "3º",
+          "2310",
+          "03",
+          "Burro"
+        ],
+        [
+          "4º",
+          "3330",
+          "08",
+          "Camelo"
+        ],
+        [
+          "5º",
+          "8054",
+          "14",
+          "Gato"
+        ],
+        [
+          "6º · Soma6º prêmio, soma",
+          "9783",
+          "",
+          ""
+        ],
+        [
+          "7º · Mult.7º prêmio, multiplicação",
+          "110",
+          "",
+          ""
+        ]
+      ]
+    },
     {
       "titulo": "Resultado do Jogo do Bicho SP, 10hs - PTSP",
       "conteudo": [
