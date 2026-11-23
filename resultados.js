@@ -147,7 +147,7 @@ const resultado = {
   ],
   "LOTECE": [
     {
-      "titulo": "Resultado do Jogo do Bicho A FEDERAL DO BRASIL CE - Ceará Federal",
+      "titulo": "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)",
       "conteudo": [
         [
           "Prêmio",
@@ -157,45 +157,63 @@ const resultado = {
         ],
         [
           "1º",
-          "2071",
-          "18",
-          "Porco"
+          "1221",
+          "06",
+          "Cabra"
         ],
         [
           "2º",
-          "0739",
+          "3720",
+          "05",
+          "Cachorro"
+        ],
+        [
+          "3º",
+          "7037",
           "10",
           "Coelho"
         ],
         [
-          "3º",
-          "8497",
-          "25",
-          "Vaca"
-        ],
-        [
           "4º",
-          "7443",
-          "11",
-          "Cavalo"
+          "5930",
+          "08",
+          "Camelo"
         ],
         [
           "5º",
-          "5503",
-          "01",
-          "Avestruz"
+          "4686",
+          "22",
+          "Tigre"
         ],
         [
-          "6º · Soma6º prêmio, soma",
-          "4253",
-          "",
-          ""
+          "6º",
+          "4172",
+          "18",
+          "Porco"
         ],
         [
-          "7º · Mult.7º prêmio, multiplicação",
-          "050",
-          "",
-          ""
+          "7º",
+          "6340",
+          "10",
+          "Coelho"
+        ],
+        [
+          "8º",
+          "0587",
+          "22",
+          "Tigre"
+        ],
+        [
+          "9º",
+          "3388",
+          "22",
+          "Tigre"
+        ],
+        [
+          "10º",
+          "2978",
+          "20",
+          "Peru"
         ]
       ]
     }
