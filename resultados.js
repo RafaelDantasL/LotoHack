@@ -1,6 +1,77 @@
 const resultado = {
   "BAHIA MALUCA": [
     {
+      "titulo": "21h - MALUCA - BA - Resultado do dia 23/11/2026 (Segunda-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "8201",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "2º",
+          "3838",
+          "10",
+          "Coelho"
+        ],
+        [
+          "3º",
+          "9773",
+          "19",
+          "Pavão"
+        ],
+        [
+          "4º",
+          "7412",
+          "03",
+          "Burro"
+        ],
+        [
+          "5º",
+          "0816",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "6º",
+          "5526",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "7º",
+          "3884",
+          "21",
+          "Touro"
+        ],
+        [
+          "8º",
+          "0722",
+          "06",
+          "Cabra"
+        ],
+        [
+          "9º",
+          "3786",
+          "22",
+          "Tigre"
+        ],
+        [
+          "10º",
+          "3649",
+          "13",
+          "Galo"
+        ]
+      ]
+    },
+    {
       "titulo": "19h - MALUCA - BA - Resultado do dia 23/11/2026 (Segunda-feira)",
       "conteudo": [
         [
@@ -286,6 +357,77 @@ const resultado = {
     }
   ],
   "BAHIA": [
+    {
+      "titulo": "21h - BA - Resultado do dia 23/11/2026 (Segunda-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "7938",
+          "10",
+          "Coelho"
+        ],
+        [
+          "2º",
+          "4782",
+          "21",
+          "Touro"
+        ],
+        [
+          "3º",
+          "1730",
+          "08",
+          "Camelo"
+        ],
+        [
+          "4º",
+          "2381",
+          "21",
+          "Touro"
+        ],
+        [
+          "5º",
+          "6180",
+          "20",
+          "Peru"
+        ],
+        [
+          "6º",
+          "3035",
+          "09",
+          "Cobra"
+        ],
+        [
+          "7º",
+          "7785",
+          "22",
+          "Tigre"
+        ],
+        [
+          "8º",
+          "8282",
+          "21",
+          "Touro"
+        ],
+        [
+          "9º",
+          "6246",
+          "12",
+          "Elefante"
+        ],
+        [
+          "10º",
+          "9463",
+          "16",
+          "Leão"
+        ]
+      ]
+    },
     {
       "titulo": "19h - BA - Resultado do dia 23/11/2026 (Segunda-feira)",
       "conteudo": [
