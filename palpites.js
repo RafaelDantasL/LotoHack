@@ -89,6 +89,45 @@ const palpites = {
       "10h - BA - Resultado do dia 25/11/2026 (Quarta-feira)\nDeu Dezena, Palpite 2120 no 5º Prêmio!"
     ]
   },
+  "LOTECE": {
+    "palpites": [
+      "2056",
+      "2059",
+      "2051",
+      "2076",
+      "2079",
+      "2071",
+      "2036",
+      "2039",
+      "2031",
+      "2356",
+      "2359",
+      "2351",
+      "2376",
+      "2379",
+      "2371",
+      "2336",
+      "2339",
+      "2331",
+      "2556",
+      "2559",
+      "2551",
+      "2576",
+      "2579",
+      "2571",
+      "2536",
+      "2539",
+      "2531",
+      "3056",
+      "3059",
+      "3051"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 1354 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 1454 no 7º Prêmio!",
+      "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 1754 no 7º Prêmio!"
+    ]
+  },
   "LOOK/GOIAS": {
     "palpites": [
       "7033",
@@ -246,6 +285,9 @@ const palpites = {
       "2035"
     ],
     "frases": [
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0427 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Milhar, Palpite 0227 no 3º Prêmio!",
+      "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0627 no 3º Prêmio!",
       "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0035 no 1º Prêmio!",
       "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0135 no 1º Prêmio!",
       "Resultado do Jogo do Bicho SP, 08hs - PTSP\nDeu Dezena, Palpite 0235 no 1º Prêmio!",
