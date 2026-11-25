@@ -33,6 +33,9 @@ const palpites = {
       "6109"
     ],
     "frases": [
+      "10h - MALUCA - Resultado do dia 25/11/2026 (Quarta-feira)\nDeu Dezena, Palpite 3276 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 25/11/2026 (Quarta-feira)\nDeu Dezena, Palpite 3376 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 25/11/2026 (Quarta-feira)\nDeu Dezena, Palpite 3976 no 1º Prêmio!",
       "10h - MALUCA - Resultado do dia 25/11/2026 (Quarta-feira)\nDeu Centena, Palpite 3141 no 3º Prêmio!",
       "10h - MALUCA - Resultado do dia 25/11/2026 (Quarta-feira)\nDeu Dezena, Palpite 3141 no 3º Prêmio!",
       "10h - MALUCA - Resultado do dia 25/11/2026 (Quarta-feira)\nDeu Dezena, Palpite 3241 no 3º Prêmio!",
@@ -80,6 +83,21 @@ const palpites = {
       "4100"
     ],
     "frases": [
+      "10h - BA - Resultado do dia 25/11/2026 (Quarta-feira)\nDeu Centena, Palpite 8120 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 25/11/2026 (Quarta-feira)\nDeu Dezena, Palpite 8120 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 25/11/2026 (Quarta-feira)\nDeu Dezena, Palpite 8320 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 25/11/2026 (Quarta-feira)\nDeu Dezena, Palpite 8420 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 25/11/2026 (Quarta-feira)\nDeu Centena, Palpite 2120 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 25/11/2026 (Quarta-feira)\nDeu Dezena, Palpite 2120 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 25/11/2026 (Quarta-feira)\nDeu Centena, Palpite 8136 no 4º Prêmio!",
+      "10h - BA - Resultado do dia 25/11/2026 (Quarta-feira)\nDeu Dezena, Palpite 8136 no 4º Prêmio!",
+      "10h - BA - Resultado do dia 25/11/2026 (Quarta-feira)\nDeu Dezena, Palpite 8336 no 4º Prêmio!",
+      "10h - BA - Resultado do dia 25/11/2026 (Quarta-feira)\nDeu Dezena, Palpite 8436 no 4º Prêmio!",
+      "10h - BA - Resultado do dia 25/11/2026 (Quarta-feira)\nDeu Dezena, Palpite 8120 no 5º Prêmio!",
+      "10h - BA - Resultado do dia 25/11/2026 (Quarta-feira)\nDeu Centena, Palpite 8320 no 5º Prêmio!",
+      "10h - BA - Resultado do dia 25/11/2026 (Quarta-feira)\nDeu Dezena, Palpite 8320 no 5º Prêmio!",
+      "10h - BA - Resultado do dia 25/11/2026 (Quarta-feira)\nDeu Dezena, Palpite 8420 no 5º Prêmio!",
+      "10h - BA - Resultado do dia 25/11/2026 (Quarta-feira)\nDeu Dezena, Palpite 2120 no 5º Prêmio!",
       "10h - BA - Resultado do dia 25/11/2026 (Quarta-feira)\nDeu Milhar, Palpite 6193 no 1º Prêmio!",
       "10h - BA - Resultado do dia 25/11/2026 (Quarta-feira)\nDeu Dezena, Palpite 6393 no 1º Prêmio!",
       "10h - BA - Resultado do dia 25/11/2026 (Quarta-feira)\nDeu Dezena, Palpite 6293 no 1º Prêmio!",
