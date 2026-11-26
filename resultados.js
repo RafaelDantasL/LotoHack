@@ -1,6 +1,77 @@
 const resultado = {
   "BAHIA MALUCA": [
     {
+      "titulo": "21h - MALUCA - BA - Resultado do dia 25/11/2026 (Quarta-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "6635",
+          "09",
+          "Cobra"
+        ],
+        [
+          "2º",
+          "3100",
+          "25",
+          "Vaca"
+        ],
+        [
+          "3º",
+          "9297",
+          "25",
+          "Vaca"
+        ],
+        [
+          "4º",
+          "8125",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "5º",
+          "3675",
+          "19",
+          "Pavão"
+        ],
+        [
+          "6º",
+          "2168",
+          "17",
+          "Macaco"
+        ],
+        [
+          "7º",
+          "0259",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "8º",
+          "5457",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "9º",
+          "4129",
+          "08",
+          "Camelo"
+        ],
+        [
+          "10º",
+          "2834",
+          "09",
+          "Cobra"
+        ]
+      ]
+    },
+    {
       "titulo": "20h FEDERAL - MALUCA - BA - Resultado do dia 25/11/2026 (Quarta-feira)",
       "conteudo": [
         [
@@ -286,6 +357,77 @@ const resultado = {
     }
   ],
   "BAHIA": [
+    {
+      "titulo": "21h - BA - Resultado do dia 25/11/2026 (Quarta-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "8936",
+          "09",
+          "Cobra"
+        ],
+        [
+          "2º",
+          "1216",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "3º",
+          "2903",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "4º",
+          "5705",
+          "02",
+          "Águia"
+        ],
+        [
+          "5º",
+          "5763",
+          "16",
+          "Leão"
+        ],
+        [
+          "6º",
+          "4502",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "7º",
+          "1421",
+          "06",
+          "Cabra"
+        ],
+        [
+          "8º",
+          "2556",
+          "14",
+          "Gato"
+        ],
+        [
+          "9º",
+          "9798",
+          "25",
+          "Vaca"
+        ],
+        [
+          "10º",
+          "4382",
+          "21",
+          "Touro"
+        ]
+      ]
+    },
     {
       "titulo": "20h FEDERAL - BA - Resultado do dia 25/11/2026 (Quarta-feira)",
       "conteudo": [
@@ -1002,6 +1144,100 @@ const resultado = {
           "5086",
           "22",
           "Tigre"
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 21h",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "3526",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "2º",
+          "3434",
+          "09",
+          "Cobra"
+        ],
+        [
+          "3º",
+          "9505",
+          "02",
+          "Águia"
+        ],
+        [
+          "4º",
+          "6349",
+          "13",
+          "Galo"
+        ],
+        [
+          "5º",
+          "0705",
+          "02",
+          "Águia"
+        ],
+        [
+          "6º · Soma6º prêmio, soma",
+          "3519",
+          "",
+          ""
+        ],
+        [
+          "7º · Mult.7º prêmio, multiplicação",
+          "108",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "titulo": "Resultado do Jogo do Bicho LOOK - GOIÁS, 21h",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "6º",
+          "3396",
+          "24",
+          "Veado"
+        ],
+        [
+          "7º",
+          "5453",
+          "14",
+          "Gato"
+        ],
+        [
+          "8º",
+          "2304",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "9º",
+          "6459",
+          "15",
+          "Jacaré"
+        ],
+        [
+          "10º",
+          "1131",
+          "08",
+          "Camelo"
         ]
       ]
     },
