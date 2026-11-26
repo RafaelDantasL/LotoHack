@@ -164,53 +164,6 @@ const palpites = {
       "Resultado do Jogo do Bicho LOTECE - CE, 11:00 (manhã)\nDeu Dezena, Palpite 1795 no 10º Prêmio!"
     ]
   },
-  "PT RIO": {
-    "palpites": [
-      "4788",
-      "4783",
-      "4786",
-      "4708",
-      "4703",
-      "4706",
-      "4738",
-      "4733",
-      "4736",
-      "4488",
-      "4483",
-      "4486",
-      "4408",
-      "4403",
-      "4406",
-      "4438",
-      "4433",
-      "4436",
-      "4688",
-      "4683",
-      "4686",
-      "4608",
-      "4603",
-      "4606",
-      "4638",
-      "4633",
-      "4636",
-      "1788",
-      "1783",
-      "1786"
-    ],
-    "frases": [
-      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 4736 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 4436 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 4636 no 2º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 4783 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 4483 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Centena, Palpite 4683 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 4683 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 1783 no 4º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Milhar, Palpite 4708 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 4408 no 5º Prêmio!",
-      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 4608 no 5º Prêmio!"
-    ]
-  },
   "LOOK/GOIAS": {
     "palpites": [
       "0195",
@@ -393,6 +346,53 @@ const palpites = {
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 1168 no 9º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 1268 no 9º Prêmio!",
       "Resultado do Jogo do Bicho LOTEP - PB, 10:45\nDeu Dezena, Palpite 5068 no 9º Prêmio!"
+    ]
+  },
+  "PT RIO": {
+    "palpites": [
+      "4788",
+      "4783",
+      "4786",
+      "4708",
+      "4703",
+      "4706",
+      "4738",
+      "4733",
+      "4736",
+      "4488",
+      "4483",
+      "4486",
+      "4408",
+      "4403",
+      "4406",
+      "4438",
+      "4433",
+      "4436",
+      "4688",
+      "4683",
+      "4686",
+      "4608",
+      "4603",
+      "4606",
+      "4638",
+      "4633",
+      "4636",
+      "1788",
+      "1783",
+      "1786"
+    ],
+    "frases": [
+      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 4736 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 4436 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 4636 no 2º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 4783 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 4483 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Centena, Palpite 4683 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 4683 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 1783 no 4º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Milhar, Palpite 4708 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 4408 no 5º Prêmio!",
+      "Resultado do Jogo do Bicho RJ, 09:20, PT\nDeu Dezena, Palpite 4608 no 5º Prêmio!"
     ]
   },
   "PT SP": {
