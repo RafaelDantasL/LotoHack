@@ -1,6 +1,77 @@
 const resultado = {
   "BAHIA MALUCA": [
     {
+      "titulo": "21h - MALUCA - BA - Resultado do dia 26/11/2026 (Quinta-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "4778",
+          "20",
+          "Peru"
+        ],
+        [
+          "2º",
+          "3668",
+          "17",
+          "Macaco"
+        ],
+        [
+          "3º",
+          "2466",
+          "17",
+          "Macaco"
+        ],
+        [
+          "4º",
+          "4888",
+          "22",
+          "Tigre"
+        ],
+        [
+          "5º",
+          "5202",
+          "01",
+          "Avestruz"
+        ],
+        [
+          "6º",
+          "3814",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "7º",
+          "8455",
+          "14",
+          "Gato"
+        ],
+        [
+          "8º",
+          "7228",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "9º",
+          "8915",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "10º",
+          "7644",
+          "11",
+          "Cavalo"
+        ]
+      ]
+    },
+    {
       "titulo": "19h - MALUCA - BA - Resultado do dia 26/11/2026 (Quinta-feira)",
       "conteudo": [
         [
@@ -286,6 +357,77 @@ const resultado = {
     }
   ],
   "BAHIA": [
+    {
+      "titulo": "21h - BA - Resultado do dia 26/11/2026 (Quinta-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "4234",
+          "09",
+          "Cobra"
+        ],
+        [
+          "2º",
+          "8467",
+          "17",
+          "Macaco"
+        ],
+        [
+          "3º",
+          "8667",
+          "17",
+          "Macaco"
+        ],
+        [
+          "4º",
+          "8688",
+          "22",
+          "Tigre"
+        ],
+        [
+          "5º",
+          "2025",
+          "07",
+          "Carneiro"
+        ],
+        [
+          "6º",
+          "8783",
+          "21",
+          "Touro"
+        ],
+        [
+          "7º",
+          "9248",
+          "12",
+          "Elefante"
+        ],
+        [
+          "8º",
+          "1251",
+          "13",
+          "Galo"
+        ],
+        [
+          "9º",
+          "5854",
+          "14",
+          "Gato"
+        ],
+        [
+          "10º",
+          "4467",
+          "17",
+          "Macaco"
+        ]
+      ]
+    },
     {
       "titulo": "19h - BA - Resultado do dia 26/11/2026 (Quinta-feira)",
       "conteudo": [
