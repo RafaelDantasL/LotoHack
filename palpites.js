@@ -32,7 +32,25 @@ const palpites = {
       "9673",
       "9674"
     ],
-    "frases": []
+    "frases": [
+      "10h - MALUCA - Resultado do dia 28/11/2026 (Sábado)\nDeu Dezena, Palpite 8670 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 28/11/2026 (Sábado)\nDeu Dezena, Palpite 8070 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 28/11/2026 (Sábado)\nDeu Centena, Palpite 8370 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 28/11/2026 (Sábado)\nDeu Dezena, Palpite 8370 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 28/11/2026 (Sábado)\nDeu Dezena, Palpite 9670 no 1º Prêmio!",
+      "10h - MALUCA - Resultado do dia 28/11/2026 (Sábado)\nDeu Dezena, Palpite 8613 no 2º Prêmio!",
+      "10h - MALUCA - Resultado do dia 28/11/2026 (Sábado)\nDeu Dezena, Palpite 8013 no 2º Prêmio!",
+      "10h - MALUCA - Resultado do dia 28/11/2026 (Sábado)\nDeu Dezena, Palpite 8313 no 2º Prêmio!",
+      "10h - MALUCA - Resultado do dia 28/11/2026 (Sábado)\nDeu Milhar, Palpite 8693 no 7º Prêmio!",
+      "10h - MALUCA - Resultado do dia 28/11/2026 (Sábado)\nDeu Dezena, Palpite 8093 no 7º Prêmio!",
+      "10h - MALUCA - Resultado do dia 28/11/2026 (Sábado)\nDeu Dezena, Palpite 8393 no 7º Prêmio!",
+      "10h - MALUCA - Resultado do dia 28/11/2026 (Sábado)\nDeu Dezena, Palpite 8694 no 8º Prêmio!",
+      "10h - MALUCA - Resultado do dia 28/11/2026 (Sábado)\nDeu Dezena, Palpite 8094 no 8º Prêmio!",
+      "10h - MALUCA - Resultado do dia 28/11/2026 (Sábado)\nDeu Dezena, Palpite 8394 no 8º Prêmio!",
+      "10h - MALUCA - Resultado do dia 28/11/2026 (Sábado)\nDeu Dezena, Palpite 8610 no 10º Prêmio!",
+      "10h - MALUCA - Resultado do dia 28/11/2026 (Sábado)\nDeu Dezena, Palpite 8010 no 10º Prêmio!",
+      "10h - MALUCA - Resultado do dia 28/11/2026 (Sábado)\nDeu Dezena, Palpite 8310 no 10º Prêmio!"
+    ]
   },
   "BAHIA": {
     "palpites": [
@@ -67,7 +85,19 @@ const palpites = {
       "0038",
       "0030"
     ],
-    "frases": []
+    "frases": [
+      "10h - BA - Resultado do dia 28/11/2026 (Sábado)\nDeu Centena, Palpite 7043 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 28/11/2026 (Sábado)\nDeu Dezena, Palpite 7043 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 28/11/2026 (Sábado)\nDeu Dezena, Palpite 7143 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 28/11/2026 (Sábado)\nDeu Dezena, Palpite 7243 no 2º Prêmio!",
+      "10h - BA - Resultado do dia 28/11/2026 (Sábado)\nDeu Dezena, Palpite 7030 no 4º Prêmio!",
+      "10h - BA - Resultado do dia 28/11/2026 (Sábado)\nDeu Dezena, Palpite 7130 no 4º Prêmio!",
+      "10h - BA - Resultado do dia 28/11/2026 (Sábado)\nDeu Dezena, Palpite 7230 no 4º Prêmio!",
+      "10h - BA - Resultado do dia 28/11/2026 (Sábado)\nDeu Dezena, Palpite 0030 no 4º Prêmio!",
+      "10h - BA - Resultado do dia 28/11/2026 (Sábado)\nDeu Dezena, Palpite 7063 no 7º Prêmio!",
+      "10h - BA - Resultado do dia 28/11/2026 (Sábado)\nDeu Dezena, Palpite 7163 no 7º Prêmio!",
+      "10h - BA - Resultado do dia 28/11/2026 (Sábado)\nDeu Dezena, Palpite 7263 no 7º Prêmio!"
+    ]
   },
   "LOTECE": {
     "palpites": [
