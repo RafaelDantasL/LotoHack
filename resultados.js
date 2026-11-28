@@ -287,6 +287,77 @@ const resultado = {
   ],
   "BAHIA": [
     {
+      "titulo": "21h - BA - Resultado do dia 27/11/2026 (Sexta-feira)",
+      "conteudo": [
+        [
+          "Prêmio",
+          "Milhar",
+          "Grupo",
+          "Bicho"
+        ],
+        [
+          "1º",
+          "7833",
+          "09",
+          "Cobra"
+        ],
+        [
+          "2º",
+          "5439",
+          "10",
+          "Coelho"
+        ],
+        [
+          "3º",
+          "4096",
+          "24",
+          "Veado"
+        ],
+        [
+          "4º",
+          "0715",
+          "04",
+          "Borboleta"
+        ],
+        [
+          "5º",
+          "3371",
+          "18",
+          "Porco"
+        ],
+        [
+          "6º",
+          "7279",
+          "20",
+          "Peru"
+        ],
+        [
+          "7º",
+          "4591",
+          "23",
+          "Urso"
+        ],
+        [
+          "8º",
+          "0929",
+          "08",
+          "Camelo"
+        ],
+        [
+          "9º",
+          "3474",
+          "19",
+          "Pavão"
+        ],
+        [
+          "10º",
+          "2402",
+          "01",
+          "Avestruz"
+        ]
+      ]
+    },
+    {
       "titulo": "19h - BA - Resultado do dia 27/11/2026 (Sexta-feira)",
       "conteudo": [
         [
